@@ -4,20 +4,20 @@
 
 ---
 
-## 🚀 Essayez l’application
+## Essayez l’application
 
 🟢 Application déployée ici :  
 👉 **[DramaPang sur Streamlit →](https://dramapang.streamlit.app/)**  
 
 ---
 
-## 🎯 Objectif du projet
+## Objectif du projet
 
 **DramaPang** est un outil interactif pour explorer des graphes de personnages extraits de pièces de théâtre françaises (corpus DraCor), et les **classifier automatiquement** en comédies ou tragédies.  Le cœur du projet repose sur un pipeline basé **sur les motifs discriminants de graphe**. 
 
 ---
 
-## 🔧 Pipeline général
+## Pipeline général
 
 Voici les grandes étapes du processus, du traitement des données à la prédiction du genre :
 
@@ -54,7 +54,7 @@ Voici les grandes étapes du processus, du traitement des données à la prédic
 
 ---
 
-## 🧠 Fonctionnalités clés
+## Fonctionnalités clés
 
 - 🔍 Visualisez chaque graphe de personnages avec couleurs et légendes
 - 🧠 Testez différents scores de qualité pour les motifs
@@ -84,7 +84,7 @@ Voici les grandes étapes du processus, du traitement des données à la prédic
 
 ---
 
-## 🛠️ Stack technique
+## Stack technique
 
 - Python : `pandas`, `networkx`, `scikit-learn`, `matplotlib`, `plotly`
 - Application : `Streamlit`
