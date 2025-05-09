@@ -107,5 +107,5 @@ def pang_classify_with_selection(X_full, labels, scores, top_k=100, cv=5):
         Indices des motifs sélectionnés
     """
     X_k, selected_indices = select_top_k_columns(X_full, scores, top_k)
-    mean_f1, _ = evaluate_classifier(X_k, labels, cv=cv)
-    return mean_f1, selected_indices
+    mean_f1, _ , df_preds = evaluate_classifier(X_k, labels, cv=cv)
+    return mean_f1, selected_indices, df_preds

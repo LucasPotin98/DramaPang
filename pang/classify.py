@@ -2,8 +2,9 @@ import numpy as np
 from sklearn.svm import LinearSVC
 from sklearn.model_selection import StratifiedKFold
 from sklearn.metrics import f1_score
+import pandas as pd
 
-def evaluate_classifier(X, y, cv=5, random_state=42):
+def evaluate_classifier(X, y, cv=5, random_state=42, return_predictions=True):
     """
     Évalue un classifieur SVM linéaire via validation croisée.
 
@@ -27,8 +28,9 @@ def evaluate_classifier(X, y, cv=5, random_state=42):
     """
     skf = StratifiedKFold(n_splits=cv, shuffle=True, random_state=random_state)
     f1_scores = []
+    all_preds = []
 
-    for train_idx, test_idx in skf.split(X, y):
+    for i, (train_idx, test_idx) in enumerate(skf.split(X, y)):
         X_train, X_test = X[train_idx], X[test_idx]
         y_train, y_test = np.array(y)[train_idx], np.array(y)[test_idx]
 
@@ -38,5 +40,16 @@ def evaluate_classifier(X, y, cv=5, random_state=42):
 
         score = f1_score(y_test, y_pred)
         f1_scores.append(score)
+        if return_predictions:
+            for yt, yp in zip(y_test, y_pred):
+                all_preds.append({
+                    "fold": i + 1,
+                    "y_true": yt,
+                    "y_pred": yp
+                })
 
-    return np.mean(f1_scores), f1_scores
+    if return_predictions:
+        df_preds = pd.DataFrame(all_preds)
+        return np.mean(f1_scores), f1_scores, df_preds
+    else:
+        return np.mean(f1_scores), f1_scores

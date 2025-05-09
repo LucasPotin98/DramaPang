@@ -3,6 +3,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 from app.visualization import plot_pattern
+from sklearn.metrics import classification_report, confusion_matrix, ConfusionMatrixDisplay
+import pandas as pd
 
 from pang.pang import (
     pang_load_and_represent,
@@ -89,22 +91,31 @@ else:
 # === Classification ===
 if st.button("Lancer la classification"):
     st.markdown("🧠 Entraînement du modèle SVM en validation croisée...")
-    f1, selected = pang_classify_with_selection(X_full, labels, scores, top_k=top_k, cv=5)
+    f1, selected, df_preds = pang_classify_with_selection(X_full, labels, scores, top_k=top_k, cv=5)
     
     st.success(f"🎯 F1-score moyen (CV = 5) : **{f1:.3f}**")
     st.markdown(f"Nombre de motifs utilisés : **{len(selected)}**")
 
-    # Matrice de confusion
-    from pang.classify import evaluate_with_predictions
-    from sklearn.metrics import ConfusionMatrixDisplay
+    df_eval = df_preds
 
-    from pang.vectorize import build_topk_representation
-    X_k, _ = build_topk_representation(X_full, scores, top_k)
-    _, y_true, y_pred = evaluate_with_predictions(X_k, labels)
+    # === Colonnes pour l’affichage
+    col1, col2 = st.columns(2)
 
-    st.subheader("🔢 Matrice de confusion")
-    fig_cm, ax_cm = plt.subplots()
-    cm = confusion_matrix(y_true, y_pred)
-    disp = ConfusionMatrixDisplay(cm, display_labels=["Tragédie", "Comédie"])
-    disp.plot(ax=ax_cm)
-    st.pyplot(fig_cm)
+    with col1:
+        st.markdown("#### 📋 Statistiques par classe")
+        report = classification_report(
+            df_eval["y_true"],
+            df_eval["y_pred"],
+            target_names=["Tragédie", "Comédie"],
+            output_dict=True
+        )
+        df_report = pd.DataFrame(report).transpose()
+        st.dataframe(df_report.style.format(precision=2))
+
+    with col2:
+        st.markdown("#### 🔢 Matrice de confusion")
+        cm = confusion_matrix(df_eval["y_true"], df_eval["y_pred"])
+        fig_cm, ax_cm = plt.subplots()
+        disp = ConfusionMatrixDisplay(cm, display_labels=["Tragédie", "Comédie"])
+        disp.plot(ax=ax_cm)
+        st.pyplot(fig_cm)
