@@ -19,14 +19,18 @@ st.markdown("### 🎯 Prédiction")
 representation = X_full[index]
 prediction = model.predict([representation])
 
+prediction_text = "Comédie" if prediction[0] == 1 else "Tragédie"
+
 st.markdown(
-    """
+    f"""
     <div style='background-color:rgba(0, 0, 0, 0); padding: 1rem; border-radius: 8px; text-align: center;'>
         <h3 style='margin-bottom: 0.5rem;'>Le modèle prédit :</h3>
-        <p style='font-size: 1.5rem; font-weight: bold;'>🎭 Comédie</p>
+        <p style='font-size: 1.5rem; font-weight: bold;'>🎭 {prediction_text}</p>
     </div>
-    """, unsafe_allow_html=True
+    """,
+    unsafe_allow_html=True
 )
+
 
 
 # === Affichage de l'arbre de décision ===

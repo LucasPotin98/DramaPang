@@ -21,25 +21,40 @@ Bienvenue sur **DramaPang**, une application interactive pour explorer les rése
 
 ---
 
-### 🧠 Objectif
+### Objectif
 Ce projet utilise des graphes extraits de pièces issues de [DraCor](https://dracor.org/) pour prédire leur genre à partir des interactions entre personnages.
 
-La classification est effectuée avec le framework **PANG** (*Pattern-based Anomaly detection in Graphs*), un outil fondé sur l'extraction et la sélection de motifs discriminants.
+La classification est effectuée avec le framework [PANG](https://github.com/CompNet/Pang) (*Pattern-based Anomaly detection in Graphs*), un outil fondé sur l'extraction et la sélection de motifs discriminants.
 
 ---
 
-### 📦 Données
-- **400 graphes** issus de pièces françaises : 200 comédies, 200 tragédies
-- Nœuds = personnages (avec genre)
-- Arêtes = co-présence dans un ou plusieurs actes
+### Données
+
+Le dataset est composé de **400 graphes**, chacun représentant une pièce de théâtre française :
+
+- **200 comédies** (label `0`)
+- **200 tragédies** (label `1`)
+
+Chaque graphe est construit à partir des interactions entre personnages :
+
+- **Nœuds** : personnages
+  - Label lié au `genre` :
+    - `MALE` → représenté en bleu
+    - `FEMALE` → représentée en rose
+    - `UNKNOWN` → représenté(e) en gris
+
+- **Arêtes** : co-présence de deux personnages dans un ou plusieurs actes
+  - Pondération discrétisée en trois niveaux :
+    - 1 seule co-présence → représentée en noir
+    - 2 à 5 co-présences → représentées en gris
+    - plus de 5 co-présences → représentées en rouge
 
 ---
 
-### 📂 Navigation
+### Navigation
 Utilisez les pages sur la gauche pour :
 - explorer les données et les graphes ;
 - consulter les résultats de classification ;
-- visualiser les motifs les plus discriminants ;
 - analyser une pièce spécifique.
 
 ---

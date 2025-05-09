@@ -4,13 +4,13 @@ import networkx as nx
 import matplotlib.pyplot as plt
 from app.visualization import plot_character_graph
 
-st.header("📂 Dataset : pièces et graphes")
+st.header("Dataset : pièces et graphes")
 
 # === Chargement des données ===
 X_full, Graphes, Patterns, labels, titles, noms, model = st.session_state.dracor_data
 
 # === Statistiques globales ===
-st.subheader("📊 Statistiques générales")
+st.subheader("Statistiques générales")
 n_graphs = len(Graphes)
 n_comedies = sum(1 for l in labels if l == 1)
 n_tragedies = sum(1 for l in labels if l == 0)
