@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+oreste,Undirected,pylade,3
+oreste,Undirected,clytemnestre,2
+oreste,Undirected,cassandre,2
+oreste,Undirected,agamemnon,3
+oreste,Undirected,ismene,1
+oreste,Undirected,eurybate,1
+clytemnestre,Undirected,doride,4
+clytemnestre,Undirected,eurybate,1
+clytemnestre,Undirected,agamemnon,2
+clytemnestre,Undirected,cassandre,1
+eurybate,Undirected,agamemnon,6
+cassandre,Undirected,ismene,4
+cassandre,Undirected,agamemnon,2
+agamemnon,Undirected,arbas,2

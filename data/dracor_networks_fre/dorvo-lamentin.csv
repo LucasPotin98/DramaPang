@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+l-hotesse,Undirected,philon,2
+l-hotesse,Undirected,ferdinand,4
+l-hotesse,Undirected,jolival,5
+l-hotesse,Undirected,lamentin,2
+l-hotesse,Undirected,isaure,1
+philon,Undirected,jolival,3
+philon,Undirected,lamentin,3
+philon,Undirected,ferdinand,1
+philon,Undirected,isaure,1
+ferdinand,Undirected,jolival,4
+ferdinand,Undirected,lamentin,2
+ferdinand,Undirected,isaure,3
+jolival,Undirected,lamentin,3
+jolival,Undirected,isaure,1
+lamentin,Undirected,isaure,2

@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+le-procureur,Undirected,le-marquis,2
+le-procureur,Undirected,l-huissier,2
+le-procureur,Undirected,l-abbe,1
+le-procureur,Undirected,des-las-casas,1
+le-marquis,Undirected,des-las-casas,1
+l-huissier,Undirected,des-las-casas,1
+l-abbe,Undirected,le-geolier,1
+l-abbe,Undirected,des-las-casas,2
+l-abbe,Undirected,l-avocat,1
+le-geolier,Undirected,des-las-casas,1
+des-las-casas,Undirected,l-avocat,1
+des-las-casas,Undirected,l-officier,2

@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+orgon,Undirected,le-marquis,8
+orgon,Undirected,ariste,11
+orgon,Undirected,julie,4
+orgon,Undirected,lisette,6
+le-marquis,Undirected,ariste,7
+le-marquis,Undirected,julie,5
+le-marquis,Undirected,lisette,4
+ariste,Undirected,julie,8
+ariste,Undirected,lisette,7
+julie,Undirected,lisette,5

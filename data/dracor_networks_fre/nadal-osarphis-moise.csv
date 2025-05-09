@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+amenophis,Undirected,phanes,5
+amenophis,Undirected,tharbis,2
+amenophis,Undirected,osarphis,2
+phanes,Undirected,jocabel,1
+phanes,Undirected,osarphis,2
+phanes,Undirected,tharbis,1
+jocabel,Undirected,iseride,2
+jocabel,Undirected,aaron,4
+jocabel,Undirected,osarphis,6
+iseride,Undirected,osarphis,1
+aaron,Undirected,osarphis,3
+osarphis,Undirected,tharbis,4
+osarphis,Undirected,asaph,6
+tharbis,Undirected,ismene,1

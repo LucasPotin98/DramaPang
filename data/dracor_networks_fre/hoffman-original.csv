@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+damis,Undirected,linval,6
+damis,Undirected,celimene,5
+linval,Undirected,celimene,3

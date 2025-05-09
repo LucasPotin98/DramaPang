@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+le-narrateur,Undirected,villeronde,1
+le-narrateur,Undirected,monsieur-le-president,1
+le-narrateur,Undirected,louesloup,1
+villeronde,Undirected,monsieur-le-president,1
+villeronde,Undirected,louesloup,1
+monsieur-le-president,Undirected,louesloup,1

@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+arlequin,Undirected,dahi,1
+arlequin,Undirected,boubekir,1
+arlequin,Undirected,le-prince,2
+arlequin,Undirected,la-princesse,3
+arlequin,Undirected,la-suivante,3
+arlequin,Undirected,le-roi,2
+arlequin,Undirected,le-kam,1
+le-prince,Undirected,le-roi,1
+le-prince,Undirected,la-suivante,1
+le-prince,Undirected,la-princesse,1
+la-suivante,Undirected,la-princesse,4
+la-suivante,Undirected,le-roi,3
+la-suivante,Undirected,le-kam,1
+la-princesse,Undirected,le-roi,2
+la-princesse,Undirected,le-kam,1
+le-roi,Undirected,le-kam,1

@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+alison,Undirected,suson,5
+alison,Undirected,mathurin,3
+alison,Undirected,colin,3
+alison,Undirected,ensemble,1
+mathurin,Undirected,colin,4
+mathurin,Undirected,suson,3
+mathurin,Undirected,ensemble,1
+colin,Undirected,suson,4
+colin,Undirected,ensemble,2
+suson,Undirected,ensemble,1

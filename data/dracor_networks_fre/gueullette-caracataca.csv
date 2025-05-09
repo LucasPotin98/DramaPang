@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+le-maitre,Undirected,gilles,2
+le-maitre,Undirected,divertissant,1
+le-maitre,Undirected,sans-quartier,2
+gilles,Undirected,divertissant,2
+gilles,Undirected,sans-quartier,6
+gilles,Undirected,gillette,4
+gilles,Undirected,le-magicien,1
+gilles,Undirected,monsieur-cornibus,1
+divertissant,Undirected,sans-quartier,2
+sans-quartier,Undirected,gillette,5
+gillette,Undirected,monsieur-suc,1

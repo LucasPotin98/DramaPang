@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+mademoiselle-salle,Undirected,monsieur-salle,1
+mademoiselle-salle,Undirected,le-druide,1
+mademoiselle-salle,Undirected,monsieur-poisson,1
+monsieur-salle,Undirected,le-druide,1
+monsieur-salle,Undirected,monsieur-poisson,1
+le-druide,Undirected,monsieur-poisson,1

@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+darius,Undirected,oronte,1
+darius,Undirected,tiribaze,3
+darius,Undirected,nitocris,1
+darius,Undirected,le-roi,5
+darius,Undirected,aspasie,4
+oronte,Undirected,le-roi,1
+oronte,Undirected,aspasie,1
+tiribaze,Undirected,nitocris,5
+tiribaze,Undirected,le-roi,2
+nitocris,Undirected,cleone,2
+nitocris,Undirected,aspasie,1
+barsine,Undirected,aspasie,2
+aspasie,Undirected,le-roi,5
+le-roi,Undirected,mindate,2

@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+madame-dorsan,Undirected,lisette,2
+madame-dorsan,Undirected,derville,2
+madame-dorsan,Undirected,sophie,5
+madame-dorsan,Undirected,dorsan,1
+madame-dorsan,Undirected,le-laquais,1
+lisette,Undirected,dubois,1
+lisette,Undirected,derville,1
+lisette,Undirected,sophie,3
+derville,Undirected,sophie,3
+sophie,Undirected,dorsan,1

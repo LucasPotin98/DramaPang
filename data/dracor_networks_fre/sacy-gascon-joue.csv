@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+madame-seringuet,Undirected,monsieur-seringuet,3
+madame-seringuet,Undirected,forfantas,4
+madame-seringuet,Undirected,l-abbe,1
+monsieur-seringuet,Undirected,forfantas,2
+forfantas,Undirected,la-dame,1
+forfantas,Undirected,l-abbe,1

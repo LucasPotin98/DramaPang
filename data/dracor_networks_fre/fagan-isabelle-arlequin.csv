@@ -1,0 +1,8 @@
+Source,Type,Target,Weight
+isabelle,Undirected,agathe,1
+eraste,Undirected,pierrot,2
+eraste,Undirected,olivette,1
+eraste,Undirected,arlequin,1
+eraste,Undirected,eleonore,1
+pierrot,Undirected,arlequin,1
+olivette,Undirected,arlequin,1

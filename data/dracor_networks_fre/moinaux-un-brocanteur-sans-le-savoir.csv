@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+narrateur,Undirected,monsieur-le-president,1
+narrateur,Undirected,garancier,1
+monsieur-le-president,Undirected,garancier,1

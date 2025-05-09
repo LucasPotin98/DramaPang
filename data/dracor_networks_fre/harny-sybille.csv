@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+azor,Undirected,francoeur,2
+azor,Undirected,euphrosine,3
+azor,Undirected,la-sybille,2
+francoeur,Undirected,la-sybille,2
+francoeur,Undirected,euphrosine,1
+francoeur,Undirected,le-choeur,1
+euphrosine,Undirected,la-sybille,2
+euphrosine,Undirected,le-choeur,1
+la-sybille,Undirected,le-choeur,2

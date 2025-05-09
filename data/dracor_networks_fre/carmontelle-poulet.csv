@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+monsieur-d-orville,Undirected,la-brie,3
+monsieur-d-orville,Undirected,comtois,3
+monsieur-d-orville,Undirected,monsieur-fremont,1
+la-brie,Undirected,comtois,3
+la-brie,Undirected,monsieur-fremont,1
+comtois,Undirected,monsieur-fremont,1

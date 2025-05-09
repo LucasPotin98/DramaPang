@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+ikaël,Undirected,henriette,5
+ikaël,Undirected,madame-de-gercourt,3
+ikaël,Undirected,le-comte,2
+ikaël,Undirected,monsieur-de-gercourt,1
+henriette,Undirected,madame-de-gercourt,4
+henriette,Undirected,le-comte,3
+henriette,Undirected,monsieur-de-gercourt,2
+madame-de-gercourt,Undirected,dumont,1
+madame-de-gercourt,Undirected,le-comte,5
+madame-de-gercourt,Undirected,monsieur-de-gercourt,1
+dumont,Undirected,le-comte,1
+monsieur-de-gercourt,Undirected,champagne,1
+monsieur-de-gercourt,Undirected,monsieur-de-mirevault,1
+champagne,Undirected,monsieur-de-mirevault,1

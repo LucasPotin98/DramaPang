@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+claire,Undirected,le-comte,3
+claire,Undirected,helena,6
+claire,Undirected,durand,3
+claire,Undirected,leon,4
+claire,Undirected,le-magistrat,1
+le-comte,Undirected,helena,2
+le-comte,Undirected,leon,1
+le-comte,Undirected,durand,1
+helena,Undirected,leon,3
+helena,Undirected,le-magistrat,1
+helena,Undirected,durand,2
+durand,Undirected,leon,1
+leon,Undirected,le-magistrat,1

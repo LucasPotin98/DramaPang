@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+alphonse,Undirected,fernand,7
+alphonse,Undirected,le-roi,8
+alphonse,Undirected,clarice,6
+alphonse,Undirected,la-reine,4
+alphonse,Undirected,haly,7
+fernand,Undirected,clarice,2
+fernand,Undirected,le-roi,1
+le-roi,Undirected,clarice,2
+le-roi,Undirected,la-reine,4
+le-roi,Undirected,haly,6
+clarice,Undirected,haly,4
+clarice,Undirected,la-reine,2
+haly,Undirected,la-reine,3
+haly,Undirected,selim,1

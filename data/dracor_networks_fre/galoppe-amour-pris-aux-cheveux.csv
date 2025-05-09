@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+le-coiffeur,Undirected,le-fourni,1
+le-coiffeur,Undirected,le-chauve,1
+le-coiffeur,Undirected,le-president,1
+le-coiffeur,Undirected,le-valet,1
+le-fourni,Undirected,le-chauve,1
+le-fourni,Undirected,le-president,1
+le-fourni,Undirected,le-valet,1
+le-chauve,Undirected,le-president,1
+le-chauve,Undirected,le-valet,1
+le-president,Undirected,le-valet,1

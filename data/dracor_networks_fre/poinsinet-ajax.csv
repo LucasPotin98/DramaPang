@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+memnon,Undirected,hippodamas,1
+memnon,Undirected,penthesilee,1
+memnon,Undirected,antenor,1
+hersile,Undirected,penthesilee,4
+hersile,Undirected,antenor,1
+penthesilee,Undirected,ajax,3
+penthesilee,Undirected,antenor,3
+penthesilee,Undirected,agamemnon,1
+penthesilee,Undirected,arcas,1
+ajax,Undirected,arcas,4
+ajax,Undirected,agamemnon,2
+ajax,Undirected,ulysse,2
+ulysse,Undirected,agamemnon,3
+ulysse,Undirected,antenor,1
+agamemnon,Undirected,antenor,1
+agamemnon,Undirected,eurybate,2

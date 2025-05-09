@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+la-marquise,Undirected,monsieur-sevin,3
+la-marquise,Undirected,julie,4
+la-marquise,Undirected,miss-jackson,3
+la-marquise,Undirected,le-colonel,1
+monsieur-sevin,Undirected,julie,2
+monsieur-sevin,Undirected,miss-jackson,4
+monsieur-sevin,Undirected,le-colonel,1
+julie,Undirected,miss-jackson,6
+julie,Undirected,le-colonel,4
+miss-jackson,Undirected,le-colonel,3

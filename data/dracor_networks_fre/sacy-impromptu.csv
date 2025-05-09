@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+la-comtesse,Undirected,la-baronne,3
+la-comtesse,Undirected,le-marquis,5
+la-baronne,Undirected,le-marquis,5
+le-marquis,Undirected,champagne,1
+le-marquis,Undirected,damon,2

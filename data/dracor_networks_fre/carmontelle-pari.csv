@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+monsieur-duval,Undirected,madame-moka,3
+monsieur-duval,Undirected,le-garçon,4
+monsieur-duval,Undirected,monsieur-delalande,4
+monsieur-duval,Undirected,monsieur-depressins,2
+monsieur-duval,Undirected,monsieur-delamare,1
+madame-moka,Undirected,le-garçon,3
+madame-moka,Undirected,monsieur-depressins,2
+madame-moka,Undirected,monsieur-delalande,2
+le-garçon,Undirected,monsieur-depressins,2
+le-garçon,Undirected,monsieur-delalande,3
+le-garçon,Undirected,monsieur-delamare,1
+monsieur-delalande,Undirected,monsieur-depressins,2
+monsieur-delalande,Undirected,monsieur-delamare,1

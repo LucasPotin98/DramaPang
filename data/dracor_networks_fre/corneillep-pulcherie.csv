@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+pulcherie,Undirected,leon,3
+pulcherie,Undirected,irene,2
+pulcherie,Undirected,martian,4
+pulcherie,Undirected,justine,5
+pulcherie,Undirected,aspar,3
+leon,Undirected,irene,1
+leon,Undirected,aspar,1
+leon,Undirected,martian,1
+leon,Undirected,justine,3
+irene,Undirected,aspar,2
+irene,Undirected,justine,2
+aspar,Undirected,martian,2
+aspar,Undirected,justine,1
+justine,Undirected,martian,4

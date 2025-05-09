@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+marcie,Undirected,barsine,1
+marcie,Undirected,manlius,4
+marcie,Undirected,priscus,2
+marcie,Undirected,regulus,5
+marcie,Undirected,licinius,1
+marcie,Undirected,attilius,1
+manlius,Undirected,priscus,1
+manlius,Undirected,regulus,4
+manlius,Undirected,licinius,2
+manlius,Undirected,attilius,1
+priscus,Undirected,regulus,1
+regulus,Undirected,licinius,3
+regulus,Undirected,attilius,1

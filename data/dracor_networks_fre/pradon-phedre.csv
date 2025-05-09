@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+hippolyte,Undirected,idas,1
+hippolyte,Undirected,aricie,3
+hippolyte,Undirected,phedre,4
+hippolyte,Undirected,thesee,2
+idas,Undirected,aricie,1
+idas,Undirected,thesee,1
+aricie,Undirected,phedre,4
+aricie,Undirected,thesee,4
+aricie,Undirected,cleone,1
+aricie,Undirected,megiste,1
+phedre,Undirected,cleone,1
+phedre,Undirected,thesee,4
+thesee,Undirected,arcas,1
+thesee,Undirected,megiste,1

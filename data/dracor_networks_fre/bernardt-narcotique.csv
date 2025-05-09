@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+madame-domas,Undirected,philibert,2
+madame-domas,Undirected,voix-d-homme,1
+madame-domas,Undirected,marchu,1
+madame-domas,Undirected,barcelle,1
+philibert,Undirected,voix-d-homme,1
+marchu,Undirected,barcelle,1

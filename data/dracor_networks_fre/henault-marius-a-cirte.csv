@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+cethegus,Undirected,marius,1
+cethegus,Undirected,arisbe,1
+marius,Undirected,arisbe,5
+marius,Undirected,caius-marius,4
+marius,Undirected,hiempsal,1
+arisbe,Undirected,phenice,3
+arisbe,Undirected,hiempsal,3
+arisbe,Undirected,caius-marius,1
+arisbe,Undirected,nerbal,1
+caius-marius,Undirected,nemurius,1
+caius-marius,Undirected,numerius,1
+caius-marius,Undirected,hiempsal,2
+nemurius,Undirected,numerius,1
+hiempsal,Undirected,nerbal,3

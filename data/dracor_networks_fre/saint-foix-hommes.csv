@@ -1,0 +1,5 @@
+Source,Type,Target,Weight
+mercure,Undirected,promethee,1
+mercure,Undirected,la-folie,1
+promethee,Undirected,la-folie,1
+chanteur-du-divertissement-,Undirected,mademoiselle-hus,1

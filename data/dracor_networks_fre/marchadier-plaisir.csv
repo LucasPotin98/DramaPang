@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+l-esperance,Undirected,le-plaisir,1
+le-plaisir,Undirected,l-enfant,1
+le-plaisir,Undirected,le-français,3
+le-plaisir,Undirected,l-anglaise,2
+le-plaisir,Undirected,l-italienne,1
+le-français,Undirected,l-anglaise,2
+le-français,Undirected,l-italienne,1
+l-anglaise,Undirected,l-italienne,1

@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+marguerite,Undirected,la-comtesse,6
+marguerite,Undirected,le-domestique,1
+marguerite,Undirected,prevannes,5
+marguerite,Undirected,valbrun,2
+la-comtesse,Undirected,le-domestique,1
+la-comtesse,Undirected,prevannes,8
+la-comtesse,Undirected,valbrun,3
+prevannes,Undirected,valbrun,5

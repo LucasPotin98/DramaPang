@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+nearque,Undirected,polyeucte,2
+polyeucte,Undirected,pauline,6
+polyeucte,Undirected,cleon,2
+polyeucte,Undirected,felix,2
+pauline,Undirected,stratonice,3
+pauline,Undirected,felix,5
+pauline,Undirected,albin,2
+pauline,Undirected,severe,3
+pauline,Undirected,cleon,1
+felix,Undirected,albin,5
+felix,Undirected,severe,1
+severe,Undirected,fabian,2

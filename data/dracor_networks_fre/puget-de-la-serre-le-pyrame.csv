@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+thisbe,Undirected,bersiane,1
+thisbe,Undirected,pyrame,3
+thisbe,Undirected,le-roi,1
+thisbe,Undirected,syllar,1
+thisbe,Undirected,narbal,1
+thisbe,Undirected,oronthe,1
+bersiane,Undirected,oronthe,1
+narbal,Undirected,lidias,1
+narbal,Undirected,pyrame,1
+narbal,Undirected,oronthe,1
+le-roi,Undirected,syllar,2
+syllar,Undirected,deuxis,1
+syllar,Undirected,pyrame,1
+pyrame,Undirected,disarque,1
+pyrame,Undirected,deuxis,1
+pyrame,Undirected,oronthe,1

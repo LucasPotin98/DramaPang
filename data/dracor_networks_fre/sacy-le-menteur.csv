@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+lucinde,Undirected,le-capitaine,2
+lucinde,Undirected,isabelle,1
+lucinde,Undirected,valere,1
+le-capitaine,Undirected,isabelle,1
+le-capitaine,Undirected,valere,1
+isabelle,Undirected,valere,1

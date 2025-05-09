@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+antiochus,Undirected,salmonee,5
+antiochus,Undirected,misael,2
+antiochus,Undirected,antigone,3
+antiochus,Undirected,arsace,3
+antiochus,Undirected,hidaspe,1
+salmonee,Undirected,thares,2
+salmonee,Undirected,misael,2
+salmonee,Undirected,barses,1
+salmonee,Undirected,antigone,1
+salmonee,Undirected,arsace,1
+misael,Undirected,antigone,4
+barses,Undirected,antigone,1
+antigone,Undirected,cephise,1

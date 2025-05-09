@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+eudoxe,Undirected,flavie,2
+eudoxe,Undirected,valentinian,3
+eudoxe,Undirected,aetius,3
+eudoxe,Undirected,maxime,2
+valentinian,Undirected,aetius,3
+valentinian,Undirected,maxime,4
+valentinian,Undirected,flavian,1
+aetius,Undirected,maxime,2
+aetius,Undirected,leon,4
+maxime,Undirected,flavian,3

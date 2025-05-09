@@ -1,0 +1,8 @@
+Source,Type,Target,Weight
+pierrot,Undirected,colombine,7
+pierrot,Undirected,arlequin,7
+pierrot,Undirected,le-guet,1
+pierrot,Undirected,le-sergent,1
+pierrot,Undirected,le-docteur,1
+colombine,Undirected,arlequin,7
+le-guet,Undirected,le-sergent,1

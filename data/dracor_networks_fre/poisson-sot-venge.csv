@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+lubine,Undirected,monsieur-ragot,1
+lubine,Undirected,lubin,4
+lubine,Undirected,le-compere,1
+monsieur-ragot,Undirected,le-compere,2
+monsieur-ragot,Undirected,croquillon,1
+monsieur-ragot,Undirected,lubin,2
+croquillon,Undirected,le-compere,2
+le-compere,Undirected,lubin,3

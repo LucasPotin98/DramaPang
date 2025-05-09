@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+pierrot,Undirected,fanchon,2
+pierrot,Undirected,don-juan,1
+fanchon,Undirected,don-juan,1
+don-juan,Undirected,isabelle,2
+don-juan,Undirected,colombine,1
+don-juan,Undirected,arlequin,4
+don-juan,Undirected,la-statue,1
+isabelle,Undirected,colombine,1
+isabelle,Undirected,arlequin,2
+isabelle,Undirected,la-statue,1
+colombine,Undirected,arlequin,1
+arlequin,Undirected,la-statue,1
+un-berger,Undirected,une-bergere,1
+un-berger,Undirected,une-autre-bergere,1
+une-bergere,Undirected,une-autre-bergere,1

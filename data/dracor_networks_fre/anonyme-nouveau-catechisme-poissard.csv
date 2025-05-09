@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+le-malin,Undirected,le-cocher,1
+le-malin,Undirected,la-poissarde,1
+le-malin,Undirected,l-homme-de-loi,1
+le-cocher,Undirected,la-poissarde,1
+la-poissarde,Undirected,le-fort,1
+la-poissarde,Undirected,polichinelle,1
+le-fort,Undirected,la-bergere,1
+la-cuisiniere,Undirected,la-fruitiere,1

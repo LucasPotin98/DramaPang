@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+zenobie,Undirected,phenice,2
+zenobie,Undirected,arsame,3
+zenobie,Undirected,pharasmane,2
+zenobie,Undirected,rhadamisthe,3
+arsame,Undirected,pharasmane,4
+arsame,Undirected,rhadamisthe,2
+arsame,Undirected,mitrane,2
+arsame,Undirected,hydaspe,1
+pharasmane,Undirected,rhadamisthe,2
+pharasmane,Undirected,hieron,1
+pharasmane,Undirected,hydaspe,2
+hieron,Undirected,rhadamisthe,4

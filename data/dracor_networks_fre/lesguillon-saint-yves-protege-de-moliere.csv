@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+bejart,Undirected,laforet,3
+bejart,Undirected,racine,6
+bejart,Undirected,moliere,3
+bejart,Undirected,coras,2
+bejart,Undirected,leclerc,3
+laforet,Undirected,racine,3
+laforet,Undirected,moliere,2
+laforet,Undirected,leclerc,1
+laforet,Undirected,coras,1
+racine,Undirected,moliere,5
+racine,Undirected,leclerc,3
+racine,Undirected,coras,2
+moliere,Undirected,coras,2
+moliere,Undirected,leclerc,2
+coras,Undirected,leclerc,6

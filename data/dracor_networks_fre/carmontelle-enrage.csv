@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+madame-thomas,Undirected,le-comte,6
+madame-thomas,Undirected,monsieur-hachis,1
+madame-thomas,Undirected,le-chevalier,2
+le-comte,Undirected,monsieur-hachis,1
+le-comte,Undirected,le-chevalier,4

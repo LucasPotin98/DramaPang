@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+amintas,Undirected,licas,3
+amintas,Undirected,thelamire,5
+amintas,Undirected,elismene,2
+amintas,Undirected,lictimen,1
+thelamire,Undirected,elismene,5
+thelamire,Undirected,lictimen,2
+thelamire,Undirected,philax,1
+elismene,Undirected,barsine,2

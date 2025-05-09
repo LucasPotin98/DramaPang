@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+brunon,Undirected,dursan,3
+brunon,Undirected,mademoiselle-de-tervire,4
+brunon,Undirected,madame-dursan,3
+dursan,Undirected,mademoiselle-de-tervire,2
+dursan,Undirected,madame-dursan,1
+mademoiselle-de-tervire,Undirected,madame-dursan,5

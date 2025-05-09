@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+clementine,Undirected,zamie,5
+clementine,Undirected,azor,7
+clementine,Undirected,phaza,4
+zamie,Undirected,phaza,4
+zamie,Undirected,azor,4
+azor,Undirected,phaza,7

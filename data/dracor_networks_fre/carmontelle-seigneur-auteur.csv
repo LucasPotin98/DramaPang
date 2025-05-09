@@ -1,0 +1,8 @@
+Source,Type,Target,Weight
+le-duc,Undirected,dupre,2
+le-duc,Undirected,monsieur-ronflant,1
+le-duc,Undirected,monsieur-decousu,1
+le-duc,Undirected,tous-trois-ensemble,1
+monsieur-ronflant,Undirected,monsieur-decousu,1
+monsieur-ronflant,Undirected,tous-trois-ensemble,1
+monsieur-decousu,Undirected,tous-trois-ensemble,1

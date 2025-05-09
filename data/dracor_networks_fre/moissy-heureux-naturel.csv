@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+monsieur-belmon,Undirected,le-petit-de-belmon,2
+monsieur-belmon,Undirected,monsieur-de-belmon,2
+monsieur-belmon,Undirected,le-laquais,1
+le-petit-de-belmon,Undirected,monsieur-de-belmon,3
+le-petit-de-belmon,Undirected,le-laquais,1
+le-petit-de-belmon,Undirected,madame-de-belmon,1
+monsieur-de-belmon,Undirected,le-laquais,1
+monsieur-de-belmon,Undirected,madame-de-belmon,1

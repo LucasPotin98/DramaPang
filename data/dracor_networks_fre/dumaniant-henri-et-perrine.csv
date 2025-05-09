@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+henri,Undirected,mascarille,4
+henri,Undirected,perrine,2
+henri,Undirected,dercour,3
+henri,Undirected,eleonore,1
+henri,Undirected,jeannette,1
+mascarille,Undirected,jeannette,4
+mascarille,Undirected,dercour,3
+mascarille,Undirected,eleonore,3
+mascarille,Undirected,perrine,2
+jeannette,Undirected,perrine,3
+jeannette,Undirected,eleonore,3
+jeannette,Undirected,dercour,2
+perrine,Undirected,eleonore,3
+perrine,Undirected,dercour,1
+dercour,Undirected,eleonore,3

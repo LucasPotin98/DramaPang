@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+monsieur-jovial,Undirected,parterre,2
+monsieur-jovial,Undirected,loge,2
+monsieur-jovial,Undirected,balcon,2
+monsieur-jovial,Undirected,heraclite,2
+monsieur-jovial,Undirected,catafalcus,1
+monsieur-jovial,Undirected,cascaret,2
+monsieur-jovial,Undirected,madame-jovial,2
+parterre,Undirected,loge,2
+parterre,Undirected,balcon,2
+parterre,Undirected,madame-jovial,1
+loge,Undirected,balcon,2
+loge,Undirected,madame-jovial,1
+balcon,Undirected,madame-jovial,1
+heraclite,Undirected,catafalcus,1

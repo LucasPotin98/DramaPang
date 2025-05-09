@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+monsieur-valbray,Undirected,pauline,5
+monsieur-valbray,Undirected,paul,4
+pauline,Undirected,paul,4

@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+myssene,Undirected,briseis,1
+myssene,Undirected,bysonte,1
+briseis,Undirected,bysonte,1

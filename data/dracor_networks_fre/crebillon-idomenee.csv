@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+idomenee,Undirected,sophronyme,5
+idomenee,Undirected,idamante,5
+idomenee,Undirected,erixene,2
+idomenee,Undirected,egesippe,2
+sophronyme,Undirected,egesippe,1
+sophronyme,Undirected,idamante,1
+idamante,Undirected,erixene,3
+idamante,Undirected,polyclete,1
+idamante,Undirected,ismene,1
+erixene,Undirected,ismene,3

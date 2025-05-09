@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+monsieur-d-erviere,Undirected,monsieur-d-orbel,2
+monsieur-d-erviere,Undirected,monsieur-de-grand-pre,1
+monsieur-d-erviere,Undirected,ensemble,1
+monsieur-d-orbel,Undirected,monsieur-de-grand-pre,1
+monsieur-d-orbel,Undirected,ensemble,1
+monsieur-de-grand-pre,Undirected,ensemble,1

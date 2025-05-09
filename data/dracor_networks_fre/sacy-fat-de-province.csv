@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+nerine,Undirected,cephise,3
+nerine,Undirected,dorval,2
+nerine,Undirected,crispin,2
+cephise,Undirected,dorval,2
+cephise,Undirected,crispin,2
+crispin,Undirected,dorval,8
+crispin,Undirected,lafleur,1
+dorval,Undirected,lafleur,1

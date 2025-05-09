@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+reine-d-angleterre,Undirected,conseiller,1
+reine-d-angleterre,Undirected,choeur-des-etats,2
+conseiller,Undirected,choeur-des-etats,1
+davison,Undirected,suivantes-de-la-reine-d-ecosse-,1
+davison,Undirected,reine-d-ecosse,1
+davison,Undirected,suivantes-de-la-reine-d-ecosse,1
+davison,Undirected,page,1
+suivantes-de-la-reine-d-ecosse-,Undirected,reine-d-ecosse,2
+suivantes-de-la-reine-d-ecosse-,Undirected,suivantes-de-la-reine-d-ecosse,1
+suivantes-de-la-reine-d-ecosse-,Undirected,page,1
+suivantes-de-la-reine-d-ecosse-,Undirected,maitre-d-hotel,1
+suivantes-de-la-reine-d-ecosse-,Undirected,messager,1
+reine-d-ecosse,Undirected,suivantes-de-la-reine-d-ecosse,1
+reine-d-ecosse,Undirected,page,1
+suivantes-de-la-reine-d-ecosse,Undirected,page,1
+maitre-d-hotel,Undirected,messager,1

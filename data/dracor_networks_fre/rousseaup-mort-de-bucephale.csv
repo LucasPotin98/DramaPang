@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+alexandre,Undirected,aridee,3
+alexandre,Undirected,philippe,3
+alexandre,Undirected,statire,1
+alexandre,Undirected,ephestion,2
+aridee,Undirected,philippe,2
+aridee,Undirected,statire,1

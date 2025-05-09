@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+le-narrateur,Undirected,adam,2
+le-narrateur,Undirected,eve,2
+le-narrateur,Undirected,l-ange,1
+le-narrateur,Undirected,choeur,1
+le-narrateur,Undirected,voix-du-choeur,1
+adam,Undirected,eve,3
+adam,Undirected,l-ange,1
+adam,Undirected,choeur,1
+adam,Undirected,voix-du-choeur,1
+eve,Undirected,l-ange,2
+eve,Undirected,choeur,1
+eve,Undirected,voix-du-choeur,1
+l-ange,Undirected,choeur,1
+l-ange,Undirected,voix-du-choeur,1
+choeur,Undirected,voix-du-choeur,1

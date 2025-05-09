@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+sinorix,Undirected,phaedime,5
+sinorix,Undirected,camma,8
+sinorix,Undirected,hesione,3
+sinorix,Undirected,sostrate,7
+sinorix,Undirected,sosime,1
+phaedime,Undirected,sostrate,1
+phaedime,Undirected,camma,1
+camma,Undirected,phenice,3
+camma,Undirected,hesione,3
+camma,Undirected,sostrate,9
+camma,Undirected,sosime,2
+phenice,Undirected,sosime,1
+phenice,Undirected,sostrate,1
+hesione,Undirected,sostrate,5
+hesione,Undirected,sosime,1
+sostrate,Undirected,sosime,4

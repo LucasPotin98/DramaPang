@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+juliette,Undirected,angelique,9
+juliette,Undirected,sainville,7
+juliette,Undirected,le-laquais,2
+juliette,Undirected,la-gouvernante,1
+juliette,Undirected,la-baronne,1
+angelique,Undirected,la-gouvernante,6
+angelique,Undirected,le-laquais,1
+angelique,Undirected,sainville,9
+angelique,Undirected,le-president,2
+angelique,Undirected,la-baronne,1
+le-president,Undirected,la-baronne,4
+le-president,Undirected,sainville,5
+le-president,Undirected,la-gouvernante,3
+la-baronne,Undirected,la-gouvernante,5
+la-baronne,Undirected,sainville,1
+sainville,Undirected,la-gouvernante,4

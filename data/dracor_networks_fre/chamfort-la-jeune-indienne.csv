@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+mylford,Undirected,belton,3
+mylford,Undirected,betti,2
+belton,Undirected,mowbrai,3
+belton,Undirected,betti,4
+belton,Undirected,le-notaire,1
+mowbrai,Undirected,betti,3
+mowbrai,Undirected,john,1
+mowbrai,Undirected,le-notaire,1
+betti,Undirected,john,1
+betti,Undirected,le-notaire,1

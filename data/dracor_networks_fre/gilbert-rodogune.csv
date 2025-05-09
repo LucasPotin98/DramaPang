@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+rodogune,Undirected,artaxerce,7
+rodogune,Undirected,darie,6
+rodogune,Undirected,oronte,4
+rodogune,Undirected,lidie,4
+artaxerce,Undirected,darie,9
+artaxerce,Undirected,oronte,1
+artaxerce,Undirected,lidie,3
+darie,Undirected,oronte,1
+darie,Undirected,lidie,2

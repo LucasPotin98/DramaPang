@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+diocletien,Undirected,agape,1
+diocletien,Undirected,chionie,1
+diocletien,Undirected,irene,1
+agape,Undirected,chionie,3
+agape,Undirected,irene,3
+agape,Undirected,les-gardes,1
+agape,Undirected,sisinnius,1
+chionie,Undirected,irene,3
+chionie,Undirected,les-gardes,1
+chionie,Undirected,sisinnius,1
+irene,Undirected,les-gardes,3
+irene,Undirected,sisinnius,3
+dulcitius,Undirected,les-gardes,3
+dulcitius,Undirected,les-huissiers,1
+dulcitius,Undirected,la-femme-de-dulcitius,1
+les-gardes,Undirected,sisinnius,5

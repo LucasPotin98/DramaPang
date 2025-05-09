@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+monsieur-trepanillac,Undirected,monsieur-frac,3
+monsieur-trepanillac,Undirected,trotin,3
+monsieur-trepanillac,Undirected,madame-lavade,2
+monsieur-trepanillac,Undirected,monsieur-tressant,2
+monsieur-frac,Undirected,trotin,3
+monsieur-frac,Undirected,madame-lavade,2
+monsieur-frac,Undirected,monsieur-tressant,2
+trotin,Undirected,madame-lavade,2
+trotin,Undirected,monsieur-tressant,2
+madame-lavade,Undirected,monsieur-tressant,1

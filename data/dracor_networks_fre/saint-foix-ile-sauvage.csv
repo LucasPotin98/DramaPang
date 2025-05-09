@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+leonor,Undirected,felix,5
+leonor,Undirected,rosette,10
+leonor,Undirected,beatrix,4
+felix,Undirected,rosette,5
+felix,Undirected,beatrix,2
+felix,Undirected,don-gusman,1
+felix,Undirected,osmarin,1
+rosette,Undirected,beatrix,5
+osmarin,Undirected,beatrix,2
+osmarin,Undirected,don-gusman,1

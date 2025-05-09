@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+pauline,Undirected,sophie,7
+pauline,Undirected,constance,4
+pauline,Undirected,la-marquise,3
+pauline,Undirected,rose,8
+sophie,Undirected,constance,5
+sophie,Undirected,rose,4
+sophie,Undirected,la-marquise,2
+constance,Undirected,rose,2
+rose,Undirected,la-marquise,3

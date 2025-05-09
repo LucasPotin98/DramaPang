@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+gabrielle,Undirected,alice,1
+gabrielle,Undirected,marie,1
+alice,Undirected,marie,2
+alice,Undirected,bonne-maman,1
+alice,Undirected,madame-de-lucet,1
+alice,Undirected,renee,1
+marie,Undirected,renee,2
+marie,Undirected,madame-de-lucet,2
+marie,Undirected,bonne-maman,1
+renee,Undirected,madame-de-lucet,3
+renee,Undirected,bonne-maman,2
+madame-de-lucet,Undirected,bonne-maman,1

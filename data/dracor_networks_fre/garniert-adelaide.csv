@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+adelaïde,Undirected,justine,4
+adelaïde,Undirected,la-fleur,1
+adelaïde,Undirected,monsieur-de-fontalbanne,2
+adelaïde,Undirected,dorval,1
+adelaïde,Undirected,le-comte-d-oronville,1
+justine,Undirected,la-fleur,1
+justine,Undirected,monsieur-de-fontalbanne,1
+monsieur-de-fontalbanne,Undirected,le-comte-d-oronville,1

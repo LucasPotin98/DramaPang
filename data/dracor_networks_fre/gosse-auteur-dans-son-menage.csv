@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+madame-geralde,Undirected,celestine,4
+madame-geralde,Undirected,geralde,5
+madame-geralde,Undirected,alexis,2
+madame-geralde,Undirected,mainfroi,1
+celestine,Undirected,geralde,4
+celestine,Undirected,alexis,2
+celestine,Undirected,mainfroi,1
+geralde,Undirected,mainfroi,2
+geralde,Undirected,alexis,3
+mainfroi,Undirected,alexis,1

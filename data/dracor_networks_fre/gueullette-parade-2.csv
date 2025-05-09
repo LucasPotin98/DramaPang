@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+cassandre,Undirected,gilles,6
+cassandre,Undirected,prends-tout,1
+gilles,Undirected,laisse-rien,3
+gilles,Undirected,prends-tout,3
+gilles,Undirected,le-barbier,2
+gilles,Undirected,le-paysan,2
+prends-tout,Undirected,laisse-rien,3
+le-barbier,Undirected,le-paysan,1

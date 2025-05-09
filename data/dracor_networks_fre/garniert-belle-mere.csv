@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+lucile,Undirected,agathe,4
+lucile,Undirected,claudine,2
+lucile,Undirected,madame-d-armance,2
+lucile,Undirected,madame-du-saulsoy,2
+lucile,Undirected,monsieur-d-armance,1
+agathe,Undirected,claudine,1
+agathe,Undirected,madame-d-armance,1
+agathe,Undirected,madame-du-saulsoy,1
+agathe,Undirected,monsieur-d-armance,1
+madame-d-armance,Undirected,madame-du-saulsoy,1
+madame-d-armance,Undirected,monsieur-d-armance,1
+madame-du-saulsoy,Undirected,monsieur-d-armance,2

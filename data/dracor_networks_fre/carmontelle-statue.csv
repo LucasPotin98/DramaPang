@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+le-marquis,Undirected,le-baron,4
+le-marquis,Undirected,le-chevalier,1
+le-marquis,Undirected,mademoiselle-de-richeviere,2
+le-marquis,Undirected,la-comtesse,2
+le-baron,Undirected,la-comtesse,2
+le-baron,Undirected,le-chevalier,1
+le-baron,Undirected,mademoiselle-de-richeviere,1
+la-comtesse,Undirected,mademoiselle-de-richeviere,2
+la-comtesse,Undirected,le-chevalier,1
+mademoiselle-de-richeviere,Undirected,le-chevalier,3
+mademoiselle-de-richeviere,Undirected,le-laquais,1
+le-chevalier,Undirected,le-laquais,1

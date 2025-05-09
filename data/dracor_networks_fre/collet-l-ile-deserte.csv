@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+constance,Undirected,silvie,4
+constance,Undirected,le-matelot,2
+constance,Undirected,timante,4
+constance,Undirected,ferdinand,1
+silvie,Undirected,timante,6
+silvie,Undirected,ferdinand,2
+silvie,Undirected,le-matelot,2
+timante,Undirected,ferdinand,3
+timante,Undirected,le-matelot,3

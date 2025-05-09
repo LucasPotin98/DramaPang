@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+la-duchesse,Undirected,rosette,4
+la-duchesse,Undirected,le-laquais,3
+la-duchesse,Undirected,tronchin,1
+la-duchesse,Undirected,le-duc,1
+rosette,Undirected,tronchin,2
+rosette,Undirected,le-laquais,1
+le-laquais,Undirected,le-duc,1
+tronchin,Undirected,le-duc,1

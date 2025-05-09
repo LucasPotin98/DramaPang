@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+lucidor,Undirected,frontin,5
+lucidor,Undirected,maitre-blaise,5
+lucidor,Undirected,lisette,8
+lucidor,Undirected,angelique,9
+lucidor,Undirected,madame-argante,3
+frontin,Undirected,lisette,7
+frontin,Undirected,angelique,4
+frontin,Undirected,madame-argante,4
+frontin,Undirected,maitre-blaise,2
+maitre-blaise,Undirected,lisette,8
+maitre-blaise,Undirected,angelique,5
+maitre-blaise,Undirected,madame-argante,2
+lisette,Undirected,angelique,11
+lisette,Undirected,madame-argante,4
+angelique,Undirected,madame-argante,2

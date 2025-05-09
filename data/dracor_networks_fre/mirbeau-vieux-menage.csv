@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+la-femme,Undirected,la-femme-de-chambre,1
+la-femme,Undirected,le-mari,2
+la-femme-de-chambre,Undirected,le-mari,1

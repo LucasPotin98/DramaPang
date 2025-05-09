@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+le-chevalier,Undirected,l-abbe,2
+le-chevalier,Undirected,le-comedien,1
+l-abbe,Undirected,le-comedien,1

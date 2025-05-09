@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+le-narrateur,Undirected,le-cocher-,1
+le-narrateur,Undirected,monsieur-le-president,1
+le-narrateur,Undirected,le-prevenu,1
+le-narrateur,Undirected,le-cocher,1
+le-cocher-,Undirected,monsieur-le-president,1
+le-cocher-,Undirected,le-prevenu,1
+le-cocher-,Undirected,le-cocher,1
+monsieur-le-president,Undirected,le-prevenu,1
+monsieur-le-president,Undirected,le-cocher,1
+le-prevenu,Undirected,le-cocher,1

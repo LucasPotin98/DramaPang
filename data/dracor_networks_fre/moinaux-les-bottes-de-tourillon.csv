@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+l-avocat,Undirected,monsieur-le-president,1
+l-avocat,Undirected,tourillon,1
+l-avocat,Undirected,le-prevenu,1
+l-avocat,Undirected,l-amant,1
+monsieur-le-president,Undirected,tourillon,1
+monsieur-le-president,Undirected,le-prevenu,1
+monsieur-le-president,Undirected,l-amant,1
+tourillon,Undirected,le-prevenu,1
+tourillon,Undirected,l-amant,1
+le-prevenu,Undirected,l-amant,1

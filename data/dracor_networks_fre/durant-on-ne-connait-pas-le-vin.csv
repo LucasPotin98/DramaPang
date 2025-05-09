@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+madame-dumeny,Undirected,madame-de-cassagne,1
+madame-dumeny,Undirected,le-marquis,2
+madame-dumeny,Undirected,madame-de-letang,2
+madame-dumeny,Undirected,le-chevalier,1
+madame-dumeny,Undirected,mademoiselle-dumeny,3
+madame-de-cassagne,Undirected,mademoiselle-de-letang,1
+madame-de-cassagne,Undirected,mademoiselle-dumeny,1
+madame-de-cassagne,Undirected,le-chevalier,1
+le-marquis,Undirected,madame-de-letang,1
+le-marquis,Undirected,mademoiselle-dumeny,1
+madame-de-letang,Undirected,le-maitre-a-danser,1
+madame-de-letang,Undirected,mademoiselle-dumeny,1
+mademoiselle-dumeny,Undirected,le-chevalier,1

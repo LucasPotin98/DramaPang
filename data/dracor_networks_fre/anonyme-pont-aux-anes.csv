@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+le-mari,Undirected,la-femme,2
+le-mari,Undirected,messire-domine-de,1
+le-mari,Undirected,le-bucheron,1

@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+porter,Undirected,germain,5
+porter,Undirected,duval,2
+porter,Undirected,frivole,2
+porter,Undirected,razilli,1
+porter,Undirected,jerome,1
+porter,Undirected,madame-alain,1
+porter,Undirected,françois,1
+porter,Undirected,nannette,1
+porter,Undirected,le-musicien,1
+porter,Undirected,la-marquise,1
+germain,Undirected,duval,1
+germain,Undirected,frivole,1
+madame-alain,Undirected,françois,1
+madame-alain,Undirected,nannette,1
+françois,Undirected,nannette,1

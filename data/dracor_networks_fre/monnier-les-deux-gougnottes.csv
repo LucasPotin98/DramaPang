@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+madame-du-croisy,Undirected,louise,1
+madame-du-croisy,Undirected,henriette,1
+madame-du-croisy,Undirected,julie,1
+louise,Undirected,henriette,2
+louise,Undirected,julie,1
+henriette,Undirected,julie,1

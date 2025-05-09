@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+pourceaugnac,Undirected,trufaldin,2
+pourceaugnac,Undirected,madeleine,1
+pourceaugnac,Undirected,mademoiselle-du-parc,1
+pourceaugnac,Undirected,bejart,1
+pourceaugnac,Undirected,moliere,1
+trufaldin,Undirected,bejart,3
+trufaldin,Undirected,madeleine,3
+trufaldin,Undirected,moliere,2
+trufaldin,Undirected,mademoiselle-du-parc,2
+bejart,Undirected,madeleine,5
+bejart,Undirected,mademoiselle-du-parc,4
+bejart,Undirected,moliere,3
+madeleine,Undirected,mademoiselle-du-parc,4
+madeleine,Undirected,moliere,3
+mademoiselle-du-parc,Undirected,moliere,3

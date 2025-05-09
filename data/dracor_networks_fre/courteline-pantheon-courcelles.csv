@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+le-recitant,Undirected,les-vierges,1
+le-recitant,Undirected,le-choeur,1
+les-vierges,Undirected,le-choeur,1

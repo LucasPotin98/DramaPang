@@ -1,0 +1,8 @@
+Source,Type,Target,Weight
+beaucornet,Undirected,madame-beaucornet,5
+beaucornet,Undirected,philidor,5
+beaucornet,Undirected,zephyrine,4
+madame-beaucornet,Undirected,philidor,2
+madame-beaucornet,Undirected,zephyrine,3
+le-domestique,Undirected,philidor,1
+philidor,Undirected,zephyrine,3

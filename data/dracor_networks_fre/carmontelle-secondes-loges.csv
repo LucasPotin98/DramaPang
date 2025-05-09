@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+monsieur-morandal,Undirected,madame-goursain,3
+monsieur-morandal,Undirected,madame-merigon,3
+monsieur-morandal,Undirected,monsieur-renard,3
+monsieur-morandal,Undirected,monsieur-merigon,2
+monsieur-morandal,Undirected,monsieur-goursain,1
+madame-goursain,Undirected,madame-merigon,3
+madame-goursain,Undirected,monsieur-renard,3
+madame-goursain,Undirected,monsieur-merigon,2
+madame-goursain,Undirected,monsieur-goursain,1
+madame-merigon,Undirected,monsieur-renard,3
+madame-merigon,Undirected,monsieur-merigon,2
+madame-merigon,Undirected,monsieur-goursain,1
+monsieur-renard,Undirected,monsieur-merigon,2
+monsieur-renard,Undirected,monsieur-goursain,1
+monsieur-merigon,Undirected,monsieur-goursain,1

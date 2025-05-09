@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+dolicard,Undirected,anselme,8
+dolicard,Undirected,buscarino,2
+dolicard,Undirected,lericourt,1
+dolicard,Undirected,lucinet,1
+dolicard,Undirected,ensemble,1
+dolicard,Undirected,stanislas,1
+dolicard,Undirected,deligny,1
+dolicard,Undirected,tous,1
+anselme,Undirected,buscarino,2
+anselme,Undirected,lericourt,1
+anselme,Undirected,lucinet,1
+anselme,Undirected,ensemble,1
+anselme,Undirected,deligny,1
+anselme,Undirected,tous,1
+lucinet,Undirected,ensemble,1
+deligny,Undirected,tous,1

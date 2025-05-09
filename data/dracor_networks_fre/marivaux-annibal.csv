@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+egine,Undirected,laodice,2
+laodice,Undirected,annibal,4
+laodice,Undirected,flaminius,4
+laodice,Undirected,prusias,1
+annibal,Undirected,prusias,7
+annibal,Undirected,amilcar,1
+annibal,Undirected,flaminius,4
+prusias,Undirected,flaminius,5
+prusias,Undirected,hieron,2
+flavius,Undirected,flaminius,1

@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+le-baron,Undirected,germain,2
+le-baron,Undirected,le-marquis,2
+le-baron,Undirected,la-comtesse,1
+germain,Undirected,le-marquis,3
+germain,Undirected,la-comtesse,2
+germain,Undirected,victoire,2
+le-marquis,Undirected,victoire,4
+le-marquis,Undirected,la-comtesse,6
+victoire,Undirected,la-comtesse,3

@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+apollon,Undirected,esope,2
+apollon,Undirected,la-rime,1
+apollon,Undirected,la-raison,1
+esope,Undirected,la-raison,2
+esope,Undirected,cidalise,1
+esope,Undirected,trotenville,1
+esope,Undirected,la-rime,2
+esope,Undirected,monsieur-desbrochures,1
+esope,Undirected,eraste,1
+esope,Undirected,valere,1
+la-raison,Undirected,la-rime,1

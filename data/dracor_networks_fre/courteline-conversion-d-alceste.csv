@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+alceste,Undirected,philinte,5
+alceste,Undirected,flipotte,1
+alceste,Undirected,oronte,1
+alceste,Undirected,monsieur-loyal,1
+alceste,Undirected,celimene,1
+philinte,Undirected,flipotte,1
+philinte,Undirected,oronte,1
+philinte,Undirected,monsieur-loyal,1
+philinte,Undirected,celimene,1
+flipotte,Undirected,oronte,1

@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+la-femme,Undirected,le-cure,1
+la-femme,Undirected,le-clerc,1
+la-femme,Undirected,jenin,1
+le-cure,Undirected,le-clerc,1
+le-cure,Undirected,jenin,1
+le-clerc,Undirected,jenin,1

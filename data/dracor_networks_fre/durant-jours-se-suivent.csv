@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+le-comte,Undirected,monsieur-l-abbe,8
+le-comte,Undirected,le-marquis,4
+le-comte,Undirected,la-baronne,5
+le-comte,Undirected,mademoiselle-dufrene,4
+le-comte,Undirected,merlin,1
+monsieur-l-abbe,Undirected,la-baronne,6
+monsieur-l-abbe,Undirected,mademoiselle-dufrene,5
+monsieur-l-abbe,Undirected,le-marquis,5
+monsieur-l-abbe,Undirected,merlin,2
+la-baronne,Undirected,mademoiselle-dufrene,5
+la-baronne,Undirected,le-marquis,4
+la-baronne,Undirected,merlin,1
+mademoiselle-dufrene,Undirected,le-marquis,4
+mademoiselle-dufrene,Undirected,merlin,1
+le-marquis,Undirected,merlin,2

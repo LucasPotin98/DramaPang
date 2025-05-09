@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+pyrrhus,Undirected,phenix,5
+pyrrhus,Undirected,ulysse,3
+pyrrhus,Undirected,hecube,2
+pyrrhus,Undirected,polixene,4
+pyrrhus,Undirected,calchas,1
+phenix,Undirected,calchas,1
+phenix,Undirected,polixene,2
+ulysse,Undirected,idas,1
+ulysse,Undirected,hecube,2
+ulysse,Undirected,polixene,1
+ulysse,Undirected,calchas,1
+hecube,Undirected,polixene,6
+hecube,Undirected,calchas,1
+polixene,Undirected,calchas,2

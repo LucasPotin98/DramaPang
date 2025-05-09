@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+isabelle,Undirected,valere,4
+isabelle,Undirected,paillardet,1
+isabelle,Undirected,barbe,1
+isabelle,Undirected,branlard,2
+valere,Undirected,paillardet,3
+valere,Undirected,pousse,1
+valere,Undirected,agnes,2
+valere,Undirected,bibi,1
+valere,Undirected,branlard,2
+paillardet,Undirected,agnes,2
+paillardet,Undirected,pousse,1
+paillardet,Undirected,bibi,1
+agnes,Undirected,bibi,2
+agnes,Undirected,pousse,1
+agnes,Undirected,branlard,1
+bibi,Undirected,pousse,1

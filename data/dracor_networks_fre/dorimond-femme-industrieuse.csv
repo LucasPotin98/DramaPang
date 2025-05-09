@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+isabelle,Undirected,le-capitan,3
+isabelle,Undirected,trapolin,6
+isabelle,Undirected,le-docteur,4
+isabelle,Undirected,leandre,2
+le-capitan,Undirected,trapolin,3
+le-capitan,Undirected,leandre,1
+trapolin,Undirected,le-docteur,2
+trapolin,Undirected,leandre,2
+le-docteur,Undirected,leandre,4
+leandre,Undirected,colinette,1

@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+coucy,Undirected,dangeste,2
+coucy,Undirected,le-duc,7
+coucy,Undirected,l-officier,1
+coucy,Undirected,nemours,2
+dangeste,Undirected,nemours,4
+dangeste,Undirected,le-duc,2
+le-duc,Undirected,l-officier,2
+le-duc,Undirected,nemours,3

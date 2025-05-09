@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+idame,Undirected,asseli,3
+idame,Undirected,zamti,9
+idame,Undirected,etan,1
+idame,Undirected,octar,2
+idame,Undirected,gengis,5
+zamti,Undirected,etan,3
+zamti,Undirected,octar,1
+zamti,Undirected,gengis,2
+octar,Undirected,gengis,5
+octar,Undirected,osman,1
+gengis,Undirected,osman,3

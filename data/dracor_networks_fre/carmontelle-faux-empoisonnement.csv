@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+julie,Undirected,la-marquise,5
+julie,Undirected,lafrance,2
+julie,Undirected,le-comte,1
+la-marquise,Undirected,lafrance,2
+la-marquise,Undirected,le-comte,6
+la-marquise,Undirected,monsieur-marcelin,1
+la-marquise,Undirected,lafleur,1
+lafrance,Undirected,le-comte,1
+le-comte,Undirected,lafleur,2
+le-comte,Undirected,monsieur-marcelin,1
+lafleur,Undirected,monsieur-marcelin,1

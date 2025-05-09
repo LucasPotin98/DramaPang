@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+antiochus,Undirected,arsace,5
+antiochus,Undirected,berenice,3
+antiochus,Undirected,titus,4
+antiochus,Undirected,phenice,1
+antiochus,Undirected,rutile,1
+antiochus,Undirected,paulin,1
+berenice,Undirected,phenice,4
+berenice,Undirected,titus,5
+titus,Undirected,paulin,6
+titus,Undirected,rutile,2
+paulin,Undirected,rutile,2

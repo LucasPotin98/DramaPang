@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+olga,Undirected,stephanie,1
+olga,Undirected,madame-lalbert,1
+madame-lalbert,Undirected,lalbert,1
+madame-lalbert,Undirected,henri,1
+madame-lalbert,Undirected,henriette,1
+henri,Undirected,henriette,2
+henri,Undirected,lalbert,1
+henriette,Undirected,lalbert,1

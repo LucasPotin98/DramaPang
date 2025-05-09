@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+julie,Undirected,fanchon,3
+julie,Undirected,victorine,5
+julie,Undirected,madame-fontange,2
+julie,Undirected,le-facteur,1
+fanchon,Undirected,victorine,1
+victorine,Undirected,madame-fontange,2

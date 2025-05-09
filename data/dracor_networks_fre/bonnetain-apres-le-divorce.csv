@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+rene,Undirected,monsieur-blaisy,3
+rene,Undirected,le-domestique,1
+rene,Undirected,madame-blaisy,1
+monsieur-blaisy,Undirected,le-domestique,1
+monsieur-blaisy,Undirected,madame-blaisy,1

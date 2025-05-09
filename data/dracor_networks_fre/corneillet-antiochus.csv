@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+antiochus,Undirected,tigrane,6
+antiochus,Undirected,stratonice,7
+antiochus,Undirected,arsinoe,4
+antiochus,Undirected,seleucus,6
+tigrane,Undirected,seleucus,2
+tigrane,Undirected,stratonice,3
+tigrane,Undirected,arsinoe,2
+stratonice,Undirected,phenice,2
+stratonice,Undirected,seleucus,5
+stratonice,Undirected,arsinoe,1
+seleucus,Undirected,arsinoe,2
+barsine,Undirected,arsinoe,1

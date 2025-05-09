@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+le-veilleur,Undirected,le-choeur-des-vieillards,1
+le-choeur-des-vieillards,Undirected,clytemnestre,5
+le-choeur-des-vieillards,Undirected,talthybios,1
+le-choeur-des-vieillards,Undirected,cassandre,1
+le-choeur-des-vieillards,Undirected,premier-demi-choeur,1
+le-choeur-des-vieillards,Undirected,second-demi-choeur,1
+le-choeur-des-vieillards,Undirected,egisthe,1
+clytemnestre,Undirected,talthybios,1
+clytemnestre,Undirected,agamemnon,1
+clytemnestre,Undirected,premier-demi-choeur,1
+clytemnestre,Undirected,second-demi-choeur,1
+clytemnestre,Undirected,egisthe,1
+agamemnon,Undirected,premier-demi-choeur,1
+agamemnon,Undirected,second-demi-choeur,1
+premier-demi-choeur,Undirected,second-demi-choeur,2

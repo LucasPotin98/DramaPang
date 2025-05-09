@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+coucy,Undirected,adelaide,4
+coucy,Undirected,vendome,8
+coucy,Undirected,nemours,3
+adelaide,Undirected,taise,3
+adelaide,Undirected,vendome,11
+adelaide,Undirected,nemours,6
+vendome,Undirected,nemours,5
+vendome,Undirected,officier,2
+nemours,Undirected,dangeste,1

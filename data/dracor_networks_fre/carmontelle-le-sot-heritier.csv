@@ -1,0 +1,8 @@
+Source,Type,Target,Weight
+monsieur-d-alvin,Undirected,mademoiselle-de-precinat,5
+monsieur-d-alvin,Undirected,la-france,1
+monsieur-d-alvin,Undirected,monsieur-de-precinat,3
+monsieur-d-alvin,Undirected,monsieur-berniquet,1
+mademoiselle-de-precinat,Undirected,monsieur-berniquet,2
+mademoiselle-de-precinat,Undirected,monsieur-de-precinat,4
+monsieur-berniquet,Undirected,monsieur-de-precinat,2

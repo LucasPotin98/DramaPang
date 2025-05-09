@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+damon,Undirected,constance,4
+damon,Undirected,pasquin,3
+damon,Undirected,valere,7
+damon,Undirected,le-laquais,1
+damon,Undirected,celiante,1
+constance,Undirected,valere,2
+constance,Undirected,pasquin,1
+pasquin,Undirected,valere,3
+valere,Undirected,le-laquais,1
+valere,Undirected,celiante,1

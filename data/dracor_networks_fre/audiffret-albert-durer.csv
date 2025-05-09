@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+le-comte,Undirected,le-duc,2
+le-comte,Undirected,durer,2
+le-comte,Undirected,l-empereur,1
+le-comte,Undirected,wolfmuth,1
+le-duc,Undirected,l-empereur,3
+le-duc,Undirected,le-laquais,1
+le-duc,Undirected,wolfmuth,2
+le-duc,Undirected,durer,2
+l-empereur,Undirected,le-laquais,1
+l-empereur,Undirected,wolfmuth,2
+l-empereur,Undirected,durer,1
+l-empereur,Undirected,tous,1
+le-laquais,Undirected,wolfmuth,1
+wolfmuth,Undirected,durer,4

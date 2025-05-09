@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+le-comedien,Undirected,le-chevalier,1
+la-comtesse,Undirected,le-marquis,3
+la-comtesse,Undirected,monsieur-boniface,2
+la-comtesse,Undirected,monsieur-bredouille,1
+la-comtesse,Undirected,clistorel,1
+la-comtesse,Undirected,clistorel-apothicaire,1
+la-comtesse,Undirected,clistorel-comedien,1
+le-marquis,Undirected,monsieur-boniface,1
+le-marquis,Undirected,monsieur-bredouille,1
+le-marquis,Undirected,clistorel-apothicaire,1
+le-marquis,Undirected,clistorel-comedien,1
+clistorel-apothicaire,Undirected,clistorel-comedien,1

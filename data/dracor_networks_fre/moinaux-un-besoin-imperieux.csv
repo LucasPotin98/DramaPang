@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+le-narrateur,Undirected,monsieur-le-president,1
+le-narrateur,Undirected,la-plaignante,1
+le-narrateur,Undirected,la-prevenue,1
+le-narrateur,Undirected,les-dames-de-la-halle,1
+monsieur-le-president,Undirected,la-plaignante,1
+monsieur-le-president,Undirected,la-prevenue,1
+monsieur-le-president,Undirected,les-dames-de-la-halle,1
+la-plaignante,Undirected,la-prevenue,1
+la-plaignante,Undirected,les-dames-de-la-halle,1
+la-prevenue,Undirected,les-dames-de-la-halle,1

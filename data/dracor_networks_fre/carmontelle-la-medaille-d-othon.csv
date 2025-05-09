@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+monsieur-deverberie,Undirected,leroux,3
+monsieur-deverberie,Undirected,monsieur-delamerci,4
+monsieur-deverberie,Undirected,l-abbe,2
+leroux,Undirected,monsieur-delamerci,2
+leroux,Undirected,l-abbe,1
+monsieur-delamerci,Undirected,l-abbe,2

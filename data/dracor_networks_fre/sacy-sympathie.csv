@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+saint-albin,Undirected,frontin,1
+saint-albin,Undirected,terville,5
+saint-albin,Undirected,le-capitaine,3
+saint-albin,Undirected,julie,4
+saint-albin,Undirected,victoire,2
+terville,Undirected,le-capitaine,3
+terville,Undirected,julie,4
+terville,Undirected,victoire,1
+le-capitaine,Undirected,pilotin,2
+le-capitaine,Undirected,julie,4
+le-capitaine,Undirected,victoire,1
+pilotin,Undirected,julie,1
+julie,Undirected,victoire,2

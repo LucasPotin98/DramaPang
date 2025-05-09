@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+durand,Undirected,saint-romain,1
+durand,Undirected,clerac,1
+clerac,Undirected,saint-romain,3
+clerac,Undirected,la-rentree,1
+saint-romain,Undirected,la-rentree,1

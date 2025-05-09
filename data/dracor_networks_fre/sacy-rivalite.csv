@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+orgon,Undirected,lucette,2
+orgon,Undirected,damon,1
+orgon,Undirected,cursac,2
+orgon,Undirected,monsieur-de-la-taupiniere,2
+lucette,Undirected,damon,1
+lucette,Undirected,cursac,1
+lucette,Undirected,monsieur-de-la-taupiniere,1
+cursac,Undirected,monsieur-de-la-taupiniere,3

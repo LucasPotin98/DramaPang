@@ -1,0 +1,5 @@
+Source,Type,Target,Weight
+la-comtesse,Undirected,dubois,1
+la-comtesse,Undirected,le-commandeur,2
+la-comtesse,Undirected,monsieur-de-la-poterniere,1
+le-commandeur,Undirected,monsieur-de-la-poterniere,3

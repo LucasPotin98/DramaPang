@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+bonhumain,Undirected,la-mere-bazu,5
+bonhumain,Undirected,babet,5
+bonhumain,Undirected,colin,6
+bonhumain,Undirected,le-chevalier,5
+bonhumain,Undirected,tamarin,6
+la-mere-bazu,Undirected,le-chevalier,3
+la-mere-bazu,Undirected,tamarin,4
+la-mere-bazu,Undirected,colin,4
+la-mere-bazu,Undirected,babet,4
+babet,Undirected,colin,7
+babet,Undirected,le-chevalier,5
+babet,Undirected,tamarin,6
+colin,Undirected,le-chevalier,5
+colin,Undirected,tamarin,6
+le-chevalier,Undirected,tamarin,5

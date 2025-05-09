@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+chrisis,Undirected,licas,2
+chrisis,Undirected,dione,2
+chrisis,Undirected,agnonide,1
+chrisis,Undirected,alcinous,6
+chrisis,Undirected,phocion,6
+chrisis,Undirected,cleon,1
+chrisis,Undirected,clitus,1
+licas,Undirected,alcinous,2
+agnonide,Undirected,clitus,5
+agnonide,Undirected,phocion,1
+agnonide,Undirected,alcinous,1
+clitus,Undirected,alcinous,1
+clitus,Undirected,phocion,1
+alcinous,Undirected,phocion,3
+alcinous,Undirected,arcas,2
+phocion,Undirected,cleon,2

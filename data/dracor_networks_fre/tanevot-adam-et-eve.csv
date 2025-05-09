@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+satan,Undirected,moloch,3
+satan,Undirected,gabriel,1
+satan,Undirected,eve,1
+uriel,Undirected,gabriel,1
+adam,Undirected,eve,5
+adam,Undirected,raphaël,1
+adam,Undirected,la-voix-de-dieu,1
+adam,Undirected,michel,1
+eve,Undirected,la-voix-de-dieu,1

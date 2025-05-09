@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+tell,Undirected,melchtal,4
+tell,Undirected,furst,3
+tell,Undirected,werner,1
+tell,Undirected,cleofe,4
+tell,Undirected,gesler,4
+melchtal,Undirected,furst,1
+melchtal,Undirected,werner,1
+melchtal,Undirected,gesler,6
+melchtal,Undirected,ulric,2
+melchtal,Undirected,cleofe,4
+furst,Undirected,werner,1
+furst,Undirected,cleofe,3
+cleofe,Undirected,gesler,3
+ulric,Undirected,gesler,6

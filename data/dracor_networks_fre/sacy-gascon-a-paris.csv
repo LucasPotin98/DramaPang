@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+le-baron,Undirected,geronte,3
+le-baron,Undirected,l-abbe,1
+le-baron,Undirected,la-dame,1
+geronte,Undirected,l-abbe,1
+geronte,Undirected,la-dame,1
+l-abbe,Undirected,la-dame,1

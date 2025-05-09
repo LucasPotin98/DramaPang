@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+l-avocat,Undirected,monsieur-le-president,1
+l-avocat,Undirected,le-temoin,1
+l-avocat,Undirected,rimonot,1
+monsieur-le-president,Undirected,le-temoin,1
+monsieur-le-president,Undirected,rimonot,1
+le-temoin,Undirected,rimonot,1

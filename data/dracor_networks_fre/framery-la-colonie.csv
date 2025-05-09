@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+fontalbe,Undirected,marine,7
+fontalbe,Undirected,ensemble,4
+fontalbe,Undirected,belinde,7
+fontalbe,Undirected,blaise,5
+marine,Undirected,ensemble,3
+marine,Undirected,blaise,7
+marine,Undirected,belinde,4
+ensemble,Undirected,belinde,3
+ensemble,Undirected,blaise,1
+blaise,Undirected,belinde,6

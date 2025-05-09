@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+nerine,Undirected,arlequin,4
+nerine,Undirected,arlequin-cadet,5
+nerine,Undirected,rosette,5
+arlequin,Undirected,rosette,7
+arlequin,Undirected,arlequin-cadet,5
+rosette,Undirected,arlequin-cadet,5

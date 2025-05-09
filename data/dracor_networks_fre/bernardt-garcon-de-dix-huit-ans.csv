@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+prosper,Undirected,eugenie,1
+prosper,Undirected,albert,1
+eugenie,Undirected,albert,1

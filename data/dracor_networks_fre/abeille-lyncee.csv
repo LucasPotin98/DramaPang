@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+iphis,Undirected,erigone,3
+iphis,Undirected,danaüs,2
+iphis,Undirected,hypermestre,1
+erigone,Undirected,dirce,3
+erigone,Undirected,danaüs,4
+erigone,Undirected,lyncee,1
+erigone,Undirected,hypermestre,3
+erigone,Undirected,lycaste,1
+danaüs,Undirected,lyncee,1
+danaüs,Undirected,hypermestre,5
+danaüs,Undirected,lycaste,1
+lyncee,Undirected,hypermestre,4
+hypermestre,Undirected,lycaste,1

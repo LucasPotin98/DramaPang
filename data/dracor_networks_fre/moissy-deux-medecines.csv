@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+mademoiselle-dubois,Undirected,le-petit-dusault,2
+mademoiselle-dubois,Undirected,mademoiselle-dusault,1
+mademoiselle-dubois,Undirected,la-petite-dusault,2
+mademoiselle-dubois,Undirected,madame-dusault,1
+le-petit-dusault,Undirected,mademoiselle-dusault,1
+le-petit-dusault,Undirected,la-petite-dusault,1
+mademoiselle-dusault,Undirected,la-petite-dusault,1
+la-petite-dusault,Undirected,madame-dusault,1

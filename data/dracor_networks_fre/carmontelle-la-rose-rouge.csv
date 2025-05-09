@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+monsieur-brossart,Undirected,madame-brossart,6
+monsieur-brossart,Undirected,monsieur-vinot,3
+monsieur-brossart,Undirected,bertrand,3
+madame-brossart,Undirected,bertrand,2
+madame-brossart,Undirected,monsieur-vinot,2

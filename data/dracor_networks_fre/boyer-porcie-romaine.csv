@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+brute,Undirected,maxime,2
+brute,Undirected,cassie,2
+brute,Undirected,porcie,4
+maxime,Undirected,porcie,3
+maxime,Undirected,tite,1
+maxime,Undirected,octave,1
+cassie,Undirected,julie,1
+cassie,Undirected,philipe,1
+porcie,Undirected,julie,3
+porcie,Undirected,philipe,1
+porcie,Undirected,octave,1
+julie,Undirected,philipe,1
+octave,Undirected,valere,2
+octave,Undirected,tite,1

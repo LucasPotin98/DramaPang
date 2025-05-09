@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+alfred,Undirected,philomele,6
+alfred,Undirected,paturon,5
+alfred,Undirected,gigolet,3
+alfred,Undirected,pervenche,1
+alfred,Undirected,giboulette,1
+philomele,Undirected,paturon,5
+philomele,Undirected,gigolet,3
+philomele,Undirected,pervenche,2
+philomele,Undirected,giboulette,2
+paturon,Undirected,gigolet,7
+paturon,Undirected,pervenche,4
+paturon,Undirected,giboulette,1
+gigolet,Undirected,giboulette,2
+gigolet,Undirected,pervenche,3
+pervenche,Undirected,giboulette,3

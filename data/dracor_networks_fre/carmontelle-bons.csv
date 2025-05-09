@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+monsieur-degrantier,Undirected,monsieur-dupont,5
+monsieur-degrantier,Undirected,delisle,4
+monsieur-degrantier,Undirected,l-abbe,1
+monsieur-degrantier,Undirected,monsieur-despres,1
+monsieur-degrantier,Undirected,madame-devillemare,1
+monsieur-degrantier,Undirected,monsieur-demerin,1
+monsieur-degrantier,Undirected,dubois,1
+monsieur-degrantier,Undirected,lafond,1
+monsieur-degrantier,Undirected,monsieur-hochepot,1
+monsieur-dupont,Undirected,monsieur-despres,1
+monsieur-dupont,Undirected,dubois,1
+monsieur-dupont,Undirected,lafond,1
+monsieur-dupont,Undirected,monsieur-hochepot,1
+delisle,Undirected,l-abbe,1
+delisle,Undirected,madame-devillemare,1
+dubois,Undirected,lafond,1

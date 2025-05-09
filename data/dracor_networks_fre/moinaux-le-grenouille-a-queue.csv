@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+le-narrateur,Undirected,madame-mirail,1
+le-narrateur,Undirected,la-prevenue,1
+le-narrateur,Undirected,monsieur-le-president,1
+madame-mirail,Undirected,la-prevenue,1
+madame-mirail,Undirected,monsieur-le-president,1
+la-prevenue,Undirected,monsieur-le-president,1

@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+oreste,Undirected,pylade,3
+oreste,Undirected,pyrrhus,2
+oreste,Undirected,hermione,4
+pyrrhus,Undirected,phoenix,4
+pyrrhus,Undirected,andromaque,2
+pyrrhus,Undirected,cephise,1
+pyrrhus,Undirected,hermione,1
+phoenix,Undirected,andromaque,1
+phoenix,Undirected,cephise,1
+andromaque,Undirected,hermione,1
+andromaque,Undirected,cephise,4
+hermione,Undirected,cleone,5

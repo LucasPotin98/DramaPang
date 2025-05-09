@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+fauste,Undirected,cornelie,8
+fauste,Undirected,chrispe,3
+fauste,Undirected,constantin,4
+fauste,Undirected,constance,1
+fauste,Undirected,une-des-filles,1
+fauste,Undirected,capitaine-des-gardes,1
+cornelie,Undirected,chrispe,3
+cornelie,Undirected,constance,1
+cornelie,Undirected,une-des-filles,1
+cornelie,Undirected,leonce,1
+chrispe,Undirected,constance,4
+chrispe,Undirected,constantin,2
+constance,Undirected,constantin,1
+constance,Undirected,une-des-filles,1
+constantin,Undirected,lactance,2
+constantin,Undirected,probe,1

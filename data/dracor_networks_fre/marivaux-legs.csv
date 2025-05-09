@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+le-chevalier,Undirected,hortense,6
+le-chevalier,Undirected,la-comtesse,5
+le-chevalier,Undirected,le-marquis,6
+le-chevalier,Undirected,lepine,2
+le-chevalier,Undirected,lisette,2
+hortense,Undirected,lisette,4
+hortense,Undirected,lepine,3
+hortense,Undirected,le-marquis,6
+hortense,Undirected,la-comtesse,6
+lisette,Undirected,lepine,6
+lisette,Undirected,le-marquis,3
+lisette,Undirected,la-comtesse,5
+lepine,Undirected,le-marquis,3
+lepine,Undirected,la-comtesse,4
+le-marquis,Undirected,la-comtesse,10

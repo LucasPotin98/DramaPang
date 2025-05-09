@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+juliette,Undirected,une-voix,1
+juliette,Undirected,la-voix,1
+une-voix,Undirected,la-voix,1

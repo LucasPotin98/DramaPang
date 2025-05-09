@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+atree,Undirected,eusysthene,2
+atree,Undirected,plisthene,6
+atree,Undirected,alcimedon,1
+atree,Undirected,theodamie,4
+atree,Undirected,thyeste,7
+plisthene,Undirected,thessandre,4
+plisthene,Undirected,theodamie,3
+plisthene,Undirected,thyeste,4
+thessandre,Undirected,thyeste,1
+theodamie,Undirected,leonide,1
+theodamie,Undirected,thyeste,4

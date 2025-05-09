@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+zopire,Undirected,phanor,5
+zopire,Undirected,palmire,5
+zopire,Undirected,omar,2
+zopire,Undirected,mahomet,1
+zopire,Undirected,seide,4
+phanor,Undirected,palmire,3
+phanor,Undirected,seide,2
+phanor,Undirected,omar,1
+palmire,Undirected,seide,9
+palmire,Undirected,omar,3
+palmire,Undirected,mahomet,5
+omar,Undirected,seide,3
+omar,Undirected,mahomet,6
+seide,Undirected,mahomet,4

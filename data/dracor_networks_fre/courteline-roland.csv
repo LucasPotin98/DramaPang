@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+piegele,Undirected,l-avertisseur,1
+piegele,Undirected,les-preux,1
+piegele,Undirected,le-souffleur,1
+piegele,Undirected,un-spectateur,1
+piegele,Undirected,le-public,1
+piegele,Undirected,le-regisseur,1
+les-preux,Undirected,le-souffleur,1
+les-preux,Undirected,un-spectateur,1
+les-preux,Undirected,le-public,1
+les-preux,Undirected,le-regisseur,1
+le-souffleur,Undirected,un-spectateur,1
+le-souffleur,Undirected,le-public,1
+le-souffleur,Undirected,le-regisseur,1
+un-spectateur,Undirected,le-public,1
+un-spectateur,Undirected,le-regisseur,1
+le-public,Undirected,le-regisseur,1

@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+theodore,Undirected,une-locataire,1
+theodore,Undirected,deuxieme-voisin,1
+theodore,Undirected,le-voisin,1
+theodore,Undirected,monsieur-couique,2
+theodore,Undirected,le-locataire,1
+une-locataire,Undirected,deuxieme-voisin,1
+une-locataire,Undirected,le-voisin,1
+deuxieme-voisin,Undirected,le-voisin,1
+monsieur-couique,Undirected,le-locataire,1

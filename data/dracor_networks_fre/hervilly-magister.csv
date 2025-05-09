@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+pinel,Undirected,poquelin,2
+pinel,Undirected,moliere,3
+poquelin,Undirected,moliere,1

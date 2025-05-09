@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+rasignac,Undirected,la-corne,3
+rasignac,Undirected,le-garçon,1
+la-corne,Undirected,le-garçon,1

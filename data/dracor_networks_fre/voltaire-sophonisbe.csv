@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+syphax,Undirected,sophonisbe,1
+sophonisbe,Undirected,phaedime,3
+sophonisbe,Undirected,actor,3
+sophonisbe,Undirected,massinisse,5
+sophonisbe,Undirected,scipion,1
+sophonisbe,Undirected,lelie,1
+phaedime,Undirected,massinisse,1
+phaedime,Undirected,scipion,1
+actor,Undirected,massinisse,2
+massinisse,Undirected,alamar,2
+massinisse,Undirected,lelie,3
+massinisse,Undirected,scipion,2
+lelie,Undirected,scipion,2

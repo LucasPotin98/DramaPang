@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+la-demoiselle-de-magasin,Undirected,la-dame-de-niort,1
+la-demoiselle-de-magasin,Undirected,le-commis-au-deuxieme-etage,1
+la-dame-de-niort,Undirected,le-commis-au-deuxieme-etage,1

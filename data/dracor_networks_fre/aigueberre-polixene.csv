@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+polixene,Undirected,aegine,3
+polixene,Undirected,pyrrhus,5
+polixene,Undirected,thessandre,1
+aegine,Undirected,pyrrhus,1
+pyrrhus,Undirected,thessandre,3

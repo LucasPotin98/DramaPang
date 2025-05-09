@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+lisandre,Undirected,beatrix,1
+lisandre,Undirected,le-docteur,1
+lisandre,Undirected,isabelle,1
+isabelle,Undirected,le-docteur,8
+isabelle,Undirected,le-poete,1
+isabelle,Undirected,le-peintre,1
+isabelle,Undirected,le-musicien,1
+isabelle,Undirected,le-capitan,1
+isabelle,Undirected,l-astrologue,1
+isabelle,Undirected,le-medecin,1
+le-docteur,Undirected,le-poete,1
+le-docteur,Undirected,le-peintre,1
+le-docteur,Undirected,le-musicien,1
+le-docteur,Undirected,le-capitan,1
+le-docteur,Undirected,l-astrologue,1
+le-docteur,Undirected,le-medecin,1

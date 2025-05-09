@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+ulric,Undirected,le-roi,2
+ulric,Undirected,clotalde,3
+ulric,Undirected,arlequin,3
+ulric,Undirected,sigismond,3
+le-roi,Undirected,clotalde,2
+le-roi,Undirected,arlequin,1
+le-roi,Undirected,sigismond,3
+le-roi,Undirected,sophronie,2
+clotalde,Undirected,sigismond,3
+clotalde,Undirected,arlequin,2
+arlequin,Undirected,sigismond,6
+arlequin,Undirected,roderic,2
+arlequin,Undirected,sophronie,2
+sigismond,Undirected,sophronie,3
+sigismond,Undirected,federic,1
+sophronie,Undirected,roderic,1

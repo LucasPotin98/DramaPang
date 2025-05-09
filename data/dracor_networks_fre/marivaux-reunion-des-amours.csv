@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+cupidon,Undirected,l-amour,3
+cupidon,Undirected,mercure,7
+cupidon,Undirected,plutus,1
+cupidon,Undirected,apollon,3
+cupidon,Undirected,minerve,3
+cupidon,Undirected,la-vertu,1
+l-amour,Undirected,minerve,1
+l-amour,Undirected,mercure,2
+l-amour,Undirected,la-vertu,1
+mercure,Undirected,plutus,1
+mercure,Undirected,apollon,6
+mercure,Undirected,la-verite,1
+mercure,Undirected,minerve,2
+mercure,Undirected,la-vertu,1
+apollon,Undirected,la-verite,1
+apollon,Undirected,minerve,1

@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+une-voix,Undirected,chamberlot,1
+une-voix,Undirected,blanc-misseron,1
+une-voix,Undirected,l-huissier,1
+chamberlot,Undirected,blanc-misseron,5
+chamberlot,Undirected,l-huissier,4
+blanc-misseron,Undirected,l-huissier,5

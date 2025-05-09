@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+silvandre,Undirected,coridon,1
+coridon,Undirected,menalque,1
+lycas,Undirected,iris,1
+lycas,Undirected,caliste,1
+lycas,Undirected,le-choeur,1
+iris,Undirected,caliste,2
+iris,Undirected,le-choeur,2
+iris,Undirected,daphnis,1
+iris,Undirected,l-echo,1
+caliste,Undirected,le-choeur,2
+caliste,Undirected,daphnis,1
+le-choeur,Undirected,daphnis,1

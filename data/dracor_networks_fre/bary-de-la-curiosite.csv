@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+une-dame,Undirected,dorilas,1
+une-dame,Undirected,une-autre-dame,1
+dorilas,Undirected,une-autre-dame,1

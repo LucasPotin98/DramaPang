@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+marius,Undirected,maxime,1
+marius,Undirected,cecilie,4
+marius,Undirected,pison,1
+marius,Undirected,sylla,2
+maxime,Undirected,cecilie,1
+cecilie,Undirected,marcelle,4
+cecilie,Undirected,sabine,2
+cecilie,Undirected,pison,2
+cecilie,Undirected,sylla,4
+cecilie,Undirected,octave,1
+cecilie,Undirected,pompee,5
+marcelle,Undirected,sabine,1
+marcelle,Undirected,pompee,1
+pison,Undirected,sylla,3
+sylla,Undirected,octave,1
+sylla,Undirected,pompee,2

@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+monsieur-du-bouloir,Undirected,lapierre,4
+monsieur-du-bouloir,Undirected,le-chevalier,3
+monsieur-du-bouloir,Undirected,madame-de-rupert,3
+lapierre,Undirected,le-chevalier,2
+lapierre,Undirected,madame-de-rupert,2
+le-chevalier,Undirected,madame-de-rupert,1

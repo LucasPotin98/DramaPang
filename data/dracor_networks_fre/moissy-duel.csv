@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+le-precepteur,Undirected,le-gouverneur,4
+le-precepteur,Undirected,le-petit-chevalier,2
+le-precepteur,Undirected,le-petit-marquis,2
+le-precepteur,Undirected,mademoiselle-d-urzy,1
+le-gouverneur,Undirected,le-petit-chevalier,2
+le-gouverneur,Undirected,le-petit-marquis,2
+le-gouverneur,Undirected,mademoiselle-d-urzy,1
+le-petit-marquis,Undirected,le-petit-chevalier,3
+le-petit-marquis,Undirected,mademoiselle-d-urzy,1
+le-petit-chevalier,Undirected,mademoiselle-d-urzy,1

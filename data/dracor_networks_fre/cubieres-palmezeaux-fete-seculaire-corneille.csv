@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+alcipe,Undirected,philiste,1
+alcipe,Undirected,thalie,2
+thalie,Undirected,ariste,1
+thalie,Undirected,melpomene,4
+thalie,Undirected,cliton,1
+thalie,Undirected,le-temps,1
+melpomene,Undirected,cliton,1
+melpomene,Undirected,le-grec,1
+melpomene,Undirected,le-romain,1
+melpomene,Undirected,rodrigue,1
+melpomene,Undirected,le-temps,1
+le-grec,Undirected,le-romain,1
+le-grec,Undirected,rodrigue,1
+le-romain,Undirected,rodrigue,1

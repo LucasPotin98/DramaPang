@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+narrateur,Undirected,monsieur-le-president,1
+narrateur,Undirected,le-prevenu,1
+narrateur,Undirected,l-agent,1
+monsieur-le-president,Undirected,le-prevenu,1
+monsieur-le-president,Undirected,l-agent,1
+le-prevenu,Undirected,l-agent,1

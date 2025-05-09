@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+isabelle,Undirected,marine,5
+isabelle,Undirected,tersandre,3
+isabelle,Undirected,panfile,2
+isabelle,Undirected,ragotin,2
+isabelle,Undirected,le-docteur,1
+marine,Undirected,panfile,3
+marine,Undirected,tersandre,3
+marine,Undirected,ragotin,2
+marine,Undirected,le-docteur,1
+panfile,Undirected,tersandre,2
+panfile,Undirected,ragotin,2
+panfile,Undirected,le-docteur,1
+tersandre,Undirected,ragotin,2
+tersandre,Undirected,le-docteur,1
+ragotin,Undirected,le-docteur,1
+la-fleur,Undirected,la-roque,1

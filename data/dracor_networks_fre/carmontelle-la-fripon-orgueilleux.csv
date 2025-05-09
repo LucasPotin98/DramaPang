@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+madame-de-clersel,Undirected,monsieur-bouffi,3
+madame-de-clersel,Undirected,le-brun,2
+madame-de-clersel,Undirected,le-baron,4
+madame-de-clersel,Undirected,le-duc,5
+madame-de-clersel,Undirected,le-comte,2
+monsieur-bouffi,Undirected,le-brun,2
+monsieur-bouffi,Undirected,le-baron,1
+monsieur-bouffi,Undirected,le-duc,2
+le-brun,Undirected,le-baron,2
+le-brun,Undirected,le-duc,2
+le-baron,Undirected,le-duc,4
+le-baron,Undirected,le-comte,2
+le-duc,Undirected,le-comte,2

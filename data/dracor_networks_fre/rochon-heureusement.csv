@@ -1,0 +1,8 @@
+Source,Type,Target,Weight
+madame-lisban,Undirected,marthon,5
+madame-lisban,Undirected,monsieur-lisban,3
+madame-lisban,Undirected,pasquin,1
+madame-lisban,Undirected,lindor,1
+marthon,Undirected,monsieur-lisban,1
+marthon,Undirected,pasquin,1
+marthon,Undirected,lindor,2

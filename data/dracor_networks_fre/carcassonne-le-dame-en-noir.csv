@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+pierre,Undirected,la-dame,4
+pierre,Undirected,andre,3
+la-dame,Undirected,andre,2

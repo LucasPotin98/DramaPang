@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+albine,Undirected,agrippine,3
+albine,Undirected,burrhus,1
+agrippine,Undirected,burrhus,7
+agrippine,Undirected,britannicus,3
+agrippine,Undirected,neron,2
+agrippine,Undirected,junie,2
+agrippine,Undirected,narcisse,1
+burrhus,Undirected,neron,3
+burrhus,Undirected,junie,1
+britannicus,Undirected,narcisse,2
+britannicus,Undirected,junie,4
+britannicus,Undirected,neron,1
+narcisse,Undirected,neron,5
+narcisse,Undirected,junie,1
+neron,Undirected,junie,4

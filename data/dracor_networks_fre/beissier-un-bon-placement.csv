@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+berthe,Undirected,la-marquise,4
+berthe,Undirected,lucette,2
+la-marquise,Undirected,lucette,1

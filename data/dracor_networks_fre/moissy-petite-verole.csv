@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+madame-larcis,Undirected,madame-durce,4
+madame-larcis,Undirected,mademoiselle-larcis,3
+madame-larcis,Undirected,monsieur-durce,1
+madame-durce,Undirected,mademoiselle-larcis,3
+madame-durce,Undirected,monsieur-durce,1
+mademoiselle-larcis,Undirected,monsieur-durce,1

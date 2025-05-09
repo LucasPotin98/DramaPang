@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+le-mandarin,Undirected,egle,2
+le-mandarin,Undirected,zaïde,2
+le-mandarin,Undirected,hamsi,1
+le-mandarin,Undirected,noureddin,1
+egle,Undirected,zaïde,5
+egle,Undirected,hamsi,3
+egle,Undirected,noureddin,2
+zaïde,Undirected,hamsi,3
+zaïde,Undirected,noureddin,3
+hamsi,Undirected,noureddin,2

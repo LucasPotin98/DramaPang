@@ -1,0 +1,3 @@
+Source,Type,Target,Weight
+l-actrice,Undirected,le-poete,1
+le-poete,Undirected,moliere,1

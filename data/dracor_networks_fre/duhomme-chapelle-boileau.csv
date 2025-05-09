@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+chapelle,Undirected,boileau,1
+chapelle,Undirected,la-servante,1
+boileau,Undirected,la-servante,1

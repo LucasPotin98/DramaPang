@@ -1,0 +1,5 @@
+Source,Type,Target,Weight
+blinval,Undirected,d-orfeuil,2
+blinval,Undirected,la-fleur,1
+blinval,Undirected,durand,2
+d-orfeuil,Undirected,durand,2

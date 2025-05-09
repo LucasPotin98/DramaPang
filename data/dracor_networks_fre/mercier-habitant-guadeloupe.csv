@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+dortigni,Undirected,madame-dortigni,7
+dortigni,Undirected,le-laquais,1
+dortigni,Undirected,vanglenne,3
+dortigni,Undirected,mulson,1
+dortigni,Undirected,madame-milville,2
+madame-dortigni,Undirected,le-laquais,1
+madame-dortigni,Undirected,vanglenne,3
+madame-dortigni,Undirected,mulson,1
+madame-dortigni,Undirected,madame-milville,3
+vanglenne,Undirected,madame-milville,5
+vanglenne,Undirected,brigitte,1
+vanglenne,Undirected,le-domestique,1
+vanglenne,Undirected,mulson,1
+brigitte,Undirected,madame-milville,4

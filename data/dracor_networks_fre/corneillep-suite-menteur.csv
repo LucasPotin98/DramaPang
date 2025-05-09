@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+cliton,Undirected,dorante,18
+cliton,Undirected,lyse,6
+cliton,Undirected,philiste,5
+cliton,Undirected,cleandre,2
+cliton,Undirected,melisse,3
+dorante,Undirected,lyse,6
+dorante,Undirected,cleandre,4
+dorante,Undirected,prevot,1
+dorante,Undirected,philiste,7
+dorante,Undirected,melisse,6
+lyse,Undirected,melisse,7
+lyse,Undirected,philiste,2
+cleandre,Undirected,prevot,1
+cleandre,Undirected,melisse,3
+cleandre,Undirected,philiste,1
+melisse,Undirected,philiste,3

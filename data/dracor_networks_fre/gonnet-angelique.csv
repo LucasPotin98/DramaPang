@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+angelique,Undirected,emilie,2
+angelique,Undirected,celina,1
+emilie,Undirected,celina,1

@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+eraste,Undirected,clarice,2
+eraste,Undirected,lisidor,2
+clarice,Undirected,lisidor,1
+lisidor,Undirected,picard,2
+lisidor,Undirected,isabelle,1

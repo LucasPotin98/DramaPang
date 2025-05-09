@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+flore,Undirected,monsieur-salle,1
+flore,Undirected,le-patre,1
+flore,Undirected,le-capitaine,1
+monsieur-salle,Undirected,le-patre,1
+marotte,Undirected,lucas,1
+lucas,Undirected,lubine,1

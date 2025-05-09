@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+cleofile,Undirected,taxile,3
+cleofile,Undirected,ephestion,2
+cleofile,Undirected,axiane,3
+cleofile,Undirected,alexandre,4
+cleofile,Undirected,porus,1
+taxile,Undirected,porus,3
+taxile,Undirected,ephestion,1
+taxile,Undirected,axiane,3
+taxile,Undirected,alexandre,1
+porus,Undirected,axiane,3
+porus,Undirected,ephestion,2
+porus,Undirected,alexandre,1
+axiane,Undirected,alexandre,3
+axiane,Undirected,ephestion,1
+ephestion,Undirected,alexandre,2

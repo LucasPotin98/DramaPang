@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+moliere,Undirected,la-vieille-thalie,2
+moliere,Undirected,la-jeune-thalie,1
+la-vieille-thalie,Undirected,la-jeune-thalie,1

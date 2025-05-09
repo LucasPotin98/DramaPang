@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+le-medecin,Undirected,la-mouilette,1
+le-medecin,Undirected,le-premier-temoin,1
+la-mouilette,Undirected,le-premier-temoin,1

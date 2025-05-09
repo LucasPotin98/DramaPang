@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+sganarelle,Undirected,geronimo,2
+sganarelle,Undirected,dorimene,2
+sganarelle,Undirected,pancrace,1
+sganarelle,Undirected,marphurius,1
+sganarelle,Undirected,premiere-egyptienne,1
+sganarelle,Undirected,deuxieme-egyptienne,1
+sganarelle,Undirected,les-deux-egyptiennes,1
+sganarelle,Undirected,lycaste,1
+sganarelle,Undirected,alcantor,1
+sganarelle,Undirected,alcidas,1
+dorimene,Undirected,lycaste,1
+premiere-egyptienne,Undirected,deuxieme-egyptienne,1
+premiere-egyptienne,Undirected,les-deux-egyptiennes,1
+deuxieme-egyptienne,Undirected,les-deux-egyptiennes,1
+alcantor,Undirected,alcidas,1

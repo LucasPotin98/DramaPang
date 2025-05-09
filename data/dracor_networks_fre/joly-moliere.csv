@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+moliere,Undirected,mademoiselle-moliere,2
+moliere,Undirected,le-marquis,1
+mademoiselle-moliere,Undirected,le-marquis,1

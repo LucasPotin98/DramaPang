@@ -1,0 +1,5 @@
+Source,Type,Target,Weight
+la-fee,Undirected,alcindor,3
+la-fee,Undirected,lucinde,4
+la-fee,Undirected,autre,1
+alcindor,Undirected,lucinde,2

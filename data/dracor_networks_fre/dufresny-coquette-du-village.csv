@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+girard,Undirected,la-veuve,4
+girard,Undirected,lucas,3
+girard,Undirected,le-baron,2
+girard,Undirected,argan,1
+girard,Undirected,lisette,1
+la-veuve,Undirected,lucas,3
+la-veuve,Undirected,lisette,4
+la-veuve,Undirected,argan,4
+la-veuve,Undirected,le-baron,4
+lucas,Undirected,lisette,7
+lucas,Undirected,le-baron,4
+lucas,Undirected,argan,1
+lisette,Undirected,le-baron,6
+lisette,Undirected,argan,5
+le-baron,Undirected,argan,2

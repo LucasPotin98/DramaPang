@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+lucinde,Undirected,nerine,3
+lucinde,Undirected,le-chevalier,3
+lucinde,Undirected,lisimon,2
+nerine,Undirected,le-chevalier,2
+nerine,Undirected,lisimon,1
+le-chevalier,Undirected,lisimon,2

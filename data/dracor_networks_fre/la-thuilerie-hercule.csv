@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+hercule,Undirected,lycas,4
+hercule,Undirected,philoctete,8
+hercule,Undirected,agis,1
+hercule,Undirected,dejanire,2
+hercule,Undirected,iole,4
+hercule,Undirected,cleon,1
+lycas,Undirected,dejanire,1
+philoctete,Undirected,agis,1
+philoctete,Undirected,cleon,2
+philoctete,Undirected,iole,3
+philoctete,Undirected,dejanire,1
+philoctete,Undirected,phenice,1
+iole,Undirected,dirce,3
+iole,Undirected,dejanire,1
+dejanire,Undirected,phenice,4

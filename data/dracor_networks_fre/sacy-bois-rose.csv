@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+le-marquis,Undirected,laforest,3
+le-marquis,Undirected,monsieur-discret,4
+le-marquis,Undirected,la-veuve,1
+le-marquis,Undirected,la-forest,1
+le-marquis,Undirected,bois-rose,2
+le-marquis,Undirected,monsieur-de-rosny,1
+laforest,Undirected,la-forest,1
+laforest,Undirected,monsieur-discret,1
+monsieur-discret,Undirected,la-veuve,1
+monsieur-discret,Undirected,la-forest,1
+bois-rose,Undirected,monsieur-de-rosny,3

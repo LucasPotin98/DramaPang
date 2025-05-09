@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+roseleur,Undirected,gerbier,1
+roseleur,Undirected,la-bonne,1
+roseleur,Undirected,laure,1
+roseleur,Undirected,genouvier,1
+roseleur,Undirected,genouvrier,1
+gerbier,Undirected,la-bonne,1
+gerbier,Undirected,laure,1
+gerbier,Undirected,genouvier,1
+gerbier,Undirected,genouvrier,1
+la-bonne,Undirected,laure,1
+la-bonne,Undirected,genouvier,1
+la-bonne,Undirected,genouvrier,1
+laure,Undirected,genouvier,1
+laure,Undirected,genouvrier,1
+genouvier,Undirected,genouvrier,1

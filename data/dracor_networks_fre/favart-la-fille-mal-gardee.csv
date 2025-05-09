@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+le-magister,Undirected,madame-bobinette,5
+le-magister,Undirected,nicolette,7
+le-magister,Undirected,lindor,3
+le-magister,Undirected,ensemble,2
+le-magister,Undirected,tous,1
+madame-bobinette,Undirected,nicolette,6
+madame-bobinette,Undirected,lindor,3
+madame-bobinette,Undirected,ensemble,1
+madame-bobinette,Undirected,tous,1
+nicolette,Undirected,lindor,5
+nicolette,Undirected,ensemble,2
+nicolette,Undirected,tous,1
+lindor,Undirected,ensemble,1
+lindor,Undirected,tous,1
+ensemble,Undirected,tous,1

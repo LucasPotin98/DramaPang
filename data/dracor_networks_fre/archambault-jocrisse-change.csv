@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+jocrisse,Undirected,le-colporteur,3
+jocrisse,Undirected,dupont,9
+jocrisse,Undirected,dorval,6
+jocrisse,Undirected,madame-dupont,7
+jocrisse,Undirected,ursule,5
+jocrisse,Undirected,glaude,1
+dupont,Undirected,dorval,10
+dupont,Undirected,madame-dupont,11
+dupont,Undirected,ursule,4
+dorval,Undirected,madame-dupont,10
+dorval,Undirected,ursule,2
+madame-dupont,Undirected,ursule,5

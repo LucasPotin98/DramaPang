@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+abraham,Undirected,ephrem,4
+abraham,Undirected,marie,5
+abraham,Undirected,l-ami,1
+abraham,Undirected,l-hotelier,2
+ephrem,Undirected,marie,1
+marie,Undirected,l-hotelier,1

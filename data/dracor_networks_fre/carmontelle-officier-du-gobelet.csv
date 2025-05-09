@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+monsieur-du-parc,Undirected,monsieur-de-saint-brice,2
+monsieur-du-parc,Undirected,marianne,1
+monsieur-de-saint-brice,Undirected,marianne,2
+monsieur-de-saint-brice,Undirected,la-voix,1
+monsieur-de-saint-brice,Undirected,monsieur-de-plaveau,2

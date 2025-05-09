@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+eugenie,Undirected,angelique,2
+eugenie,Undirected,madame-robert,2
+eugenie,Undirected,monsieur-dubreuil,3
+angelique,Undirected,monsieur-dubreuil,1
+madame-robert,Undirected,monsieur-dubreuil,1

@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+la-folie,Undirected,la-raison,2
+la-raison,Undirected,damon,1
+la-raison,Undirected,le-bourgeois,1
+la-raison,Undirected,la-vieille,1
+la-raison,Undirected,le-philosophe,1
+la-raison,Undirected,le-suisse,1
+la-raison,Undirected,la-mere,2
+la-raison,Undirected,la-fille,2
+la-raison,Undirected,l-amant,1
+damon,Undirected,le-bourgeois,1
+la-mere,Undirected,la-fille,2
+la-mere,Undirected,l-amant,1
+la-fille,Undirected,l-amant,1
