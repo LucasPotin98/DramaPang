@@ -54,15 +54,6 @@ Voici les grandes étapes du processus, du traitement des données à la prédic
 
 ---
 
-## Fonctionnalités clés
-
-- 🔍 Visualisez chaque graphe de personnages avec couleurs et légendes
-- 🧠 Testez différents scores de qualité pour les motifs
-- 🌳 Obtenez des prédictions interprétables via un arbre de décision
-- 🧩 Analysez les **motifs discriminants** pièce par pièce
-
----
-
 ## Données
 
 - **400 pièces** issues de DraCor : 200 comédies, 200 tragédies  
