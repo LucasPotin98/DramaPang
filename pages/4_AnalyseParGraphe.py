@@ -1,23 +1,13 @@
 import streamlit as st
 import matplotlib.pyplot as plt
 
-from pang.db import (
-    get_connection,
-    get_dataset_id,
-    get_graphs_for_dataset,
-    get_pattern_dict_for_dataset,
-    get_patterns_for_graph
-)
-from pang.utils import gspan_to_networkx, draw_graph
-from pang.predict import load_model, predict, get_decision_path, constructRepresentation
-from pang.classify import computePerfs
+
 
 # === CONFIGURATION DE LA PAGE ===
 st.set_page_config(page_title="Analyse par graphe", layout="wide")
 st.header("🔍 Analyse d’une pièce")
 
-# === Connexion base de données et chargement des ressources ===
-conn = get_connection()
+
 dataset_choice = "dracor"
 dataset_id = get_dataset_id(conn, dataset_choice)
 df_graphs = get_graphs_for_dataset(conn, dataset_id)

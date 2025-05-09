@@ -6,10 +6,11 @@ def plot_character_graph(G, title=None, node_names=None):
 
     # === 1. Traces pour les arêtes, par type de poids ===
     edge_traces = {
-        "Poids 1": {"x": [], "y": [], "color": "gray"},
-        "Poids 2–5": {"x": [], "y": [], "color": "black"},
-        "Poids >5": {"x": [], "y": [], "color": "red"},
-    }
+    "Faible interaction (1 fois)": {"x": [], "y": [], "color": "gray"},
+    "Interaction modérée (2 à 5 fois)": {"x": [], "y": [], "color": "black"},
+    "Forte interaction (> 5 fois)": {"x": [], "y": [], "color": "red"},
+}
+
 
     for u, v, data in G.edges(data=True):
         x0, y0 = pos[u]
@@ -17,11 +18,11 @@ def plot_character_graph(G, title=None, node_names=None):
         weight = data.get("color", 1)
 
         if weight == 1:
-            key = "Poids 1"
+            key = "Faible interaction (1 fois)"
         elif weight == 2:
-            key = "Poids 2–5"
+            key = "Interaction modérée (2 à 5 fois)"
         else:
-            key = "Poids >5"
+            key = "Forte interaction (> 5 fois)"
 
         edge_traces[key]["x"].extend([x0, x1, None])
         edge_traces[key]["y"].extend([y0, y1, None])
