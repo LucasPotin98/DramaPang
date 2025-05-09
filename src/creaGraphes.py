@@ -4,7 +4,7 @@ import os
 
 NETWORK_DIR = "../data/dracor_networks_fre"
 CHARACTER_DIR = "../data/dracor_characters_fre"
-METADATA_FILE = "fredracor.csv"
+METADATA_FILE = "../data/metadata_dracor.csv"
 
 GSPAN_FILE = "dracor_dataset.txt"
 LABEL_FILE = "dracor_labels.txt"
