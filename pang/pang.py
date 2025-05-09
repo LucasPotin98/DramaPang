@@ -2,6 +2,7 @@ from pang.loading import readLabels, load_graphs, read_Sizegraph
 from pang.vectorize import ComputeRepresentationComplete, select_top_k_columns
 from pang.measures import get_measure_function
 from pang.classify import evaluate_classifier
+import pickle
 
 def pang_load_and_represent(FILEGRAPHS, FILESUBGRAPHS, FILELABEL):
     """
@@ -41,6 +42,22 @@ def load_titles(FILETITLES):
     with open(FILETITLES, 'r', encoding='utf-8') as f:
         titles = f.readlines()
     return titles
+
+
+
+def load_model(model_path):
+    """
+    Charge un modèle sérialisé depuis un fichier pickle.
+
+    Args:
+        model_path (str): Chemin vers le fichier .pkl contenant le modèle.
+
+    Returns:
+        sklearn.base.BaseEstimator: Modèle entraîné chargé.
+    """
+    with open(model_path, "rb") as f:
+        model = pickle.load(f)
+    return model
 
 def compute_scores(X, labels, measure="AbsSupDif"):
     """

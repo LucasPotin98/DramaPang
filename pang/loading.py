@@ -1,6 +1,7 @@
 import re
 import networkx as nx
 import numpy as np
+import pickle
 
 
 def read_Sizegraph(fileName):
@@ -127,3 +128,18 @@ def readLabels(fileLabel):
             labels.append(min(int(lab),1))
         numero=numero+1
     return labels
+
+
+def load_model(model_path):
+    """
+    Charge un modèle sérialisé depuis un fichier pickle.
+
+    Args:
+        model_path (str): Chemin vers le fichier .pkl contenant le modèle.
+
+    Returns:
+        sklearn.base.BaseEstimator: Modèle entraîné chargé.
+    """
+    with open(model_path, "rb") as f:
+        model = pickle.load(f)
+    return model

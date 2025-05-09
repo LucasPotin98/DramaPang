@@ -1,5 +1,9 @@
 import plotly.graph_objects as go
 import networkx as nx
+from sklearn.tree import plot_tree
+import matplotlib.pyplot as plt
+import numpy as np
+import re
 
 def plot_character_graph(G, title=None, node_names=None):
     pos = nx.spring_layout(G, seed=42)
@@ -101,5 +105,50 @@ def plot_character_graph(G, title=None, node_names=None):
         yaxis=dict(showgrid=False, zeroline=False, showticklabels=False),
         showlegend=True
     )
+
+    return fig
+
+
+
+def plot_decision_tree_highlighted(model, X_instance, feature_names=None, class_names=None, max_depth=4):
+    """
+    Affiche l'arbre de décision avec les nœuds du chemin de décision surlignés en rouge.
+
+    Args:
+        model: un modèle sklearn DecisionTreeClassifier déjà entraîné
+        X_instance: vecteur numpy 1D représentant une pièce (exemple unique)
+        feature_names: liste des noms des features (motifs)
+        class_names: liste des classes (["Tragédie", "Comédie"])
+        max_depth: profondeur maximale d'affichage
+    """
+    # Étape 1 : récupération du chemin
+    path_nodes = model.decision_path(X_instance.reshape(1, -1)).indices
+
+    # Étape 2 : affichage de l'arbre avec les IDs de nœud visibles
+    fig, ax = plt.subplots(figsize=(18, 6))
+    plot_tree(
+        model,
+        feature_names=feature_names,
+        class_names=class_names,
+        max_depth=max_depth,
+        filled=True,
+        rounded=True,
+        impurity=False,
+        fontsize=10,
+        ax=ax,
+        node_ids=True  # nécessaire pour récupérer l'id du noeud
+    )
+
+    # Étape 3 : surlignage des nœuds du chemin
+    for text in ax.texts:
+        s = text.get_text()
+        match = re.search(r'#(\d+)', s)  # récupère le numéro du noeud
+        if match:
+            node_id = int(match.group(1))
+            if node_id in path_nodes:
+                bbox = text.get_bbox_patch()
+                if bbox:
+                    bbox.set_edgecolor("red")
+                    bbox.set_linewidth(3)
 
     return fig
