@@ -1,0 +1,8 @@
+Source,Type,Target,Weight
+le-gentilhomme,Undirected,gillette,3
+le-gentilhomme,Undirected,maturin,1
+gillette,Undirected,la-demoiselle,2
+gillette,Undirected,maturin,2
+gillette,Undirected,maitre-josse,1
+la-demoiselle,Undirected,maturin,1
+maturin,Undirected,maitre-josse,2

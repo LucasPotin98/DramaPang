@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+emilie,Undirected,hubert,1
+emilie,Undirected,marcellin,4
+emilie,Undirected,henriette,3
+emilie,Undirected,monsieur-de-beauval,3
+emilie,Undirected,madame-de-joinville,1
+hubert,Undirected,marcellin,1
+hubert,Undirected,monsieur-de-beauval,1
+marcellin,Undirected,henriette,3
+marcellin,Undirected,monsieur-de-beauval,4
+marcellin,Undirected,madame-de-joinville,1
+henriette,Undirected,monsieur-de-beauval,2
+henriette,Undirected,madame-de-joinville,1
+monsieur-de-beauval,Undirected,madame-de-joinville,1

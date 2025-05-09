@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+diogene,Undirected,scapin,2
+diogene,Undirected,diogoene,1
+scapin,Undirected,diogoene,1

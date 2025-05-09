@@ -1,0 +1,5 @@
+Source,Type,Target,Weight
+le-serviteur,Undirected,la-femme,2
+la-femme,Undirected,le-statuaire,1
+la-femme,Undirected,choeur-des-jeunes-paysannes,1
+le-statuaire,Undirected,choeur-des-jeunes-paysannes,1

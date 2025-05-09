@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+la-critique,Undirected,le-suivant-d-apollon,1
+la-critique,Undirected,belise,1
+la-critique,Undirected,l-arlequin-français,2
+la-critique,Undirected,l-arlequin-italien,1
+la-critique,Undirected,le-marquis,1
+la-critique,Undirected,filemon,2
+la-critique,Undirected,l-auteur,1
+l-arlequin-français,Undirected,l-arlequin-italien,1
+filemon,Undirected,l-auteur,1

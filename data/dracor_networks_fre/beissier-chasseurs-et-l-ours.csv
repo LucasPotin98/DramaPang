@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+guignol,Undirected,le-gendarme,3
+guignol,Undirected,le-commissaire,2
+le-gendarme,Undirected,le-commissaire,2

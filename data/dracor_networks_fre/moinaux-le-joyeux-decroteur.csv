@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+le-temoin,Undirected,le-sergent-de-ville,1
+le-temoin,Undirected,monsieur-le-president,1
+le-temoin,Undirected,le-prevenu,1
+le-sergent-de-ville,Undirected,monsieur-le-president,1
+le-sergent-de-ville,Undirected,le-prevenu,1
+monsieur-le-president,Undirected,le-prevenu,1

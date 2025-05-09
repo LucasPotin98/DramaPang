@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+crates,Undirected,euphemon,3
+crates,Undirected,denys,3
+crates,Undirected,ramnes,1
+euphemon,Undirected,denys,4
+euphemon,Undirected,le-patron,1
+euphemon,Undirected,ramnes,1
+denys,Undirected,le-patron,1
+denys,Undirected,ramnes,1

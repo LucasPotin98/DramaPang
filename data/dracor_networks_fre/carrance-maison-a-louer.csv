@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+marthe,Undirected,pierre,7
+marthe,Undirected,raphaël,5
+pierre,Undirected,raphaël,3

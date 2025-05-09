@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+monsieur-despres,Undirected,madame-minot,4
+monsieur-despres,Undirected,monsieur-dupont,3
+monsieur-despres,Undirected,claude,1
+monsieur-despres,Undirected,monsieur-guarini,1
+madame-minot,Undirected,monsieur-dupont,3
+madame-minot,Undirected,claude,1
+madame-minot,Undirected,monsieur-guarini,1
+monsieur-dupont,Undirected,claude,1
+monsieur-dupont,Undirected,monsieur-guarini,1

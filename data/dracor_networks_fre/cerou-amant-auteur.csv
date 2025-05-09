@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+eraste,Undirected,frontin,5
+eraste,Undirected,lisette,7
+eraste,Undirected,mondor,5
+eraste,Undirected,lucinde,6
+frontin,Undirected,lisette,3
+frontin,Undirected,lucinde,2
+frontin,Undirected,mondor,2
+lisette,Undirected,mondor,6
+lisette,Undirected,lucinde,5
+mondor,Undirected,lucinde,6

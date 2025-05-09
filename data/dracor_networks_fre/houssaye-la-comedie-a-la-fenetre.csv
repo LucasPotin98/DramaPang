@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+l-etudiant,Undirected,rosine,7
+l-etudiant,Undirected,henri,5
+l-etudiant,Undirected,le-groom,2
+l-etudiant,Undirected,madame----,3
+rosine,Undirected,henri,4
+rosine,Undirected,le-groom,2
+rosine,Undirected,madame----,2
+henri,Undirected,le-groom,2
+henri,Undirected,madame----,3

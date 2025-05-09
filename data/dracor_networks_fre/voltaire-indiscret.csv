@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+euphemie,Undirected,damis,1
+damis,Undirected,trasimon,3
+damis,Undirected,un-laquais,1
+damis,Undirected,clitandre,4
+damis,Undirected,pasquin,2
+damis,Undirected,hortense,5
+trasimon,Undirected,clitandre,2
+trasimon,Undirected,hortense,2
+trasimon,Undirected,nerine,1
+clitandre,Undirected,pasquin,3
+clitandre,Undirected,hortense,1
+pasquin,Undirected,hortense,2
+pasquin,Undirected,nerine,1
+hortense,Undirected,nerine,3

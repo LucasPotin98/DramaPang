@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+la-fee,Undirected,melinde,3
+la-fee,Undirected,iphise,2
+la-fee,Undirected,cenie,2
+melinde,Undirected,cenie,3
+melinde,Undirected,iphise,3
+cenie,Undirected,iphise,4

@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+papaver,Undirected,fanchette,5
+papaver,Undirected,le-magister,2
+papaver,Undirected,titine,4
+papaver,Undirected,tous,1
+fanchette,Undirected,titine,2
+fanchette,Undirected,le-magister,1
+fanchette,Undirected,tous,1
+le-magister,Undirected,tous,1
+le-magister,Undirected,titine,1
+titine,Undirected,tous,1

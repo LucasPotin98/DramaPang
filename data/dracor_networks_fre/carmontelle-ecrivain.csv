@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+monsieur-dubois-fils,Undirected,mademoiselle-janneton,5
+monsieur-dubois-fils,Undirected,monsieur-dubois-pere,3
+monsieur-dubois-fils,Undirected,madame-de-l-aiguille,4
+monsieur-dubois-fils,Undirected,monsieur-discret,2
+mademoiselle-janneton,Undirected,madame-de-l-aiguille,9
+mademoiselle-janneton,Undirected,monsieur-dubois-pere,4
+mademoiselle-janneton,Undirected,nicolas,1
+mademoiselle-janneton,Undirected,monsieur-discret,1
+madame-de-l-aiguille,Undirected,monsieur-dubois-pere,4
+madame-de-l-aiguille,Undirected,nicolas,1
+madame-de-l-aiguille,Undirected,monsieur-discret,1
+monsieur-dubois-pere,Undirected,monsieur-discret,1

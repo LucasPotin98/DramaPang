@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+briseis,Undirected,pyrrhus,8
+briseis,Undirected,polixene,3
+briseis,Undirected,achille,2
+briseis,Undirected,phenice,3
+briseis,Undirected,antilochus,1
+briseis,Undirected,alcime,1
+pyrrhus,Undirected,polixene,5
+pyrrhus,Undirected,achille,2
+pyrrhus,Undirected,antilochus,3
+polixene,Undirected,achille,1
+polixene,Undirected,ilione,1
+alcime,Undirected,achille,4
+alcime,Undirected,phenice,1

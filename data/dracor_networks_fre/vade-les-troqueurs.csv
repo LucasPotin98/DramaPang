@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+lubin,Undirected,lucas,3
+lubin,Undirected,fanchon,2
+lubin,Undirected,margot,3
+lucas,Undirected,fanchon,2
+lucas,Undirected,margot,3
+fanchon,Undirected,margot,2

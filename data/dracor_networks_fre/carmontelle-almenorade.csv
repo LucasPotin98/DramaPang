@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+le-sultan,Undirected,hassan,1
+le-sultan,Undirected,le-souffleur,2
+le-sultan,Undirected,almenorade,2
+le-sultan,Undirected,orcanor,1
+hassan,Undirected,le-souffleur,1
+le-souffleur,Undirected,almenorade,1
+le-souffleur,Undirected,orcanor,1
+almenorade,Undirected,elmire,1
+almenorade,Undirected,orcanor,2

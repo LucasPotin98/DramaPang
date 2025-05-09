@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+alcipe,Undirected,lisimon,4
+alcipe,Undirected,emilie,2
+alcipe,Undirected,lisette,2
+alcipe,Undirected,clitandre,1
+alcipe,Undirected,l-etheree,2
+alcipe,Undirected,pasquin,2
+lisimon,Undirected,lisette,2
+lisimon,Undirected,emilie,1
+lisimon,Undirected,pasquin,2
+lisimon,Undirected,l-etheree,3
+lisette,Undirected,emilie,3
+lisette,Undirected,clitandre,3
+lisette,Undirected,pasquin,3
+emilie,Undirected,clitandre,1
+clitandre,Undirected,pasquin,1
+pasquin,Undirected,l-etheree,4

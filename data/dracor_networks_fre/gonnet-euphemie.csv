@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+euphemie,Undirected,paula,2
+euphemie,Undirected,julienne,1
+paula,Undirected,julienne,1

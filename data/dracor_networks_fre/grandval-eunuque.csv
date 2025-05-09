@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+isabelle,Undirected,cassandre,4
+isabelle,Undirected,colombine,5
+isabelle,Undirected,le-docteur,4
+isabelle,Undirected,leandre,3
+isabelle,Undirected,tous-les-acteurs,1
+cassandre,Undirected,colombine,4
+cassandre,Undirected,le-docteur,3
+cassandre,Undirected,leandre,2
+cassandre,Undirected,tous-les-acteurs,1
+colombine,Undirected,le-docteur,3
+colombine,Undirected,leandre,2
+colombine,Undirected,tous-les-acteurs,1
+le-docteur,Undirected,leandre,2
+le-docteur,Undirected,tous-les-acteurs,1
+leandre,Undirected,tous-les-acteurs,1

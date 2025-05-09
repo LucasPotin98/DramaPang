@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+madame-de-verneuil,Undirected,landry,6
+madame-de-verneuil,Undirected,barberin,9
+madame-de-verneuil,Undirected,guerland,4
+madame-de-verneuil,Undirected,madame-de-valdaunaie,3
+landry,Undirected,barberin,5
+landry,Undirected,guerland,3
+landry,Undirected,madame-de-valdaunaie,2
+barberin,Undirected,guerland,11
+barberin,Undirected,madame-de-valdaunaie,9
+barberin,Undirected,henriette,4
+guerland,Undirected,madame-de-valdaunaie,5
+guerland,Undirected,henriette,1
+madame-de-valdaunaie,Undirected,henriette,2

@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+mondor,Undirected,le-laquais,1
+mondor,Undirected,julie,1
+mondor,Undirected,madame-mondor,3
+mondor,Undirected,adelaïde,1
+julie,Undirected,madame-mondor,1
+madame-mondor,Undirected,adelaïde,2

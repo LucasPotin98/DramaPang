@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+dorante,Undirected,maitre-pierre,2
+dorante,Undirected,mademoiselle-argante,1
+dorante,Undirected,lisette,1
+maitre-pierre,Undirected,monsieur-argante,3
+maitre-pierre,Undirected,mademoiselle-argante,4
+maitre-pierre,Undirected,lisette,4
+maitre-pierre,Undirected,eraste,3
+monsieur-argante,Undirected,mademoiselle-argante,2
+monsieur-argante,Undirected,le-domestique,1
+monsieur-argante,Undirected,crispin,1
+monsieur-argante,Undirected,eraste,2
+monsieur-argante,Undirected,lisette,1
+mademoiselle-argante,Undirected,lisette,4
+mademoiselle-argante,Undirected,eraste,2
+lisette,Undirected,eraste,1
+le-domestique,Undirected,crispin,1

@@ -1,0 +1,8 @@
+Source,Type,Target,Weight
+le-baron,Undirected,dubois,1
+le-baron,Undirected,le-comte,3
+le-baron,Undirected,la-marquise,3
+dubois,Undirected,la-marquise,1
+dubois,Undirected,le-suisse,1
+le-comte,Undirected,la-marquise,2
+la-marquise,Undirected,le-suisse,1

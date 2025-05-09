@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+georges,Undirected,maman-perrier,4
+georges,Undirected,madame-perrier,3
+georges,Undirected,marie,3
+georges,Undirected,tous-ensemble,1
+maman-perrier,Undirected,madame-perrier,3
+maman-perrier,Undirected,marie,2
+maman-perrier,Undirected,tous-ensemble,1
+madame-perrier,Undirected,marie,2
+madame-perrier,Undirected,tous-ensemble,1
+marie,Undirected,tous-ensemble,1

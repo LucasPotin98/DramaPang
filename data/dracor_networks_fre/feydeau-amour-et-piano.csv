@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+baptiste,Undirected,lucile,3
+baptiste,Undirected,edouard,3
+lucile,Undirected,edouard,2

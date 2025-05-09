@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+anaximandre,Undirected,aspasie,2
+anaximandre,Undirected,phrosine,3
+anaximandre,Undirected,melidore,1
+anaximandre,Undirected,pretresse,1
+aspasie,Undirected,phrosine,3
+phrosine,Undirected,melidore,1

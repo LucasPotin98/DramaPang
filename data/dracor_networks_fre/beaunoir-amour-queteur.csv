@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+mercure,Undirected,l-amour,2
+mercure,Undirected,madame-barbara,1
+mercure,Undirected,brigitte,1
+mercure,Undirected,agnes,1
+l-amour,Undirected,agnes,5
+l-amour,Undirected,ursule,3
+l-amour,Undirected,brigitte,4
+l-amour,Undirected,madame-barbara,3
+madame-barbara,Undirected,ursule,3
+madame-barbara,Undirected,brigitte,4
+madame-barbara,Undirected,agnes,4
+madame-barbara,Undirected,rosette,1
+ursule,Undirected,brigitte,4
+ursule,Undirected,agnes,3
+brigitte,Undirected,agnes,4

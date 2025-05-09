@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+le-muet,Undirected,l-aveugle,1
+le-muet,Undirected,le-sourd,1
+le-muet,Undirected,le-manchot,1
+le-muet,Undirected,le-cul-de-jatte,1
+l-aveugle,Undirected,le-sourd,1
+l-aveugle,Undirected,le-manchot,1
+l-aveugle,Undirected,le-cul-de-jatte,1
+le-sourd,Undirected,le-manchot,1
+le-sourd,Undirected,le-cul-de-jatte,1
+le-manchot,Undirected,le-cul-de-jatte,1

@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+la-marechale,Undirected,mademoiselle-de-brissac,2
+la-marechale,Undirected,le-marechal,1
+mademoiselle-de-brissac,Undirected,la-tranchee,1
+mademoiselle-de-brissac,Undirected,d-epinai,1
+mademoiselle-de-brissac,Undirected,lancello,1
+mademoiselle-de-brissac,Undirected,le-marechal,1
+le-marechal,Undirected,un-soldat,1
+le-marechal,Undirected,d-epinai,1
+le-marechal,Undirected,lancello,1
+d-epinai,Undirected,lancello,1

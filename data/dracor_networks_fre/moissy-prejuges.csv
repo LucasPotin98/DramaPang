@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+monsieur-dormoy,Undirected,le-neveu,2
+monsieur-dormoy,Undirected,madame-hutin,1
+monsieur-dormoy,Undirected,mademoiselle-lancelot,1
+monsieur-dormoy,Undirected,monsieur-devaux,1
+monsieur-dormoy,Undirected,le-jeune-dormoy,1
+monsieur-dormoy,Undirected,madame-hurin,1
+le-neveu,Undirected,madame-hutin,1
+le-neveu,Undirected,mademoiselle-lancelot,1
+madame-hutin,Undirected,mademoiselle-lancelot,1
+monsieur-devaux,Undirected,le-jeune-dormoy,1
+monsieur-devaux,Undirected,madame-hurin,1
+le-jeune-dormoy,Undirected,madame-hurin,1

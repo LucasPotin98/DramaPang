@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+augusta,Undirected,fulvie,3
+augusta,Undirected,agathocle,6
+augusta,Undirected,domitius,8
+augusta,Undirected,maxime,2
+fulvie,Undirected,maxime,2
+fulvie,Undirected,agathocle,1
+agathocle,Undirected,domitius,5
+agathocle,Undirected,maxime,3
+domitius,Undirected,maxime,3

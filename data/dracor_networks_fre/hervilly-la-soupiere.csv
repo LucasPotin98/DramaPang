@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+madame-spoon,Undirected,le-domestique,2
+madame-spoon,Undirected,de-honduras,1
+le-domestique,Undirected,de-honduras,1

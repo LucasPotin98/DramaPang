@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+leandre,Undirected,colombine,3
+leandre,Undirected,orgon,2
+colombine,Undirected,orgon,2

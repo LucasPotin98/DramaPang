@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+le-marquis,Undirected,le-baron,4
+le-marquis,Undirected,eliante,3
+le-marquis,Undirected,rosbif,1
+le-marquis,Undirected,finette,1
+le-marquis,Undirected,le-lord-houzey,3
+le-marquis,Undirected,le-lord-craff,4
+le-baron,Undirected,eliante,4
+le-baron,Undirected,le-lord-craff,4
+le-baron,Undirected,finette,1
+le-baron,Undirected,le-lord-houzey,1
+eliante,Undirected,finette,5
+eliante,Undirected,le-lord-houzey,2
+eliante,Undirected,le-lord-craff,1
+finette,Undirected,le-lord-houzey,1
+finette,Undirected,rosbif,1
+le-lord-houzey,Undirected,le-lord-craff,2

@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+ulysse,Undirected,agamemnon,3
+ulysse,Undirected,polyxene,2
+ulysse,Undirected,hecube,2
+agamemnon,Undirected,hecube,4
+agamemnon,Undirected,polyxene,1
+agamemnon,Undirected,iphise,1
+hecube,Undirected,polyxene,5
+hecube,Undirected,iphise,3
+hecube,Undirected,le-soldat,1
+polyxene,Undirected,le-soldat,1

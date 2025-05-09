@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+valere,Undirected,sabine,2
+valere,Undirected,sganarelle,3
+sabine,Undirected,sganarelle,2
+sabine,Undirected,gorgibus,1
+sganarelle,Undirected,gorgibus,8
+sganarelle,Undirected,lucile,1
+sganarelle,Undirected,avocat,1
+sganarelle,Undirected,gros-rene,1
+gorgibus,Undirected,gros-rene,2
+gorgibus,Undirected,lucile,1
+gorgibus,Undirected,avocat,2

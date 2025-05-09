@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+damon,Undirected,clitandre,3
+damon,Undirected,arlequin,2
+clitandre,Undirected,arlequin,5
+clitandre,Undirected,laquais,1
+arlequin,Undirected,laquais,1

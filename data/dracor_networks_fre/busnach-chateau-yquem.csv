@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+madame-d-aigrefeuille,Undirected,joseph,6
+madame-d-aigrefeuille,Undirected,berthe,8
+madame-d-aigrefeuille,Undirected,gontran,5
+joseph,Undirected,berthe,4
+joseph,Undirected,gontran,2
+berthe,Undirected,gontran,3

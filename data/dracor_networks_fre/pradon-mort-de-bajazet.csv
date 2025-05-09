@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+andronic,Undirected,leon,2
+andronic,Undirected,bajazet,3
+andronic,Undirected,tamerlan,6
+andronic,Undirected,asterie,6
+andronic,Undirected,zaïde,1
+leon,Undirected,asterie,1
+bajazet,Undirected,tamerlan,2
+bajazet,Undirected,asterie,2
+tamerlan,Undirected,asterie,6
+tamerlan,Undirected,tamur,1
+asterie,Undirected,zaïde,3

@@ -1,0 +1,5 @@
+Source,Type,Target,Weight
+mercure,Undirected,moliere,2
+mercure,Undirected,le-poete,1
+moliere,Undirected,le-poete,1
+la-comedie-legere,Undirected,la-comedie-serieuse,1

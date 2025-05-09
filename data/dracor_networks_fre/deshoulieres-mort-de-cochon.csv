@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+mimy,Undirected,marmuse,3
+mimy,Undirected,cafar,1
+mimy,Undirected,choeur-de-chats,2
+mimy,Undirected,grisette,1
+marmuse,Undirected,cafar,1
+marmuse,Undirected,choeur-de-chats,2
+marmuse,Undirected,grisette,1
+cafar,Undirected,choeur-de-chats,1
+choeur-de-chats,Undirected,grisette,1
+choeur-de-chats,Undirected,l-amour,1

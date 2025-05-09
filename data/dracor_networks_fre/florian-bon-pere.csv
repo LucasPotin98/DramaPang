@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+nerine,Undirected,cleante,8
+nerine,Undirected,arlequin,7
+nerine,Undirected,nisida,3
+cleante,Undirected,arlequin,6
+cleante,Undirected,nisida,3
+arlequin,Undirected,nisida,3

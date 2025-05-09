@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+flocille,Undirected,dormion,1
+flocille,Undirected,artenice,1
+dormion,Undirected,artenice,1

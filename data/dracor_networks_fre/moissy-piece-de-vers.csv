@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+monsieur-saint-paul,Undirected,monsieur-beaupre,2
+monsieur-saint-paul,Undirected,monsieur-longchamp,2
+monsieur-saint-paul,Undirected,monsieur-courensel,1
+monsieur-saint-paul,Undirected,monsieur-dandino,1
+monsieur-beaupre,Undirected,monsieur-longchamp,2
+monsieur-beaupre,Undirected,monsieur-courensel,1
+monsieur-beaupre,Undirected,monsieur-dandino,1
+monsieur-longchamp,Undirected,monsieur-courensel,1
+monsieur-longchamp,Undirected,monsieur-dandino,1
+monsieur-courensel,Undirected,monsieur-dandino,1

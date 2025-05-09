@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+le-pedagogue,Undirected,oreste,2
+le-pedagogue,Undirected,electre,3
+le-pedagogue,Undirected,le-choeur,2
+le-pedagogue,Undirected,clytemnestre,2
+oreste,Undirected,electre,5
+oreste,Undirected,le-choeur,4
+oreste,Undirected,clytemnestre,1
+oreste,Undirected,egisthe,1
+electre,Undirected,le-choeur,10
+electre,Undirected,chrysothemis,3
+electre,Undirected,clytemnestre,3
+electre,Undirected,egisthe,2
+le-choeur,Undirected,chrysothemis,3
+le-choeur,Undirected,clytemnestre,3
+le-choeur,Undirected,egisthe,1
+chrysothemis,Undirected,clytemnestre,1

@@ -1,0 +1,3 @@
+Source,Type,Target,Weight
+la-muse,Undirected,le-poete,3
+le-poete,Undirected,la-vision,1

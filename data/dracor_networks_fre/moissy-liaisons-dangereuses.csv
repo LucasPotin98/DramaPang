@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+le-cadet,Undirected,l-aine,3
+le-cadet,Undirected,dubois,3
+le-cadet,Undirected,monsieur-farnoze,2
+le-cadet,Undirected,contois,1
+le-cadet,Undirected,l-aisne,1
+l-aine,Undirected,dubois,1
+dubois,Undirected,monsieur-farnoze,3
+dubois,Undirected,contois,3
+monsieur-farnoze,Undirected,contois,1

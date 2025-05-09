@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+justine,Undirected,florval,3
+justine,Undirected,d-herbin,4
+justine,Undirected,le-valet,1
+justine,Undirected,jodelet,3
+justine,Undirected,clemence,1
+justine,Undirected,valcour,2
+florval,Undirected,valcour,4
+florval,Undirected,jodelet,4
+florval,Undirected,d-herbin,2
+d-herbin,Undirected,le-valet,1
+d-herbin,Undirected,jodelet,6
+d-herbin,Undirected,valcour,3
+jodelet,Undirected,valcour,6
+jodelet,Undirected,clemence,1
+valcour,Undirected,clemence,1

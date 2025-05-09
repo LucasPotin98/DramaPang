@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+clelie,Undirected,polymaque,1
+clelie,Undirected,pericide,1
+polymaque,Undirected,pericide,1

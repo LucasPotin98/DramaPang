@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+baron,Undirected,armande,6
+baron,Undirected,moliere,4
+baron,Undirected,le-valet,1
+baron,Undirected,deuxieme-valet,1
+baron,Undirected,corneille,3
+armande,Undirected,moliere,5
+armande,Undirected,le-valet,1
+armande,Undirected,deuxieme-valet,1
+armande,Undirected,corneille,4
+moliere,Undirected,le-valet,1
+moliere,Undirected,deuxieme-valet,1
+moliere,Undirected,corneille,3
+le-valet,Undirected,deuxieme-valet,1

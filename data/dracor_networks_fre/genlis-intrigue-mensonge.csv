@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+lisette,Undirected,madame-roger,2
+lisette,Undirected,laurette,4
+lisette,Undirected,la-baronne,2
+lisette,Undirected,belinde,3
+madame-roger,Undirected,laurette,1
+laurette,Undirected,la-baronne,4
+laurette,Undirected,belinde,4
+laurette,Undirected,caroline,1
+la-baronne,Undirected,belinde,6
+la-baronne,Undirected,le-valet-de-chambre,2
+belinde,Undirected,le-valet-de-chambre,2
+belinde,Undirected,la-marquise,2
+belinde,Undirected,caroline,1
+la-marquise,Undirected,caroline,2

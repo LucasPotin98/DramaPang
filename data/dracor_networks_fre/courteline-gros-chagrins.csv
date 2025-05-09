@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+caroline,Undirected,gabrielle,1
+caroline,Undirected,les-deux-femmes,1
+gabrielle,Undirected,les-deux-femmes,1

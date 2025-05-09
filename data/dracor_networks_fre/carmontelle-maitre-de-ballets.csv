@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+monsieur-du-pas,Undirected,la-france,2
+monsieur-du-pas,Undirected,le-comte,1
+la-france,Undirected,le-comte,1

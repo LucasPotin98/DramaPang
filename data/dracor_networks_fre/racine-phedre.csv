@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+hippolyte,Undirected,theramene,3
+hippolyte,Undirected,oenone,2
+hippolyte,Undirected,aricie,3
+hippolyte,Undirected,phedre,1
+hippolyte,Undirected,thesee,2
+theramene,Undirected,aricie,1
+theramene,Undirected,thesee,1
+oenone,Undirected,phedre,7
+oenone,Undirected,panope,1
+oenone,Undirected,thesee,1
+phedre,Undirected,panope,2
+phedre,Undirected,thesee,3
+panope,Undirected,thesee,2
+aricie,Undirected,ismene,1
+aricie,Undirected,thesee,2

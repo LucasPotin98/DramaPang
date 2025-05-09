@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+l-abbe,Undirected,victoire,3
+l-abbe,Undirected,la-marquise,4
+l-abbe,Undirected,le-commandeur,2
+victoire,Undirected,la-vicomtesse,1
+victoire,Undirected,la-marquise,3
+victoire,Undirected,marguerite,1
+victoire,Undirected,le-commandeur,1
+la-marquise,Undirected,le-commandeur,3
+la-marquise,Undirected,marguerite,2
+le-commandeur,Undirected,marguerite,1

@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+le-vicomte,Undirected,le-baron,4
+le-vicomte,Undirected,hortance,4
+le-vicomte,Undirected,angelique,4
+le-baron,Undirected,hortance,3
+le-baron,Undirected,angelique,3
+hortance,Undirected,angelique,6

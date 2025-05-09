@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+felicie,Undirected,hortense,2
+felicie,Undirected,la-modestie,7
+felicie,Undirected,diane,2
+felicie,Undirected,lucidor,6
+felicie,Undirected,chasseur,1
+felicie,Undirected,la-fee,1
+la-modestie,Undirected,diane,2
+la-modestie,Undirected,lucidor,3
+diane,Undirected,lucidor,1
+lucidor,Undirected,chasseur,1

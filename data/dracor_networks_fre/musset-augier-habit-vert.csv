@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+raoul,Undirected,henri,4
+raoul,Undirected,munius,4
+raoul,Undirected,marguerite,5
+raoul,Undirected,tous,1
+raoul,Undirected,choeur-final,1
+henri,Undirected,munius,4
+henri,Undirected,marguerite,4
+henri,Undirected,tous,1
+henri,Undirected,choeur-final,1
+munius,Undirected,marguerite,5
+munius,Undirected,tous,1
+munius,Undirected,choeur-final,1
+marguerite,Undirected,tous,1
+marguerite,Undirected,choeur-final,1
+tous,Undirected,choeur-final,1

@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+le-serrurier,Undirected,william,1
+le-serrurier,Undirected,le-secretaire,1
+william,Undirected,le-secretaire,1

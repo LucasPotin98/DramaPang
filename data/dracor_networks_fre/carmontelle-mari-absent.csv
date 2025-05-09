@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+catherine,Undirected,le-bailli,2
+catherine,Undirected,gros-jean,1
+le-bailli,Undirected,gros-jean,2

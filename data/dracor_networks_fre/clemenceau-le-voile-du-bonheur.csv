@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+tchang-i,Undirected,li-kiang,7
+tchang-i,Undirected,si-tchun,6
+tchang-i,Undirected,tou-fou,4
+tchang-i,Undirected,wen-sieou,1
+tchang-i,Undirected,tchao,1
+tchang-i,Undirected,li-lao,1
+li-kiang,Undirected,si-tchun,3
+li-kiang,Undirected,wen-sieou,1
+li-kiang,Undirected,tchao,1
+li-kiang,Undirected,tou-fou,2
+li-kiang,Undirected,li-lao,1
+si-tchun,Undirected,tou-fou,3
+si-tchun,Undirected,tchao,1

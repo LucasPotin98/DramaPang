@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+le-narrateur,Undirected,la-blanchisseuse,1
+le-narrateur,Undirected,monsieur-le-president,1
+le-narrateur,Undirected,la-prevenue,1
+la-blanchisseuse,Undirected,monsieur-le-president,1
+la-blanchisseuse,Undirected,la-prevenue,1
+monsieur-le-president,Undirected,la-prevenue,1

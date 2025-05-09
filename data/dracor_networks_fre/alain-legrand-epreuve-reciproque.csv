@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+frontin,Undirected,valere,6
+frontin,Undirected,madame-de-falignac,4
+frontin,Undirected,philaminte,4
+frontin,Undirected,lisette,4
+valere,Undirected,madame-de-falignac,4
+valere,Undirected,lisette,3
+valere,Undirected,philaminte,3
+madame-de-falignac,Undirected,philaminte,7
+madame-de-falignac,Undirected,lisette,3
+madame-de-falignac,Undirected,criquet,2
+philaminte,Undirected,lisette,5
+philaminte,Undirected,criquet,2
+lisette,Undirected,criquet,1

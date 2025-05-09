@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+belise,Undirected,roger,1
+belise,Undirected,le-druide,2
+belise,Undirected,angelique,1
+roger,Undirected,le-druide,3
+roger,Undirected,angelique,1
+roger,Undirected,nigaudin,1
+le-druide,Undirected,angelique,2
+le-druide,Undirected,nigaudin,1

@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+germain,Undirected,dorine,3
+germain,Undirected,damis,3
+germain,Undirected,floricourt,1
+germain,Undirected,melise,1
+germain,Undirected,lisimon,1
+dorine,Undirected,damis,3
+dorine,Undirected,melise,6
+dorine,Undirected,lisimon,3
+dorine,Undirected,floricourt,1
+damis,Undirected,floricourt,3
+damis,Undirected,lisimon,2
+damis,Undirected,melise,4
+floricourt,Undirected,melise,2
+floricourt,Undirected,lisimon,1
+lisimon,Undirected,melise,2

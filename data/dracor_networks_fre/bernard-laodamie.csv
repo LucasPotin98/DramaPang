@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+la-reine,Undirected,la-princesse,4
+la-reine,Undirected,argire,5
+la-reine,Undirected,gelon,3
+la-reine,Undirected,sostrate,3
+la-reine,Undirected,phenix,2
+la-reine,Undirected,phedre,1
+la-princesse,Undirected,phedre,4
+la-princesse,Undirected,sostrate,1
+la-princesse,Undirected,phenix,2
+la-princesse,Undirected,gelon,2
+la-princesse,Undirected,argire,1
+gelon,Undirected,sostrate,1
+gelon,Undirected,phenix,1
+sostrate,Undirected,milon,2

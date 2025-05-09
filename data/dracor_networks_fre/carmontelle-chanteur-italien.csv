@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+monsieur-de-saint-hygin,Undirected,monsieur-delamarre,2
+monsieur-de-saint-hygin,Undirected,mademoiselle-de-saint-hygin,2
+monsieur-de-saint-hygin,Undirected,le-laquais,2
+monsieur-de-saint-hygin,Undirected,monsieur-octavini,2
+monsieur-delamarre,Undirected,le-laquais,1
+monsieur-delamarre,Undirected,monsieur-octavini,1
+mademoiselle-de-saint-hygin,Undirected,le-laquais,1
+mademoiselle-de-saint-hygin,Undirected,monsieur-octavini,1
+le-laquais,Undirected,monsieur-octavini,2

@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+lignon,Undirected,jourdain,2
+lignon,Undirected,charlotte,1
+jourdain,Undirected,charlotte,1
+charlotte,Undirected,pierrot,2
+charlotte,Undirected,gusman,2
+charlotte,Undirected,don-juan,2
+charlotte,Undirected,le-juge,1
+pierrot,Undirected,don-juan,1
+pierrot,Undirected,gusman,2
+gusman,Undirected,don-juan,4
+gusman,Undirected,le-juge,2
+gusman,Undirected,silvestre,1
+gusman,Undirected,monsieur-dimanche,1
+don-juan,Undirected,monsieur-dimanche,1
+le-juge,Undirected,silvestre,1

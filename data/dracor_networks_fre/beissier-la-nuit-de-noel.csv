@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+madame-de-lucenay,Undirected,jeannette,3
+madame-de-lucenay,Undirected,france,2
+jeannette,Undirected,france,2

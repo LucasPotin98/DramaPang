@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+cesarion,Undirected,marcelin,1
+cesarion,Undirected,cerinde,1
+cesarion,Undirected,felonte,1
+marcelin,Undirected,cerinde,1
+marcelin,Undirected,felonte,1
+cerinde,Undirected,felonte,1

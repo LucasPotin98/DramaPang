@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+zulemar,Undirected,osmar,2
+zulemar,Undirected,abendax,4
+zulemar,Undirected,abderamen,3
+zulemar,Undirected,fatime,4
+zulemar,Undirected,alamir,4
+osmar,Undirected,alamir,2
+osmar,Undirected,abderamen,1
+abderamen,Undirected,alamir,3
+abderamen,Undirected,fatime,2
+fatime,Undirected,alamir,2
+fatime,Undirected,zindarise,1
+alamir,Undirected,gazul,2

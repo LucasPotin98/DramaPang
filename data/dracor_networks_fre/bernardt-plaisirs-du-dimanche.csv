@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+larcadier,Undirected,commercy,1
+larcadier,Undirected,tony,1
+larcadier,Undirected,madame-commercy,1
+commercy,Undirected,tony,1
+commercy,Undirected,madame-commercy,1
+tony,Undirected,madame-commercy,1

@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+johnson,Undirected,weldone,4
+johnson,Undirected,smit,3
+johnson,Undirected,euphemon,2
+johnson,Undirected,l-eleve,2
+johnson,Undirected,zelie,2
+weldone,Undirected,smit,3
+weldone,Undirected,euphemon,2
+weldone,Undirected,zelie,1
+weldone,Undirected,l-eleve,1
+smit,Undirected,euphemon,1
+zelie,Undirected,euphemon,6
+zelie,Undirected,l-eleve,6
+euphemon,Undirected,l-eleve,4

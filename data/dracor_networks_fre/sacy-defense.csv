@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+cephise,Undirected,nerine,3
+cephise,Undirected,le-comte,1
+cephise,Undirected,valentin,1
+nerine,Undirected,le-comte,1
+nerine,Undirected,valentin,1
+le-comte,Undirected,valentin,2

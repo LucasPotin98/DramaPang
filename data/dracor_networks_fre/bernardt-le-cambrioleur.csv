@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+lafrappe,Undirected,l-agent,1
+lafrappe,Undirected,le-commissaire,1
+l-agent,Undirected,le-gendarme,1
+l-agent,Undirected,le-commissaire,2
+le-gendarme,Undirected,le-commissaire,1

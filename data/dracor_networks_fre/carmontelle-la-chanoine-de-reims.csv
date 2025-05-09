@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+dame-monique,Undirected,monsieur-festons,2
+dame-monique,Undirected,monsieur-colliger,7
+dame-monique,Undirected,l-abbe,6
+dame-monique,Undirected,saint-pierre,1
+monsieur-festons,Undirected,monsieur-colliger,3
+monsieur-colliger,Undirected,l-abbe,7
+monsieur-colliger,Undirected,saint-pierre,1
+l-abbe,Undirected,saint-pierre,1

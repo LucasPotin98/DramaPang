@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+pheres,Undirected,alzaïde,3
+pheres,Undirected,amenophis,3
+pheres,Undirected,zaraes,1
+alzaïde,Undirected,ezire,3
+alzaïde,Undirected,amenophis,7
+alzaïde,Undirected,zaraes,3
+alzaïde,Undirected,nisus,1
+amenophis,Undirected,menos,1
+amenophis,Undirected,nisus,3
+amenophis,Undirected,osiris,1
+amenophis,Undirected,zaraes,3
+menos,Undirected,nisus,1

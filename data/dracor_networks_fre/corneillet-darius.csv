@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+amestris,Undirected,megabise,6
+amestris,Undirected,statira,3
+amestris,Undirected,darius,5
+amestris,Undirected,ochus,4
+megabise,Undirected,bagoas,2
+megabise,Undirected,ochus,4
+megabise,Undirected,statira,4
+megabise,Undirected,darius,4
+megabise,Undirected,oropaste,2
+ochus,Undirected,statira,4
+ochus,Undirected,oropaste,2
+ochus,Undirected,darius,4
+statira,Undirected,barsine,2
+statira,Undirected,darius,5
+statira,Undirected,oropaste,1
+darius,Undirected,oropaste,1

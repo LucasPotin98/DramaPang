@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+cribleurs,Undirected,le-marchand,1
+le-marchand,Undirected,le-savetier,3
+le-marchand,Undirected,le-notaire,1
+le-marchand,Undirected,la-femme,2
+le-marchand,Undirected,le-patissier,1
+le-savetier,Undirected,le-notaire,1
+le-meunier,Undirected,l-ane,1
+la-femme,Undirected,le-patissier,1

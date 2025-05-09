@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+leandre,Undirected,fleur-de-sauge,5
+leandre,Undirected,chremes,4
+leandre,Undirected,l-ilote,4
+leandre,Undirected,tous-deux,1
+fleur-de-sauge,Undirected,chremes,4
+fleur-de-sauge,Undirected,l-ilote,2
+fleur-de-sauge,Undirected,tous-deux,1
+chremes,Undirected,l-ilote,3
+chremes,Undirected,tous-deux,1
+l-ilote,Undirected,tous-deux,1

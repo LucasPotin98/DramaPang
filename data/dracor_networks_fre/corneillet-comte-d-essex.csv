@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+le-comte,Undirected,salsbury,3
+le-comte,Undirected,la-duchesse,3
+le-comte,Undirected,cecile,1
+le-comte,Undirected,elisabeth,1
+le-comte,Undirected,crommer,1
+le-comte,Undirected,tilney,1
+salsbury,Undirected,elisabeth,2
+salsbury,Undirected,la-duchesse,1
+la-duchesse,Undirected,elisabeth,6
+la-duchesse,Undirected,cecile,1
+la-duchesse,Undirected,tilney,2
+cecile,Undirected,elisabeth,3
+elisabeth,Undirected,tilney,5

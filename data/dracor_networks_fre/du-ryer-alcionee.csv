@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+lydie,Undirected,theoxene,2
+lydie,Undirected,dioclee,6
+lydie,Undirected,le-roi,2
+lydie,Undirected,alcionee,3
+lydie,Undirected,alcire,1
+theoxene,Undirected,dioclee,2
+dioclee,Undirected,le-roi,1
+alcionee,Undirected,achate,4
+alcionee,Undirected,alcire,3
+alcionee,Undirected,le-roi,2
+alcionee,Undirected,callisthene,2
+achate,Undirected,callisthene,1
+alcire,Undirected,le-roi,2
+alcire,Undirected,callisthene,3
+le-roi,Undirected,callisthene,2

@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+mondor,Undirected,lisette,3
+mondor,Undirected,damis,3
+lisette,Undirected,dorante,6
+lisette,Undirected,francaleu,6
+lisette,Undirected,lucile,2
+lisette,Undirected,damis,3
+dorante,Undirected,damis,6
+dorante,Undirected,francaleu,4
+dorante,Undirected,lucile,2
+damis,Undirected,francaleu,11
+damis,Undirected,lucile,2
+damis,Undirected,baliveau,4
+francaleu,Undirected,baliveau,6
+francaleu,Undirected,lucile,1

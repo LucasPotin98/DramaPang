@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+tullie,Undirected,clodomir,2
+tullie,Undirected,lepide,1
+tullie,Undirected,octave,3
+tullie,Undirected,sextus,6
+tullie,Undirected,ciceron,2
+tullie,Undirected,philippe,1
+clodomir,Undirected,sextus,1
+lepide,Undirected,ciceron,1
+ciceron,Undirected,octave,2
+ciceron,Undirected,sextus,2
+ciceron,Undirected,mecene,1
+ciceron,Undirected,philippe,1
+octave,Undirected,mecene,2
+octave,Undirected,sextus,1
+sextus,Undirected,philippe,1

@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+l-huissier,Undirected,le-president,1
+l-huissier,Undirected,la-brige,1
+l-huissier,Undirected,le-substitut,1
+le-president,Undirected,la-brige,1
+le-president,Undirected,le-substitut,1
+la-brige,Undirected,le-substitut,1

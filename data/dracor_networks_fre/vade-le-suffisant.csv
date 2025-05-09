@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+lindor,Undirected,clitie,6
+lindor,Undirected,marton,5
+lindor,Undirected,elvire,3
+lindor,Undirected,le-chevalier,2
+lindor,Undirected,tous,1
+clitie,Undirected,elvire,4
+clitie,Undirected,le-chevalier,4
+clitie,Undirected,marton,6
+clitie,Undirected,tous,1
+elvire,Undirected,marton,5
+elvire,Undirected,le-chevalier,3
+elvire,Undirected,tous,1
+marton,Undirected,le-chevalier,3
+marton,Undirected,tous,1
+le-chevalier,Undirected,tous,1

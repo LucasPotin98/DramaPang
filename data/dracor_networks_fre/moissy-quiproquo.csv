@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+le-laquais,Undirected,guillot,3
+le-laquais,Undirected,pierrot,2
+le-laquais,Undirected,monsieur-dorance,1
+le-laquais,Undirected,madame-dorance,1
+guillot,Undirected,pierrot,3
+guillot,Undirected,madame-dorance,1
+guillot,Undirected,monsieur-dorance,1
+pierrot,Undirected,monsieur-dorance,2
+pierrot,Undirected,madame-dorance,2
+monsieur-dorance,Undirected,madame-dorance,1

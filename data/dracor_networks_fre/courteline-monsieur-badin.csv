@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+le-directeur,Undirected,ovide,1
+le-directeur,Undirected,monsieur-badin,1
+ovide,Undirected,monsieur-badin,1

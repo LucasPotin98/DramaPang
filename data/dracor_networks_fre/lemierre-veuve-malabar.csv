@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+le-grand-bramine,Undirected,le-jeune-bramine,5
+le-grand-bramine,Undirected,le-bramine,1
+le-grand-bramine,Undirected,l-officier,1
+le-grand-bramine,Undirected,le-general,5
+le-grand-bramine,Undirected,un-bramine,1
+le-grand-bramine,Undirected,la-veuve,3
+le-jeune-bramine,Undirected,le-bramine,1
+le-jeune-bramine,Undirected,la-veuve,6
+le-jeune-bramine,Undirected,fatime,2
+le-jeune-bramine,Undirected,le-general,3
+l-officier,Undirected,le-general,3
+fatime,Undirected,la-veuve,4
+la-veuve,Undirected,le-general,2
+le-general,Undirected,un-bramine,1

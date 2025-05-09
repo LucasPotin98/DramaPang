@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+le-baron,Undirected,le-conseiller,2
+le-baron,Undirected,irene,4
+le-baron,Undirected,quatuor-de-turcs,1
+le-baron,Undirected,abdalla,2
+le-baron,Undirected,le-choeur,1
+le-conseiller,Undirected,irene,1
+irene,Undirected,la-gouvernante,2
+irene,Undirected,les-turcs,1
+irene,Undirected,quatuor-de-turcs,1
+irene,Undirected,abdalla,4
+la-gouvernante,Undirected,les-turcs,1
+quatuor-de-turcs,Undirected,abdalla,1
+abdalla,Undirected,le-choeur,1

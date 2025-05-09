@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+abraham,Undirected,sarah,2
+abraham,Undirected,l-ange,2
+abraham,Undirected,isaac,4
+abraham,Undirected,troupe-de-bergers,2
+abraham,Undirected,demi-troupe,1
+abraham,Undirected,satan,1
+sarah,Undirected,isaac,1
+sarah,Undirected,troupe-de-bergers,1
+satan,Undirected,isaac,1
+l-ange,Undirected,isaac,1
+demi-troupe,Undirected,isaac,1
+demi-troupe,Undirected,troupe-de-bergers,2
+isaac,Undirected,troupe-de-bergers,2

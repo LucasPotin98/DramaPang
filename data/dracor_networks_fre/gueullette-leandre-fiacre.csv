@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+leandre,Undirected,isabelle,2
+leandre,Undirected,villebrequin,1
+leandre,Undirected,gilles,1
+leandre,Undirected,cassandre,1
+isabelle,Undirected,cassandre,2
+isabelle,Undirected,villebrequin,2
+isabelle,Undirected,gilles,2
+cassandre,Undirected,gilles,7
+cassandre,Undirected,villebrequin,6
+gilles,Undirected,villebrequin,5

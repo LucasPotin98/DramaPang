@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+alcimadure,Undirected,alfonse,2
+alcimadure,Undirected,leonor,1
+alcimadure,Undirected,alvares,2
+alfonse,Undirected,alvares,1
+leonor,Undirected,alvares,1

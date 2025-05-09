@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+henri,Undirected,blondine,2
+henri,Undirected,henriette,4
+henri,Undirected,marcel,3
+henri,Undirected,monsieur-pontchartrain,1
+henri,Undirected,eleonore,1
+blondine,Undirected,henriette,1
+blondine,Undirected,marcel,1
+henriette,Undirected,marcel,4
+henriette,Undirected,monsieur-pontchartrain,1
+henriette,Undirected,eleonore,1
+marcel,Undirected,monsieur-pontchartrain,2
+marcel,Undirected,eleonore,2
+monsieur-pontchartrain,Undirected,eleonore,3

@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+poquelin,Undirected,clabaud,6
+poquelin,Undirected,chiffonne,3
+poquelin,Undirected,jeannot,2
+poquelin,Undirected,moliere,5
+poquelin,Undirected,rohaut,1
+clabaud,Undirected,chiffonne,5
+clabaud,Undirected,jeannot,2
+clabaud,Undirected,lubin,1
+clabaud,Undirected,moliere,4
+clabaud,Undirected,rohaut,1
+chiffonne,Undirected,jeannot,1
+chiffonne,Undirected,lubin,2
+chiffonne,Undirected,moliere,1
+moliere,Undirected,rohaut,2

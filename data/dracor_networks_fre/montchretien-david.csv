@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+david,Undirected,nadab,2
+david,Undirected,choeur,5
+david,Undirected,urie,2
+david,Undirected,messager,1
+david,Undirected,bethsabee,1
+david,Undirected,nathan,1
+nadab,Undirected,choeur,2
+nadab,Undirected,urie,1
+choeur,Undirected,urie,2
+choeur,Undirected,messager,1
+choeur,Undirected,bethsabee,1
+choeur,Undirected,nathan,1
+bethsabee,Undirected,nathan,1

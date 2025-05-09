@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+leandre,Undirected,lucidor,1
+une-dame,Undirected,une-autre-dame,1
+le-portier,Undirected,deux-filoux,1
+le-portier,Undirected,le-filou,1
+la-comedienne,Undirected,le-galant,1
+la-comedienne,Undirected,l-epinai,1
+le-galant,Undirected,l-epinai,1
+deux-filoux,Undirected,le-filou,1

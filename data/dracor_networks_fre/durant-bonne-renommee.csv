@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+licidor,Undirected,philinte,2
+licidor,Undirected,elise,1
+licidor,Undirected,mariane,1
+philinte,Undirected,elise,1
+philinte,Undirected,mariane,1
+elise,Undirected,mariane,1

@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+phanor,Undirected,zirphee,4
+phanor,Undirected,phedime,3
+zirphee,Undirected,phedime,5

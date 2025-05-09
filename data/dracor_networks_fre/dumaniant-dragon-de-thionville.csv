@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+le-chevalier,Undirected,le-clerc,1
+le-chevalier,Undirected,dusincere,5
+le-chevalier,Undirected,l-huissier,3
+le-chevalier,Undirected,le-colonel,1
+dusincere,Undirected,l-huissier,2
+dusincere,Undirected,le-colonel,2

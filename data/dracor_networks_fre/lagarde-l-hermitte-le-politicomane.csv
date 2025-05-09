@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+le-narrateur,Undirected,le-nihiliste,1
+le-narrateur,Undirected,le-politicomane,1
+le-narrateur,Undirected,melinde,1
+le-nihiliste,Undirected,le-politicomane,1
+le-nihiliste,Undirected,melinde,1
+le-politicomane,Undirected,melinde,1

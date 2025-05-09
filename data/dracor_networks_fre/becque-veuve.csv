@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+clotilde,Undirected,adele,1
+clotilde,Undirected,lafont,1
+adele,Undirected,lafont,1

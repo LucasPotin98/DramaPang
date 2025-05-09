@@ -1,0 +1,3 @@
+Source,Type,Target,Weight
+le-gascon,Undirected,le-normand,1
+orateur-du-compliment,Undirected,autre-orateur,1

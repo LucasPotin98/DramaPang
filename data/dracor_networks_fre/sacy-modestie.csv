@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+dufresne,Undirected,turenne,1
+dufresne,Undirected,corneille,1
+turenne,Undirected,corneille,1

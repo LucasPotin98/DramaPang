@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+monsieur-fagot,Undirected,monsieur-sapin,2
+monsieur-fagot,Undirected,polichinelle,1
+monsieur-sapin,Undirected,polichinelle,3
+monsieur-sapin,Undirected,dame-gigogne,1
+polichinelle,Undirected,dame-gigogne,2
+polichinelle,Undirected,arlequin,1
+polichinelle,Undirected,gille,1
+arlequin,Undirected,gille,2

@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+madame-caquet,Undirected,susanne,3
+susanne,Undirected,le-doux,6
+susanne,Undirected,l-abbe,1
+susanne,Undirected,becarre,3
+susanne,Undirected,du-ciseau,2
+susanne,Undirected,le-comte,2
+le-doux,Undirected,l-abbe,2
+le-doux,Undirected,mademoiselle-des-brisees,1
+le-doux,Undirected,becarre,4
+le-doux,Undirected,du-ciseau,2
+le-doux,Undirected,le-comte,1
+l-abbe,Undirected,mademoiselle-des-brisees,1
+becarre,Undirected,du-ciseau,5
+becarre,Undirected,le-comte,1
+du-ciseau,Undirected,le-comte,1

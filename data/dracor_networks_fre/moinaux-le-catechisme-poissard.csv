@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+le-narrateur,Undirected,biquet,1
+le-narrateur,Undirected,monsieur-le-president,1
+le-narrateur,Undirected,boguenard,1
+biquet,Undirected,monsieur-le-president,1
+biquet,Undirected,boguenard,1
+monsieur-le-president,Undirected,boguenard,1

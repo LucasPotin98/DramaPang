@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+madame-colombine,Undirected,pierrot,1
+madame-colombine,Undirected,colombinette,1
+pierrot,Undirected,colombinette,2

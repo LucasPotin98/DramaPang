@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+maurice,Undirected,blanche,22
+maurice,Undirected,le-cocher,2
+maurice,Undirected,osoir,1
+blanche,Undirected,le-cocher,2
+blanche,Undirected,osoir,1

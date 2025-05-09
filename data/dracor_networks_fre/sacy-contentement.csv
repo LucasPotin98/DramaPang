@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+colin,Undirected,lucette,2
+colin,Undirected,perrette,3
+colin,Undirected,gregoire,3
+colin,Undirected,le-gascon,1
+colin,Undirected,monsieur-million,1
+gregoire,Undirected,perrette,5
+gregoire,Undirected,dufoin,1
+gregoire,Undirected,lucette,5
+gregoire,Undirected,monsieur-million,2
+gregoire,Undirected,le-gascon,1
+perrette,Undirected,dufoin,1
+perrette,Undirected,lucette,4
+perrette,Undirected,monsieur-million,2
+perrette,Undirected,le-gascon,1
+dufoin,Undirected,lucette,1
+lucette,Undirected,monsieur-million,2

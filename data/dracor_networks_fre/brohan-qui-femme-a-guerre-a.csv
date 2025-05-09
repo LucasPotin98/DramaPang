@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+le-comte,Undirected,la-comtesse,3
+le-comte,Undirected,le-domestique,1
+la-comtesse,Undirected,le-domestique,1

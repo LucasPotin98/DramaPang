@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+mimy,Undirected,la-gouvernante,3
+mimy,Undirected,babet,1
+mimy,Undirected,cecile,1
+mimy,Undirected,madame-dorsigny,1
+la-gouvernante,Undirected,babet,1
+la-gouvernante,Undirected,cecile,1
+la-gouvernante,Undirected,madame-dorsigny,1
+babet,Undirected,cecile,2

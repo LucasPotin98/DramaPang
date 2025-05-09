@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+damon,Undirected,merlin,3
+damon,Undirected,lucinde,1
+merlin,Undirected,lucinde,1

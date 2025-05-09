@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+hiaskar,Undirected,hirza,3
+hiaskar,Undirected,oukea,6
+hiaskar,Undirected,monreal-fils,6
+hiaskar,Undirected,monreal-pere,3
+hirza,Undirected,oukea,5
+hirza,Undirected,monreal-fils,5
+hirza,Undirected,monreal-pere,2
+oukea,Undirected,monreal-fils,4
+oukea,Undirected,monreal-pere,3
+monreal-fils,Undirected,monreal-pere,4

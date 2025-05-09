@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+blanche,Undirected,laure,4
+blanche,Undirected,siffredi,4
+blanche,Undirected,osmont,3
+blanche,Undirected,guiscard,5
+siffredi,Undirected,guiscard,4
+siffredi,Undirected,osmont,7
+siffredi,Undirected,rodolphe,1
+guiscard,Undirected,rodolphe,1
+guiscard,Undirected,osmont,3
+rodolphe,Undirected,osmont,1

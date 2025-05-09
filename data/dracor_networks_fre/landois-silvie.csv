@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+le-commandeur,Undirected,l-auteur,3
+le-commandeur,Undirected,grosset,1
+le-commandeur,Undirected,le-chevalier,1
+le-commandeur,Undirected,la-marquise,1
+l-auteur,Undirected,grosset,1
+l-auteur,Undirected,le-chevalier,1
+l-auteur,Undirected,la-marquise,1
+grosset,Undirected,le-chevalier,1
+grosset,Undirected,la-marquise,1
+le-chevalier,Undirected,la-marquise,1
+des-francs,Undirected,le-laquais,2
+des-francs,Undirected,des-ronais,2
+des-francs,Undirected,silvie,3
+des-ronais,Undirected,silvie,1

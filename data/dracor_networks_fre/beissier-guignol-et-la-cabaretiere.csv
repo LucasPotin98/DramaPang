@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+guignol,Undirected,la-cabaretiere,4
+guignol,Undirected,le-gendarme,3
+guignol,Undirected,le-juge,2
+la-cabaretiere,Undirected,le-gendarme,2
+la-cabaretiere,Undirected,le-juge,2
+le-gendarme,Undirected,le-juge,1

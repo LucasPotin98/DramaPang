@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+jeannette,Undirected,louise,2
+jeannette,Undirected,marie,1
+louise,Undirected,marie,1
+louise,Undirected,suzanne,1
+louise,Undirected,marguerite,1
+sophie,Undirected,lucie,2
+sophie,Undirected,suzanne,2
+sophie,Undirected,marguerite,1
+lucie,Undirected,suzanne,1
+suzanne,Undirected,marguerite,2

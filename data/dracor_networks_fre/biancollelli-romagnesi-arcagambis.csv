@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+hierbas,Undirected,gargame,3
+hierbas,Undirected,arcagambis,2
+hierbas,Undirected,nabotas,1
+hierbas,Undirected,tetonice,1
+gargame,Undirected,arcagambis,2
+gargame,Undirected,nabotas,2
+arcagambis,Undirected,nabotas,3
+arcagambis,Undirected,thamire,2
+arcagambis,Undirected,tetonice,1
+thamire,Undirected,tetonice,1

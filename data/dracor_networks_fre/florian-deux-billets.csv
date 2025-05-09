@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+arlequin,Undirected,scapin,4
+arlequin,Undirected,argentine,4
+scapin,Undirected,argentine,4

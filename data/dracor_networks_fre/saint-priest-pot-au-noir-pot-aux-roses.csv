@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+daphnis,Undirected,bobielle,5
+daphnis,Undirected,alain,3
+daphnis,Undirected,hortense,4
+daphnis,Undirected,les-autres-sauf-alain,1
+bobielle,Undirected,alain,3
+bobielle,Undirected,hortense,3
+bobielle,Undirected,les-autres-sauf-alain,1
+alain,Undirected,hortense,2
+alain,Undirected,les-autres-sauf-alain,1
+hortense,Undirected,les-autres-sauf-alain,1

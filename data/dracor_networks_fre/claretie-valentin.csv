@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+la-comtesse,Undirected,valentin,3
+la-comtesse,Undirected,le-comte,4
+la-comtesse,Undirected,le-comtesse,1
+valentin,Undirected,le-comte,1
+le-comte,Undirected,le-comtesse,1

@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+un-israelite,Undirected,une-fille-israelite,1
+un-israelite,Undirected,le-choeur,1
+un-israelite,Undirected,une-israelite,1
+une-fille-israelite,Undirected,le-choeur,1
+une-fille-israelite,Undirected,une-israelite,1
+le-choeur,Undirected,une-israelite,2
+le-choeur,Undirected,esther,1
+le-choeur,Undirected,seconde-israelite,1
+le-choeur,Undirected,troisieme-israelite,1
+une-israelite,Undirected,esther,1
+une-israelite,Undirected,seconde-israelite,1
+une-israelite,Undirected,troisieme-israelite,1
+esther,Undirected,seconde-israelite,1
+esther,Undirected,troisieme-israelite,1
+esther,Undirected,assuerus,1
+seconde-israelite,Undirected,troisieme-israelite,1

@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+marton,Undirected,la-comtesse,4
+marton,Undirected,nicaise,3
+marton,Undirected,leveille,3
+marton,Undirected,le-chevalier,4
+la-comtesse,Undirected,le-chevalier,3
+la-comtesse,Undirected,nicaise,1
+nicaise,Undirected,le-chevalier,1
+leveille,Undirected,le-chevalier,2

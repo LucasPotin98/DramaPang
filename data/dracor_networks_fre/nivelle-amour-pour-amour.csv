@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+l-ami,Undirected,l-auteur,4
+l-ami,Undirected,le-sot,1
+l-ami,Undirected,damis,1
+l-auteur,Undirected,le-sot,1
+l-auteur,Undirected,damis,1
+azor,Undirected,zaleg,2
+azor,Undirected,nadine,3
+azor,Undirected,zemire,5
+zaleg,Undirected,nadine,2
+zaleg,Undirected,zemire,2
+nadine,Undirected,zemire,5
+zemire,Undirected,assan,2

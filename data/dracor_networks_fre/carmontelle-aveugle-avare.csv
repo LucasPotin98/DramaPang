@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+monsieur-savoneau,Undirected,janneton,2
+monsieur-savoneau,Undirected,tatonet,2
+janneton,Undirected,tatonet,1

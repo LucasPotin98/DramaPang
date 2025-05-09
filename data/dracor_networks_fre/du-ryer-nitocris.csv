@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+araxe,Undirected,atis,3
+araxe,Undirected,cleodate,5
+araxe,Undirected,nitocris,6
+araxe,Undirected,alcine,2
+araxe,Undirected,axiane,1
+atis,Undirected,cleodate,1
+cleodate,Undirected,nitocris,5
+cleodate,Undirected,achate,2
+cleodate,Undirected,axiane,2
+cleodate,Undirected,alcine,1
+nitocris,Undirected,alcine,6
+nitocris,Undirected,axiane,2
+nitocris,Undirected,achate,4
+alcine,Undirected,axiane,2
+alcine,Undirected,achate,2

@@ -1,0 +1,5 @@
+Source,Type,Target,Weight
+monsieur-de-la-barre,Undirected,la-pierre,4
+monsieur-de-la-barre,Undirected,monsieur-de-la-motte,2
+monsieur-de-la-barre,Undirected,madame-poursuit,1
+la-pierre,Undirected,monsieur-de-la-motte,1

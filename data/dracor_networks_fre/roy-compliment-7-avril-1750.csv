@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+monsieur-miracle,Undirected,la-marquise,2
+monsieur-miracle,Undirected,mademoiselle-astraudy,1
+la-marquise,Undirected,mademoiselle-astraudy,2

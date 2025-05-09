@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+mercure,Undirected,sosie,1
+mercure,Undirected,jupiter,1
+mercure,Undirected,alcmene,1
+mercure,Undirected,amphitryon,1
+sosie,Undirected,amphitryon,4
+sosie,Undirected,alcmene,2
+sosie,Undirected,jupiter,2
+sosie,Undirected,blepharon,2
+jupiter,Undirected,alcmene,3
+jupiter,Undirected,blepharon,1
+jupiter,Undirected,amphitryon,1
+alcmene,Undirected,amphitryon,1
+amphitryon,Undirected,blepharon,2
+amphitryon,Undirected,bromia,1

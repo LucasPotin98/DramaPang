@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+la-veuve,Undirected,l-enfant,2
+la-veuve,Undirected,elie,4
+l-enfant,Undirected,elie,1

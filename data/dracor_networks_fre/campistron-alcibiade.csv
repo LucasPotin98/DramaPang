@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+pharnabaze,Undirected,memnon,1
+pharnabaze,Undirected,alcibiade,4
+pharnabaze,Undirected,artemise,1
+pharnabaze,Undirected,artaxerce,1
+pharnabaze,Undirected,palmis,2
+memnon,Undirected,alcibiade,1
+memnon,Undirected,artaxerce,1
+alcibiade,Undirected,amintas,3
+alcibiade,Undirected,artaxerce,3
+alcibiade,Undirected,artemise,3
+alcibiade,Undirected,palmis,4
+artaxerce,Undirected,artemise,4
+artaxerce,Undirected,palmis,1
+artemise,Undirected,barsine,1
+artemise,Undirected,palmis,4
+palmis,Undirected,amestris,2

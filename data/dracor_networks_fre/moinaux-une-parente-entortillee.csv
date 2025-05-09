@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+le-narrateur,Undirected,le-temoin,1
+le-narrateur,Undirected,monsieur-le-president,1
+le-temoin,Undirected,monsieur-le-president,1

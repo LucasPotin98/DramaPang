@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+isabelle,Undirected,arlequin,5
+isabelle,Undirected,leandre,3
+isabelle,Undirected,gilles,3
+isabelle,Undirected,la-soeur,1
+arlequin,Undirected,leandre,4
+arlequin,Undirected,gilles,6
+arlequin,Undirected,la-soeur,1
+leandre,Undirected,gilles,4
+leandre,Undirected,la-soeur,1
+gilles,Undirected,la-soeur,1

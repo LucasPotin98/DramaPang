@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+jephone,Undirected,booz,3
+jephone,Undirected,ruth,4
+jephone,Undirected,noemi,2
+booz,Undirected,ruth,4
+booz,Undirected,noemi,3
+ruth,Undirected,noemi,6

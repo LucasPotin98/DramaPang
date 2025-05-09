@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+angelique,Undirected,monsieur-d-orce,3
+angelique,Undirected,valere,4
+angelique,Undirected,rose,9
+angelique,Undirected,colette,1
+angelique,Undirected,lucas,2
+valere,Undirected,rose,6
+valere,Undirected,monsieur-d-orce,3
+valere,Undirected,lucas,1
+rose,Undirected,monsieur-d-orce,3
+rose,Undirected,colette,1
+rose,Undirected,lucas,2
+monsieur-d-orce,Undirected,lucas,1
+colette,Undirected,lucas,2

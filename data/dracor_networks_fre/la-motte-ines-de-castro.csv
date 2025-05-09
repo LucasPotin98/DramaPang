@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+alphonse,Undirected,l-ambassadeur,1
+alphonse,Undirected,la-reine,6
+alphonse,Undirected,constance,3
+alphonse,Undirected,garde,1
+alphonse,Undirected,don-pedre,5
+alphonse,Undirected,ines,6
+alphonse,Undirected,rodrigue,1
+alphonse,Undirected,henrique,1
+la-reine,Undirected,ines,3
+la-reine,Undirected,don-pedre,1
+la-reine,Undirected,constance,5
+ines,Undirected,don-pedre,4
+ines,Undirected,constance,1
+don-pedre,Undirected,constance,1
+constance,Undirected,garde,1
+rodrigue,Undirected,henrique,1

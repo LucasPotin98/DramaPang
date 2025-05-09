@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+julie,Undirected,laure,6
+julie,Undirected,romeo,3
+julie,Undirected,madame-capellet,3
+julie,Undirected,gervas,1
+julie,Undirected,monsieur-capellet,2
+julie,Undirected,benvoglio,3
+laure,Undirected,romeo,1
+laure,Undirected,madame-capellet,1
+laure,Undirected,gervas,2
+laure,Undirected,monsieur-capellet,2
+romeo,Undirected,benvoglio,1
+le-domestique,Undirected,monsieur-capellet,2
+monsieur-capellet,Undirected,madame-capellet,4
+monsieur-capellet,Undirected,benvoglio,4
+madame-capellet,Undirected,benvoglio,2

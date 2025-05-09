@@ -1,0 +1,5 @@
+Source,Type,Target,Weight
+monsieur-de-cachant,Undirected,monsieur-de-saint-hilaire,2
+monsieur-de-cachant,Undirected,benoit,1
+monsieur-de-saint-hilaire,Undirected,benoit,1
+monsieur-de-saint-hilaire,Undirected,monsieur-galand,1

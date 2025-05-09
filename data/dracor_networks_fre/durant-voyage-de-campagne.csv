@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+catos,Undirected,champagne,1
+catos,Undirected,madame-de-vieillardis,1
+catos,Undirected,le-chevalier,1
+champagne,Undirected,madame-de-vieillardis,1
+champagne,Undirected,le-chevalier,1
+madame-de-vieillardis,Undirected,le-chevalier,1

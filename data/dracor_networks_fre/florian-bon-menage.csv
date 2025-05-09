@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+le-cadet,Undirected,argentine,4
+le-cadet,Undirected,l-aine,5
+le-cadet,Undirected,arlequin,2
+le-cadet,Undirected,les-deux-enfants,1
+argentine,Undirected,l-aine,4
+argentine,Undirected,rosalba,4
+argentine,Undirected,les-deux-enfants,2
+argentine,Undirected,arlequin,5
+l-aine,Undirected,arlequin,2
+l-aine,Undirected,les-deux-enfants,1
+rosalba,Undirected,arlequin,1
+les-deux-enfants,Undirected,arlequin,2
+arlequin,Undirected,mezzetin,1

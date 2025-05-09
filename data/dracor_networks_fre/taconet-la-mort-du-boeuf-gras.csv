@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+monsieur-merlin,Undirected,monsieur-poissi,2
+monsieur-merlin,Undirected,brulelavette,1
+monsieur-poissi,Undirected,brulelavette,4
+monsieur-poissi,Undirected,l-echaudoir,2
+monsieur-poissi,Undirected,dosdane,1
+brulelavette,Undirected,l-echaudoir,3
+brulelavette,Undirected,dosdane,1
+l-echaudoir,Undirected,dosdane,1

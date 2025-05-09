@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+silene,Undirected,le-choeur,4
+silene,Undirected,ulysse,3
+silene,Undirected,polypheme,3
+silene,Undirected,demi-choeur,1
+le-choeur,Undirected,ulysse,7
+le-choeur,Undirected,polypheme,5
+le-choeur,Undirected,demi-choeur,2
+ulysse,Undirected,polypheme,3
+ulysse,Undirected,demi-choeur,2
+polypheme,Undirected,demi-choeur,1

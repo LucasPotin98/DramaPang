@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+monsieur-raisin,Undirected,monsieur-boivin,7
+monsieur-raisin,Undirected,monsieur-de-la-vigne,5
+monsieur-raisin,Undirected,monsieur-d-avarin,2
+monsieur-raisin,Undirected,monsieur-de-la-riviere,3
+monsieur-boivin,Undirected,monsieur-de-la-vigne,5
+monsieur-boivin,Undirected,monsieur-d-avarin,2
+monsieur-boivin,Undirected,monsieur-de-la-riviere,3
+monsieur-de-la-vigne,Undirected,monsieur-d-avarin,2
+monsieur-de-la-vigne,Undirected,monsieur-de-la-riviere,2
+monsieur-d-avarin,Undirected,monsieur-de-la-riviere,2

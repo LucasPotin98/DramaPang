@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+l-aine-delmas,Undirected,la-gouvernante,2
+l-aine-delmas,Undirected,l-aine,2
+l-aine-delmas,Undirected,le-cadet,1
+la-gouvernante,Undirected,l-aine,4
+la-gouvernante,Undirected,le-cadet,3
+la-gouvernante,Undirected,monsieur-delmas,1
+l-aine,Undirected,le-cadet,7
+l-aine,Undirected,monsieur-delmas,5
+le-cadet,Undirected,monsieur-delmas,4

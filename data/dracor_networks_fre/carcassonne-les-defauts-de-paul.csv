@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+gilberte,Undirected,lucie,1
+gilberte,Undirected,paul,4
+gilberte,Undirected,etienne,2
+gilberte,Undirected,la-femme-de-chambre,2
+paul,Undirected,etienne,3
+paul,Undirected,la-femme-de-chambre,2

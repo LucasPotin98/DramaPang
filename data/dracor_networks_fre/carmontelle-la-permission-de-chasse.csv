@@ -1,0 +1,5 @@
+Source,Type,Target,Weight
+monsieur-dugrepont,Undirected,saint-eloy,1
+monsieur-dugrepont,Undirected,monsieur-devillerval,2
+monsieur-dugrepont,Undirected,monsieur-debonniere,2
+monsieur-devillerval,Undirected,monsieur-debonniere,3

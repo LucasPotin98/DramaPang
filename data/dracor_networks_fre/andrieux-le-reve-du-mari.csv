@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+mathilde,Undirected,emilie,11
+mathilde,Undirected,gillot,2
+mathilde,Undirected,la-baronne,5
+mathilde,Undirected,darliere,4
+emilie,Undirected,gillot,3
+emilie,Undirected,la-baronne,6
+emilie,Undirected,darliere,6
+gillot,Undirected,la-baronne,1
+gillot,Undirected,darliere,2
+la-baronne,Undirected,darliere,1

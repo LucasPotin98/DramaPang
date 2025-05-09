@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+lise,Undirected,cleon,1
+lise,Undirected,fernand,4
+lise,Undirected,crispin,4
+lise,Undirected,lucresse,1
+cleon,Undirected,crispin,2
+cleon,Undirected,fernand,1
+cleon,Undirected,lucresse,1
+crispin,Undirected,fernand,13
+crispin,Undirected,lucresse,2
+crispin,Undirected,philipin,2
+crispin,Undirected,canteas,1
+fernand,Undirected,philipin,3
+fernand,Undirected,lucresse,2
+fernand,Undirected,canteas,1
+philipin,Undirected,canteas,1

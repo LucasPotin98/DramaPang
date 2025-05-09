@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+julie,Undirected,josepha,6
+julie,Undirected,catherine,8
+julie,Undirected,graindor,9
+julie,Undirected,octave,5
+julie,Undirected,tous,1
+julie,Undirected,les-femmes,1
+josepha,Undirected,catherine,4
+josepha,Undirected,graindor,3
+josepha,Undirected,octave,1
+catherine,Undirected,graindor,5
+catherine,Undirected,tous,1
+catherine,Undirected,les-femmes,1
+graindor,Undirected,octave,2
+graindor,Undirected,tous,1
+graindor,Undirected,les-femmes,1
+tous,Undirected,les-femmes,1

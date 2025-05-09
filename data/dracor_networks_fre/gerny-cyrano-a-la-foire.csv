@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+cyrano,Undirected,christian,2
+cyrano,Undirected,ensemble,1
+christian,Undirected,ensemble,1

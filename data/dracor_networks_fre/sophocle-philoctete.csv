@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+ulysse,Undirected,neoptoleme,3
+ulysse,Undirected,philoctete,3
+ulysse,Undirected,le-choeur,3
+ulysse,Undirected,herakles,1
+neoptoleme,Undirected,le-choeur,5
+neoptoleme,Undirected,philoctete,5
+neoptoleme,Undirected,un-marchand,1
+neoptoleme,Undirected,herakles,1
+le-choeur,Undirected,philoctete,5
+le-choeur,Undirected,herakles,1
+philoctete,Undirected,un-marchand,1
+philoctete,Undirected,herakles,1

@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+ariste,Undirected,oronte,2
+ariste,Undirected,le-valet,1
+ariste,Undirected,valere,2
+ariste,Undirected,egle,3
+ariste,Undirected,lisette,3
+ariste,Undirected,alzate,4
+oronte,Undirected,egle,2
+oronte,Undirected,alzate,3
+oronte,Undirected,valere,1
+valere,Undirected,alzate,3
+valere,Undirected,egle,2
+egle,Undirected,lisette,2
+egle,Undirected,alzate,4
+lisette,Undirected,alzate,2

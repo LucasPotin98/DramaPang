@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+damon,Undirected,clitandre,3
+damon,Undirected,arlequin,2
+clitandre,Undirected,arlequin,5
+clitandre,Undirected,laquais,1
+arlequin,Undirected,laquais,1
+arlequin,Undirected,la-critique,1
+arlequin,Undirected,le-vaudeville,1
+thalie,Undirected,apollon,1
+apollon,Undirected,l-auteur,1
+apollon,Undirected,chrisante,1
+apollon,Undirected,la-critique,1
+la-critique,Undirected,la-medisance,1
+la-critique,Undirected,le-vaudeville,2

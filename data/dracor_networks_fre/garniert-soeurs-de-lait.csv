@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+madame-beaupre,Undirected,henriette,2
+madame-beaupre,Undirected,mathurine,2
+madame-beaupre,Undirected,julie,2
+henriette,Undirected,julie,3
+henriette,Undirected,mathurine,3
+henriette,Undirected,magdelon,1
+henriette,Undirected,javotte,2
+julie,Undirected,mathurine,4
+julie,Undirected,javotte,2
+julie,Undirected,magdelon,1
+mathurine,Undirected,magdelon,2
+mathurine,Undirected,javotte,3
+magdelon,Undirected,javotte,2

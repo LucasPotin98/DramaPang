@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+madame-varseuil,Undirected,louison,3
+madame-varseuil,Undirected,henriette,5
+madame-varseuil,Undirected,madame-verseuil,1
+madame-varseuil,Undirected,chonchon,1
+madame-varseuil,Undirected,minette,1
+madame-varseuil,Undirected,monsieur-varseuil,1
+louison,Undirected,henriette,5
+louison,Undirected,madame-verseuil,1
+louison,Undirected,minette,1
+louison,Undirected,chonchon,1
+louison,Undirected,monsieur-varseuil,1
+henriette,Undirected,madame-verseuil,1
+henriette,Undirected,minette,1
+henriette,Undirected,chonchon,2
+henriette,Undirected,monsieur-varseuil,1
+minette,Undirected,chonchon,1

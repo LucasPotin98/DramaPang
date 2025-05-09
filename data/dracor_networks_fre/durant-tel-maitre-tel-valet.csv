@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+eraste,Undirected,isabelle,2
+eraste,Undirected,monsieur-du-contoir,1
+eraste,Undirected,marton,1
+marton,Undirected,pasquin,2
+pasquin,Undirected,gros-jean,1

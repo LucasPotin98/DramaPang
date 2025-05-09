@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+l-abbe-dursaint,Undirected,le-petit-dorville,2
+l-abbe-dursaint,Undirected,monsieur-dorville,2
+le-petit-dorville,Undirected,le-petit-villiers,2
+le-petit-dorville,Undirected,dorville,1
+le-petit-dorville,Undirected,monsieur-dorville,3
+le-petit-dorville,Undirected,saint-jean,1
+le-petit-villiers,Undirected,dorville,1
+monsieur-dorville,Undirected,saint-jean,1

@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+l-huissier-audiencier,Undirected,le-gasteux,1
+l-huissier-audiencier,Undirected,le-president,1
+le-gasteux,Undirected,le-president,1

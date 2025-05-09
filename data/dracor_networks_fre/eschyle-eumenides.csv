@@ -1,0 +1,8 @@
+Source,Type,Target,Weight
+apollon,Undirected,oreste,3
+apollon,Undirected,le-choeur-des-eumenides,4
+apollon,Undirected,athena,3
+oreste,Undirected,le-choeur-des-eumenides,4
+oreste,Undirected,athena,2
+le-spectre-de-clytemnestre,Undirected,le-choeur-des-eumenides,1
+le-choeur-des-eumenides,Undirected,athena,3

@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+mademoiselle-dubois,Undirected,marianne,2
+mademoiselle-dubois,Undirected,mademoifelle-dubois,1
+mademoiselle-dubois,Undirected,mademoiselle-la-varenne,1
+mademoiselle-dubois,Undirected,la-marquise,1
+marianne,Undirected,mademoifelle-dubois,1
+marianne,Undirected,mademoiselle-la-varenne,4
+marianne,Undirected,le-marquis,1
+marianne,Undirected,la-marquise,2
+marianne,Undirected,le-laquais,1
+mademoiselle-la-varenne,Undirected,le-marquis,1
+mademoiselle-la-varenne,Undirected,la-marquise,1

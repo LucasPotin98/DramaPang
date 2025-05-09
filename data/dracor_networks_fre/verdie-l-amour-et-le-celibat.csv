@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+monsieur-durant,Undirected,dorval,4
+monsieur-durant,Undirected,lafleur,6
+monsieur-durant,Undirected,lisette,3
+monsieur-durant,Undirected,hortense,4
+dorval,Undirected,lafleur,7
+dorval,Undirected,hortense,5
+dorval,Undirected,lisette,2
+lafleur,Undirected,hortense,5
+lafleur,Undirected,lisette,4
+hortense,Undirected,lisette,3

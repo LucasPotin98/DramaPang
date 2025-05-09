@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+le-domestique,Undirected,monsieur,3
+le-domestique,Undirected,madame,2
+monsieur,Undirected,madame,2

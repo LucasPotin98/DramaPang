@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+louise,Undirected,madame-chevalier,3
+louise,Undirected,genevieve,1
+louise,Undirected,lambert,1
+madame-chevalier,Undirected,lambert,4
+madame-chevalier,Undirected,genevieve,2
+lambert,Undirected,genevieve,2

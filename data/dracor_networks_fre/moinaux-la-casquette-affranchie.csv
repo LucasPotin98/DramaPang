@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+le-narrateur,Undirected,un-sergent-de-ville,1
+le-narrateur,Undirected,monsieur-le-president,1
+le-narrateur,Undirected,pinson,1
+un-sergent-de-ville,Undirected,monsieur-le-president,1
+un-sergent-de-ville,Undirected,pinson,1
+monsieur-le-president,Undirected,pinson,1

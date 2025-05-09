@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+eurydice,Undirected,ormene,3
+eurydice,Undirected,palmis,5
+eurydice,Undirected,surena,3
+eurydice,Undirected,pacorus,2
+eurydice,Undirected,orode,1
+ormene,Undirected,palmis,1
+palmis,Undirected,pacorus,1
+palmis,Undirected,orode,1
+palmis,Undirected,surena,1
+surena,Undirected,pacorus,2
+surena,Undirected,orode,1
+sillace,Undirected,orode,1

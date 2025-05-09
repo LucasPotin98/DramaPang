@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+henriette,Undirected,agathe,2
+henriette,Undirected,sainville,5
+henriette,Undirected,madame-belval,5
+henriette,Undirected,monsieur-de-gouvignac,2
+henriette,Undirected,daricour,2
+agathe,Undirected,madame-belval,5
+agathe,Undirected,sainville,2
+agathe,Undirected,daricour,2
+agathe,Undirected,monsieur-de-gouvignac,5
+sainville,Undirected,madame-belval,10
+sainville,Undirected,monsieur-de-gouvignac,6
+sainville,Undirected,daricour,4
+madame-belval,Undirected,monsieur-de-gouvignac,11
+madame-belval,Undirected,daricour,9
+monsieur-de-gouvignac,Undirected,daricour,4
+monsieur-de-gouvignac,Undirected,cleofile,1

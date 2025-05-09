@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+oedipe,Undirected,le-sacrificateur,2
+oedipe,Undirected,creon,4
+oedipe,Undirected,le-choeur,9
+oedipe,Undirected,tiresias,1
+oedipe,Undirected,jocaste,3
+oedipe,Undirected,le-messager,2
+oedipe,Undirected,le-serviteur,1
+le-sacrificateur,Undirected,creon,1
+creon,Undirected,le-choeur,3
+creon,Undirected,jocaste,1
+le-choeur,Undirected,tiresias,1
+le-choeur,Undirected,jocaste,5
+le-choeur,Undirected,le-messager,4
+le-choeur,Undirected,le-serviteur,1
+jocaste,Undirected,le-messager,2
+le-messager,Undirected,le-serviteur,1

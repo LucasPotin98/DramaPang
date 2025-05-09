@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+zenobie,Undirected,theone,4
+zenobie,Undirected,sabinus,2
+zenobie,Undirected,aurelien,3
+zenobie,Undirected,ismene,6
+zenobie,Undirected,sapor,2
+zenobie,Undirected,firmin,1
+theone,Undirected,ismene,3
+theone,Undirected,aurelien,1
+theone,Undirected,firmin,1
+sabinus,Undirected,aurelien,1
+aurelien,Undirected,firmin,2
+aurelien,Undirected,ismene,6
+aurelien,Undirected,sapor,2
+firmin,Undirected,ismene,1
+ismene,Undirected,sapor,5

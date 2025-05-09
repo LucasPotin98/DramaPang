@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+livie,Undirected,agrippine,2
+livie,Undirected,drusus,2
+livie,Undirected,germanicus,1
+agrippine,Undirected,flavie,6
+agrippine,Undirected,drusus,3
+agrippine,Undirected,pison,5
+agrippine,Undirected,albin,2
+agrippine,Undirected,germanicus,3
+flavie,Undirected,drusus,1
+flavie,Undirected,albin,1
+flavie,Undirected,pison,2
+drusus,Undirected,pison,1
+drusus,Undirected,germanicus,1
+pison,Undirected,germanicus,1

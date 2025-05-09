@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+le-pretre,Undirected,la-pretresse,6
+le-pretre,Undirected,le-choeur,5
+la-pretresse,Undirected,le-choeur,4

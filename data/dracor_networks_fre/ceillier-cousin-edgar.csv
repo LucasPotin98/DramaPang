@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+victorine,Undirected,voix-d-homme,1
+victorine,Undirected,joseph,10
+victorine,Undirected,clemence,11
+victorine,Undirected,edgard,4
+voix-d-homme,Undirected,joseph,1
+voix-d-homme,Undirected,clemence,1
+joseph,Undirected,clemence,12
+joseph,Undirected,edgard,7
+clemence,Undirected,edgard,9

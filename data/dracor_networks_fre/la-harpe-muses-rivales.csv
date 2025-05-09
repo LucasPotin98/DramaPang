@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+erato,Undirected,uranie,2
+erato,Undirected,thalie,1
+uranie,Undirected,thalie,1
+calliope,Undirected,clio,3
+calliope,Undirected,melpomene,1
+calliope,Undirected,momus,1
+clio,Undirected,melpomene,1
+clio,Undirected,momus,1
+momus,Undirected,apollon,1
+momus,Undirected,euphrosine,1
+apollon,Undirected,euphrosine,1
+apollon,Undirected,mercure,1

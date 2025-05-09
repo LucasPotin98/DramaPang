@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+monsieur-le-maire,Undirected,monsieur-le-gris,3
+monsieur-le-maire,Undirected,monsieur-le-clerc,3
+monsieur-le-maire,Undirected,monsieur-raphaël,2
+monsieur-le-gris,Undirected,monsieur-le-clerc,2
+monsieur-le-gris,Undirected,monsieur-raphaël,1
+monsieur-le-clerc,Undirected,monsieur-raphaël,1

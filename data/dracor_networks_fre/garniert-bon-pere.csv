@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+antoine,Undirected,julien,4
+antoine,Undirected,monsieur-mondor,2
+antoine,Undirected,monsieur-de-ferval,4
+antoine,Undirected,monsieur-de-ferval-pere,1
+julien,Undirected,monsieur-mondor,2
+julien,Undirected,monsieur-de-ferval,3
+monsieur-mondor,Undirected,monsieur-de-ferval,1
+monsieur-de-ferval,Undirected,monsieur-de-ferval-pere,1

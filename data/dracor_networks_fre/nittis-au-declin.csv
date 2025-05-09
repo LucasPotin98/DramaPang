@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+manicamp,Undirected,racine,1
+racine,Undirected,laure,3
+racine,Undirected,madame-de-maintenon,3
+racine,Undirected,le-roi,1
+laure,Undirected,madame-de-maintenon,1
+madame-de-maintenon,Undirected,le-roi,1

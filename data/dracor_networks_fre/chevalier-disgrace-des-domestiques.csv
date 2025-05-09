@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+guillot,Undirected,fabrice,3
+guillot,Undirected,policarpe,2
+guillot,Undirected,marotte,1
+guillot,Undirected,angelique,1
+policarpe,Undirected,fabrice,3
+policarpe,Undirected,angelique,4
+policarpe,Undirected,marotte,2
+fabrice,Undirected,angelique,2
+angelique,Undirected,marotte,1

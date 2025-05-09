@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+lothaire,Undirected,gontier,2
+lothaire,Undirected,raimond,8
+lothaire,Undirected,valrade,12
+lothaire,Undirected,arsene,5
+lothaire,Undirected,emirene,4
+gontier,Undirected,raimond,1
+raimond,Undirected,valrade,5
+raimond,Undirected,arsene,3
+raimond,Undirected,emirene,2
+valrade,Undirected,emirene,6
+valrade,Undirected,morange,2
+valrade,Undirected,arsene,5
+arsene,Undirected,emirene,8

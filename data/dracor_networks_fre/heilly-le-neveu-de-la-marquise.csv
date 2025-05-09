@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+la-marquise,Undirected,lisette,4
+la-marquise,Undirected,roger,3
+lisette,Undirected,roger,4

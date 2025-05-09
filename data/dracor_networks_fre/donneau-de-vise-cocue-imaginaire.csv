@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+alcippe,Undirected,geronte,3
+alcippe,Undirected,roguespine,5
+alcippe,Undirected,paquette,3
+alcippe,Undirected,cephise,4
+alcippe,Undirected,spadarille,2
+geronte,Undirected,cephise,1
+geronte,Undirected,roguespine,1
+geronte,Undirected,spadarille,1
+roguespine,Undirected,paquette,2
+roguespine,Undirected,spadarille,3
+roguespine,Undirected,cephise,3
+paquette,Undirected,spadarille,3
+paquette,Undirected,cephise,4
+paquette,Undirected,lucresse,1
+spadarille,Undirected,cephise,4
+beatrix,Undirected,cephise,1

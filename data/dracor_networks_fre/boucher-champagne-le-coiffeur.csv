@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+guillot,Undirected,cleandre,5
+guillot,Undirected,elise,4
+guillot,Undirected,lisette,3
+guillot,Undirected,boniface,2
+guillot,Undirected,thomas,3
+cleandre,Undirected,elise,6
+cleandre,Undirected,lisette,5
+cleandre,Undirected,boniface,4
+cleandre,Undirected,thomas,4
+elise,Undirected,lisette,5
+elise,Undirected,boniface,4
+elise,Undirected,thomas,3
+lisette,Undirected,boniface,4
+lisette,Undirected,thomas,3
+boniface,Undirected,thomas,6

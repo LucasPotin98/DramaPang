@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+gabrielle,Undirected,georges,3
+gabrielle,Undirected,david,2
+georges,Undirected,david,2

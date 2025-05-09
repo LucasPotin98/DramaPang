@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+julie,Undirected,valerie,8
+julie,Undirected,sergeste,1
+julie,Undirected,marcellin,1
+julie,Undirected,diocletien,1
+valerie,Undirected,diocletien,6
+valerie,Undirected,sebaste,1
+valerie,Undirected,marcellin,3
+valerie,Undirected,sergeste,3
+valerie,Undirected,adrien,6
+diocletien,Undirected,sergeste,2
+diocletien,Undirected,marcellin,2
+diocletien,Undirected,adrien,2
+sergeste,Undirected,adrien,1
+marcellin,Undirected,adrien,2

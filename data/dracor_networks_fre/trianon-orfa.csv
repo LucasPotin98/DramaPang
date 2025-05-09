@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+famille-de-lodbrock,Undirected,famille-d-orfa,1
+famille-de-lodbrock,Undirected,tous,1
+famille-d-orfa,Undirected,tous,1
+le-pretre,Undirected,lodbrog,1
+le-pretre,Undirected,orfa,1
+le-pretre,Undirected,le-vieillard,1
+lodbrog,Undirected,orfa,1
+lodbrog,Undirected,le-vieillard,1
+orfa,Undirected,le-vieillard,1

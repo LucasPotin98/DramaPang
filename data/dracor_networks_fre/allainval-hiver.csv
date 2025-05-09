@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+l-hiver,Undirected,comus,4
+l-hiver,Undirected,la-volupte,1
+l-hiver,Undirected,l-hymen,1
+comus,Undirected,l-hymen,3
+comus,Undirected,la-mode,1
+comus,Undirected,le-pharaon,1
+comus,Undirected,le-bal,1
+comus,Undirected,la-medisance,1
+comus,Undirected,hector-criquet,1

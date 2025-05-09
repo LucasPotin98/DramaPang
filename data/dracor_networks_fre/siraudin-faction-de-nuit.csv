@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+le-caporal,Undirected,blaireau,2
+le-caporal,Undirected,le-chef-de-patrouille,1
+blaireau,Undirected,le-chef-de-patrouille,1

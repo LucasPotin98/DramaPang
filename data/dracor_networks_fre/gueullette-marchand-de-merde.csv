@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+leandre,Undirected,arlequin,3
+leandre,Undirected,gilles,2
+leandre,Undirected,catin,1
+arlequin,Undirected,gilles,5
+arlequin,Undirected,l-apothicaire,1
+arlequin,Undirected,catin,1
+gilles,Undirected,catin,2
+gilles,Undirected,l-apothicaire,2

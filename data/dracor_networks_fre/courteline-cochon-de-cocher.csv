@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+tiracinq,Undirected,le-passant,1
+tiracinq,Undirected,un-voyou,1
+tiracinq,Undirected,le-cocher,1
+le-passant,Undirected,un-voyou,1
+le-passant,Undirected,le-cocher,1
+un-voyou,Undirected,le-cocher,1

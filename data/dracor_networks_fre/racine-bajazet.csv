@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+acomat,Undirected,osmin,3
+acomat,Undirected,roxane,2
+acomat,Undirected,bajazet,1
+acomat,Undirected,atalide,4
+osmin,Undirected,atalide,1
+roxane,Undirected,atalide,6
+roxane,Undirected,bajazet,3
+roxane,Undirected,zatime,6
+atalide,Undirected,zaïre,6
+atalide,Undirected,bajazet,2
+atalide,Undirected,zatime,2

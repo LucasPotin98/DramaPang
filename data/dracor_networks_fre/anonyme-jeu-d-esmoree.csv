@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+robert,Undirected,l-astrologue,2
+robert,Undirected,le-roi-chretien,5
+robert,Undirected,la-reine,2
+robert,Undirected,esmoree,2
+l-astrologue,Undirected,le-roi-maure,2
+l-astrologue,Undirected,damiette,2
+l-astrologue,Undirected,esmoree,3
+l-astrologue,Undirected,le-roi-chretien,1
+le-roi-maure,Undirected,damiette,1
+damiette,Undirected,esmoree,2
+le-roi-chretien,Undirected,la-reine,2
+le-roi-chretien,Undirected,esmoree,2
+la-reine,Undirected,esmoree,2

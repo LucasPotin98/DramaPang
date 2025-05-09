@@ -1,0 +1,3 @@
+Source,Type,Target,Weight
+cecile,Undirected,julia,1
+cecile,Undirected,gaston,1

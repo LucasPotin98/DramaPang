@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+frantz,Undirected,berthe,5
+frantz,Undirected,julie,3
+frantz,Undirected,madame-de-preval,4
+berthe,Undirected,julie,3
+berthe,Undirected,madame-de-preval,5
+julie,Undirected,madame-de-preval,3

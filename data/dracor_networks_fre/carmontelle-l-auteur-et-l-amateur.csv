@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+monsieur-deloureville,Undirected,bery,2
+monsieur-deloureville,Undirected,monsieur-pastoureau,1
+bery,Undirected,monsieur-pastoureau,1

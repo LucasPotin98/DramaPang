@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+monsieur-de-kerkabon,Undirected,kerkabon,1
+monsieur-de-kerkabon,Undirected,l-officier,1
+monsieur-de-kerkabon,Undirected,mademoiselle-de-kerkabon,1
+monsieur-de-kerkabon,Undirected,les-amants,1
+l-officier,Undirected,kerkabon,1
+l-officier,Undirected,mademoiselle-de-kerkabon,1
+l-officier,Undirected,les-amants,1
+kerkabon,Undirected,mademoiselle-de-saint-yves,1
+kerkabon,Undirected,mademoiselle-de-kerkabon,1
+kerkabon,Undirected,les-amants,1
+mademoiselle-de-kerkabon,Undirected,les-amants,1

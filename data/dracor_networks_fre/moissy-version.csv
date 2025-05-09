@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+le-petit-delorme,Undirected,la-petite-delorme,2
+le-petit-delorme,Undirected,le-repetiteur,1
+le-petit-delorme,Undirected,le-maitre-de-dessin,1
+la-petite-delorme,Undirected,le-repetiteur,1
+la-petite-delorme,Undirected,le-maitre-de-dessin,1
+le-repetiteur,Undirected,le-maitre-de-dessin,1

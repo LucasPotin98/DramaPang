@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+la-comtesse,Undirected,henriette,1
+la-comtesse,Undirected,le-chevalier,1
+henriette,Undirected,le-chevalier,2

@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+le-narrateur,Undirected,adolphe,1
+le-narrateur,Undirected,la-mere-brechot,1
+le-narrateur,Undirected,monsieur-le-president,1
+le-narrateur,Undirected,le-temoin,1
+adolphe,Undirected,la-mere-brechot,1
+adolphe,Undirected,monsieur-le-president,1
+adolphe,Undirected,le-temoin,1
+la-mere-brechot,Undirected,monsieur-le-president,1
+la-mere-brechot,Undirected,le-temoin,1
+monsieur-le-president,Undirected,le-temoin,1

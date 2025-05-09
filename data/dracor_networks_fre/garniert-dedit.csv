@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+ruineau,Undirected,le-baron,2
+ruineau,Undirected,des-baudieres,1
+ruineau,Undirected,le-president,1
+le-baron,Undirected,la-baronne,1
+le-baron,Undirected,le-president,3
+le-baron,Undirected,des-baudieres,1
+la-baronne,Undirected,le-president,2
+la-baronne,Undirected,le-laquais,1
+le-president,Undirected,le-laquais,1
+le-president,Undirected,des-baudieres,1

@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+l-invite,Undirected,madame-boulingrin,1
+l-invite,Undirected,monsieur-boulingrin,1
+madame-boulingrin,Undirected,monsieur-boulingrin,1

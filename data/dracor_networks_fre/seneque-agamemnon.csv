@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+clytemnestre,Undirected,la-nourrice,1
+clytemnestre,Undirected,egisthe,2
+clytemnestre,Undirected,eurybate,1
+clytemnestre,Undirected,electre,1
+clytemnestre,Undirected,cassandre,1
+egisthe,Undirected,electre,1
+egisthe,Undirected,cassandre,1
+le-choeur,Undirected,cassandre,1
+cassandre,Undirected,agamemnon,1
+cassandre,Undirected,electre,1
+electre,Undirected,strophius,1

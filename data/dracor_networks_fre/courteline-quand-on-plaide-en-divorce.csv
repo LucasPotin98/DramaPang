@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+le-juge,Undirected,madame,1
+le-juge,Undirected,monsieur,1
+madame,Undirected,monsieur,1

@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+damon,Undirected,licidas,3
+damon,Undirected,eraste,4
+damon,Undirected,mademoiselle-beauval,2
+damon,Undirected,le-gascon,2
+licidas,Undirected,eraste,2
+licidas,Undirected,mademoiselle-beauval,1
+eraste,Undirected,mademoiselle-beauval,2
+eraste,Undirected,le-gascon,2
+mademoiselle-beauval,Undirected,le-gascon,1

@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+ratanphor,Undirected,belendraps,2
+ratanphor,Undirected,fessaride,1
+ratanphor,Undirected,impias,1
+belendraps,Undirected,impias,2
+fessaride,Undirected,impias,1
+fessaride,Undirected,fessarde,1
+fessaride,Undirected,le-capitaine-des-gardes,1
+impias,Undirected,fessarde,1

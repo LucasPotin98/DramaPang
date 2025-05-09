@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+saint-gratien,Undirected,d-auversac,3
+saint-gratien,Undirected,le-chevalier,2
+saint-gratien,Undirected,le-marechal,2
+saint-gratien,Undirected,le-garçon,1
+d-auversac,Undirected,le-chevalier,1
+d-auversac,Undirected,le-marechal,1
+le-chevalier,Undirected,le-marechal,1
+le-chevalier,Undirected,gervault,2
+le-chevalier,Undirected,derincourt,1
+le-marechal,Undirected,le-garçon,1
+gervault,Undirected,derincourt,1

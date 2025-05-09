@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+la-marquise,Undirected,lisette,6
+la-marquise,Undirected,lubin,7
+la-marquise,Undirected,hortensius,5
+la-marquise,Undirected,un-laquais,1
+la-marquise,Undirected,le-chevalier,9
+la-marquise,Undirected,le-comte,3
+lisette,Undirected,lubin,11
+lisette,Undirected,hortensius,3
+lisette,Undirected,le-comte,2
+lisette,Undirected,le-chevalier,3
+lubin,Undirected,le-chevalier,6
+lubin,Undirected,le-comte,2
+lubin,Undirected,hortensius,5
+hortensius,Undirected,un-laquais,1
+hortensius,Undirected,le-chevalier,2
+le-chevalier,Undirected,le-comte,4

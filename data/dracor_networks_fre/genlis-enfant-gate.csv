@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+melanide,Undirected,dorine,2
+melanide,Undirected,lucie,3
+dorine,Undirected,lucie,7
+dorine,Undirected,toinette,5
+lucie,Undirected,toinette,5

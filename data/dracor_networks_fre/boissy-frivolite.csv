@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+la-frivolite,Undirected,l-hiver,1
+la-frivolite,Undirected,monsieur-fauster,3
+la-frivolite,Undirected,miss-blar,2
+la-frivolite,Undirected,le-marquis,3
+la-frivolite,Undirected,arlequin,1
+monsieur-fauster,Undirected,miss-blar,2
+monsieur-fauster,Undirected,le-marquis,1
+miss-blar,Undirected,le-marquis,1
+le-marquis,Undirected,arlequin,1

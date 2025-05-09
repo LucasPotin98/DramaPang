@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+jason,Undirected,iphite,3
+jason,Undirected,creuse,3
+jason,Undirected,creon,1
+jason,Undirected,medee,3
+jason,Undirected,cydippe,1
+creuse,Undirected,cydippe,1
+creon,Undirected,medee,1
+medee,Undirected,rhodope,4
+medee,Undirected,premier-enfant,1
+medee,Undirected,second-enfant,1
+rhodope,Undirected,premier-enfant,1
+rhodope,Undirected,second-enfant,1
+premier-enfant,Undirected,second-enfant,1

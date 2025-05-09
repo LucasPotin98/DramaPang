@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+daphnis,Undirected,themire,3
+daphnis,Undirected,schnapan,1
+daphnis,Undirected,un-berger,1
+daphnis,Undirected,un-chasseur,1
+themire,Undirected,schnapan,2
+themire,Undirected,un-berger,1
+themire,Undirected,un-chasseur,1
+schnapan,Undirected,un-berger,1
+schnapan,Undirected,un-chasseur,1
+un-berger,Undirected,un-chasseur,1

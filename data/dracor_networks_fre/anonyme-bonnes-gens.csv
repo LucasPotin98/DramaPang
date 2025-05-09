@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+guillaume,Undirected,madame-guillaume,3
+guillaume,Undirected,le-roi,2
+madame-guillaume,Undirected,le-roi,2
+madame-guillaume,Undirected,arlequin,1
+madame-guillaume,Undirected,un-hussard,1
+madame-guillaume,Undirected,second-hussard,1
+arlequin,Undirected,un-hussard,1
+arlequin,Undirected,second-hussard,1
+un-hussard,Undirected,second-hussard,1

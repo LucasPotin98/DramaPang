@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+arlequin,Undirected,cassandre,5
+arlequin,Undirected,gilles,6
+arlequin,Undirected,colombine,2
+cassandre,Undirected,gilles,8
+cassandre,Undirected,colombine,5
+gilles,Undirected,colombine,5

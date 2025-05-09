@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+marton,Undirected,dorimene,4
+marton,Undirected,madame-de-florville,7
+marton,Undirected,monsieur-de-florville,5
+marton,Undirected,gerault,1
+marton,Undirected,blaise,1
+dorimene,Undirected,madame-de-florville,6
+dorimene,Undirected,monsieur-de-florville,3
+madame-de-florville,Undirected,monsieur-de-florville,8
+monsieur-de-florville,Undirected,gerault,1
+monsieur-de-florville,Undirected,blaise,1
+gerault,Undirected,blaise,1

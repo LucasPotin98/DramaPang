@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+plutus,Undirected,la-vanite,1
+plutus,Undirected,le-luxe,1
+la-vanite,Undirected,le-luxe,1

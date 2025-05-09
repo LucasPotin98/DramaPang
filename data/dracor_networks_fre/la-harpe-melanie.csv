@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+monsieur-de-faublas,Undirected,madame-de-faublas,5
+monsieur-de-faublas,Undirected,le-cure,3
+monsieur-de-faublas,Undirected,melanie,2
+monsieur-de-faublas,Undirected,monval,1
+madame-de-faublas,Undirected,monval,2
+madame-de-faublas,Undirected,le-cure,2
+madame-de-faublas,Undirected,melanie,2
+le-cure,Undirected,melanie,2
+le-cure,Undirected,monval,1
+melanie,Undirected,monval,2

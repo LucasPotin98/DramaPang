@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+stanislas,Undirected,amanda,5
+stanislas,Undirected,spengler,4
+amanda,Undirected,spengler,5

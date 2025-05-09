@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+le-chevalier,Undirected,le-vicomte,1
+le-vicomte,Undirected,la-comtesse,4
+le-vicomte,Undirected,le-comte,1
+le-vicomte,Undirected,duval,1
+la-comtesse,Undirected,duval,1

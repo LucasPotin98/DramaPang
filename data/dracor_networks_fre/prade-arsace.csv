@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+vologese,Undirected,le-roi,4
+vologese,Undirected,araxie,2
+vologese,Undirected,arsace,1
+le-roi,Undirected,araxie,6
+le-roi,Undirected,pharasmane,4
+le-roi,Undirected,arsace,5
+araxie,Undirected,medonie,4
+araxie,Undirected,arsace,4
+araxie,Undirected,pharasmane,2
+medonie,Undirected,pharasmane,4
+medonie,Undirected,arsace,3
+pharasmane,Undirected,arsace,7
