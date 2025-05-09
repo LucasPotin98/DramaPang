@@ -28,6 +28,7 @@ def load_graphs(fileName,TAILLE):
     nbE=[]
     numbers = []
     noms = []
+    namesPersons = []
     for i in range(TAILLE):
         numbers.append([])
     ## Variables de stockage
@@ -39,6 +40,7 @@ def load_graphs(fileName,TAILLE):
     numero=0
     file = open(fileName, "r")
     for line in file:
+        print(line)
         a = line
         b = a.split(" ")
         if b[0]=="t":
@@ -47,20 +49,30 @@ def load_graphs(fileName,TAILLE):
                 noms.append(temptre)
                 nbV.append(len(labelVertices[compteur-1]))
                 nbE.append(len(labelEdges[compteur-1]))
+                namesPersons.append(namesVertices)
             labelVertices.append([])
             labelEdges.append([])
+            namesVertices = []
             val = b[2]
             val = re.sub("\n","",val)
             val = int(val)
             numero = val
             temptre=""
         if b[0]=="v":
-            vertices[compteur]=vertices[compteur]+1
+            vertices[compteur] += 1
+
+            # Récupération du label
             val = b[2]
-            val = re.sub("\n","",val)
+            val = re.sub("\n", "", val)
             val = int(val)
             labelVertices[compteur].append(val)
-            temptre=temptre+line
+
+            # Récupération du nom (après le # si présent)
+            if "#" in line:
+                name = line.split("#", 1)[-1].strip()
+            else:
+                name = f"v{vertices[compteur]-1}"  # nom générique si absent
+            namesVertices.append(name)
         if b[0]=="e":
             edges[compteur]=edges[compteur]+1
             num1 = int(b[1])
@@ -82,6 +94,7 @@ def load_graphs(fileName,TAILLE):
     noms.append(temptre)
     nbV.append(len(labelVertices[compteur-1]))
     nbE.append(len(labelEdges[compteur-1]))
+    namesPersons.append(namesVertices)
     graphes = []
     for i in range(len(vertices)):
         dicoNodes = {}
@@ -92,7 +105,8 @@ def load_graphs(fileName,TAILLE):
         for j in range(int(edges[i])):
             graphes[i].add_edge(labelEdges[i][j][0],labelEdges[i][j][1],color=labelEdges[i][j][2])
         graphes[i].add_nodes_from([(node, {'color': attr}) for (node, attr) in dicoNodes.items()])
-    return graphes,numbers,noms
+    
+    return graphes,numbers,namesPersons
 
 
 def readLabels(fileLabel):

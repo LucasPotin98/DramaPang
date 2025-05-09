@@ -75,6 +75,7 @@ def select_top_k_columns(X, scores, k):
     scores = np.array(scores)
     if k >= X.shape[1]:
         selected_indices = list(range(X.shape[1]))
+        return X, selected_indices
     else:
         selected_indices = np.argsort(scores)[::-1][:k]  # tri décroissant
 

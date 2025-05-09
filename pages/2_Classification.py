@@ -39,8 +39,12 @@ ax.set_xlabel("Motifs (triés)")
 ax.set_ylabel("Score")
 st.pyplot(fig)
 
-# === Choix du nombre de motifs ===
-top_k = st.slider("Nombre de motifs à sélectionner", 10, min(300, X_full.shape[1]), 100)
+mode = st.selectbox("Sélection des motifs", ["Top-k motifs", "Tous les motifs"])
+
+if mode == "Top-k motifs":
+    top_k = st.slider("Nombre de motifs à sélectionner", 10, 300, 100)
+else:
+    top_k = X_full.shape[1]
 
 # === Classification ===
 if st.button("Lancer la classification"):

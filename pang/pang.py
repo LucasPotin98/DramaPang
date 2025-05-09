@@ -29,14 +29,18 @@ def pang_load_and_represent(FILEGRAPHS, FILESUBGRAPHS, FILELABEL):
     TAILLEGRAPHE=read_Sizegraph(FILEGRAPHS)
     TAILLEPATTERN=read_Sizegraph(FILESUBGRAPHS)
 
-    Graphes,xx,xx= load_graphs(FILEGRAPHS,TAILLEGRAPHE)
+    Graphes,xx,noms= load_graphs(FILEGRAPHS,TAILLEGRAPHE)
     xx,id_graphs,xx = load_graphs(FILESUBGRAPHS,TAILLEPATTERN)
     labels = readLabels(FILELABEL)
     
 
     X = ComputeRepresentationComplete(id_graphs, labels)
-    return X, Graphes, labels
+    return X, Graphes, labels, noms
 
+def load_titles(FILETITLES):
+    with open(FILETITLES, 'r', encoding='utf-8') as f:
+        titles = f.readlines()
+    return titles
 
 def compute_scores(X, labels, measure="AbsSupDif"):
     """
