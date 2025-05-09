@@ -1,0 +1,13021 @@
+t # 0
+v 0 1 # argelie
+v 1 1 # clytie
+v 2 0 # timagene
+v 3 0 # phoenix
+v 4 1 # ismene
+v 5 0 # arcas
+v 6 1 # dione
+v 7 0 # cleon
+e 0 1 1
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 1 4 2
+e 1 3 2
+e 1 2 1
+e 1 6 1
+e 2 3 2
+e 2 4 2
+e 3 4 3
+e 3 7 1
+e 3 5 1
+e 4 6 2
+e 4 5 2
+e 4 7 1
+t # 1
+v 0 0 # coriolan
+v 1 0 # albin
+v 2 0 # aufide
+v 3 2 # virgile
+v 4 1 # camille
+v 5 1 # sabine
+e 0 1 3
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 1 3 2
+e 1 4 1
+e 1 5 1
+e 2 4 1
+e 2 3 1
+e 3 4 2
+e 3 5 2
+e 4 5 2
+t # 2
+v 0 0 # iphis
+v 1 1 # erigone
+v 2 0 # danaüs
+v 3 1 # hypermestre
+v 4 1 # dirce
+v 5 0 # lyncee
+v 6 0 # lycaste
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 1 4 2
+e 1 2 2
+e 1 5 1
+e 1 3 2
+e 1 6 1
+e 2 5 1
+e 2 3 2
+e 2 6 1
+e 3 5 2
+e 3 6 1
+t # 3
+v 0 1 # risette
+v 1 0 # evelina
+v 2 0 # antonin
+v 3 1 # le-portier
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 1 2 3
+e 1 3 1
+e 2 3 1
+t # 4
+v 0 0 # pierrot
+v 1 1 # colombine
+v 2 0 # arlequin
+v 3 0 # le-guet
+v 4 2 # le-sergent
+v 5 0 # le-docteur
+e 0 1 3
+e 0 2 3
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 1 2 3
+e 3 4 1
+t # 5
+v 0 0 # ulysse
+v 1 0 # agamemnon
+v 2 1 # polyxene
+v 3 1 # hecube
+v 4 1 # iphise
+v 5 2 # le-soldat
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 1 3 2
+e 1 2 1
+e 1 4 1
+e 2 3 2
+e 2 5 1
+e 3 4 2
+e 3 5 1
+t # 6
+v 0 0 # argante
+v 1 1 # nerine
+v 2 1 # julie
+v 3 1 # dorimene
+v 4 0 # geronte
+v 5 0 # monsieur-subtil
+v 6 2 # monsieur-courte-ligne
+v 7 0 # valere
+e 0 1 3
+e 0 2 1
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 1 2 2
+e 1 3 2
+e 1 7 2
+e 1 4 2
+e 2 3 1
+e 2 7 2
+e 3 7 1
+e 3 4 2
+e 4 5 1
+e 4 6 1
+e 5 6 1
+t # 7
+v 0 1 # polixene
+v 1 1 # aegine
+v 2 0 # pyrrhus
+v 3 0 # thessandre
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 1 2 1
+e 2 3 2
+t # 8
+v 0 0 # frontin
+v 1 0 # valere
+v 2 1 # madame-de-falignac
+v 3 1 # philaminte
+v 4 1 # lisette
+v 5 0 # criquet
+e 0 1 3
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 1 2 2
+e 1 4 2
+e 1 3 2
+e 2 3 3
+e 2 4 2
+e 2 5 2
+e 3 4 2
+e 3 5 2
+e 4 5 1
+t # 9
+v 0 1 # madame-abraham
+v 1 1 # benjamine
+v 2 2 # marthon
+v 3 0 # monsieur-mathieu
+v 4 2 # le-marquis
+v 5 2 # le-laquais
+v 6 0 # monsieur-pot-de-vin
+v 7 2 # le-coureur
+v 8 2 # le-commandeur
+v 9 0 # le-comte
+v 10 0 # damis
+v 11 2 # le-notaire
+v 12 0 # le-commissaire
+e 0 1 3
+e 0 2 3
+e 0 3 3
+e 0 4 3
+e 0 5 1
+e 0 6 1
+e 0 7 1
+e 0 8 2
+e 0 9 2
+e 0 10 2
+e 0 11 1
+e 1 2 3
+e 1 3 3
+e 1 4 2
+e 1 8 2
+e 1 7 1
+e 1 10 2
+e 1 9 1
+e 2 10 2
+e 2 4 3
+e 2 6 1
+e 2 7 2
+e 2 3 3
+e 2 9 2
+e 2 8 2
+e 2 12 1
+e 2 11 1
+e 3 10 2
+e 3 4 2
+e 3 7 1
+e 3 8 2
+e 3 9 2
+e 3 11 1
+e 4 10 2
+e 4 6 1
+e 4 8 3
+e 4 9 2
+e 4 12 1
+e 4 11 1
+e 8 10 2
+e 8 9 2
+e 8 12 1
+e 8 11 1
+e 9 10 2
+e 9 12 1
+e 9 11 1
+e 10 11 1
+t # 10
+v 0 2 # l-hiver
+v 1 0 # comus
+v 2 1 # la-volupte
+v 3 2 # l-hymen
+v 4 1 # la-mode
+v 5 0 # le-pharaon
+v 6 0 # le-bal
+v 7 1 # la-medisance
+v 8 0 # hector-criquet
+e 0 1 2
+e 0 2 1
+e 0 3 1
+e 1 3 2
+e 1 4 1
+e 1 5 1
+e 1 6 1
+e 1 7 1
+e 1 8 1
+t # 11
+v 0 2 # cecile
+v 1 1 # julia
+v 2 2 # gaston
+e 0 1 1
+e 0 2 1
+t # 12
+v 0 2 # ninon
+v 1 0 # germain
+v 2 2 # saint-pol
+v 3 2 # un-domestique
+v 4 0 # moliere
+v 5 2 # le-laquais
+v 6 0 # saint-evremont
+v 7 1 # madame-de-lafayette
+v 8 1 # madame-de-coulanges
+v 9 0 # d-estrees
+v 10 2 # tous
+v 11 2 # longueville
+v 12 0 # delaunay
+v 13 2 # ensemble
+v 14 2 # madame-de-saint-pol
+v 15 2 # le-domestique
+e 0 1 2
+e 0 2 3
+e 0 3 1
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 0 7 1
+e 0 8 1
+e 0 9 1
+e 0 10 1
+e 0 11 2
+e 0 12 1
+e 0 13 1
+e 0 14 2
+e 0 15 1
+e 1 5 1
+e 1 4 1
+e 1 6 1
+e 1 7 1
+e 1 8 1
+e 1 9 1
+e 1 10 1
+e 1 11 1
+e 1 12 1
+e 1 2 1
+e 2 3 1
+e 2 4 2
+e 2 5 1
+e 2 6 1
+e 2 7 1
+e 2 8 1
+e 2 9 1
+e 2 10 1
+e 2 11 2
+e 2 12 1
+e 2 13 1
+e 2 14 2
+e 2 15 1
+e 4 5 1
+e 4 6 1
+e 4 7 1
+e 4 8 1
+e 4 9 1
+e 4 10 1
+e 4 11 2
+e 4 12 1
+e 4 15 1
+e 4 14 2
+e 5 6 1
+e 5 7 1
+e 5 8 1
+e 5 9 1
+e 5 10 1
+e 5 11 1
+e 5 12 1
+e 6 7 1
+e 6 8 1
+e 6 9 1
+e 6 10 1
+e 6 11 1
+e 6 12 1
+e 7 8 1
+e 7 9 1
+e 7 10 1
+e 7 11 1
+e 7 12 1
+e 8 9 1
+e 8 10 1
+e 8 11 1
+e 8 12 1
+e 9 10 1
+e 9 11 1
+e 9 12 1
+e 10 11 1
+e 10 12 1
+e 11 12 1
+e 11 14 1
+e 14 15 1
+t # 13
+v 0 0 # anaximandre
+v 1 1 # aspasie
+v 2 1 # phrosine
+v 3 0 # melidore
+v 4 1 # pretresse
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 1
+e 1 2 2
+e 2 3 1
+t # 14
+v 0 1 # henriette
+v 1 1 # agathe
+v 2 0 # sainville
+v 3 1 # madame-belval
+v 4 0 # monsieur-de-gouvignac
+v 5 0 # daricour
+v 6 1 # cleofile
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 1 3 2
+e 1 2 2
+e 1 5 2
+e 1 4 2
+e 2 3 3
+e 2 4 3
+e 2 5 2
+e 3 4 3
+e 3 5 3
+e 4 5 2
+e 4 6 1
+t # 15
+v 0 1 # mathilde
+v 1 1 # emilie
+v 2 0 # gillot
+v 3 1 # la-baronne
+v 4 0 # darliere
+e 0 1 3
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 1 2 2
+e 1 3 3
+e 1 4 3
+e 2 3 1
+e 2 4 2
+e 3 4 1
+t # 16
+v 0 0 # folleville
+v 1 0 # daiglemont
+v 2 0 # deschamps
+v 3 0 # monsieur-daiglemont
+v 4 1 # julie
+v 5 0 # michel
+v 6 0 # jourdain
+v 7 1 # l-hotesse
+e 0 1 2
+e 0 2 2
+e 0 3 3
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 1 2 3
+e 1 3 2
+e 1 4 2
+e 1 7 1
+e 1 6 2
+e 1 5 2
+e 2 3 2
+e 2 7 1
+e 3 7 2
+e 3 4 3
+e 3 6 2
+e 3 5 2
+e 4 7 2
+e 4 6 1
+e 4 5 1
+e 5 6 3
+t # 17
+v 0 1 # laforet
+v 1 0 # chapelle
+v 2 0 # lulli
+v 3 0 # moliere
+v 4 0 # despreaux
+v 5 0 # mignard
+v 6 0 # la-fontaine
+v 7 2 # tous
+v 8 1 # isabelle
+e 0 1 3
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 0 7 2
+e 1 3 3
+e 1 5 3
+e 1 4 3
+e 1 2 3
+e 1 6 2
+e 1 7 2
+e 1 8 2
+e 2 3 2
+e 2 5 3
+e 2 4 3
+e 2 6 2
+e 2 7 2
+e 2 8 2
+e 3 5 3
+e 3 4 3
+e 3 6 2
+e 3 7 1
+e 3 8 2
+e 4 5 3
+e 4 6 2
+e 4 7 2
+e 4 8 2
+e 5 6 2
+e 5 7 2
+e 5 8 2
+e 6 7 2
+e 6 8 2
+t # 18
+v 0 1 # la-maman
+v 1 1 # ninette
+v 2 0 # henri
+v 3 2 # le-marchand-de-tisane
+v 4 2 # le-paysan
+v 5 2 # deuxieme-petite-fille
+v 6 1 # premiere-petite-fille
+v 7 2 # l-homme
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 0 6 2
+e 0 7 1
+e 1 2 2
+e 1 3 1
+e 1 4 1
+e 1 6 1
+e 1 5 1
+e 2 3 1
+e 2 4 1
+e 2 6 1
+e 2 5 1
+e 3 4 1
+e 5 6 2
+e 6 7 1
+t # 19
+v 0 0 # guillaume
+v 1 2 # madame-guillaume
+v 2 0 # le-roi
+v 3 0 # arlequin
+v 4 2 # un-hussard
+v 5 2 # second-hussard
+e 0 1 2
+e 0 2 2
+e 1 2 2
+e 1 3 1
+e 1 4 1
+e 1 5 1
+e 3 4 1
+e 3 5 1
+e 4 5 1
+t # 20
+v 0 1 # la-comtesse
+v 1 0 # le-chevalier
+v 2 1 # la-baronne
+v 3 1 # la-marquise
+v 4 1 # madame-de-merval
+v 5 1 # la-vicomtesse
+v 6 0 # le-marquis
+v 7 0 # descartes
+v 8 2 # une-femme
+v 9 2 # un-domestique
+v 10 2 # le-tourangeau
+e 0 1 1
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 0 7 1
+e 2 3 2
+e 2 4 2
+e 2 5 2
+e 2 6 1
+e 2 7 1
+e 3 4 2
+e 3 5 2
+e 3 6 1
+e 3 7 1
+e 4 5 2
+e 4 6 1
+e 4 7 1
+e 5 6 1
+e 5 7 1
+e 6 7 1
+e 7 8 1
+e 7 9 1
+e 7 10 1
+e 8 9 1
+e 8 10 1
+e 9 10 1
+t # 21
+v 0 0 # voltaire
+v 1 0 # rousseau
+e 0 1 1
+t # 22
+v 0 0 # le-pelerin
+v 1 2 # le-vilain
+v 2 0 # gautier
+v 3 2 # guyot
+v 4 2 # warnier
+v 5 2 # guiot
+v 6 2 # rogaut
+e 0 1 1
+e 0 2 1
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 0 6 1
+e 1 2 1
+e 1 3 1
+e 1 4 1
+e 1 5 1
+e 1 6 1
+e 2 3 1
+e 2 4 1
+e 2 5 1
+e 2 6 1
+e 3 4 1
+e 3 5 1
+e 3 6 1
+e 4 5 1
+e 4 6 1
+e 5 6 1
+t # 23
+v 0 2 # le-pardonneur
+v 1 0 # le-triacleur
+v 2 1 # la-taverniere
+e 0 1 2
+e 0 2 1
+e 1 2 1
+t # 24
+v 0 0 # le-mari
+v 1 2 # la-femme
+v 2 0 # messire-domine-de
+v 3 0 # le-bucheron
+e 0 1 2
+e 0 2 1
+e 0 3 1
+t # 25
+v 0 0 # apollon
+v 1 1 # melpomene
+v 2 1 # thalie
+v 3 1 # terpsicore
+v 4 0 # tomverd
+v 5 0 # barbaro
+v 6 2 # l-abbe
+v 7 0 # des-accents
+v 8 0 # tranchet
+v 9 1 # mademoiselle-giroflee
+v 10 0 # polichinelle
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 2
+e 0 5 1
+e 0 6 2
+e 0 7 1
+e 0 8 2
+e 0 9 1
+e 0 10 2
+e 1 2 2
+e 1 4 2
+e 1 10 1
+e 2 4 1
+e 4 10 1
+e 6 7 1
+e 8 9 1
+t # 26
+v 0 0 # louis
+v 1 2 # le-vieillard
+v 2 0 # va-le-galop
+v 3 0 # serre-fort
+v 4 0 # dumont
+e 0 1 1
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 2 3 2
+e 2 4 1
+e 3 4 1
+t # 27
+v 0 2 # la-femme
+v 1 0 # le-cure
+v 2 0 # le-clerc
+v 3 0 # jenin
+e 0 1 1
+e 0 2 1
+e 0 3 1
+e 1 2 1
+e 1 3 1
+e 2 3 1
+t # 28
+v 0 0 # alcibiade
+v 1 0 # band-alaise
+v 2 1 # godemichi
+v 3 1 # palmisse
+e 0 1 1
+e 0 2 1
+e 0 3 1
+t # 29
+v 0 0 # le-precheur
+v 1 0 # le-cuisinier
+e 0 1 1
+t # 30
+v 0 0 # monsieur-pot-de-vin
+v 1 1 # babet
+v 2 2 # madame-la-comtesse
+v 3 2 # le-marquis
+v 4 1 # mademoiselle-adelaïde
+v 5 0 # monsieur-de-podolie
+v 6 1 # madame-pot-de-vin
+v 7 2 # mademoiselle-adelaide
+v 8 0 # monsieur-l-abbe-patelin
+e 0 1 1
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 0 7 1
+e 0 8 1
+e 1 6 1
+e 1 3 1
+e 1 8 1
+e 2 3 2
+e 2 4 2
+e 2 5 2
+e 2 6 1
+e 2 7 1
+e 2 8 1
+e 3 4 2
+e 3 5 2
+e 3 6 2
+e 3 7 1
+e 3 8 2
+e 4 5 2
+e 4 6 1
+e 4 7 1
+e 4 8 1
+e 5 6 1
+e 5 7 1
+e 5 8 1
+e 6 7 1
+e 6 8 2
+e 7 8 1
+t # 31
+v 0 0 # dolnange
+v 1 0 # germain
+v 2 0 # belfort
+v 3 1 # zelamire
+v 4 1 # nadine
+v 5 0 # dubois
+v 6 0 # oukea
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 1 2 2
+e 1 5 2
+e 1 4 2
+e 1 3 2
+e 1 6 2
+e 2 6 1
+e 2 3 1
+e 2 4 1
+e 3 5 1
+e 3 4 2
+e 3 6 2
+e 4 5 1
+e 4 6 2
+t # 32
+v 0 1 # cendrillon
+v 1 1 # la-maraine
+v 2 2 # la-cadette
+v 3 2 # l-ainee
+v 4 2 # les-deux-soeurs
+v 5 2 # l-officier
+v 6 2 # ensemble
+v 7 2 # le-choeur-des-femmes
+v 8 0 # azor
+v 9 0 # pierrot
+v 10 2 # le-suisse
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 0 7 1
+e 0 8 1
+e 0 9 1
+e 1 7 1
+e 1 3 1
+e 1 2 1
+e 1 8 1
+e 1 9 1
+e 1 4 1
+e 2 3 3
+e 2 4 2
+e 2 5 1
+e 2 6 1
+e 2 9 2
+e 2 8 2
+e 2 7 1
+e 3 4 2
+e 3 5 1
+e 3 6 1
+e 3 9 2
+e 3 8 2
+e 3 7 1
+e 4 5 1
+e 4 7 1
+e 4 8 1
+e 4 9 1
+e 7 8 1
+e 7 9 2
+e 7 10 1
+e 8 9 2
+e 9 10 1
+t # 33
+v 0 0 # le-chevalier
+v 1 1 # la-marquise
+v 2 0 # le-peintre
+v 3 0 # le-poete
+v 4 0 # le-musicien
+v 5 2 # tous
+v 6 0 # l-epine
+v 7 0 # la-rancune
+v 8 1 # lisette
+v 9 0 # frontin
+v 10 2 # ensemble
+v 11 0 # valere
+v 12 1 # lucile
+v 13 1 # madame-argante
+v 14 2 # platinet
+e 0 1 3
+e 0 2 1
+e 0 3 2
+e 0 4 1
+e 0 5 1
+e 0 6 2
+e 0 7 1
+e 0 8 1
+e 1 2 1
+e 1 3 2
+e 1 4 1
+e 1 5 1
+e 1 6 2
+e 1 7 1
+e 1 8 1
+e 3 4 1
+e 3 5 1
+e 4 5 1
+e 6 8 1
+e 8 9 1
+e 8 10 1
+e 8 11 2
+e 8 12 1
+e 9 10 1
+e 9 12 2
+e 10 11 2
+e 10 12 1
+e 10 13 1
+e 11 12 2
+e 11 13 2
+e 12 14 1
+e 13 14 1
+t # 34
+v 0 0 # frontin
+v 1 1 # lisette
+v 2 2 # lourdis
+v 3 1 # madame-lourdis
+v 4 0 # valere
+v 5 0 # finot-fils
+v 6 1 # angelique
+v 7 1 # madame-finot
+v 8 0 # bonne-foi
+e 0 1 3
+e 0 2 3
+e 0 3 2
+e 0 4 3
+e 0 5 3
+e 0 6 2
+e 0 7 2
+e 0 8 1
+e 1 2 3
+e 1 3 2
+e 1 4 3
+e 1 5 3
+e 1 7 2
+e 1 6 2
+e 1 8 1
+e 2 3 2
+e 2 4 3
+e 2 5 3
+e 2 7 2
+e 2 6 2
+e 2 8 1
+e 3 4 2
+e 3 5 2
+e 3 7 2
+e 3 6 2
+e 3 8 1
+e 4 5 3
+e 4 6 2
+e 4 7 2
+e 4 8 1
+e 5 7 2
+e 5 6 2
+e 5 8 1
+e 6 7 2
+e 7 8 1
+t # 35
+v 0 0 # sophie
+v 1 1 # madame-de-saint-franc
+v 2 0 # d-inville
+v 3 0 # monsieur-de-saint-franc
+v 4 1 # madame-dormont
+v 5 0 # monsieur-d-herbain
+v 6 2 # prud-homme
+v 7 2 # le-petit
+v 8 2 # le-notaire
+v 9 2 # le-valet
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 2
+e 1 2 2
+e 1 3 2
+e 1 6 1
+e 1 7 1
+e 1 4 2
+e 1 5 2
+e 2 3 2
+e 2 8 1
+e 2 9 2
+e 2 4 1
+e 2 5 2
+e 3 6 1
+e 3 7 1
+e 3 8 1
+e 3 9 2
+e 3 4 2
+e 3 5 2
+e 4 5 2
+e 6 7 1
+t # 36
+v 0 0 # germain
+v 1 0 # hurlubrelu
+v 2 2 # craquignac
+v 3 2 # l-huissier
+v 4 1 # javotte
+v 5 1 # madame-germain
+v 6 1 # mademoiselle-germain
+v 7 0 # joseph
+v 8 2 # le-porte-faix
+v 9 2 # le-perruquier
+v 10 2 # le-notaire
+v 11 2 # le-soldat
+v 12 2 # le-garçon
+v 13 2 # le-cabaretier
+e 0 1 3
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 1 2 2
+e 1 3 2
+e 1 5 2
+e 1 6 2
+e 1 7 1
+e 1 4 2
+e 1 8 1
+e 1 9 1
+e 1 10 1
+e 1 11 2
+e 1 12 2
+e 1 13 1
+e 2 3 1
+e 4 12 2
+e 4 11 2
+e 4 13 1
+e 5 6 1
+e 8 9 1
+e 11 12 2
+e 11 13 1
+e 12 13 1
+t # 37
+v 0 0 # jocrisse
+v 1 2 # le-colporteur
+v 2 2 # dupont
+v 3 2 # dorval
+v 4 1 # madame-dupont
+v 5 1 # ursule
+v 6 0 # glaude
+e 0 1 2
+e 0 2 3
+e 0 3 3
+e 0 4 3
+e 0 5 2
+e 0 6 1
+e 2 3 3
+e 2 4 3
+e 2 5 2
+e 3 4 3
+e 3 5 2
+e 4 5 2
+t # 38
+v 0 0 # sosias
+v 1 0 # xanthias
+v 2 0 # bdelikleon
+v 3 0 # philokleon
+v 4 2 # le-choeur
+v 5 2 # la-boulangere
+v 6 2 # l-accusateur
+v 7 2 # l-enfant
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 1 2 3
+e 1 3 2
+e 1 4 2
+e 2 3 3
+e 2 4 2
+e 2 5 1
+e 2 6 1
+e 3 4 2
+e 3 7 1
+e 3 5 1
+e 3 6 1
+e 4 7 1
+e 5 6 1
+t # 39
+v 0 1 # madame-gervais
+v 1 1 # suzon
+v 2 0 # marlot
+v 3 2 # boncour
+v 4 1 # madame-mongei
+v 5 0 # vincent
+v 6 0 # mongei
+v 7 2 # le-personnage-de-geolier
+e 0 1 2
+e 0 2 1
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 1 5 3
+e 1 4 3
+e 1 6 2
+e 1 3 2
+e 1 2 2
+e 2 5 2
+e 2 4 2
+e 2 6 1
+e 2 7 1
+e 2 3 2
+e 3 5 2
+e 3 4 2
+e 3 6 2
+e 3 7 1
+e 4 5 3
+e 4 6 2
+e 4 7 1
+e 5 6 2
+e 5 7 1
+e 6 7 1
+t # 40
+v 0 0 # icile
+v 1 0 # sextus
+v 2 1 # lucrece
+v 3 0 # tarquin
+v 4 2 # brutus
+v 5 0 # arons
+v 6 2 # collatin
+v 7 2 # spurius
+v 8 0 # valerius
+v 9 0 # horace
+v 10 0 # albin
+v 11 0 # mutius
+v 12 2 # les-conjures
+e 0 1 3
+e 0 2 2
+e 1 3 1
+e 1 2 2
+e 1 4 2
+e 2 6 2
+e 2 7 2
+e 2 4 2
+e 2 8 1
+e 2 10 1
+e 2 11 1
+e 2 9 1
+e 2 12 1
+e 3 5 1
+e 4 6 2
+e 4 7 2
+e 4 8 2
+e 4 9 2
+e 4 10 2
+e 4 11 1
+e 4 12 1
+e 5 6 1
+e 6 7 3
+e 6 8 2
+e 6 9 2
+e 6 10 2
+e 6 11 1
+e 6 12 1
+e 7 8 2
+e 7 9 2
+e 7 10 2
+e 7 11 1
+e 7 12 1
+e 8 10 2
+e 8 11 2
+e 8 9 2
+e 8 12 1
+e 9 10 2
+e 9 11 2
+e 9 12 1
+e 10 11 2
+e 10 12 1
+e 11 12 1
+t # 41
+v 0 0 # momus
+v 1 1 # thalie
+v 2 0 # lelie
+v 3 0 # sosie
+v 4 0 # tartuffe
+v 5 1 # madame-pernelle
+v 6 0 # harpagon
+v 7 0 # trissotin
+v 8 0 # alceste
+v 9 1 # angelique
+v 10 1 # claudine
+v 11 0 # clitandre
+v 12 0 # george-dandin
+v 13 0 # monsieur-jourdain
+v 14 2 # tous-les-acteurs
+v 15 2 # choeur
+v 16 0 # monsieur-le-kain
+v 17 0 # monsieur-brizard
+e 0 1 3
+e 0 2 2
+e 0 3 3
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 0 7 2
+e 0 8 2
+e 0 9 2
+e 0 10 2
+e 0 11 1
+e 0 12 1
+e 0 13 2
+e 0 14 1
+e 0 15 1
+e 1 3 3
+e 1 2 2
+e 1 4 1
+e 1 7 1
+e 1 13 2
+e 1 14 1
+e 1 16 1
+e 1 17 1
+e 1 15 2
+e 1 5 1
+e 1 9 1
+e 1 8 1
+e 2 3 2
+e 2 14 1
+e 3 5 2
+e 3 6 2
+e 3 7 2
+e 3 8 2
+e 3 13 2
+e 3 9 2
+e 3 4 1
+e 3 14 1
+e 3 15 1
+e 4 7 1
+e 4 13 1
+e 5 15 1
+e 5 9 1
+e 5 13 1
+e 5 8 1
+e 6 7 1
+e 7 8 1
+e 7 13 1
+e 8 15 1
+e 8 9 1
+e 8 13 1
+e 9 10 2
+e 9 11 1
+e 9 12 1
+e 9 13 2
+e 9 15 1
+e 10 11 1
+e 10 12 1
+e 13 15 1
+e 15 16 1
+e 15 17 1
+e 16 17 1
+t # 42
+v 0 2 # l-ange
+v 1 2 # la-pucelle
+v 2 2 # le-garde
+v 3 2 # le-comte
+v 4 2 # le-duc
+v 5 0 # canchon
+v 6 0 # despinet
+v 7 0 # mide
+v 8 0 # aronte
+v 9 2 # le-baron
+v 10 2 # la-comtesse
+v 11 2 # un-soldat
+v 12 1 # dalinde
+e 0 1 1
+e 1 2 2
+e 1 3 2
+e 1 4 2
+e 1 5 2
+e 1 6 2
+e 1 7 2
+e 2 3 2
+e 2 4 1
+e 3 4 3
+e 3 6 2
+e 3 8 1
+e 3 9 2
+e 3 5 2
+e 3 7 2
+e 3 10 3
+e 3 11 2
+e 3 12 2
+e 4 6 3
+e 4 5 3
+e 4 7 2
+e 4 9 2
+e 4 10 2
+e 4 11 2
+e 4 12 2
+e 5 6 2
+e 5 10 2
+e 5 12 1
+e 5 7 3
+e 5 9 2
+e 5 11 1
+e 6 7 2
+e 6 9 2
+e 6 11 1
+e 6 10 2
+e 6 12 1
+e 7 10 1
+e 7 9 2
+e 7 11 1
+e 9 10 2
+e 9 11 1
+e 10 12 2
+e 10 11 1
+e 11 12 1
+t # 43
+v 0 2 # l-ange
+v 1 2 # la-pucelle
+v 2 2 # le-garde
+v 3 2 # le-comte
+v 4 2 # le-duc
+v 5 0 # canchon
+v 6 0 # destivet
+v 7 0 # mide
+v 8 0 # aronte
+v 9 2 # le-baron
+v 10 2 # la-comtesse
+v 11 2 # un-soldat
+v 12 2 # un-du-peuple
+v 13 2 # un-autre-soldat
+v 14 1 # dalinde
+e 0 1 1
+e 1 2 2
+e 1 3 2
+e 1 4 2
+e 1 5 2
+e 1 6 2
+e 1 7 2
+e 2 3 2
+e 2 4 1
+e 3 4 3
+e 3 6 2
+e 3 8 1
+e 3 9 2
+e 3 5 2
+e 3 7 2
+e 3 10 2
+e 3 11 2
+e 3 12 1
+e 3 13 1
+e 3 14 2
+e 4 6 3
+e 4 5 3
+e 4 7 2
+e 4 9 2
+e 4 10 2
+e 4 11 2
+e 4 12 1
+e 4 13 1
+e 4 14 2
+e 5 6 2
+e 5 10 2
+e 5 14 1
+e 5 7 3
+e 5 9 2
+e 5 11 1
+e 5 12 1
+e 5 13 1
+e 6 7 2
+e 6 9 2
+e 6 11 1
+e 6 12 1
+e 6 13 1
+e 6 10 2
+e 6 14 1
+e 7 10 1
+e 7 9 2
+e 7 11 1
+e 7 12 1
+e 7 13 1
+e 9 10 2
+e 9 11 1
+e 9 12 1
+e 9 13 1
+e 10 14 2
+e 10 11 1
+e 11 14 1
+e 11 12 1
+e 11 13 1
+e 12 13 1
+t # 44
+v 0 0 # dolicard
+v 1 2 # anselme
+v 2 0 # buscarino
+v 3 0 # lericourt
+v 4 0 # lucinet
+v 5 2 # ensemble
+v 6 0 # stanislas
+v 7 0 # deligny
+v 8 2 # tous
+e 0 1 3
+e 0 2 2
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 0 6 1
+e 0 7 1
+e 0 8 1
+e 1 2 2
+e 1 3 1
+e 1 4 1
+e 1 5 1
+e 1 7 1
+e 1 8 1
+e 4 5 1
+e 7 8 1
+t # 45
+v 0 0 # double-croche
+v 1 0 # leandre
+v 2 2 # le-baron
+v 3 2 # le-laquais
+v 4 1 # isabelle
+v 5 1 # euphrosine
+v 6 0 # anodin
+v 7 0 # vacarmini
+v 8 0 # scribano
+e 0 1 2
+e 0 2 3
+e 0 3 1
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 0 7 2
+e 1 2 2
+e 1 7 2
+e 1 4 1
+e 1 5 1
+e 2 3 2
+e 2 4 2
+e 2 5 2
+e 2 6 1
+e 2 8 1
+e 2 7 2
+e 4 5 2
+e 4 7 1
+e 5 7 1
+t # 46
+v 0 0 # cornelie
+v 1 0 # caton
+v 2 0 # julie
+v 3 0 # sextus
+v 4 0 # magnus
+v 5 1 # martia
+v 6 1 # philante
+v 7 0 # portius
+v 8 2 # cesar
+v 9 0 # brutus
+v 10 0 # statillius
+v 11 1 # petrole
+v 12 0 # lucius
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 1
+e 0 5 3
+e 0 6 1
+e 0 7 1
+e 0 8 1
+e 1 9 3
+e 1 10 2
+e 1 5 2
+e 1 7 3
+e 1 11 1
+e 1 12 1
+e 1 8 1
+e 2 5 1
+e 2 6 1
+e 3 4 2
+e 5 6 1
+e 5 7 1
+e 5 8 1
+e 7 9 2
+e 7 10 1
+e 7 12 2
+e 7 11 1
+e 7 8 1
+e 9 10 2
+e 9 12 1
+t # 47
+v 0 0 # trophime
+v 1 0 # argante
+v 2 0 # armide
+v 3 2 # premier-larron
+v 4 2 # second-larron
+v 5 0 # gerberne
+v 6 0 # nearque
+v 7 0 # antelme
+v 8 0 # indulphe
+v 9 0 # lugtace
+v 10 0 # mogale
+v 11 0 # gelase
+v 12 1 # dipne
+v 13 1 # ambrokele
+v 14 0 # le-roi
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 0 6 2
+e 0 7 2
+e 0 8 2
+e 0 9 2
+e 0 10 1
+e 1 2 2
+e 1 3 1
+e 1 4 1
+e 1 5 1
+e 1 10 1
+e 1 8 1
+e 1 9 1
+e 2 5 2
+e 2 3 1
+e 2 4 1
+e 2 6 1
+e 2 7 1
+e 3 5 1
+e 3 4 1
+e 4 5 1
+e 5 11 1
+e 5 12 2
+e 5 13 1
+e 5 14 1
+e 6 7 1
+e 6 14 2
+e 6 10 2
+e 6 8 1
+e 6 9 1
+e 7 8 2
+e 7 9 1
+e 8 9 2
+e 8 14 1
+e 8 10 2
+e 9 14 1
+e 9 10 2
+e 10 12 1
+e 10 13 1
+e 10 11 1
+e 10 14 2
+e 11 12 2
+e 11 13 2
+e 11 14 1
+e 12 13 2
+e 12 14 2
+e 13 14 1
+t # 48
+v 0 0 # sifroy
+v 1 0 # golo
+v 2 0 # rodolphe
+v 3 1 # clotilde
+v 4 1 # gertrude
+v 5 0 # l-ambassadeur
+v 6 1 # genevieve
+v 7 1 # germaine
+v 8 0 # othon
+v 9 0 # benoni
+v 10 0 # henry
+v 11 1 # la-vierge
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 0 7 2
+e 0 8 2
+e 0 9 2
+e 0 10 1
+e 1 3 1
+e 1 4 2
+e 2 5 2
+e 2 3 2
+e 2 4 2
+e 2 10 2
+e 2 7 2
+e 2 6 1
+e 2 8 1
+e 2 9 1
+e 3 4 3
+e 3 5 1
+e 3 8 2
+e 3 10 2
+e 3 7 1
+e 3 6 1
+e 4 8 2
+e 4 10 2
+e 4 5 2
+e 4 7 2
+e 4 6 2
+e 4 9 2
+e 5 6 2
+e 5 9 2
+e 5 7 2
+e 5 8 2
+e 5 10 1
+e 6 9 2
+e 6 11 1
+e 6 7 2
+e 6 8 2
+e 6 10 1
+e 7 9 2
+e 7 10 1
+e 7 8 2
+e 8 9 2
+e 8 10 2
+e 9 10 1
+t # 49
+v 0 0 # hamilton
+v 1 0 # beme
+v 2 0 # nevers
+v 3 0 # bussi
+v 4 0 # desadrets
+v 5 0 # tavanne
+v 6 0 # gondi
+v 7 2 # premier-conjure
+v 8 2 # second-conjure
+v 9 2 # troisieme-conjure
+v 10 0 # coligny
+v 11 0 # marsillac
+v 12 0 # lavardin
+v 13 0 # teligni
+v 14 0 # pardaillan
+v 15 0 # renel
+v 16 0 # querchi
+v 17 2 # un-garde
+v 18 2 # quatrieme-conjure
+v 19 2 # un-protestant
+e 0 1 2
+e 0 2 1
+e 0 3 2
+e 0 4 1
+e 0 5 2
+e 0 6 1
+e 0 7 1
+e 0 8 1
+e 0 9 1
+e 0 10 2
+e 1 10 1
+e 1 5 1
+e 1 3 1
+e 2 3 1
+e 2 4 1
+e 2 5 1
+e 2 6 1
+e 3 4 1
+e 3 5 2
+e 3 6 1
+e 3 7 1
+e 3 8 1
+e 3 9 1
+e 3 10 2
+e 4 5 1
+e 4 6 1
+e 5 6 1
+e 5 7 1
+e 5 8 1
+e 5 9 1
+e 5 10 2
+e 7 10 2
+e 7 8 2
+e 7 9 2
+e 7 18 1
+e 8 10 2
+e 8 9 2
+e 8 18 1
+e 9 10 2
+e 9 18 1
+e 10 11 2
+e 10 12 1
+e 10 13 2
+e 10 17 1
+e 10 18 1
+e 10 14 1
+e 10 19 1
+e 11 12 2
+e 11 13 2
+e 11 14 1
+e 11 15 1
+e 11 16 1
+e 13 14 2
+e 13 15 1
+e 13 16 1
+e 13 19 1
+e 14 15 1
+e 14 16 1
+e 14 19 1
+e 15 16 1
+t # 50
+v 0 0 # xanthias
+v 1 0 # aristophane
+v 2 1 # thalie
+v 3 2 # tous
+v 4 0 # realista
+v 5 1 # la-peinture
+v 6 1 # eglantine
+v 7 2 # l-imprimerie
+v 8 0 # le-roi-midas
+v 9 2 # midas
+v 10 1 # la-muse-du-theatre
+v 11 0 # carolus
+v 12 1 # la-musique
+v 13 1 # tempesta
+v 14 0 # la-fee-du-palais-de-cristal
+v 15 0 # thratta
+v 16 2 # citoyens-d-athenes
+v 17 0 # tabarin
+v 18 2 # le-gamin-de-paris
+e 0 1 3
+e 0 2 3
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 0 6 1
+e 0 7 1
+e 0 8 1
+e 0 9 1
+e 0 10 1
+e 0 11 2
+e 0 12 1
+e 0 13 1
+e 0 14 1
+e 1 15 1
+e 1 16 1
+e 1 2 3
+e 1 3 2
+e 1 4 1
+e 1 6 1
+e 1 17 2
+e 1 18 1
+e 1 7 1
+e 1 8 1
+e 1 9 1
+e 1 10 1
+e 1 11 2
+e 1 12 2
+e 1 13 2
+e 1 14 1
+e 2 3 2
+e 2 6 1
+e 2 10 1
+e 2 14 1
+e 7 8 1
+e 7 9 1
+e 8 9 1
+e 12 13 1
+e 17 18 1
+t # 51
+v 0 1 # cleopatre
+v 1 1 # charmion
+v 2 0 # antoine
+e 0 1 2
+e 0 2 3
+e 1 2 1
+t # 52
+v 0 0 # leandre
+v 1 1 # colombine
+v 2 0 # orgon
+e 0 1 2
+e 0 2 2
+e 1 2 2
+t # 53
+v 0 0 # scapin
+v 1 1 # nerine
+e 0 1 1
+t # 54
+v 0 0 # arlequin
+v 1 1 # colombine
+v 2 0 # monsieur-disanvray
+v 3 0 # le-docteur
+v 4 2 # leandre
+v 5 0 # scaramouche
+v 6 2 # un-espagnol
+v 7 2 # une-espagnolette
+v 8 1 # la-comtesse
+v 9 0 # le-chevalier
+v 10 0 # octave
+v 11 0 # pierrot
+v 12 2 # le-vieillard
+v 13 2 # la-femme
+v 14 2 # gasconne
+v 15 2 # seconde-gasconne
+v 16 0 # monsieur-de-colafon
+v 17 1 # madame-de-l-architrave
+v 18 2 # un-maçon
+v 19 2 # la-chanteuse
+v 20 0 # monsieur-de-geresol
+v 21 0 # monsieur-de-la-cabriole
+v 22 2 # le-libraire
+v 23 2 # le-peintre
+v 24 0 # jaquet
+v 25 1 # macine
+v 26 2 # un-berger
+v 27 2 # une-bergere
+v 28 0 # mezzetin
+e 0 1 3
+e 0 2 1
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 0 7 1
+e 0 8 1
+e 0 9 1
+e 0 10 2
+e 0 11 1
+e 0 12 1
+e 0 13 1
+e 0 14 1
+e 0 15 1
+e 0 16 1
+e 0 17 2
+e 0 18 1
+e 0 19 1
+e 0 20 1
+e 0 21 1
+e 0 22 1
+e 0 23 1
+e 0 24 1
+e 0 25 1
+e 0 26 1
+e 0 27 1
+e 0 28 1
+e 1 10 2
+e 1 5 2
+e 1 24 1
+e 1 25 1
+e 1 3 1
+e 1 26 1
+e 1 27 1
+e 1 4 1
+e 1 28 1
+e 3 10 1
+e 3 5 2
+e 3 4 2
+e 3 6 1
+e 3 7 1
+e 3 26 1
+e 3 27 1
+e 3 28 1
+e 4 10 1
+e 4 5 2
+e 4 6 1
+e 4 7 1
+e 4 26 1
+e 4 27 1
+e 4 28 1
+e 5 10 2
+e 5 6 1
+e 5 7 1
+e 5 26 1
+e 5 27 1
+e 5 28 1
+e 6 7 1
+e 8 9 1
+e 10 26 1
+e 10 27 1
+e 10 28 1
+e 12 13 1
+e 14 15 1
+e 17 18 1
+e 17 19 1
+e 18 19 1
+e 20 21 1
+e 24 25 1
+e 26 27 1
+e 26 28 1
+e 27 28 1
+t # 55
+v 0 0 # pierrot
+v 1 0 # octave
+v 2 1 # ismenie
+v 3 2 # l-ogre
+v 4 0 # arlequin
+v 5 0 # croquignolet
+v 6 2 # la-nymphe
+v 7 2 # le-berger
+v 8 2 # le-vieillard
+v 9 2 # la-dame
+v 10 1 # la-fee
+v 11 2 # le-grand-ogre
+v 12 1 # la-nourrice
+e 0 1 1
+e 1 2 2
+e 1 3 1
+e 1 4 1
+e 1 5 1
+e 1 6 1
+e 1 7 1
+e 1 8 1
+e 1 9 1
+e 1 10 1
+e 2 3 1
+e 2 11 1
+e 2 4 1
+e 2 5 1
+e 2 6 1
+e 2 7 1
+e 2 8 1
+e 2 9 1
+e 2 10 1
+e 3 4 1
+e 3 10 1
+e 3 12 1
+e 4 10 2
+e 4 5 1
+e 4 6 1
+e 4 7 1
+e 4 8 1
+e 4 9 1
+e 5 10 1
+e 5 6 1
+e 5 7 1
+e 5 8 1
+e 5 9 1
+e 6 10 1
+e 6 7 1
+e 6 8 1
+e 6 9 1
+e 7 10 1
+e 7 8 1
+e 7 9 1
+e 8 10 1
+e 8 9 1
+e 9 10 1
+t # 56
+v 0 0 # pasquin
+v 1 0 # marforio
+v 2 2 # le-cuisinier
+v 3 1 # la-verite
+v 4 1 # la-medisance
+v 5 0 # octave
+v 6 0 # leandre
+v 7 1 # angelique
+v 8 0 # pierrot
+v 9 0 # le-docteur
+v 10 2 # la-genealogie
+v 11 1 # leonor
+v 12 1 # julie
+v 13 2 # le-jaloux
+v 14 2 # l-impatiente
+v 15 2 # la-chanteuse
+e 0 1 3
+e 0 2 1
+e 0 3 1
+e 0 4 1
+e 0 5 2
+e 0 6 1
+e 0 7 2
+e 0 8 2
+e 0 9 2
+e 0 10 1
+e 0 11 1
+e 0 12 1
+e 0 13 2
+e 0 14 1
+e 0 15 1
+e 1 2 1
+e 1 3 1
+e 1 4 1
+e 1 5 2
+e 1 6 1
+e 1 7 2
+e 1 8 1
+e 1 9 1
+e 1 10 1
+e 1 13 2
+e 1 14 1
+e 1 15 1
+e 3 4 1
+e 5 7 1
+e 5 6 1
+e 7 9 2
+e 7 11 1
+e 8 9 2
+e 8 11 1
+e 8 10 1
+e 9 11 1
+e 9 12 2
+e 9 10 1
+e 13 14 1
+e 13 15 1
+e 14 15 1
+t # 57
+v 0 1 # lisette
+v 1 1 # angelique
+v 2 1 # lucile
+v 3 0 # oronte
+v 4 0 # arlequin
+v 5 0 # pierrot
+v 6 0 # octave
+v 7 2 # la-bergere
+e 0 1 1
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 0 7 1
+e 2 3 2
+e 2 4 2
+e 2 5 2
+e 2 7 1
+e 3 4 1
+e 3 6 1
+e 3 7 1
+e 4 5 2
+e 4 7 1
+e 5 7 1
+e 6 7 1
+t # 58
+v 0 0 # federic
+v 1 0 # pasquin
+v 2 1 # axiane
+v 3 1 # lisette
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 1 3 2
+e 1 2 1
+e 2 3 2
+t # 59
+v 0 1 # julie
+v 1 0 # octavie
+v 2 0 # antoine
+v 3 2 # cesar
+v 4 1 # porcie
+v 5 0 # brutus
+v 6 0 # albin
+v 7 2 # oracle
+v 8 0 # flavien
+v 9 1 # pauline
+e 0 1 2
+e 1 2 2
+e 1 3 2
+e 1 4 1
+e 2 3 2
+e 2 4 1
+e 2 5 2
+e 3 6 2
+e 3 5 2
+e 3 4 1
+e 3 7 1
+e 4 5 2
+e 4 9 2
+e 5 8 2
+e 6 7 1
+t # 60
+v 0 0 # trajan
+v 1 0 # placide
+v 2 1 # plotine
+v 3 0 # tyrsis
+v 4 0 # lysis
+v 5 1 # trajane
+v 6 0 # agapite
+v 7 0 # teopiste
+v 8 0 # arbilan
+v 9 2 # le-messager
+v 10 2 # matelot
+v 11 2 # eustache
+v 12 2 # teopiste-fils
+v 13 0 # amintor
+v 14 2 # la-fortune
+v 15 2 # la-fleur
+v 16 2 # teopiste-mere
+v 17 2 # ormond
+v 18 2 # un-soldat
+v 19 1 # flore
+v 20 2 # le-pere
+e 0 1 1
+e 0 2 2
+e 0 3 1
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 0 7 1
+e 0 8 2
+e 0 9 2
+e 1 2 1
+e 1 3 1
+e 1 4 1
+e 1 5 1
+e 1 6 1
+e 1 7 1
+e 2 3 1
+e 2 4 1
+e 2 5 1
+e 2 6 1
+e 2 7 2
+e 2 9 1
+e 2 8 1
+e 3 4 1
+e 3 7 1
+e 4 9 1
+e 5 6 2
+e 5 7 2
+e 6 7 3
+e 6 10 1
+e 6 11 2
+e 6 12 2
+e 6 13 1
+e 6 14 1
+e 6 15 1
+e 6 16 1
+e 6 17 2
+e 6 18 1
+e 6 8 1
+e 7 11 2
+e 7 10 1
+e 7 12 2
+e 7 13 2
+e 7 14 1
+e 7 15 1
+e 7 16 1
+e 7 17 2
+e 7 18 1
+e 7 8 1
+e 8 11 2
+e 8 12 1
+e 8 9 2
+e 8 17 2
+e 9 11 1
+e 10 11 1
+e 10 12 1
+e 11 12 2
+e 11 19 1
+e 11 20 1
+e 11 13 1
+e 11 17 2
+e 12 16 1
+e 12 17 1
+e 13 14 1
+e 13 15 1
+e 14 15 1
+e 17 18 1
+e 19 20 1
+t # 61
+v 0 0 # fernand
+v 1 0 # dorante
+v 2 0 # mascarille
+v 3 0 # jasmin
+v 4 0 # la-fleur
+v 5 0 # la-rapiniere
+v 6 0 # la-roche
+v 7 1 # isabelle
+v 8 1 # leonore
+v 9 1 # beatrix
+v 10 2 # le-clerc
+v 11 2 # la-paysanne
+v 12 1 # olive
+v 13 2 # le-rotisseur
+v 14 0 # monsieur-le-blanc
+v 15 2 # le-crocheteur
+e 0 1 3
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 2
+e 0 6 1
+e 0 7 2
+e 0 8 2
+e 0 9 2
+e 0 10 1
+e 1 2 1
+e 1 3 2
+e 1 7 3
+e 1 8 2
+e 1 9 3
+e 1 5 2
+e 1 10 1
+e 1 6 1
+e 1 11 1
+e 2 3 2
+e 2 4 1
+e 2 6 2
+e 3 5 2
+e 3 4 2
+e 3 6 3
+e 3 9 2
+e 3 12 1
+e 3 13 1
+e 3 10 1
+e 3 7 2
+e 3 11 1
+e 4 6 2
+e 5 14 1
+e 5 6 3
+e 5 7 2
+e 5 8 2
+e 5 15 1
+e 5 9 3
+e 5 10 1
+e 5 11 1
+e 6 15 1
+e 6 9 2
+e 6 12 1
+e 6 13 1
+e 6 11 1
+e 6 7 1
+e 7 8 2
+e 7 9 3
+e 7 10 1
+e 7 11 1
+e 8 9 3
+e 9 10 1
+e 9 11 1
+t # 62
+v 0 0 # damon
+v 1 1 # constance
+v 2 0 # pasquin
+v 3 0 # valere
+v 4 2 # le-laquais
+v 5 1 # celiante
+e 0 1 2
+e 0 2 2
+e 0 3 3
+e 0 4 1
+e 0 5 1
+e 1 3 2
+e 1 2 1
+e 2 3 2
+e 3 4 1
+e 3 5 1
+t # 63
+v 0 2 # lathorilliere
+v 1 1 # lucile
+v 2 0 # lulli
+v 3 1 # mademoiselle-de-brie
+v 4 0 # brecourt
+v 5 0 # moliere
+v 6 0 # baron
+v 7 0 # chapelle
+v 8 0 # boileau
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 0 7 1
+e 1 6 2
+e 1 2 2
+e 1 3 2
+e 1 4 2
+e 1 5 2
+e 1 8 1
+e 1 7 1
+e 2 3 2
+e 2 4 2
+e 2 5 2
+e 2 8 1
+e 2 7 1
+e 3 4 2
+e 3 5 2
+e 3 7 1
+e 4 5 2
+e 4 7 1
+e 5 6 2
+e 5 7 2
+e 5 8 2
+e 7 8 2
+t # 64
+v 0 2 # le-comte
+v 1 0 # figaro
+v 2 1 # rosine
+v 3 0 # bartholo
+v 4 2 # bazile
+v 5 2 # tous
+v 6 2 # le-notaire
+v 7 2 # l-alcade
+v 8 0 # l-eveille
+v 9 0 # la-jeunesse
+e 0 1 3
+e 0 2 3
+e 0 3 3
+e 0 4 2
+e 0 5 1
+e 0 6 2
+e 0 7 1
+e 1 2 3
+e 1 3 3
+e 1 4 2
+e 1 5 1
+e 1 6 2
+e 1 7 1
+e 2 3 3
+e 2 4 2
+e 2 5 1
+e 2 6 1
+e 2 7 1
+e 3 8 2
+e 3 9 1
+e 3 4 2
+e 3 5 1
+e 3 6 1
+e 3 7 1
+e 4 5 1
+e 4 6 2
+e 4 7 1
+e 6 7 1
+e 8 9 1
+t # 65
+v 0 0 # mercure
+v 1 0 # l-amour
+v 2 1 # madame-barbara
+v 3 1 # brigitte
+v 4 1 # agnes
+v 5 1 # ursule
+v 6 1 # rosette
+e 0 1 2
+e 0 2 1
+e 0 3 1
+e 0 4 1
+e 1 4 2
+e 1 5 2
+e 1 3 2
+e 1 2 2
+e 2 5 2
+e 2 3 2
+e 2 4 2
+e 2 6 1
+e 3 5 2
+e 3 4 2
+e 4 5 2
+t # 66
+v 0 0 # silvestre
+v 1 1 # claudine
+v 2 1 # lucette
+v 3 0 # vuide-gousset
+v 4 0 # broutillard
+v 5 0 # gilles
+v 6 0 # vincent
+v 7 2 # prend-tout
+v 8 2 # le-meunier
+v 9 1 # madame-carpillon
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 2
+e 0 6 2
+e 0 7 1
+e 0 8 1
+e 0 9 1
+e 1 2 2
+e 1 6 2
+e 1 3 2
+e 1 5 1
+e 2 6 2
+e 2 3 2
+e 2 5 1
+e 3 6 2
+e 3 4 2
+e 3 5 2
+e 4 6 1
+e 5 6 2
+e 7 8 1
+e 7 9 1
+e 8 9 1
+t # 67
+v 0 0 # gusman
+v 1 0 # don-lope
+v 2 0 # milescas
+v 3 0 # barogo
+v 4 0 # don-cesar
+v 5 1 # dona-sancha
+v 6 2 # le-prince
+v 7 0 # postichi
+v 8 2 # sancha
+e 0 1 1
+e 0 2 2
+e 0 3 3
+e 0 4 2
+e 0 5 2
+e 0 6 3
+e 0 7 2
+e 0 8 1
+e 2 6 3
+e 2 3 3
+e 2 4 2
+e 2 5 2
+e 2 7 2
+e 2 8 1
+e 3 6 3
+e 3 4 2
+e 3 5 2
+e 3 7 2
+e 3 8 1
+e 4 6 2
+e 4 7 2
+e 4 5 1
+e 5 6 2
+e 5 7 2
+e 5 8 1
+e 6 7 2
+e 6 8 1
+e 7 8 1
+t # 68
+v 0 1 # madame-caquet
+v 1 1 # susanne
+v 2 0 # le-doux
+v 3 2 # l-abbe
+v 4 0 # becarre
+v 5 0 # du-ciseau
+v 6 2 # le-comte
+v 7 1 # mademoiselle-des-brisees
+e 0 1 2
+e 1 2 3
+e 1 3 1
+e 1 4 2
+e 1 5 2
+e 1 6 2
+e 2 3 2
+e 2 7 1
+e 2 4 2
+e 2 5 2
+e 2 6 1
+e 3 7 1
+e 4 5 2
+e 4 6 1
+e 5 6 1
+t # 69
+v 0 0 # momus
+v 1 1 # venus
+v 2 2 # le-voluptueux
+v 3 2 # le-dramaturge
+v 4 0 # arlequin
+v 5 0 # l-amour
+v 6 2 # le-calender
+v 7 2 # la-jeune-fille
+v 8 2 # l-officier
+v 9 2 # le-sauvage
+e 0 1 2
+e 0 2 1
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 1 6 2
+e 1 7 1
+e 1 8 1
+e 1 5 1
+e 3 4 1
+e 4 9 1
+t # 70
+v 0 0 # savary
+v 1 0 # albanes
+v 2 0 # brocheton
+v 3 0 # blanchard
+v 4 2 # le-garçon
+v 5 0 # un-passant
+v 6 2 # le-passant
+e 0 1 2
+e 0 2 1
+e 0 3 2
+e 0 4 1
+e 1 2 1
+e 1 3 2
+e 1 4 2
+e 2 3 1
+e 2 4 1
+e 3 4 2
+e 3 5 1
+e 3 6 1
+e 5 6 1
+t # 71
+v 0 2 # emma
+v 1 2 # de-la-rouvre
+v 2 0 # madame-de-sainte-croix
+v 3 2 # raoul
+v 4 0 # antoinette
+v 5 0 # adele
+v 6 0 # auguste
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 1 2 1
+e 1 3 2
+e 1 5 1
+e 1 4 1
+e 2 3 2
+e 2 5 1
+e 3 5 2
+e 3 6 2
+e 3 4 2
+e 4 5 1
+e 4 6 2
+e 5 6 1
+t # 72
+v 0 2 # l-employe
+v 1 0 # le-maire
+v 2 0 # tabouret
+v 3 0 # robineau
+v 4 0 # gros-jean
+e 0 1 2
+e 1 2 1
+e 1 3 1
+e 1 4 1
+t # 73
+v 0 1 # louise
+v 1 1 # madame-chevalier
+v 2 1 # genevieve
+v 3 0 # lambert
+e 0 1 2
+e 0 2 1
+e 0 3 1
+e 1 3 2
+e 1 2 2
+e 2 3 2
+t # 74
+v 0 2 # clotilde
+v 1 2 # adele
+v 2 2 # lafont
+e 0 1 1
+e 0 2 1
+e 1 2 1
+t # 75
+v 0 0 # guignol
+v 1 0 # le-gendarme
+v 2 0 # le-commissaire
+e 0 1 2
+e 0 2 2
+e 1 2 2
+t # 76
+v 0 0 # le-docteur
+v 1 0 # guignol
+v 2 2 # la-dame
+v 3 2 # le-vieux-monsieur
+v 4 2 # l-apothicaire
+e 0 1 2
+e 1 2 1
+e 1 3 1
+e 1 4 1
+t # 77
+v 0 0 # guignol
+v 1 0 # le-diable
+v 2 1 # l-apothicaire
+v 3 2 # une-voix
+v 4 0 # maitre-ferulard
+v 5 2 # la-voix
+e 0 1 2
+e 0 2 1
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 2 3 1
+e 4 5 1
+t # 78
+v 0 0 # guignol
+v 1 1 # la-cabaretiere
+v 2 0 # le-gendarme
+v 3 0 # le-juge
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 1 2 2
+e 1 3 2
+e 2 3 1
+t # 79
+v 0 1 # liou-li
+v 1 1 # kou-mia
+v 2 1 # peki
+e 0 1 3
+e 0 2 2
+e 1 2 2
+t # 80
+v 0 1 # madame-de-lucenay
+v 1 1 # jeannette
+v 2 1 # france
+e 0 1 2
+e 0 2 2
+e 1 2 2
+t # 81
+v 0 1 # jeannette
+v 1 1 # therese
+e 0 1 2
+t # 82
+v 0 2 # marcuchet
+v 1 0 # polichinelle
+v 2 0 # guignol
+v 3 0 # pierrot
+v 4 1 # madame-marcuchet
+v 5 1 # rosette
+v 6 1 # la-mariee
+v 7 0 # le-maire
+v 8 0 # monsieur-marcuchet
+v 9 2 # tous
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 0 7 2
+e 0 8 1
+e 1 2 2
+e 1 3 2
+e 1 4 2
+e 1 6 1
+e 1 7 2
+e 1 9 1
+e 1 8 1
+e 1 5 1
+e 2 3 2
+e 2 4 2
+e 2 7 2
+e 2 6 2
+e 2 9 1
+e 2 8 2
+e 2 5 2
+e 3 4 2
+e 3 7 2
+e 3 6 1
+e 3 9 1
+e 3 8 1
+e 4 6 1
+e 4 7 2
+e 4 9 1
+e 4 8 1
+e 4 5 1
+e 5 6 1
+e 5 7 2
+e 5 8 1
+e 6 7 2
+e 6 9 1
+e 6 8 2
+e 7 9 1
+e 7 8 2
+e 8 9 1
+t # 83
+v 0 0 # guignol
+v 1 0 # le-concierge
+v 2 0 # maitre-furet
+v 3 0 # le-proprietaire
+v 4 0 # le-gendarme
+v 5 0 # le-commissaire
+e 0 1 1
+e 0 2 1
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 1 2 1
+e 3 4 2
+e 3 5 1
+e 4 5 2
+t # 84
+v 0 1 # nanon
+v 1 1 # alice
+v 2 1 # claire
+v 3 1 # madame-bernier
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 1 2 2
+e 1 3 2
+e 2 3 2
+t # 85
+v 0 0 # guignol
+v 1 0 # le-concierge
+v 2 0 # maitre-furet
+v 3 0 # le-proprietaire
+v 4 0 # le-gendarme
+v 5 0 # le-commissaire
+e 0 1 1
+e 0 2 1
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 1 2 1
+e 3 4 2
+e 3 5 1
+e 4 5 2
+t # 86
+v 0 1 # berthe
+v 1 1 # la-marquise
+v 2 1 # lucette
+e 0 1 2
+e 0 2 2
+e 1 2 1
+t # 87
+v 0 0 # antoine
+v 1 0 # lucile
+v 2 0 # dircet
+v 3 1 # cleopatre
+v 4 0 # eros
+v 5 1 # eras
+v 6 1 # charmion
+v 7 0 # cesar
+v 8 0 # epaphrodite
+v 9 2 # agripe
+v 10 2 # les-deputes
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 1 2 1
+e 1 3 1
+e 2 3 1
+e 2 5 1
+e 2 6 1
+e 2 7 1
+e 3 5 3
+e 3 6 2
+e 3 7 1
+e 3 8 1
+e 5 6 2
+e 6 7 1
+e 6 9 1
+e 7 9 3
+e 7 10 1
+e 7 8 2
+e 8 9 2
+t # 88
+v 0 0 # achille
+v 1 1 # briseide
+v 2 0 # alcimede
+v 3 0 # priam
+v 4 1 # hecube
+v 5 1 # polixene
+v 6 2 # paris
+v 7 0 # ajax
+v 8 0 # ulysse
+v 9 0 # deiphobe
+v 10 2 # un-vsoldat
+v 11 0 # agamemnon
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 0 7 2
+e 0 8 2
+e 0 9 1
+e 1 2 1
+e 1 3 1
+e 1 4 1
+e 1 5 1
+e 2 6 1
+e 2 9 1
+e 3 4 2
+e 3 5 1
+e 3 6 2
+e 4 5 2
+e 4 6 2
+e 4 9 1
+e 5 6 2
+e 5 9 1
+e 6 9 2
+e 7 8 3
+e 7 10 1
+e 7 11 1
+e 8 10 1
+e 8 11 1
+t # 89
+v 0 1 # madame-verrieres
+v 1 1 # juliette
+v 2 1 # martine
+v 3 1 # la-baronne
+v 4 0 # monsieur-verrieres
+v 5 0 # fernand
+v 6 0 # le-baron
+v 7 2 # tous
+e 0 1 2
+e 0 2 1
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 1 2 2
+e 1 3 2
+e 1 4 2
+e 1 5 1
+e 1 6 1
+e 1 7 1
+e 2 5 1
+e 2 4 2
+e 2 7 1
+e 3 5 1
+e 3 4 2
+e 3 6 1
+e 4 5 2
+e 4 6 1
+e 4 7 1
+e 5 6 2
+t # 90
+v 0 0 # brutus
+v 1 0 # valerius
+v 2 0 # octavius
+v 3 0 # titus
+v 4 0 # tiberinus
+v 5 1 # valerie
+v 6 2 # un-garde
+v 7 1 # plautine
+v 8 0 # aquilius
+v 9 0 # marcellus
+v 10 1 # aquilie
+v 11 1 # albine
+e 0 1 2
+e 0 2 1
+e 0 3 2
+e 0 4 2
+e 0 5 3
+e 0 6 1
+e 1 2 1
+e 1 5 2
+e 1 7 1
+e 2 8 1
+e 3 4 2
+e 3 9 2
+e 3 10 2
+e 3 8 1
+e 3 5 2
+e 4 10 1
+e 4 5 1
+e 5 9 1
+e 5 7 2
+e 8 10 1
+e 10 11 2
+t # 91
+v 0 2 # la-reine
+v 1 2 # la-princesse
+v 2 1 # argire
+v 3 0 # gelon
+v 4 0 # sostrate
+v 5 0 # phenix
+v 6 1 # phedre
+v 7 0 # milon
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 1 6 2
+e 1 4 1
+e 1 5 2
+e 1 3 2
+e 1 2 1
+e 3 4 1
+e 3 5 1
+e 4 7 2
+t # 92
+v 0 1 # madame-de-verneuil
+v 1 0 # landry
+v 2 2 # barberin
+v 3 2 # guerland
+v 4 1 # madame-de-valdaunaie
+v 5 1 # henriette
+e 0 1 3
+e 0 2 3
+e 0 3 2
+e 0 4 2
+e 1 2 2
+e 1 3 2
+e 1 4 2
+e 2 3 3
+e 2 4 3
+e 2 5 2
+e 3 4 2
+e 3 5 1
+e 4 5 2
+t # 93
+v 0 0 # le-regisseur
+v 1 2 # la-dame
+v 2 2 # le-monsieur-a-l-orchestre
+v 3 2 # le-deuxieme-monsieur
+v 4 1 # mademoiselle-stephenson
+v 5 1 # mademoiselle-kronska
+v 6 2 # des-voix
+v 7 2 # le-premier-monsieur
+v 8 2 # le-monsieur
+v 9 2 # une-voix
+v 10 2 # un-monsieur
+v 11 2 # saint-georges
+v 12 0 # le-marquis
+v 13 2 # antoinette
+e 0 1 1
+e 0 2 1
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 0 6 1
+e 0 7 1
+e 0 8 1
+e 0 9 1
+e 0 10 1
+e 0 11 1
+e 0 12 1
+e 0 13 1
+e 1 2 1
+e 1 3 1
+e 1 4 1
+e 1 5 1
+e 1 6 1
+e 1 7 1
+e 1 8 1
+e 1 9 1
+e 1 10 1
+e 1 11 1
+e 1 12 1
+e 1 13 1
+e 2 3 1
+e 2 4 1
+e 2 5 1
+e 2 6 1
+e 2 7 1
+e 2 8 1
+e 2 9 1
+e 2 10 1
+e 2 11 1
+e 2 12 1
+e 2 13 1
+e 3 4 1
+e 3 5 1
+e 3 6 1
+e 3 7 1
+e 3 8 1
+e 3 9 1
+e 3 10 1
+e 3 11 1
+e 3 12 1
+e 3 13 1
+e 4 5 1
+e 4 6 1
+e 4 7 1
+e 4 8 1
+e 4 9 1
+e 4 10 1
+e 4 11 1
+e 4 12 1
+e 4 13 1
+e 5 6 1
+e 5 7 1
+e 5 8 1
+e 5 9 1
+e 5 10 1
+e 5 11 1
+e 5 12 1
+e 5 13 1
+e 6 7 1
+e 6 8 1
+e 6 9 1
+e 6 10 1
+e 6 11 1
+e 6 12 1
+e 6 13 1
+e 7 8 1
+e 7 9 1
+e 7 10 1
+e 7 11 1
+e 7 12 1
+e 7 13 1
+e 8 9 1
+e 8 10 1
+e 8 11 1
+e 8 12 1
+e 8 13 1
+e 9 10 1
+e 9 11 1
+e 9 12 1
+e 9 13 1
+e 10 11 1
+e 10 12 1
+e 10 13 1
+e 11 12 1
+e 11 13 1
+e 12 13 1
+t # 94
+v 0 0 # deuxieme-pecheur
+v 1 0 # premier-pecheur
+e 0 1 1
+t # 95
+v 0 0 # l-auteur
+v 1 0 # le-secretaire
+e 0 1 1
+t # 96
+v 0 2 # l-adjudant
+v 1 1 # madame-pruneau
+v 2 0 # adrien
+v 3 2 # robert
+v 4 2 # lucie
+v 5 2 # henri
+v 6 0 # bagonet
+v 7 2 # le-capitaine
+v 8 2 # capitaine
+v 9 2 # le-general
+v 10 2 # le-ministre
+v 11 0 # eugene
+e 0 1 1
+e 0 2 1
+e 1 2 2
+e 1 3 1
+e 1 4 1
+e 1 5 1
+e 2 3 2
+e 2 4 2
+e 2 5 2
+e 2 6 1
+e 2 7 1
+e 2 8 1
+e 2 9 1
+e 3 4 3
+e 3 5 2
+e 3 6 2
+e 3 7 1
+e 3 8 1
+e 3 9 1
+e 3 10 1
+e 3 11 1
+e 4 5 2
+e 4 6 2
+e 4 7 1
+e 4 8 1
+e 4 10 1
+e 4 11 1
+e 5 6 2
+e 5 7 1
+e 5 8 1
+e 5 11 1
+e 6 7 1
+e 6 8 1
+e 6 10 1
+e 7 8 1
+t # 97
+v 0 0 # prosper
+v 1 1 # eugenie
+v 2 0 # albert
+e 0 1 1
+e 0 2 1
+e 1 2 1
+t # 98
+v 0 2 # le-capitaine
+v 1 1 # irma
+v 2 2 # lemorandel
+v 3 2 # l-homme
+e 0 1 1
+e 0 2 1
+e 0 3 1
+e 1 2 1
+e 1 3 1
+e 2 3 1
+t # 99
+v 0 2 # lafrappe
+v 1 2 # l-agent
+v 2 2 # le-commissaire
+v 3 2 # le-gendarme
+e 0 1 1
+e 0 2 1
+e 1 3 1
+e 1 2 2
+e 2 3 1
+t # 100
+v 0 1 # olga
+v 1 1 # stephanie
+v 2 1 # madame-lalbert
+v 3 2 # lalbert
+v 4 0 # henri
+v 5 1 # henriette
+e 0 1 1
+e 0 2 1
+e 2 3 1
+e 2 4 1
+e 2 5 1
+e 3 4 1
+e 3 5 1
+e 4 5 2
+t # 101
+v 0 0 # le-serrurier
+v 1 0 # william
+v 2 0 # le-secretaire
+e 0 1 1
+e 0 2 1
+e 1 2 1
+t # 102
+v 0 0 # roseleur
+v 1 0 # gerbier
+v 2 2 # la-bonne
+v 3 1 # laure
+v 4 0 # genouvier
+v 5 2 # genouvrier
+e 0 1 1
+e 0 2 1
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 1 2 1
+e 1 3 1
+e 1 4 1
+e 1 5 1
+e 2 3 1
+e 2 4 1
+e 2 5 1
+e 3 4 1
+e 3 5 1
+e 4 5 1
+t # 103
+v 0 1 # madame-domas
+v 1 0 # philibert
+v 2 2 # voix-d-homme
+v 3 0 # marchu
+v 4 0 # barcelle
+e 0 1 2
+e 0 2 1
+e 0 3 1
+e 0 4 1
+e 1 2 1
+e 3 4 1
+t # 104
+v 0 0 # julien
+v 1 0 # le-maitre-d-hotel
+v 2 1 # clara
+v 3 1 # nelly
+v 4 0 # doduvert
+v 5 0 # dorel
+e 0 1 1
+e 0 2 1
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 1 2 1
+e 1 3 1
+e 1 4 1
+e 1 5 1
+e 2 3 1
+e 2 4 1
+e 2 5 1
+e 3 4 1
+e 3 5 1
+e 4 5 1
+t # 105
+v 0 0 # dergos
+v 1 1 # madame-dergos
+v 2 2 # la-bonne
+v 3 0 # ludor
+v 4 0 # rabon
+v 5 0 # martin
+v 6 0 # le-docteur
+e 0 1 1
+e 0 2 1
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 0 6 1
+e 1 2 1
+e 1 3 1
+e 1 4 1
+e 1 5 1
+e 1 6 1
+e 2 3 1
+e 2 4 1
+e 2 5 1
+e 2 6 1
+e 3 4 1
+e 3 5 1
+e 3 6 1
+e 4 5 1
+e 4 6 1
+e 5 6 1
+t # 106
+v 0 2 # alain
+v 1 1 # francine
+v 2 1 # la-bonne
+v 3 0 # ronchaud
+v 4 2 # madame-caviar
+v 5 2 # la-baronne
+v 6 2 # omer
+v 7 1 # la-veuve-caviar
+e 0 1 3
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 2
+e 0 6 1
+e 0 7 1
+e 1 2 2
+e 1 5 2
+e 1 6 1
+e 1 7 1
+t # 107
+v 0 0 # larcadier
+v 1 0 # commercy
+v 2 0 # tony
+v 3 1 # madame-commercy
+e 0 1 1
+e 0 2 1
+e 0 3 1
+e 1 2 1
+e 1 3 1
+e 2 3 1
+t # 108
+v 0 0 # adrien
+v 1 0 # lubin
+v 2 1 # jeanne
+v 3 1 # suzette
+v 4 0 # thomas
+v 5 2 # godefroi
+v 6 0 # monsieur-de-cressac
+v 7 1 # madame-de-cressac
+v 8 1 # julie
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 0 7 2
+e 0 8 1
+e 1 2 1
+e 1 3 2
+e 1 4 2
+e 2 3 2
+e 2 4 2
+e 2 6 1
+e 3 4 2
+e 3 5 1
+e 3 6 1
+e 4 6 1
+e 5 6 1
+e 5 7 1
+e 6 7 2
+e 6 8 1
+e 7 8 1
+t # 109
+v 0 0 # emilie
+v 1 0 # hubert
+v 2 0 # marcellin
+v 3 1 # henriette
+v 4 0 # monsieur-de-beauval
+v 5 1 # madame-de-joinville
+e 0 1 1
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 1 2 1
+e 1 4 1
+e 2 3 2
+e 2 4 2
+e 2 5 1
+e 3 4 2
+e 3 5 1
+e 4 5 1
+t # 110
+v 0 0 # monsieur-de-valence
+v 1 1 # madame-de-valence
+v 2 0 # valentin
+v 3 0 # monsieur-de-revel
+v 4 0 # monsieur-de-nance
+v 5 0 # mathurin
+v 6 0 # matthieu
+e 0 1 3
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 1 3 2
+e 1 4 2
+e 1 2 2
+e 1 5 1
+e 1 6 1
+e 2 6 2
+e 2 3 1
+e 2 4 1
+e 3 4 2
+e 3 5 1
+e 4 5 1
+t # 111
+v 0 0 # didier
+v 1 1 # eugenie
+v 2 2 # le-prince
+v 3 1 # cecile
+v 4 2 # l-officier
+v 5 0 # monsieur-de-gerville
+v 6 1 # madame-de-gerville
+v 7 1 # marianne
+v 8 2 # les-enfants
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 2
+e 0 6 2
+e 0 7 1
+e 0 8 1
+e 1 2 2
+e 1 4 2
+e 1 3 2
+e 1 5 2
+e 1 6 2
+e 1 7 1
+e 1 8 1
+e 2 4 2
+e 2 3 2
+e 2 5 1
+e 2 6 1
+e 3 4 1
+e 3 5 2
+e 3 6 2
+e 3 7 1
+e 3 8 1
+e 5 6 2
+e 5 7 1
+e 5 8 1
+e 6 7 1
+e 6 8 1
+e 7 8 1
+t # 112
+v 0 0 # marcel
+v 1 1 # genevieve
+v 2 0 # la-terreur
+v 3 0 # fluet
+v 4 0 # georges
+v 5 0 # le-fourrier
+v 6 0 # le-capitaine
+v 7 0 # thomas
+v 8 0 # le-bailli
+v 9 0 # le-prevot
+v 10 0 # le-sergent
+v 11 0 # le-colonel
+v 12 0 # bras-croises
+e 0 1 3
+e 0 2 3
+e 0 3 3
+e 0 4 3
+e 0 5 1
+e 0 6 2
+e 0 7 3
+e 0 8 2
+e 0 9 2
+e 0 10 1
+e 0 11 1
+e 1 2 3
+e 1 3 3
+e 1 4 3
+e 1 5 1
+e 1 6 2
+e 1 7 3
+e 1 8 2
+e 1 9 2
+e 1 10 1
+e 1 11 1
+e 2 3 3
+e 2 4 3
+e 2 5 1
+e 2 6 2
+e 2 8 2
+e 2 12 1
+e 2 9 3
+e 2 10 1
+e 2 7 2
+e 2 11 1
+e 3 4 2
+e 3 6 1
+e 3 10 1
+e 3 7 2
+e 3 9 1
+e 4 5 1
+e 4 6 2
+e 4 7 3
+e 4 8 2
+e 4 10 2
+e 4 9 2
+e 4 11 1
+e 5 6 1
+e 6 10 1
+e 6 7 2
+e 6 11 1
+e 6 9 1
+e 7 8 2
+e 7 9 2
+e 7 10 1
+e 7 11 1
+e 8 9 1
+e 9 12 1
+e 9 11 1
+t # 113
+v 0 0 # monsieur-de-valcourt
+v 1 1 # dorothee
+v 2 2 # le-domestique
+v 3 1 # marianne
+v 4 0 # petrel
+v 5 0 # frederic
+e 0 1 2
+e 0 2 1
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 1 2 1
+e 1 3 3
+e 1 5 2
+e 1 4 2
+e 3 5 2
+e 3 4 2
+e 4 5 1
+t # 114
+v 0 0 # le-bel-esprit
+v 1 1 # la-critique
+v 2 1 # la-comparaison
+v 3 0 # choeur-des-poetes
+v 4 2 # choeur-des-femmes
+v 5 2 # une-du-choeur-des-femmes
+v 6 2 # job
+v 7 2 # uranie
+v 8 2 # choeur-des-filles
+v 9 0 # rabajoie
+e 0 1 1
+e 0 2 1
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 0 6 1
+e 0 7 1
+e 0 8 1
+e 1 2 1
+e 1 3 2
+e 1 4 1
+e 1 5 1
+e 1 6 1
+e 1 7 1
+e 1 8 1
+e 1 9 1
+e 2 3 1
+e 2 4 1
+e 2 5 1
+e 2 6 1
+e 2 7 1
+e 2 8 1
+e 3 4 1
+e 3 5 1
+e 3 6 1
+e 3 7 1
+e 3 8 1
+e 3 9 1
+e 4 5 1
+e 4 6 1
+e 4 7 1
+e 4 8 1
+e 5 6 1
+e 5 7 1
+e 5 8 1
+e 6 7 1
+e 6 8 1
+e 7 8 1
+t # 115
+v 0 2 # porter
+v 1 0 # germain
+v 2 0 # duval
+v 3 0 # frivole
+v 4 2 # razilli
+v 5 0 # jerome
+v 6 1 # madame-alain
+v 7 0 # françois
+v 8 2 # nannette
+v 9 2 # le-musicien
+v 10 2 # la-marquise
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 1
+e 0 6 1
+e 0 7 1
+e 0 8 1
+e 0 9 1
+e 0 10 1
+e 1 2 1
+e 1 3 1
+e 6 7 1
+e 6 8 1
+e 7 8 1
+t # 116
+v 0 0 # abraham
+v 1 1 # sarah
+v 2 0 # l-ange
+v 3 0 # isaac
+v 4 2 # troupe-de-bergers
+v 5 2 # demi-troupe
+v 6 0 # satan
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 1 3 1
+e 1 4 1
+e 2 3 1
+e 3 6 1
+e 3 5 1
+e 3 4 2
+e 4 5 2
+t # 117
+v 0 1 # argentine
+v 1 0 # arlequin
+v 2 0 # pierrot
+v 3 0 # leandre
+v 4 0 # mezzetin
+v 5 0 # le-docteur
+v 6 1 # la-chanteuse
+v 7 0 # scaramouche
+v 8 0 # octave
+v 9 1 # spinette
+e 0 1 3
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 0 7 1
+e 0 8 1
+e 0 9 1
+e 1 2 2
+e 1 8 2
+e 1 3 2
+e 1 5 2
+e 1 4 2
+e 1 6 1
+e 1 7 1
+e 1 9 1
+e 2 7 2
+e 2 5 2
+e 2 6 1
+e 2 3 1
+e 2 8 1
+e 2 9 1
+e 2 4 1
+e 3 8 2
+e 3 4 2
+e 3 5 1
+e 3 6 1
+e 3 7 1
+e 3 9 1
+e 4 8 1
+e 4 7 1
+e 4 9 1
+e 4 5 1
+e 4 6 1
+e 5 8 1
+e 5 7 1
+e 5 9 2
+e 5 6 1
+e 6 8 1
+e 6 7 2
+e 6 9 1
+e 7 8 3
+e 7 9 2
+e 8 9 2
+t # 118
+v 0 1 # colombine
+v 1 0 # pierrot
+v 2 0 # arlequin
+v 3 0 # mezzetin
+v 4 0 # octave
+v 5 0 # geronte
+v 6 0 # scaramouche
+v 7 0 # leandre
+v 8 0 # le-docteur
+v 9 1 # isabelle
+v 10 1 # leonore
+v 11 1 # la-chanteuse
+v 12 2 # le-crocheteur
+v 13 2 # le-geolier
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 0 7 1
+e 0 8 1
+e 0 9 1
+e 0 10 1
+e 1 2 2
+e 1 3 2
+e 1 6 2
+e 1 7 2
+e 1 9 2
+e 1 5 2
+e 1 8 1
+e 1 4 2
+e 1 10 1
+e 1 11 1
+e 2 8 3
+e 2 12 1
+e 2 9 3
+e 2 7 2
+e 2 5 3
+e 2 10 2
+e 2 4 2
+e 2 6 2
+e 2 3 2
+e 2 11 1
+e 3 5 2
+e 3 8 2
+e 3 6 2
+e 3 7 1
+e 3 4 3
+e 3 10 2
+e 3 9 2
+e 3 11 1
+e 4 5 3
+e 4 8 2
+e 4 6 2
+e 4 7 2
+e 4 10 3
+e 4 9 2
+e 4 11 1
+e 5 8 3
+e 5 13 1
+e 5 10 2
+e 5 9 3
+e 5 6 2
+e 5 7 1
+e 6 8 2
+e 6 7 3
+e 6 9 3
+e 6 10 2
+e 6 11 1
+e 7 8 2
+e 7 9 3
+e 7 10 2
+e 8 12 1
+e 8 9 3
+e 8 13 1
+e 8 10 2
+e 9 10 2
+t # 119
+v 0 1 # venus
+v 1 2 # le-choeur
+v 2 0 # scaramouche
+v 3 0 # pierrot
+v 4 0 # arlequin
+v 5 2 # une-des-graces
+v 6 1 # colombine
+v 7 0 # le-docteur
+v 8 1 # marinette
+v 9 2 # les-chanteuses
+v 10 2 # premiere-chanteuse
+v 11 2 # la-chanteuse
+e 0 1 2
+e 0 2 1
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 0 7 1
+e 1 3 2
+e 1 8 1
+e 1 4 2
+e 1 7 2
+e 1 9 1
+e 1 10 1
+e 1 6 1
+e 2 3 1
+e 2 4 2
+e 2 7 1
+e 2 11 1
+e 2 6 1
+e 3 4 2
+e 3 5 1
+e 3 8 2
+e 3 7 1
+e 3 6 1
+e 3 9 1
+e 3 10 1
+e 4 5 1
+e 4 7 2
+e 4 6 3
+e 4 8 2
+e 4 9 1
+e 4 10 1
+e 4 11 1
+e 6 7 2
+e 6 8 1
+e 6 11 1
+e 7 8 1
+e 9 10 1
+t # 120
+v 0 0 # hierbas
+v 1 0 # gargame
+v 2 0 # arcagambis
+v 3 0 # nabotas
+v 4 1 # tetonice
+v 5 1 # thamire
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 1
+e 1 2 2
+e 1 3 2
+e 2 3 2
+e 2 5 2
+e 2 4 1
+e 4 5 1
+t # 121
+v 0 0 # zerones
+v 1 0 # le-marquis
+v 2 0 # orgon
+v 3 1 # rosalie
+v 4 1 # melise
+v 5 0 # damis
+v 6 1 # orphise
+v 7 0 # darmance
+v 8 2 # le-domestique
+e 0 1 3
+e 0 2 3
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 0 7 1
+e 1 2 2
+e 1 8 1
+e 1 7 2
+e 1 3 2
+e 1 4 2
+e 1 5 2
+e 1 6 3
+e 2 3 2
+e 2 4 2
+e 2 5 2
+e 2 6 2
+e 2 7 1
+e 3 7 2
+e 3 4 2
+e 3 5 2
+e 3 6 2
+e 4 7 2
+e 4 5 2
+e 4 6 3
+e 5 7 2
+e 5 6 2
+e 6 7 1
+t # 122
+v 0 0 # vercingentorixe
+v 1 0 # conutodun
+v 2 0 # eporedorixe
+v 3 0 # catuat
+v 4 0 # critognat
+v 5 0 # convictolitan
+v 6 1 # sylvie
+v 7 0 # soldat
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 2
+e 0 7 1
+e 1 2 1
+e 1 3 2
+e 1 4 2
+e 1 5 1
+e 1 6 1
+e 2 3 1
+e 2 4 1
+e 2 5 1
+e 2 6 1
+e 3 4 2
+e 3 5 1
+e 3 6 1
+e 4 5 2
+e 4 6 2
+e 5 6 2
+t # 123
+v 0 0 # gaston
+v 1 0 # gontran
+e 0 1 1
+t # 124
+v 0 0 # monsieur-jovial
+v 1 2 # parterre
+v 2 2 # loge
+v 3 2 # balcon
+v 4 0 # heraclite
+v 5 0 # catafalcus
+v 6 0 # cascaret
+v 7 1 # madame-jovial
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 2
+e 0 7 2
+e 1 2 2
+e 1 3 2
+e 1 7 1
+e 2 3 2
+e 2 7 1
+e 3 7 1
+e 4 5 1
+t # 125
+v 0 0 # hiaskar
+v 1 1 # hirza
+v 2 0 # oukea
+v 3 2 # monreal-fils
+v 4 0 # monreal-pere
+e 0 1 2
+e 0 2 3
+e 0 3 3
+e 0 4 2
+e 1 2 2
+e 1 3 2
+e 1 4 2
+e 2 3 2
+e 2 4 2
+e 3 4 2
+t # 126
+v 0 0 # lincoln
+v 1 0 # macdal
+v 2 0 # washington
+v 3 2 # laurens
+v 4 2 # soldats
+v 5 2 # le-secretaire
+v 6 2 # le-depute
+v 7 2 # l-aide-de-camp
+v 8 0 # johnson
+v 9 0 # lismor
+v 10 2 # l-ambassadeur
+v 11 0 # madame-nelson
+v 12 2 # le-peuple
+v 13 2 # les-senateurs
+v 14 2 # l-orateur
+v 15 0 # madame-laurens
+e 0 1 2
+e 0 2 3
+e 0 3 2
+e 0 4 1
+e 0 5 1
+e 0 6 1
+e 1 3 2
+e 1 2 2
+e 1 4 1
+e 2 7 1
+e 2 8 1
+e 2 3 3
+e 2 4 1
+e 2 9 1
+e 2 10 1
+e 3 8 1
+e 3 4 1
+e 3 9 2
+e 3 5 2
+e 3 14 2
+e 3 12 1
+e 3 13 1
+e 3 11 1
+e 3 10 1
+e 5 9 1
+e 5 11 1
+e 5 14 2
+e 5 6 1
+e 8 11 1
+e 8 9 2
+e 8 12 1
+e 8 13 1
+e 9 11 2
+e 9 15 1
+e 9 14 1
+e 9 12 1
+e 9 13 1
+e 11 15 2
+e 11 14 1
+e 12 13 1
+t # 127
+v 0 1 # axenoe
+v 1 1 # emirene
+v 2 0 # cyndonax
+v 3 0 # emnon
+v 4 0 # indumar
+v 5 0 # clodomir
+v 6 0 # luthar
+e 0 1 3
+e 0 2 1
+e 0 3 1
+e 1 4 3
+e 1 3 3
+e 1 5 2
+e 1 6 2
+e 1 2 3
+e 2 4 2
+e 2 3 3
+e 2 6 1
+e 2 5 2
+e 3 4 2
+e 3 6 2
+e 3 5 1
+e 4 5 2
+e 5 6 1
+t # 128
+v 0 1 # laforest
+v 1 0 # moliere
+v 2 2 # marotte
+v 3 0 # armand
+v 4 0 # chapelle
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 1 2 2
+e 1 3 2
+e 1 4 2
+e 2 3 2
+e 2 4 1
+e 3 4 2
+t # 129
+v 0 0 # gely
+v 1 0 # moliere
+v 2 1 # claudine
+v 3 2 # roustecagnac
+v 4 2 # le-garçon
+v 5 0 # premier-client
+v 6 0 # deuxieme-client
+v 7 0 # troisieme-client
+v 8 2 # le-messager
+e 0 1 3
+e 0 2 3
+e 0 3 2
+e 0 4 1
+e 0 5 1
+e 0 6 1
+e 0 7 1
+e 0 8 1
+e 1 2 2
+e 1 8 2
+e 1 3 2
+e 1 4 1
+e 2 3 2
+e 2 4 1
+e 2 5 1
+e 2 6 1
+e 2 7 1
+e 2 8 1
+e 3 8 1
+e 3 4 1
+e 3 5 1
+e 3 6 1
+e 3 7 1
+e 5 6 1
+e 5 7 1
+e 6 7 1
+t # 130
+v 0 1 # azema
+v 1 1 # fatime
+v 2 0 # l-etheree
+v 3 2 # la-princesse
+v 4 0 # arlequin
+v 5 0 # durphegor
+v 6 2 # le-maitre-d-hotel
+v 7 2 # le-senateur
+v 8 2 # le-medecin
+v 9 2 # le-garçon-d-office
+v 10 2 # l-echanson
+v 11 2 # arelquin
+v 12 2 # le-valet-de-chambre
+v 13 2 # le-secretaire
+v 14 2 # le-paysan
+v 15 2 # un-danseur
+v 16 2 # le-financier
+v 17 2 # la-bergere
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 2
+e 0 5 1
+e 1 4 2
+e 1 2 2
+e 1 6 1
+e 1 7 1
+e 1 8 1
+e 1 3 1
+e 2 4 3
+e 2 6 1
+e 2 7 1
+e 2 8 1
+e 2 5 2
+e 2 3 1
+e 3 4 1
+e 4 5 2
+e 4 6 2
+e 4 7 1
+e 4 8 1
+e 4 9 1
+e 4 10 1
+e 4 11 1
+e 4 12 2
+e 4 13 2
+e 4 14 1
+e 4 15 1
+e 4 16 1
+e 4 17 1
+e 6 7 1
+e 6 8 1
+e 6 9 1
+e 6 10 1
+e 6 11 1
+e 6 14 1
+e 6 15 1
+e 6 16 1
+e 6 13 1
+e 6 17 1
+e 7 8 1
+e 9 10 1
+e 9 11 1
+e 10 11 1
+e 12 13 1
+e 13 14 1
+e 13 15 1
+e 13 16 1
+e 13 17 1
+e 14 15 1
+e 14 16 1
+e 14 17 1
+e 15 16 1
+e 15 17 1
+e 16 17 1
+t # 131
+v 0 0 # caïphe
+v 1 0 # pilate
+v 2 2 # un-pretre
+v 3 0 # jesus
+v 4 2 # le-peuple
+v 5 2 # un-membre-de-la-suite-de-caïphe
+v 6 2 # un-docteur
+v 7 2 # un-autre-docteur
+v 8 2 # un-negociant
+v 9 2 # pierre
+v 10 2 # judas
+v 11 2 # un-disciple
+v 12 1 # madeleine
+v 13 1 # zeline
+v 14 2 # le-bourgeois
+v 15 2 # un-bourgeois
+v 16 2 # la-femme
+v 17 2 # le-disciple
+v 18 2 # le-docteur
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 1
+e 1 6 1
+e 1 7 1
+e 1 8 1
+e 1 9 1
+e 1 3 1
+e 1 4 2
+e 1 10 1
+e 1 11 1
+e 1 12 1
+e 2 6 2
+e 3 12 2
+e 3 6 2
+e 3 14 1
+e 3 15 1
+e 3 16 1
+e 3 17 1
+e 3 9 2
+e 3 10 1
+e 3 18 1
+e 3 4 1
+e 4 11 1
+e 6 7 1
+e 6 18 1
+e 9 12 1
+e 9 17 1
+e 9 10 1
+e 12 13 1
+t # 132
+v 0 0 # leandre
+v 1 1 # isabelle
+v 2 1 # laure
+v 3 0 # alonce
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 1 2 2
+e 1 3 2
+e 2 3 2
+t # 133
+v 0 2 # l-actrice
+v 1 0 # momus
+v 2 0 # philinte
+v 3 0 # l-indifferent
+v 4 2 # le-genie
+v 5 1 # terpsicore
+e 0 1 1
+e 1 2 1
+e 1 3 1
+e 1 4 1
+e 1 5 1
+t # 134
+v 0 0 # damon
+v 1 0 # clitandre
+v 2 0 # arlequin
+v 3 0 # laquais
+e 0 1 2
+e 0 2 2
+e 1 2 2
+e 1 3 1
+e 2 3 1
+t # 135
+v 0 1 # clarice
+v 1 1 # nerine
+v 2 1 # daphne
+v 3 1 # hortense
+v 4 1 # cephise
+v 5 0 # leandre
+v 6 0 # valere
+v 7 1 # doris
+v 8 1 # melite
+v 9 1 # ismene
+v 10 0 # la-fleur
+e 0 1 2
+e 0 2 1
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 0 6 1
+e 1 2 1
+e 1 3 1
+e 1 5 2
+e 1 6 2
+e 1 4 1
+e 2 3 2
+e 2 7 1
+e 2 8 1
+e 2 5 2
+e 2 9 1
+e 2 4 2
+e 3 7 1
+e 3 8 1
+e 3 5 2
+e 3 9 1
+e 3 4 1
+e 4 5 2
+e 4 6 1
+e 4 7 1
+e 4 8 1
+e 4 9 1
+e 5 6 2
+e 5 10 1
+e 5 7 2
+e 5 8 1
+e 5 9 2
+e 6 10 1
+e 7 8 1
+e 7 9 1
+e 8 9 1
+t # 136
+v 0 1 # lucie
+v 1 0 # nelton
+v 2 1 # la-marquise
+v 3 0 # le-marquis
+v 4 2 # le-comte
+v 5 1 # leonore
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 1
+e 1 4 2
+e 2 4 2
+e 2 5 2
+e 2 3 2
+e 3 4 2
+e 3 5 3
+e 4 5 2
+t # 137
+v 0 1 # damon
+v 1 0 # clitandre
+v 2 0 # arlequin
+v 3 2 # laquais
+v 4 2 # la-critique
+v 5 1 # le-vaudeville
+v 6 1 # thalie
+v 7 0 # apollon
+v 8 2 # l-auteur
+v 9 2 # chrisante
+v 10 1 # la-medisance
+e 0 1 2
+e 0 2 2
+e 1 2 2
+e 1 3 1
+e 2 3 1
+e 2 4 1
+e 2 5 1
+e 4 7 1
+e 4 10 1
+e 4 5 2
+e 6 7 1
+e 7 8 1
+e 7 9 1
+t # 138
+v 0 1 # lisette
+v 1 1 # celiante
+v 2 1 # la-comtesse
+v 3 0 # le-baron
+v 4 1 # lucile
+v 5 0 # le-marquis
+v 6 0 # monsieur-de-forlis
+v 7 0 # champagne
+v 8 2 # le-laquais
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 1 2 2
+e 1 5 1
+e 1 3 1
+e 1 6 2
+e 2 5 2
+e 2 3 2
+e 2 6 2
+e 2 4 2
+e 3 5 3
+e 3 4 3
+e 3 6 3
+e 3 8 1
+e 4 5 3
+e 4 6 1
+e 5 7 1
+e 5 6 2
+t # 139
+v 0 2 # le-marquis
+v 1 2 # le-baron
+v 2 1 # eliante
+v 3 2 # rosbif
+v 4 1 # finette
+v 5 2 # le-lord-houzey
+v 6 2 # le-lord-craff
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 1
+e 0 5 2
+e 0 6 2
+e 1 2 2
+e 1 6 2
+e 1 4 1
+e 1 5 1
+e 2 4 2
+e 2 5 2
+e 2 6 1
+e 3 4 1
+e 4 5 1
+e 5 6 2
+t # 140
+v 0 1 # la-frivolite
+v 1 0 # l-hiver
+v 2 0 # monsieur-fauster
+v 3 1 # miss-blar
+v 4 0 # le-marquis
+v 5 0 # arlequin
+e 0 1 1
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 2 3 2
+e 2 4 1
+e 3 4 1
+e 4 5 1
+t # 141
+v 0 1 # lisette
+v 1 1 # celiante
+v 2 1 # la-comtesse
+v 3 0 # le-baron
+v 4 1 # lucile
+v 5 0 # le-marquis
+v 6 0 # monsieur-de-forlis
+v 7 0 # champagne
+v 8 2 # le-laquais
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 1 2 2
+e 1 5 1
+e 1 3 2
+e 1 6 2
+e 2 5 2
+e 2 3 2
+e 2 6 2
+e 2 4 2
+e 3 5 3
+e 3 4 3
+e 3 6 3
+e 3 8 1
+e 4 5 3
+e 4 6 1
+e 5 7 1
+e 5 6 2
+t # 142
+v 0 0 # momus
+v 1 1 # venus
+v 2 0 # apollon
+v 3 2 # arlequin
+v 4 0 # le-geometre
+v 5 0 # le-petit-maitre
+v 6 0 # le-suisse
+v 7 0 # le-public-feminin
+v 8 0 # l-acteur-français
+v 9 0 # le-musicien
+v 10 1 # la-danseuse
+v 11 2 # ensemble
+v 12 0 # silvia
+v 13 2 # un-calotin
+e 0 1 2
+e 0 2 1
+e 1 2 2
+e 1 3 1
+e 2 3 1
+e 3 4 1
+e 3 5 2
+e 3 6 1
+e 3 7 1
+e 3 8 1
+e 3 9 2
+e 3 10 1
+e 3 11 1
+e 3 12 1
+e 3 13 1
+e 5 6 1
+e 9 10 1
+e 9 11 1
+e 10 11 1
+t # 143
+v 0 0 # champagne
+v 1 1 # lisette
+v 2 0 # le-baron
+v 3 0 # montval
+v 4 1 # la-marquise
+v 5 1 # lucile
+v 6 0 # cleon
+e 0 1 3
+e 0 2 2
+e 0 3 3
+e 0 4 2
+e 0 5 2
+e 1 2 2
+e 1 4 3
+e 1 3 3
+e 1 5 3
+e 1 6 2
+e 2 4 2
+e 2 3 2
+e 2 5 2
+e 2 6 2
+e 3 4 3
+e 3 5 3
+e 3 6 2
+e 4 6 2
+e 4 5 2
+e 5 6 2
+t # 144
+v 0 1 # la-comtesse
+v 1 1 # lisette
+v 2 0 # le-marquis
+v 3 0 # monsieur-du-berceau
+v 4 0 # le-baron
+v 5 1 # lucile
+v 6 2 # luclle
+v 7 1 # coraline
+v 8 0 # arlequin
+v 9 2 # scapin
+e 0 1 1
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 2 3 3
+e 2 4 3
+e 2 5 2
+e 3 4 2
+e 3 5 1
+e 4 5 2
+e 4 7 1
+e 4 8 1
+e 5 6 1
+e 5 8 1
+e 7 8 2
+e 7 9 1
+e 8 9 1
+t # 145
+v 0 0 # la-fleur
+v 1 2 # marton
+v 2 0 # damon
+v 3 0 # arlequin
+v 4 1 # clarice
+v 5 0 # leandre
+v 6 1 # eliante
+v 7 2 # recitant-du-vaudeville
+e 0 1 3
+e 0 2 2
+e 0 3 2
+e 1 4 3
+e 1 5 3
+e 1 2 3
+e 1 3 2
+e 1 6 2
+e 2 5 3
+e 2 4 3
+e 2 3 2
+e 2 6 1
+e 3 5 2
+e 3 4 1
+e 3 7 1
+e 4 5 3
+e 4 6 3
+e 5 6 2
+t # 146
+v 0 0 # ulric
+v 1 2 # le-roi
+v 2 0 # clotalde
+v 3 0 # arlequin
+v 4 0 # sigismond
+v 5 1 # sophronie
+v 6 0 # roderic
+v 7 0 # federic
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 1 2 2
+e 1 3 1
+e 1 4 2
+e 1 5 2
+e 2 4 2
+e 2 3 2
+e 3 4 3
+e 3 6 2
+e 3 5 2
+e 4 5 2
+e 4 7 1
+e 5 6 1
+t # 147
+v 0 2 # rene
+v 1 2 # monsieur-blaisy
+v 2 2 # le-domestique
+v 3 1 # madame-blaisy
+e 0 1 2
+e 0 2 1
+e 0 3 1
+e 1 2 1
+e 1 3 1
+t # 148
+v 0 0 # ernest
+v 1 1 # therese
+e 0 1 2
+t # 149
+v 0 0 # guillot
+v 1 0 # cleandre
+v 2 1 # elise
+v 3 1 # lisette
+v 4 0 # boniface
+v 5 2 # thomas
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 1 2 3
+e 1 3 2
+e 1 4 2
+e 1 5 2
+e 2 3 2
+e 2 4 2
+e 2 5 2
+e 3 4 2
+e 3 5 2
+e 4 5 3
+t # 150
+v 0 0 # oronte
+v 1 0 # merlin
+v 2 0 # monsieur-michaut
+v 3 1 # madame-guillemot
+v 4 2 # jasmin
+v 5 1 # lisette
+v 6 0 # longuemain
+v 7 0 # monsieur-de-boisluisant
+v 8 1 # cecile
+v 9 0 # boniface
+v 10 1 # claire
+v 11 0 # monsieur-de-la-motte
+v 12 2 # du-mesnil
+v 13 2 # madame-de-calville
+v 14 1 # oriane
+v 15 1 # elise
+v 16 0 # le-marquis
+v 17 0 # monsieur-brigandeau
+v 18 0 # monsieur-sangsue
+v 19 0 # beaugenie
+v 20 0 # la-rissole
+e 0 1 3
+e 0 2 1
+e 0 3 1
+e 0 4 1
+e 0 5 3
+e 0 6 1
+e 0 7 3
+e 0 8 3
+e 0 9 1
+e 0 10 2
+e 0 11 1
+e 0 12 1
+e 0 13 1
+e 0 14 1
+e 0 15 1
+e 0 16 1
+e 0 17 2
+e 0 18 1
+e 0 19 1
+e 1 5 2
+e 1 7 2
+e 1 20 1
+e 1 8 1
+e 3 4 1
+e 5 8 2
+e 5 10 2
+e 5 7 2
+e 5 19 1
+e 7 8 2
+e 7 9 1
+e 7 18 1
+e 7 17 1
+e 7 19 1
+e 8 9 1
+e 8 10 2
+e 8 11 1
+e 8 16 1
+e 8 19 1
+e 10 11 1
+e 14 15 1
+e 17 18 1
+t # 151
+v 0 1 # hipolite
+v 1 1 # jacinte
+v 2 0 # le-premier-nicandre
+v 3 0 # ragotin
+v 4 1 # ismene
+v 5 0 # le-second-nicandre
+v 6 0 # robin
+v 7 0 # isidore
+v 8 0 # eutrope
+v 9 2 # le-sergent
+v 10 2 # le-commisaire
+e 0 1 3
+e 0 2 2
+e 0 3 2
+e 0 4 3
+e 0 5 3
+e 0 6 3
+e 0 7 2
+e 0 8 2
+e 1 2 3
+e 1 3 2
+e 1 4 2
+e 1 5 3
+e 1 6 3
+e 1 7 3
+e 1 8 3
+e 1 9 1
+e 2 3 2
+e 2 4 2
+e 2 6 3
+e 2 8 2
+e 2 7 2
+e 2 5 2
+e 3 5 2
+e 3 4 2
+e 3 7 2
+e 3 8 2
+e 3 6 1
+e 4 10 1
+e 4 7 2
+e 4 8 2
+e 4 6 2
+e 4 5 2
+e 5 6 3
+e 5 8 2
+e 5 7 2
+e 6 8 2
+e 6 7 2
+e 6 9 2
+e 7 8 3
+e 7 9 1
+e 8 9 1
+t # 152
+v 0 0 # tirrene
+v 1 0 # trasibule
+v 2 0 # cresus
+v 3 0 # esope
+v 4 2 # iphis
+v 5 0 # garde
+v 6 1 # arsinoe
+v 7 1 # atis
+v 8 0 # lais
+v 9 0 # plexipe
+v 10 0 # licas
+v 11 0 # rhodope
+v 12 0 # iphicrate
+v 13 0 # leonide
+v 14 2 # cleon
+v 15 0 # griffet
+e 0 1 3
+e 0 2 3
+e 0 3 3
+e 0 4 1
+e 0 5 2
+e 0 6 1
+e 1 2 3
+e 1 3 3
+e 1 4 1
+e 1 5 1
+e 1 6 1
+e 2 4 1
+e 2 3 3
+e 2 5 2
+e 2 6 1
+e 2 7 1
+e 3 4 1
+e 3 6 2
+e 3 8 2
+e 3 9 1
+e 3 10 2
+e 3 11 2
+e 3 12 1
+e 3 13 2
+e 3 14 1
+e 3 15 1
+e 3 5 2
+e 3 7 1
+e 6 8 2
+e 11 13 1
+t # 153
+v 0 1 # livie
+v 1 1 # agrippine
+v 2 0 # drusus
+v 3 0 # germanicus
+v 4 1 # flavie
+v 5 0 # pison
+v 6 0 # albin
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 1 4 3
+e 1 2 2
+e 1 5 2
+e 1 6 2
+e 1 3 2
+e 2 4 1
+e 2 5 1
+e 2 3 1
+e 3 5 1
+e 4 6 1
+e 4 5 2
+t # 154
+v 0 0 # spadarille
+v 1 1 # olimpie
+v 2 0 # cleandre
+v 3 2 # cascaret
+v 4 0 # alcidor
+e 0 1 2
+e 0 2 3
+e 0 3 2
+e 0 4 3
+e 1 2 2
+e 1 3 2
+e 1 4 2
+e 2 3 2
+e 2 4 2
+e 3 4 2
+t # 155
+v 0 0 # newcastle
+v 1 0 # euric
+v 2 0 # norfolk
+v 3 0 # morray
+v 4 1 # elisabeth
+v 5 1 # marie-stuard
+v 6 0 # killegre
+v 7 0 # lancastre
+v 8 0 # melvin
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 1 4 2
+e 1 3 1
+e 1 2 2
+e 2 4 2
+e 2 5 2
+e 2 6 2
+e 2 3 1
+e 3 7 1
+e 3 4 2
+e 3 5 1
+e 4 7 2
+e 4 5 1
+e 5 6 1
+e 5 8 1
+t # 156
+v 0 1 # lise
+v 1 0 # cleon
+v 2 0 # fernand
+v 3 0 # crispin
+v 4 1 # lucresse
+v 5 0 # philipin
+v 6 0 # canteas
+e 0 1 1
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 1 3 2
+e 1 2 1
+e 1 4 1
+e 2 3 3
+e 2 5 2
+e 2 4 2
+e 2 6 1
+e 3 4 2
+e 3 5 2
+e 3 6 1
+e 5 6 1
+t # 157
+v 0 0 # gusman
+v 1 0 # fabrice
+v 2 1 # stephanie
+v 3 0 # lazarille
+v 4 0 # ferdinand
+v 5 2 # henriquez
+v 6 2 # l-hote
+v 7 2 # la-servante
+e 0 1 3
+e 0 2 2
+e 0 3 3
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 1 2 2
+e 1 3 3
+e 1 5 2
+e 1 4 1
+e 2 4 2
+e 2 3 2
+e 2 5 1
+e 3 4 2
+e 3 5 2
+e 3 6 2
+e 4 5 1
+e 5 7 1
+e 5 6 2
+t # 158
+v 0 0 # monsieur-josse
+v 1 0 # monsieur-griffet
+v 2 1 # madame-josse
+v 3 1 # nannette
+v 4 1 # babet
+v 5 1 # madame-brice
+v 6 0 # nicodeme
+v 7 0 # monsieur-brice
+v 8 1 # adrienne
+v 9 1 # nicole
+v 10 0 # champagne
+v 11 0 # monsieur-du-rus
+v 12 0 # monsieur-de-l-orme
+v 13 2 # marote
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 0 7 1
+e 0 8 1
+e 0 9 1
+e 1 6 1
+e 1 7 1
+e 1 3 1
+e 1 2 1
+e 1 5 1
+e 1 8 1
+e 1 9 1
+e 1 4 1
+e 2 3 3
+e 2 4 3
+e 2 7 3
+e 2 10 2
+e 2 11 2
+e 2 12 2
+e 2 13 1
+e 2 5 2
+e 2 9 2
+e 2 6 1
+e 2 8 1
+e 3 4 3
+e 3 7 2
+e 3 11 2
+e 3 12 2
+e 3 13 1
+e 3 5 2
+e 3 6 1
+e 3 8 1
+e 3 9 1
+e 4 10 1
+e 4 7 2
+e 4 13 1
+e 4 12 2
+e 4 11 2
+e 4 5 2
+e 4 6 1
+e 4 8 1
+e 4 9 1
+e 5 7 2
+e 5 11 1
+e 5 12 1
+e 5 6 1
+e 5 8 1
+e 5 9 1
+e 6 7 1
+e 6 9 1
+e 6 8 1
+e 7 10 1
+e 7 11 2
+e 7 12 2
+e 7 8 1
+e 7 9 1
+e 8 9 1
+e 11 12 2
+t # 159
+v 0 1 # clitie
+v 1 0 # damis
+v 2 1 # amarante
+v 3 0 # le-comte
+v 4 0 # petit-jean
+v 5 0 # oriane
+v 6 0 # la-ramee
+v 7 0 # dorante
+v 8 0 # lisidor
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 2
+e 0 6 1
+e 0 7 2
+e 0 8 1
+e 1 3 2
+e 1 4 2
+e 1 2 2
+e 1 5 2
+e 1 7 2
+e 1 6 1
+e 1 8 1
+e 2 3 2
+e 2 4 2
+e 2 5 2
+e 2 7 2
+e 2 6 1
+e 2 8 1
+e 3 4 1
+e 3 5 2
+e 3 7 2
+e 3 6 1
+e 3 8 1
+e 4 5 1
+e 5 6 1
+e 5 7 2
+e 5 8 1
+e 6 7 1
+e 7 8 1
+t # 160
+v 0 1 # emilie
+v 1 0 # le-chevalier
+v 2 0 # la-waltoline
+v 3 0 # le-marquis
+v 4 0 # boursault
+v 5 1 # amarante
+v 6 2 # ortodoxe
+v 7 0 # la-france
+e 0 1 3
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 0 7 1
+e 1 2 1
+e 1 3 2
+e 1 4 2
+e 1 5 2
+e 1 6 2
+e 1 7 1
+e 2 3 1
+e 3 4 2
+e 3 5 2
+e 3 6 2
+e 3 7 1
+e 4 5 1
+e 4 6 1
+e 5 6 2
+e 5 7 1
+e 6 7 1
+t # 161
+v 0 0 # oreste
+v 1 0 # pylade
+v 2 1 # clytemnestre
+v 3 0 # cassandre
+v 4 0 # agamemnon
+v 5 1 # ismene
+v 6 0 # eurybate
+v 7 1 # doride
+v 8 0 # arbas
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 2 7 2
+e 2 6 1
+e 2 4 2
+e 2 3 1
+e 3 5 2
+e 3 4 2
+e 4 6 3
+e 4 8 2
+t # 162
+v 0 2 # le-roi
+v 1 0 # aristodeme
+v 2 2 # epebole
+v 3 0 # alcidamas
+v 4 2 # tisis
+v 5 1 # argie
+v 6 1 # merope
+v 7 0 # cresphonte
+v 8 1 # alcmene
+e 0 1 3
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 1
+e 0 6 2
+e 0 7 1
+e 1 2 2
+e 1 3 2
+e 1 4 1
+e 1 5 2
+e 1 6 2
+e 1 7 1
+e 2 3 2
+e 2 7 1
+e 2 6 1
+e 3 5 2
+e 3 6 2
+e 3 7 2
+e 3 8 1
+e 5 6 2
+e 5 8 2
+e 6 7 2
+e 7 8 2
+t # 163
+v 0 0 # darius
+v 1 0 # oronte
+v 2 0 # tiribaze
+v 3 1 # nitocris
+v 4 2 # le-roi
+v 5 1 # aspasie
+v 6 1 # cleone
+v 7 1 # barsine
+v 8 0 # mindate
+e 0 1 1
+e 0 2 2
+e 0 3 1
+e 0 4 2
+e 0 5 2
+e 1 4 1
+e 1 5 1
+e 2 3 2
+e 2 4 2
+e 3 6 2
+e 3 5 1
+e 4 5 2
+e 4 8 2
+e 5 7 2
+t # 164
+v 0 1 # clotilde
+v 1 1 # lucinde
+v 2 1 # deuthere
+v 3 2 # le-roi
+v 4 0 # clodomire
+v 5 1 # theosile
+v 6 0 # clidamant
+v 7 0 # sigile
+e 0 1 1
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 0 7 1
+e 1 2 2
+e 2 6 2
+e 2 3 2
+e 2 7 1
+e 2 4 2
+e 3 6 2
+e 3 7 2
+e 3 4 3
+e 4 6 1
+e 4 7 1
+e 6 7 1
+t # 165
+v 0 2 # marius
+v 1 1 # maxime
+v 2 1 # cecilie
+v 3 0 # pison
+v 4 0 # sylla
+v 5 1 # marcelle
+v 6 1 # sabine
+v 7 0 # octave
+v 8 0 # pompee
+e 0 1 1
+e 0 2 2
+e 0 3 1
+e 0 4 2
+e 1 2 1
+e 2 5 2
+e 2 6 2
+e 2 3 2
+e 2 4 2
+e 2 7 1
+e 2 8 2
+e 3 4 2
+e 4 7 1
+e 4 8 2
+e 5 6 1
+e 5 8 1
+t # 166
+v 0 0 # ozias
+v 1 2 # betulien
+v 2 0 # achior
+v 3 1 # judith
+v 4 0 # misaël
+v 5 1 # abra
+v 6 0 # holoferne
+v 7 0 # vagao
+v 8 2 # officier-assysien
+v 9 2 # officier
+v 10 2 # officier-assyrien
+e 0 1 2
+e 0 2 3
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 1 4 1
+e 1 2 1
+e 1 5 1
+e 2 3 2
+e 2 4 2
+e 2 5 2
+e 3 4 3
+e 3 5 2
+e 3 6 2
+e 3 7 1
+e 4 5 2
+e 4 6 2
+e 4 8 1
+e 6 7 2
+e 6 9 1
+e 6 10 1
+e 6 8 1
+t # 167
+v 0 0 # tite
+v 1 0 # vitelle
+v 2 0 # tibere
+v 3 1 # tullie
+v 4 0 # brute
+v 5 1 # junie
+v 6 1 # julie
+v 7 1 # marcellin
+v 8 1 # livie
+v 9 1 # marcelle
+e 0 1 2
+e 0 2 3
+e 0 3 3
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 0 7 1
+e 1 2 2
+e 1 3 2
+e 1 4 2
+e 2 3 2
+e 2 4 2
+e 2 5 2
+e 2 6 1
+e 2 7 1
+e 3 4 2
+e 3 6 2
+e 3 8 1
+e 3 5 2
+e 3 9 1
+e 3 7 2
+e 4 7 1
+e 4 5 2
+e 4 8 1
+e 5 6 2
+e 5 8 1
+e 5 7 2
+e 5 9 2
+e 6 8 1
+e 6 9 1
+t # 168
+v 0 0 # zopire
+v 1 0 # darie
+v 2 0 # megabise
+v 3 1 # hesione
+v 4 1 # araminte
+v 5 0 # patisite
+v 6 0 # oropaste
+v 7 1 # cleone
+v 8 0 # mitrobate
+v 9 2 # le-garde
+e 0 1 2
+e 0 2 2
+e 0 3 3
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 0 7 1
+e 1 2 1
+e 1 3 3
+e 1 4 2
+e 1 7 2
+e 1 6 2
+e 2 3 2
+e 2 4 1
+e 2 5 2
+e 2 6 2
+e 3 4 3
+e 3 7 2
+e 3 6 3
+e 3 8 1
+e 3 5 2
+e 4 7 1
+e 4 6 2
+e 5 6 3
+e 5 8 1
+e 5 9 1
+e 6 7 2
+e 6 8 2
+e 6 9 1
+t # 169
+v 0 0 # brute
+v 1 0 # maxime
+v 2 0 # cassie
+v 3 1 # porcie
+v 4 0 # tite
+v 5 0 # octave
+v 6 1 # julie
+v 7 0 # philipe
+v 8 0 # valere
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 1 3 2
+e 1 4 1
+e 1 5 1
+e 2 6 1
+e 2 7 1
+e 3 6 2
+e 3 7 1
+e 3 5 1
+e 4 5 1
+e 5 8 2
+e 6 7 1
+t # 170
+v 0 0 # alexandre
+v 1 0 # perdiccas
+v 2 0 # porus
+v 3 2 # arsacide
+v 4 1 # argire
+v 5 1 # clarice
+v 6 1 # clairance
+v 7 1 # oraxene
+v 8 0 # oronte
+v 9 0 # phradate
+e 0 1 2
+e 0 2 3
+e 0 3 2
+e 0 4 3
+e 0 5 1
+e 0 6 2
+e 0 7 2
+e 0 8 1
+e 1 8 2
+e 1 6 2
+e 1 4 2
+e 1 7 2
+e 1 3 2
+e 1 2 1
+e 2 8 2
+e 2 6 2
+e 2 4 3
+e 2 7 2
+e 2 5 1
+e 2 3 3
+e 3 8 2
+e 3 6 2
+e 3 4 2
+e 3 7 2
+e 4 8 2
+e 4 6 3
+e 4 7 2
+e 4 5 2
+e 4 9 1
+e 5 6 2
+e 5 7 2
+e 6 8 2
+e 6 7 3
+e 7 8 1
+t # 171
+v 0 0 # tyridate
+v 1 1 # anthiochide
+v 2 1 # berenice
+v 3 0 # ariarathe
+v 4 1 # euridice
+v 5 2 # le-roi
+v 6 2 # la-reine
+v 7 1 # arsinoe
+v 8 0 # oronte
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 2
+e 0 6 2
+e 0 7 1
+e 0 8 1
+e 1 7 1
+e 1 3 1
+e 1 6 1
+e 1 8 1
+e 2 3 2
+e 2 8 2
+e 2 4 2
+e 2 5 2
+e 2 6 1
+e 3 8 2
+e 3 4 2
+e 3 5 2
+e 4 8 1
+e 4 5 1
+e 5 7 1
+e 5 8 3
+e 5 6 2
+e 6 7 1
+e 6 8 2
+e 7 8 1
+t # 172
+v 0 0 # portius
+v 1 2 # marcus
+v 2 0 # sempronius
+v 3 1 # lucie
+v 4 0 # caton
+v 5 0 # lucius
+v 6 0 # juba
+v 7 0 # decius
+v 8 0 # syphax
+v 9 2 # chef-de-la-revolte
+v 10 2 # premier-chef-des-revoltes
+v 11 2 # second-chef-des-revoltes
+v 12 1 # marcie
+e 0 1 2
+e 0 2 1
+e 0 3 1
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 1 2 1
+e 1 5 1
+e 1 4 1
+e 1 7 1
+e 2 8 2
+e 2 5 2
+e 2 4 2
+e 2 7 1
+e 2 9 1
+e 2 10 1
+e 2 11 1
+e 2 6 1
+e 3 6 1
+e 3 12 2
+e 4 6 2
+e 4 12 1
+e 4 5 3
+e 4 7 1
+e 5 6 2
+e 5 12 2
+e 5 7 1
+e 6 8 2
+e 6 12 2
+e 10 11 1
+t # 173
+v 0 0 # colin
+v 1 0 # nicolas
+v 2 1 # claudine
+v 3 0 # gros-jean
+v 4 0 # grand-françois
+v 5 2 # le-juge
+v 6 0 # le-greffier
+v 7 2 # tous-ensemble
+v 8 2 # bertrand
+v 9 1 # marion
+v 10 2 # le-vielleux
+v 11 2 # un-choeur-de-paysans
+v 12 2 # un-autre-choeur
+e 0 1 3
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 0 7 1
+e 0 8 2
+e 0 9 2
+e 0 10 1
+e 0 11 1
+e 0 12 1
+e 1 2 2
+e 1 3 2
+e 1 4 2
+e 1 5 1
+e 1 6 1
+e 1 7 1
+e 1 8 1
+e 1 9 1
+e 1 10 1
+e 1 11 1
+e 1 12 1
+e 2 3 2
+e 2 4 2
+e 2 5 1
+e 2 6 1
+e 2 7 1
+e 2 8 2
+e 2 9 1
+e 3 4 2
+e 3 5 1
+e 3 6 1
+e 3 7 1
+e 3 8 1
+e 4 5 1
+e 4 6 1
+e 4 7 1
+e 4 8 2
+e 4 9 2
+e 4 10 1
+e 4 11 1
+e 4 12 1
+e 5 6 1
+e 5 7 1
+e 6 7 1
+e 8 9 1
+e 9 10 1
+e 9 11 1
+e 9 12 1
+e 10 11 1
+e 10 12 1
+e 11 12 1
+t # 174
+v 0 1 # nerine
+v 1 1 # olimpe
+v 2 0 # sylvestre
+v 3 0 # cleanthe
+v 4 0 # lidamas
+v 5 1 # melice
+v 6 0 # thelame
+v 7 1 # lucille
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 1 4 3
+e 1 3 3
+e 1 2 2
+e 1 5 1
+e 2 4 3
+e 2 3 3
+e 2 5 2
+e 2 6 2
+e 3 4 3
+e 3 5 2
+e 3 6 2
+e 4 5 1
+e 5 6 2
+e 5 7 2
+t # 175
+v 0 0 # latinus
+v 1 0 # turne
+v 2 1 # juturne
+v 3 1 # lavinie
+v 4 1 # amata
+v 5 0 # enee
+v 6 0 # sidon
+v 7 0 # tyrene
+v 8 0 # acate
+e 0 1 3
+e 0 2 2
+e 0 3 3
+e 0 4 3
+e 0 5 2
+e 0 6 1
+e 1 4 3
+e 1 2 2
+e 1 3 3
+e 1 5 2
+e 1 7 1
+e 2 4 2
+e 2 3 2
+e 2 6 2
+e 2 5 1
+e 3 4 3
+e 3 6 2
+e 3 5 2
+e 4 7 1
+e 4 6 1
+e 4 5 2
+e 5 8 2
+t # 176
+v 0 0 # eraste
+v 1 0 # pasquin
+v 2 0 # marton
+v 3 2 # paquinoy
+v 4 0 # fribourg
+v 5 2 # le-laquais
+v 6 0 # ariste
+v 7 0 # le-baron
+v 8 0 # mariane
+v 9 2 # romarin
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 0 6 2
+e 0 7 1
+e 0 8 2
+e 1 2 3
+e 1 8 2
+e 1 4 2
+e 1 3 2
+e 1 5 1
+e 1 6 2
+e 1 7 3
+e 1 9 2
+e 2 7 3
+e 2 9 3
+e 2 6 3
+e 2 4 2
+e 2 8 3
+e 2 3 2
+e 3 7 2
+e 3 9 2
+e 3 6 1
+e 3 4 2
+e 3 5 2
+e 4 7 1
+e 4 9 1
+e 4 6 2
+e 4 8 1
+e 4 5 2
+e 5 6 1
+e 6 7 3
+e 6 9 2
+e 6 8 1
+e 7 9 3
+e 7 8 2
+e 8 9 1
+t # 177
+v 0 0 # le-baron
+v 1 0 # eraste
+v 2 0 # damis
+v 3 1 # toinon
+v 4 1 # la-marquise
+v 5 1 # dorise
+v 6 0 # clitandre
+v 7 0 # la-ramee
+v 8 0 # le-marquis
+e 0 1 3
+e 0 2 3
+e 0 3 3
+e 0 4 3
+e 0 5 2
+e 0 6 2
+e 0 7 2
+e 0 8 2
+e 1 2 3
+e 1 3 3
+e 1 5 2
+e 1 4 2
+e 1 6 2
+e 1 7 2
+e 1 8 1
+e 2 3 3
+e 2 5 2
+e 2 4 2
+e 2 6 2
+e 2 7 2
+e 2 8 1
+e 3 5 3
+e 3 6 3
+e 3 7 3
+e 3 8 2
+e 3 4 3
+e 4 5 3
+e 4 6 2
+e 4 8 2
+e 4 7 2
+e 5 6 3
+e 5 8 2
+e 5 7 3
+e 6 7 2
+e 6 8 2
+e 7 8 3
+t # 178
+v 0 1 # madame-luce
+v 1 1 # marote
+v 2 0 # monsieur-menandre
+v 3 0 # monsieur-duverger
+v 4 0 # monsieur-alidor
+v 5 0 # monsieur-floridor
+v 6 1 # mademoiselle-de-l-etoile
+v 7 0 # le-marquis
+v 8 0 # monsieur-de-l-etoile
+v 9 0 # monsieur-damis
+v 10 0 # le-baron
+e 0 1 3
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 1
+e 1 2 2
+e 1 3 2
+e 1 6 1
+e 1 5 1
+e 2 3 2
+e 2 5 1
+e 3 4 2
+e 3 7 1
+e 3 5 2
+e 3 8 1
+e 3 9 1
+e 3 6 1
+e 4 7 1
+e 5 7 2
+e 5 10 2
+e 5 8 3
+e 5 6 2
+e 5 9 2
+e 6 7 1
+e 6 10 1
+e 6 8 2
+e 6 9 2
+e 7 10 2
+e 7 8 2
+e 8 10 2
+e 8 9 2
+t # 179
+v 0 2 # monsieur-patelin
+v 1 1 # madame-patelin
+v 2 1 # colette
+v 3 0 # monsieur-guillaume
+v 4 2 # monsieur-bartolin
+v 5 0 # agnelet
+v 6 0 # valere
+v 7 1 # henriette
+v 8 2 # le-paysan
+e 0 1 2
+e 0 2 3
+e 0 3 3
+e 0 4 3
+e 0 5 2
+e 0 6 2
+e 0 7 1
+e 0 8 1
+e 1 2 1
+e 1 3 2
+e 2 7 2
+e 2 5 2
+e 2 6 2
+e 2 4 2
+e 2 3 1
+e 3 6 2
+e 3 5 2
+e 3 4 2
+e 3 7 1
+e 3 8 1
+e 4 6 2
+e 4 5 2
+e 4 7 1
+e 4 8 1
+e 5 6 2
+e 5 7 1
+e 5 8 1
+e 6 7 2
+e 6 8 1
+t # 180
+v 0 1 # madame-de-ponteran
+v 1 1 # javote
+v 2 1 # mariane
+v 3 2 # monsieur-courtinet-pere
+v 4 0 # monsieur-courtinet-fils
+v 5 0 # monsieur-martinet
+v 6 0 # l-epine
+v 7 0 # la-motte
+v 8 2 # le-notaire
+v 9 0 # clitandre
+v 10 0 # jonquille
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 0 7 2
+e 0 8 2
+e 0 9 1
+e 1 2 3
+e 1 6 2
+e 1 9 2
+e 1 7 2
+e 1 10 1
+e 1 3 2
+e 1 4 2
+e 1 5 1
+e 1 8 1
+e 2 6 2
+e 2 9 2
+e 2 7 2
+e 2 10 1
+e 2 3 1
+e 2 4 1
+e 3 6 1
+e 3 7 1
+e 3 4 2
+e 3 5 2
+e 4 6 1
+e 4 7 1
+e 4 5 1
+e 5 6 1
+e 5 7 1
+e 6 9 2
+e 6 7 2
+e 6 10 1
+e 6 8 1
+e 7 9 2
+e 7 10 1
+e 7 8 1
+e 8 9 1
+e 9 10 1
+t # 181
+v 0 2 # corneille
+v 1 2 # thomas
+v 2 0 # mademoiselle-corneille
+v 3 0 # madame-corneille
+v 4 0 # moliere
+v 5 0 # fontenelle
+v 6 0 # valere
+v 7 2 # boileau
+v 8 0 # racine
+v 9 0 # la-fontaine
+v 10 2 # le-page
+e 0 1 3
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 2
+e 0 7 2
+e 0 8 2
+e 0 9 2
+e 0 10 1
+e 1 2 2
+e 1 3 2
+e 1 4 2
+e 1 5 2
+e 1 6 2
+e 1 7 2
+e 1 8 2
+e 1 9 2
+e 1 10 1
+e 2 3 2
+e 2 4 2
+e 2 5 1
+e 2 6 1
+e 3 4 2
+e 3 5 1
+e 3 10 1
+e 3 8 1
+e 3 7 1
+e 3 9 1
+e 4 5 2
+e 4 6 1
+e 4 7 2
+e 4 8 2
+e 4 9 2
+e 4 10 1
+e 5 6 2
+e 7 8 2
+e 7 9 2
+e 7 10 1
+e 8 9 2
+e 8 10 1
+e 9 10 1
+t # 182
+v 0 2 # madame-d-aigrefeuille
+v 1 0 # joseph
+v 2 2 # berthe
+v 3 2 # gontran
+e 0 1 3
+e 0 2 3
+e 0 3 2
+e 1 2 2
+e 1 3 2
+e 2 3 2
+t # 183
+v 0 0 # durand
+v 1 0 # clermon
+v 2 0 # philemon
+v 3 1 # constance
+v 4 0 # marton
+v 5 0 # le-chevalier
+v 6 0 # polidor
+v 7 2 # madame-florimon
+v 8 2 # florimon
+v 9 0 # la-pierre
+v 10 2 # le-notaire
+e 0 1 3
+e 0 2 3
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 1 4 2
+e 1 6 3
+e 1 2 2
+e 1 7 1
+e 1 5 2
+e 1 3 2
+e 1 8 1
+e 2 4 2
+e 2 9 1
+e 2 5 2
+e 2 7 1
+e 2 6 3
+e 2 3 2
+e 3 4 3
+e 3 8 1
+e 3 5 3
+e 3 6 3
+e 3 7 1
+e 3 10 1
+e 4 5 3
+e 4 8 2
+e 4 6 2
+e 4 7 1
+e 5 8 2
+e 5 7 2
+e 5 6 2
+e 5 10 1
+e 6 8 2
+e 6 7 2
+e 6 10 1
+e 7 8 2
+e 8 9 1
+t # 184
+v 0 0 # oedipe
+v 1 0 # zaïre
+v 2 0 # alzire
+v 3 0 # artemire
+v 4 2 # herode
+v 5 2 # mariamne
+v 6 0 # brutus
+v 7 0 # eriphile
+v 8 0 # la-mort-de-cesar
+v 9 0 # mahomet
+v 10 0 # merope
+v 11 0 # semiramis
+v 12 0 # le-duc-de-foix
+v 13 0 # rome-sauvee
+v 14 0 # l-orphelin-de-la-chine
+v 15 0 # tancrede
+v 16 2 # toutes-les-tragedies
+e 0 1 3
+e 0 2 3
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 3
+e 0 7 2
+e 0 8 3
+e 0 9 3
+e 0 10 3
+e 0 11 3
+e 0 12 2
+e 0 13 2
+e 0 14 2
+e 0 15 2
+e 0 16 2
+e 1 2 3
+e 1 3 2
+e 1 4 2
+e 1 5 2
+e 1 6 3
+e 1 7 2
+e 1 12 2
+e 1 13 2
+e 1 14 2
+e 1 11 3
+e 1 10 3
+e 1 9 2
+e 1 8 2
+e 1 15 2
+e 1 16 2
+e 2 3 2
+e 2 4 2
+e 2 5 2
+e 2 6 2
+e 2 7 2
+e 2 12 2
+e 2 13 2
+e 2 14 2
+e 2 11 2
+e 2 10 2
+e 2 9 2
+e 2 8 2
+e 2 15 2
+e 2 16 1
+e 3 4 2
+e 3 5 2
+e 3 6 2
+e 3 7 2
+e 3 12 1
+e 3 13 1
+e 3 14 2
+e 3 11 2
+e 3 10 2
+e 3 9 2
+e 3 8 2
+e 3 15 1
+e 4 5 2
+e 4 6 2
+e 4 7 2
+e 4 12 2
+e 4 13 2
+e 4 14 2
+e 4 11 2
+e 4 10 2
+e 4 9 2
+e 4 8 2
+e 4 15 2
+e 4 16 1
+e 5 6 2
+e 5 7 2
+e 5 12 2
+e 5 13 2
+e 5 14 2
+e 5 11 2
+e 5 10 2
+e 5 9 2
+e 5 8 2
+e 5 15 2
+e 5 16 1
+e 6 7 2
+e 6 8 2
+e 6 9 2
+e 6 10 3
+e 6 11 3
+e 6 12 2
+e 6 13 2
+e 6 14 2
+e 6 15 2
+e 6 16 2
+e 7 12 1
+e 7 13 1
+e 7 14 2
+e 7 11 2
+e 7 10 2
+e 7 9 2
+e 7 8 2
+e 7 15 1
+e 8 9 3
+e 8 10 3
+e 8 11 3
+e 8 12 2
+e 8 13 2
+e 8 14 2
+e 8 15 2
+e 8 16 1
+e 9 10 3
+e 9 11 3
+e 9 12 2
+e 9 13 2
+e 9 14 2
+e 9 15 2
+e 9 16 1
+e 10 11 3
+e 10 12 2
+e 10 13 2
+e 10 14 2
+e 10 15 2
+e 10 16 2
+e 11 12 2
+e 11 13 2
+e 11 14 2
+e 11 15 2
+e 11 16 2
+e 12 13 2
+e 12 14 2
+e 12 15 2
+e 12 16 1
+e 13 14 2
+e 13 15 1
+e 13 16 1
+e 14 15 2
+e 14 16 2
+e 15 16 2
+t # 185
+v 0 0 # clearque
+v 1 0 # proxenes
+v 2 0 # pharnabaze
+v 3 0 # alcibiade
+v 4 1 # amestris
+v 5 1 # theone
+v 6 1 # hypparette
+v 7 0 # callias
+v 8 0 # megabyse
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 0 7 1
+e 1 2 1
+e 1 3 2
+e 1 6 2
+e 1 7 2
+e 1 8 1
+e 1 4 1
+e 2 4 2
+e 2 3 2
+e 2 8 2
+e 2 6 1
+e 3 4 2
+e 3 5 2
+e 3 8 2
+e 3 7 2
+e 3 6 3
+e 4 5 3
+e 4 7 2
+e 4 6 2
+e 5 7 1
+e 5 6 1
+e 6 8 1
+e 6 7 2
+t # 186
+v 0 1 # julie
+v 1 1 # valerie
+v 2 0 # sergeste
+v 3 0 # marcellin
+v 4 0 # diocletien
+v 5 2 # sebaste
+v 6 0 # adrien
+e 0 1 3
+e 0 2 1
+e 0 3 1
+e 0 4 1
+e 1 4 3
+e 1 5 1
+e 1 3 2
+e 1 2 2
+e 1 6 3
+e 2 4 2
+e 2 6 1
+e 3 4 2
+e 3 6 2
+e 4 6 2
+t # 187
+v 0 1 # eudoxe
+v 1 1 # flavie
+v 2 0 # valentinian
+v 3 0 # aetius
+v 4 0 # maxime
+v 5 0 # flavian
+v 6 0 # leon
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 2 3 2
+e 2 4 2
+e 2 5 1
+e 3 4 2
+e 3 6 2
+e 4 5 2
+t # 188
+v 0 0 # pharnabaze
+v 1 0 # memnon
+v 2 0 # alcibiade
+v 3 1 # artemise
+v 4 0 # artaxerce
+v 5 1 # palmis
+v 6 0 # amintas
+v 7 1 # barsine
+v 8 1 # amestris
+e 0 1 1
+e 0 2 2
+e 0 3 1
+e 0 4 1
+e 0 5 2
+e 1 2 1
+e 1 4 1
+e 2 6 2
+e 2 4 2
+e 2 3 2
+e 2 5 2
+e 3 4 2
+e 3 7 1
+e 3 5 2
+e 4 5 1
+e 5 8 2
+t # 189
+v 0 0 # marcene
+v 1 0 # crispe
+v 2 0 # leon
+v 3 0 # l-empereur
+v 4 0 # aspar
+v 5 0 # andronic
+v 6 2 # marsene
+v 7 0 # leonce
+v 8 0 # martian
+v 9 1 # irene
+v 10 1 # eudoxe
+v 11 0 # gelas
+v 12 1 # narcee
+e 0 1 1
+e 0 2 2
+e 0 3 1
+e 2 3 1
+e 2 4 1
+e 3 5 2
+e 3 7 1
+e 3 9 2
+e 4 5 2
+e 4 9 1
+e 5 6 1
+e 5 7 2
+e 5 8 2
+e 5 9 1
+e 5 10 1
+e 5 11 1
+e 9 10 2
+e 9 12 1
+e 9 11 1
+t # 190
+v 0 0 # segeste
+v 1 0 # sunnon
+v 2 1 # ismenie
+v 3 0 # arminius
+v 4 0 # varus
+v 5 0 # sinorix
+v 6 0 # sigismond
+v 7 0 # tullus
+v 8 1 # polixene
+v 9 1 # barsine
+e 0 1 1
+e 0 2 2
+e 0 3 2
+e 0 4 3
+e 0 5 1
+e 0 6 2
+e 0 7 2
+e 1 8 1
+e 1 3 2
+e 1 6 1
+e 2 4 1
+e 2 9 2
+e 2 3 2
+e 2 6 2
+e 2 8 1
+e 2 7 1
+e 3 4 1
+e 3 8 1
+e 3 6 2
+e 4 7 2
+e 4 5 1
+e 4 6 2
+e 4 8 1
+e 6 9 1
+e 6 8 2
+e 6 7 1
+e 8 9 2
+t # 191
+v 0 0 # theocle
+v 1 0 # narbal
+v 2 1 # barce
+v 3 0 # juba
+v 4 1 # merope
+v 5 0 # petreius
+v 6 0 # oppius
+e 0 1 2
+e 0 2 2
+e 1 3 2
+e 1 2 2
+e 2 4 3
+e 2 3 3
+e 2 5 2
+e 3 4 1
+e 3 5 2
+e 3 6 1
+e 5 6 1
+t # 192
+v 0 1 # chrisis
+v 1 0 # licas
+v 2 1 # dione
+v 3 0 # agnonide
+v 4 1 # alcinous
+v 5 0 # phocion
+v 6 0 # cleon
+v 7 0 # clitus
+v 8 0 # arcas
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 3
+e 0 5 3
+e 0 6 1
+e 0 7 1
+e 1 4 2
+e 3 7 2
+e 3 5 1
+e 3 4 1
+e 4 7 1
+e 4 5 2
+e 4 8 2
+e 5 7 1
+e 5 6 2
+t # 193
+v 0 1 # philla
+v 1 1 # pompeia
+v 2 0 # messala
+v 3 2 # rufus
+v 4 2 # messalla
+v 5 1 # julie
+v 6 0 # albin
+v 7 0 # clodius
+v 8 1 # felix
+v 9 0 # tullus
+v 10 1 # plotine
+e 0 1 3
+e 0 2 1
+e 0 3 1
+e 0 4 1
+e 1 3 2
+e 1 5 2
+e 1 6 1
+e 1 7 2
+e 1 8 1
+e 1 2 2
+e 1 4 1
+e 2 3 1
+e 2 9 1
+e 2 7 1
+e 2 4 1
+e 3 5 1
+e 3 4 1
+e 5 6 2
+e 5 7 2
+e 5 8 1
+e 5 10 1
+e 7 8 2
+t # 194
+v 0 1 # negare
+v 1 1 # phenice
+v 2 0 # tachmas
+v 3 0 # soliman
+v 4 0 # lycan
+v 5 0 # ismaël
+e 0 1 1
+e 0 2 1
+e 0 3 1
+e 2 4 1
+e 3 4 1
+e 3 5 1
+t # 195
+v 0 0 # artaban
+v 1 0 # abradate
+v 2 0 # arsace
+v 3 0 # tiridate
+v 4 1 # erinice
+v 5 0 # mitrane
+v 6 1 # talestris
+v 7 1 # barsine
+v 8 0 # timagene
+v 9 1 # orasie
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 1 6 2
+e 1 4 1
+e 1 3 2
+e 1 2 1
+e 1 5 1
+e 2 6 2
+e 2 3 2
+e 2 8 1
+e 2 4 1
+e 2 5 2
+e 3 6 2
+e 3 5 2
+e 3 4 2
+e 3 8 1
+e 4 9 1
+e 5 6 2
+e 6 7 1
+t # 196
+v 0 0 # clodius
+v 1 0 # appius
+v 2 0 # fabian
+v 3 1 # plautie
+v 4 1 # virginie
+v 5 0 # pison
+v 6 0 # icile
+v 7 1 # fulvie
+v 8 0 # severe
+v 9 1 # camille
+e 0 1 3
+e 0 2 1
+e 0 3 2
+e 0 4 1
+e 0 5 1
+e 1 2 1
+e 1 3 2
+e 1 4 2
+e 1 6 1
+e 3 4 3
+e 3 7 1
+e 3 6 2
+e 3 8 2
+e 3 5 2
+e 3 9 1
+e 4 9 2
+e 4 6 2
+e 4 8 1
+e 4 5 1
+e 6 9 1
+e 6 8 1
+t # 197
+v 0 0 # gabriel
+v 1 1 # l-abbesse
+v 2 0 # seraphin
+v 3 2 # petronille
+v 4 2 # appoline
+v 5 2 # la-tourriere
+v 6 2 # eudalie
+v 7 1 # agnes
+v 8 0 # theotime
+v 9 1 # madame-dorval
+v 10 0 # nicolas
+v 11 2 # dorval
+v 12 0 # la-fleur
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 2
+e 0 6 2
+e 0 7 2
+e 0 8 2
+e 0 9 1
+e 1 2 2
+e 1 3 3
+e 1 4 2
+e 1 5 2
+e 1 6 3
+e 1 7 2
+e 1 8 2
+e 1 10 2
+e 1 11 2
+e 1 9 2
+e 2 3 2
+e 2 4 1
+e 2 5 2
+e 2 6 2
+e 2 7 2
+e 2 8 2
+e 2 9 1
+e 3 4 3
+e 3 5 2
+e 3 6 3
+e 3 7 2
+e 3 8 2
+e 3 10 1
+e 3 11 2
+e 3 9 2
+e 4 5 2
+e 4 6 2
+e 4 7 2
+e 4 8 2
+e 4 10 1
+e 4 11 2
+e 4 9 2
+e 5 6 2
+e 5 7 2
+e 5 8 2
+e 5 11 2
+e 5 9 2
+e 6 7 2
+e 6 8 2
+e 6 10 2
+e 6 11 2
+e 6 9 2
+e 7 8 3
+e 7 10 1
+e 7 11 2
+e 7 9 2
+e 8 10 1
+e 8 11 2
+e 8 9 2
+e 9 11 2
+e 10 11 1
+e 11 12 1
+t # 198
+v 0 1 # josephine
+v 1 1 # ariste
+v 2 0 # d-harcourt
+v 3 1 # epimenide
+v 4 1 # madame-brochure
+v 5 2 # dharcourt
+v 6 0 # crisante
+v 7 0 # nicolas
+v 8 2 # l-abbe
+v 9 2 # damon
+v 10 2 # un-tailleur
+v 11 2 # le-tailleur
+v 12 2 # le-procureur
+v 13 2 # le-notaire
+v 14 0 # cabriole
+v 15 0 # gorgi
+v 16 0 # fatras
+v 17 0 # rature
+e 0 1 2
+e 0 2 3
+e 0 3 3
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 0 7 2
+e 0 8 2
+e 0 9 1
+e 0 10 1
+e 0 11 1
+e 0 12 1
+e 0 13 1
+e 0 14 1
+e 0 15 1
+e 1 2 3
+e 1 3 3
+e 1 16 1
+e 1 5 2
+e 1 6 1
+e 1 7 2
+e 1 8 2
+e 1 14 2
+e 1 9 1
+e 1 4 2
+e 1 10 1
+e 1 11 1
+e 1 12 1
+e 1 13 1
+e 1 15 1
+e 2 15 2
+e 2 3 3
+e 2 4 2
+e 2 17 1
+e 2 16 1
+e 2 5 2
+e 2 6 1
+e 2 7 2
+e 2 8 2
+e 2 14 2
+e 2 9 1
+e 2 10 1
+e 2 11 1
+e 2 12 1
+e 2 13 1
+e 3 15 2
+e 3 4 2
+e 3 17 1
+e 3 16 1
+e 3 5 2
+e 3 6 1
+e 3 7 2
+e 3 8 2
+e 3 14 2
+e 3 9 1
+e 3 10 1
+e 3 11 1
+e 3 12 1
+e 3 13 1
+e 4 15 2
+e 4 9 1
+e 4 8 2
+e 4 10 1
+e 4 11 1
+e 4 12 1
+e 4 13 1
+e 4 7 1
+e 4 5 1
+e 4 14 1
+e 5 15 1
+e 5 6 1
+e 5 7 2
+e 5 10 1
+e 5 11 1
+e 5 12 1
+e 5 13 1
+e 5 14 1
+e 5 8 1
+e 6 7 1
+e 7 15 1
+e 7 10 1
+e 7 11 1
+e 7 12 1
+e 7 13 1
+e 7 14 1
+e 7 8 1
+e 8 15 1
+e 8 9 1
+e 8 10 1
+e 8 11 1
+e 8 12 1
+e 8 13 1
+e 8 14 1
+e 10 15 1
+e 10 14 1
+e 10 11 1
+e 10 12 1
+e 10 13 1
+e 11 15 1
+e 11 14 1
+e 11 12 1
+e 11 13 1
+e 12 15 1
+e 12 14 1
+e 12 13 1
+e 13 15 1
+e 13 14 1
+e 14 15 1
+t # 199
+v 0 1 # gabrielle
+v 1 1 # alice
+v 2 1 # marie
+v 3 1 # bonne-maman
+v 4 1 # madame-de-lucet
+v 5 1 # renee
+e 0 1 1
+e 0 2 1
+e 1 2 2
+e 1 3 1
+e 1 4 1
+e 1 5 1
+e 2 5 2
+e 2 4 2
+e 2 3 1
+e 3 5 2
+e 3 4 1
+e 4 5 2
+t # 200
+v 0 1 # mademoiselle-laure
+v 1 1 # nelly
+v 2 2 # les-jeunes-chinoises
+v 3 1 # mu-si-ka-li
+v 4 1 # ka-out-tchou
+v 5 2 # les-deux-chinoises
+v 6 1 # pat-tchou-li
+v 7 2 # une-chinoise
+v 8 2 # les-jeunes-filles
+e 0 1 3
+e 0 2 1
+e 0 3 1
+e 0 4 2
+e 0 5 1
+e 0 6 2
+e 0 7 1
+e 0 8 2
+e 1 4 2
+e 1 5 1
+e 1 6 2
+e 1 7 1
+e 1 8 2
+e 2 3 1
+e 4 5 1
+e 4 6 2
+t # 201
+v 0 0 # pierre
+v 1 2 # la-dame
+v 2 0 # andre
+e 0 1 2
+e 0 2 2
+e 1 2 2
+t # 202
+v 0 0 # roger
+v 1 0 # felix
+v 2 1 # bonne-maman
+v 3 2 # le-docteur
+v 4 2 # l-aide-de-droite
+v 5 2 # l-aide-de-gauche
+v 6 2 # l-un-des-aides
+v 7 2 # l-autre-aide
+v 8 1 # une-bonne
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 0 6 1
+e 0 7 1
+e 1 2 2
+e 1 8 1
+e 1 3 1
+e 1 4 1
+e 1 5 1
+e 1 6 1
+e 1 7 1
+e 2 8 1
+e 2 3 1
+e 2 4 1
+e 2 5 1
+e 2 6 1
+e 2 7 1
+e 3 4 1
+e 3 5 1
+e 3 6 1
+e 3 7 1
+e 4 5 1
+e 4 6 1
+e 4 7 1
+e 5 6 1
+e 5 7 1
+e 6 7 1
+t # 203
+v 0 2 # l-oranger
+v 1 2 # les-fleurs
+v 2 2 # le-bluet
+v 3 2 # la-paquerette
+v 4 2 # le-myosotis
+v 5 2 # la-pensee
+v 6 2 # le-cyclamen
+v 7 2 # la-violette
+v 8 2 # l-eglantine
+v 9 2 # la-marguerite
+v 10 2 # l-oeillet
+v 11 2 # la-giroflee
+v 12 2 # le-liseron
+v 13 2 # le-coquelicot
+v 14 2 # l-aubepine
+v 15 2 # la-rose
+v 16 2 # le-printemps
+v 17 2 # monsieur-printemps
+v 18 2 # le-papillon
+v 19 2 # le-rossignol
+v 20 2 # le-zephir
+v 21 2 # la-rosee
+v 22 2 # le-ver-luisant
+e 0 1 1
+e 0 2 1
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 0 6 1
+e 0 7 1
+e 0 8 1
+e 0 9 1
+e 0 10 1
+e 0 11 1
+e 0 12 1
+e 0 13 1
+e 0 14 2
+e 0 15 1
+e 0 16 1
+e 1 2 1
+e 1 3 1
+e 1 4 1
+e 1 5 1
+e 1 6 1
+e 1 7 1
+e 1 8 1
+e 1 9 1
+e 1 10 1
+e 1 11 1
+e 1 12 1
+e 1 13 1
+e 1 14 1
+e 1 17 1
+e 1 15 1
+e 1 18 1
+e 1 16 1
+e 1 19 1
+e 1 20 1
+e 1 21 1
+e 1 22 1
+e 2 3 1
+e 2 4 1
+e 2 5 1
+e 2 6 1
+e 2 7 1
+e 2 8 1
+e 2 9 1
+e 2 10 1
+e 2 11 1
+e 2 12 1
+e 2 13 1
+e 2 14 1
+e 3 4 1
+e 3 5 1
+e 3 6 1
+e 3 7 1
+e 3 8 1
+e 3 9 1
+e 3 10 1
+e 3 11 1
+e 3 12 1
+e 3 13 1
+e 3 14 1
+e 4 5 1
+e 4 6 1
+e 4 7 1
+e 4 8 1
+e 4 9 1
+e 4 10 1
+e 4 11 1
+e 4 12 1
+e 4 13 1
+e 4 14 1
+e 5 6 1
+e 5 7 1
+e 5 8 1
+e 5 9 1
+e 5 10 1
+e 5 11 1
+e 5 12 1
+e 5 13 1
+e 5 14 1
+e 6 7 1
+e 6 8 1
+e 6 9 1
+e 6 10 1
+e 6 11 1
+e 6 12 1
+e 6 13 1
+e 6 14 1
+e 7 8 1
+e 7 9 1
+e 7 10 1
+e 7 11 1
+e 7 12 1
+e 7 13 1
+e 7 14 1
+e 8 9 1
+e 8 10 1
+e 8 11 1
+e 8 12 1
+e 8 13 1
+e 8 14 1
+e 8 15 1
+e 8 18 1
+e 9 10 1
+e 9 11 1
+e 9 12 1
+e 9 13 1
+e 9 14 1
+e 9 18 1
+e 9 15 1
+e 10 11 1
+e 10 12 1
+e 10 13 1
+e 10 14 1
+e 11 12 1
+e 11 13 1
+e 11 14 1
+e 12 13 1
+e 12 14 1
+e 13 14 1
+e 14 15 1
+e 14 16 1
+e 15 17 2
+e 15 18 2
+e 15 16 2
+e 15 19 1
+e 15 20 1
+e 15 21 1
+e 15 22 1
+e 16 17 1
+e 16 18 1
+e 16 19 1
+e 16 20 1
+e 16 21 1
+e 16 22 1
+e 17 18 2
+e 17 19 1
+e 17 20 1
+e 17 21 1
+e 17 22 1
+e 18 19 1
+e 18 20 1
+e 18 21 1
+e 18 22 1
+e 19 20 1
+e 19 21 1
+e 19 22 1
+e 20 21 1
+e 20 22 1
+e 21 22 1
+t # 204
+v 0 0 # georges
+v 1 0 # marcel
+v 2 0 # albert
+v 3 1 # lucienne
+v 4 2 # le-directeur
+v 5 2 # jean
+v 6 0 # monsieur-constant
+e 0 1 2
+e 0 2 1
+e 0 3 2
+e 0 4 1
+e 0 5 1
+e 0 6 1
+e 1 2 1
+e 1 4 1
+e 1 5 1
+e 1 6 1
+e 1 3 1
+e 3 4 1
+e 3 5 1
+e 3 6 1
+e 4 5 1
+e 4 6 1
+e 5 6 1
+t # 205
+v 0 1 # berthe
+v 1 1 # blanche
+v 2 1 # jeanne
+v 3 1 # amelie
+v 4 1 # antoinette
+v 5 2 # les-jeunes-filles
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 1
+e 1 2 2
+e 1 3 2
+e 1 4 1
+e 1 5 1
+e 2 4 1
+e 2 3 2
+e 2 5 1
+e 3 4 1
+e 3 5 1
+e 4 5 1
+t # 206
+v 0 1 # gilberte
+v 1 1 # lucie
+v 2 0 # paul
+v 3 0 # etienne
+v 4 1 # la-femme-de-chambre
+e 0 1 1
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 2 3 2
+e 2 4 2
+t # 207
+v 0 1 # helene
+v 1 0 # gustave
+e 0 1 2
+t # 208
+v 0 0 # louis
+v 1 1 # isabelle
+e 0 1 2
+t # 209
+v 0 1 # rosette
+v 1 1 # rose
+v 2 1 # madame-de-lancy
+e 0 1 1
+e 0 2 1
+e 1 2 1
+t # 210
+v 0 0 # charles
+v 1 0 # alfred
+v 2 0 # francis
+v 3 0 # robert
+v 4 0 # louis
+v 5 0 # clement
+v 6 2 # le-maitre-d-etudes
+v 7 2 # rolland
+v 8 2 # rorert
+e 0 1 2
+e 0 2 1
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 0 6 1
+e 1 4 2
+e 1 5 2
+e 1 3 2
+e 1 7 1
+e 1 2 2
+e 1 8 1
+e 1 6 1
+e 2 4 2
+e 2 5 2
+e 2 3 2
+e 2 8 1
+e 2 6 1
+e 3 4 2
+e 3 5 2
+e 3 8 1
+e 3 6 1
+e 4 5 2
+e 4 8 1
+e 4 6 1
+e 5 8 1
+e 5 6 1
+t # 211
+v 0 0 # monsieur-de-saint-ival
+v 1 0 # labrie
+v 2 0 # monsieur-de-leurmont
+v 3 0 # laurent
+v 4 1 # mademoiselle-agathe
+v 5 0 # monsieur-l-echalas
+v 6 0 # monsieur-de-saint-ival-pere
+v 7 0 # le-commissaire
+v 8 2 # un-archer
+e 0 1 3
+e 0 2 2
+e 0 3 1
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 0 7 1
+e 1 5 2
+e 1 7 1
+e 1 2 2
+e 1 6 2
+e 1 4 1
+e 2 3 2
+e 2 4 2
+e 2 6 2
+e 2 8 1
+e 2 7 2
+e 2 5 2
+e 3 4 1
+e 3 5 1
+e 4 6 1
+e 5 7 1
+e 7 8 1
+t # 212
+v 0 1 # madame-du-fresnel
+v 1 2 # irene
+v 2 2 # dupuy
+v 3 2 # de-clairvaux
+v 4 2 # un-domestique
+v 5 2 # duplessis
+v 6 2 # leo
+e 0 1 3
+e 0 2 3
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 1 2 3
+e 1 6 2
+e 1 5 2
+e 1 4 2
+e 1 3 2
+e 2 6 2
+e 2 3 2
+e 2 4 2
+e 2 5 2
+e 3 6 1
+e 3 5 1
+e 3 4 1
+e 5 6 1
+t # 213
+v 0 2 # la-comtesse
+v 1 2 # le-comte
+e 0 1 2
+t # 214
+v 0 2 # claire
+v 1 2 # le-comte
+v 2 2 # helena
+v 3 2 # durand
+v 4 2 # leon
+v 5 0 # le-magistrat
+e 0 1 2
+e 0 2 3
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 1 2 2
+e 1 4 1
+e 1 3 1
+e 2 4 2
+e 2 5 1
+e 2 3 2
+e 3 4 1
+e 4 5 1
+t # 215
+v 0 2 # marthe
+v 1 0 # pierre
+v 2 2 # raphaël
+e 0 1 3
+e 0 2 2
+e 1 2 2
+t # 216
+v 0 0 # pierre
+v 1 0 # joseph
+v 2 2 # gontran
+v 3 2 # blanche
+v 4 0 # un-employe
+v 5 2 # le-comte
+v 6 2 # le-surveillant
+v 7 1 # madame-de-mora
+e 0 1 3
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 2
+e 0 6 1
+e 0 7 1
+e 1 2 2
+e 1 3 2
+e 1 4 1
+e 1 7 2
+e 1 5 2
+e 1 6 1
+e 2 3 3
+e 2 4 1
+e 2 7 2
+e 2 5 1
+e 3 4 1
+e 3 7 2
+e 3 5 1
+e 5 6 1
+e 5 7 2
+e 6 7 1
+t # 217
+v 0 0 # parnassot
+v 1 0 # sauvelarime
+v 2 0 # la-cesure
+v 3 2 # l-etranger
+v 4 2 # l-imperatif
+v 5 2 # le-perruquier
+v 6 0 # pinceserre
+v 7 2 # plusieurs-particuliers
+v 8 0 # durimet
+v 9 0 # songecreux
+v 10 2 # le-tailleur
+v 11 2 # un-creancier
+v 12 2 # un-autre-creancier
+v 13 0 # limedouce
+v 14 2 # l-adepte
+v 15 0 # guillemet
+v 16 2 # l-auteur-tragique
+v 17 2 # l-exempt
+v 18 2 # un-acteur
+v 19 2 # plusieurs-auteurs
+v 20 2 # le-musicien
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 2
+e 0 7 1
+e 0 8 2
+e 0 9 1
+e 0 10 1
+e 0 11 1
+e 0 12 1
+e 0 13 1
+e 0 14 1
+e 0 15 1
+e 0 16 1
+e 0 17 1
+e 0 18 1
+e 1 2 2
+e 1 3 2
+e 1 13 1
+e 1 6 1
+e 1 8 1
+e 1 4 1
+e 1 14 1
+e 1 15 1
+e 1 16 1
+e 2 13 1
+e 2 6 1
+e 2 8 1
+e 2 4 1
+e 2 14 1
+e 2 15 1
+e 2 16 1
+e 2 3 1
+e 3 4 2
+e 3 15 2
+e 3 9 1
+e 3 19 1
+e 3 8 2
+e 3 6 2
+e 3 13 1
+e 3 14 1
+e 3 16 1
+e 4 15 2
+e 4 9 1
+e 4 19 1
+e 4 8 2
+e 4 6 2
+e 4 20 1
+e 4 13 1
+e 4 14 1
+e 4 16 1
+e 5 9 1
+e 5 8 1
+e 5 6 1
+e 5 7 1
+e 5 10 1
+e 5 11 1
+e 5 12 1
+e 6 15 2
+e 6 9 2
+e 6 19 1
+e 6 8 2
+e 6 20 1
+e 6 7 1
+e 6 10 1
+e 6 11 1
+e 6 12 1
+e 6 13 1
+e 6 14 1
+e 6 16 1
+e 7 9 1
+e 7 8 1
+e 7 10 1
+e 7 11 1
+e 7 12 1
+e 8 15 2
+e 8 9 2
+e 8 19 1
+e 8 20 1
+e 8 10 1
+e 8 11 1
+e 8 12 1
+e 8 13 1
+e 8 14 1
+e 8 16 1
+e 9 15 1
+e 9 19 1
+e 9 10 1
+e 9 11 1
+e 9 12 1
+e 10 11 1
+e 10 12 1
+e 11 12 1
+e 13 15 1
+e 13 14 1
+e 13 16 1
+e 14 15 1
+e 14 16 1
+e 15 19 1
+e 15 16 1
+e 17 18 1
+t # 218
+v 0 0 # gleboff
+v 1 0 # foedor
+v 2 0 # boris
+v 3 0 # orloff
+v 4 0 # alexis
+v 5 2 # pierre
+v 6 0 # catherine
+v 7 0 # menzikoff
+v 8 0 # lefort
+v 9 0 # hermann
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 3
+e 0 5 1
+e 0 6 1
+e 0 7 1
+e 1 4 2
+e 1 2 1
+e 1 3 1
+e 2 3 2
+e 2 4 2
+e 2 5 2
+e 2 8 1
+e 2 9 1
+e 2 6 1
+e 3 4 2
+e 4 8 1
+e 4 7 2
+e 4 5 2
+e 4 6 1
+e 4 9 1
+e 5 8 2
+e 5 7 2
+e 5 6 2
+e 5 9 2
+e 6 8 2
+e 7 8 2
+t # 219
+v 0 0 # monsieur-gripigni
+v 1 1 # madame-amboisel
+v 2 1 # manon
+v 3 0 # monsieur-coquinon
+v 4 1 # madame-merlet
+v 5 1 # marianne
+v 6 1 # goton
+v 7 0 # monsieur-friponneau
+v 8 0 # la-jeunesse
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 1 2 2
+e 1 4 1
+e 1 5 1
+e 1 6 1
+e 1 7 2
+e 1 8 1
+e 1 3 2
+e 4 5 1
+e 7 8 1
+t # 220
+v 0 1 # margot
+v 1 1 # la-despres
+v 2 2 # despres
+v 3 0 # valentin
+v 4 1 # madame-dru
+v 5 0 # tonton
+v 6 2 # le-commissaire
+v 7 0 # valere
+v 8 2 # beau-soleil
+v 9 0 # bel-air
+v 10 1 # fanchon
+v 11 2 # la-poirier
+v 12 0 # clitandre
+v 13 2 # bras-de-fer
+v 14 2 # la-fileuse
+v 15 1 # isabelle
+e 0 1 1
+e 0 2 1
+e 0 3 2
+e 0 4 2
+e 1 2 1
+e 1 3 2
+e 1 5 2
+e 1 6 1
+e 1 7 1
+e 1 4 1
+e 1 8 1
+e 1 9 1
+e 1 10 1
+e 1 11 1
+e 3 4 3
+e 3 7 3
+e 3 12 2
+e 3 11 2
+e 3 9 2
+e 3 5 2
+e 3 6 2
+e 3 8 1
+e 3 10 1
+e 3 13 1
+e 3 14 1
+e 4 7 2
+e 4 9 2
+e 4 11 2
+e 4 5 2
+e 4 6 2
+e 4 8 1
+e 4 10 1
+e 4 13 1
+e 4 14 1
+e 5 7 2
+e 5 11 2
+e 5 10 1
+e 5 9 1
+e 5 15 1
+e 5 6 1
+e 5 8 1
+e 6 7 2
+e 6 11 1
+e 6 10 1
+e 6 9 1
+e 6 8 1
+e 6 13 1
+e 6 14 1
+e 7 11 2
+e 7 10 2
+e 7 12 2
+e 7 8 1
+e 7 9 1
+e 7 13 1
+e 7 14 1
+e 8 11 1
+e 8 10 1
+e 8 9 1
+e 9 11 1
+e 9 10 1
+e 10 11 2
+e 10 12 2
+e 11 12 1
+e 12 15 1
+e 13 14 1
+t # 221
+v 0 1 # victorine
+v 1 2 # voix-d-homme
+v 2 0 # joseph
+v 3 1 # clemence
+v 4 0 # edgard
+e 0 1 1
+e 0 2 3
+e 0 3 3
+e 0 4 2
+e 1 2 1
+e 1 3 1
+e 2 3 3
+e 2 4 3
+e 3 4 3
+t # 222
+v 0 0 # eraste
+v 1 0 # frontin
+v 2 1 # lisette
+v 3 0 # mondor
+v 4 1 # lucinde
+e 0 1 2
+e 0 2 3
+e 0 3 2
+e 0 4 3
+e 1 2 2
+e 1 4 2
+e 1 3 2
+e 2 3 3
+e 2 4 2
+e 3 4 3
+t # 223
+v 0 1 # elise
+v 1 1 # eudoxie
+v 2 0 # arbate
+v 3 0 # aspar
+v 4 0 # maxime
+v 5 2 # flavus
+v 6 0 # gontharis
+v 7 0 # leonce
+v 8 0 # adonal
+e 0 1 3
+e 1 2 1
+e 1 3 2
+e 1 4 3
+e 1 5 1
+e 1 6 2
+e 1 7 2
+e 3 4 2
+e 3 7 1
+e 4 5 1
+e 6 8 1
+e 6 7 1
+t # 224
+v 0 0 # le-comte
+v 1 1 # hortense
+v 2 0 # cleonte
+v 3 2 # le-marquis
+v 4 2 # aurelie
+v 5 2 # le-duc
+v 6 2 # le-baron
+v 7 0 # davon
+v 8 1 # lise
+v 9 2 # le-valet-de-chambre
+v 10 0 # blondel
+v 11 0 # dimanche
+v 12 0 # stemmate
+v 13 0 # clenard
+v 14 2 # le-suisse
+v 15 2 # le-maitre-d-hotel
+e 0 1 2
+e 0 2 2
+e 0 3 3
+e 0 4 3
+e 0 5 2
+e 0 6 1
+e 0 7 2
+e 1 4 1
+e 1 7 1
+e 1 3 1
+e 2 3 2
+e 2 4 2
+e 2 5 1
+e 2 7 1
+e 3 4 3
+e 3 9 2
+e 3 7 3
+e 3 14 1
+e 3 5 3
+e 3 12 1
+e 3 13 1
+e 3 6 2
+e 3 15 1
+e 3 11 1
+e 4 8 1
+e 4 9 1
+e 4 10 1
+e 4 5 2
+e 4 6 2
+e 4 11 1
+e 4 7 1
+e 5 9 2
+e 5 7 2
+e 5 12 1
+e 5 13 2
+e 6 7 1
+e 6 11 1
+e 9 10 1
+e 9 12 1
+e 9 13 1
+e 12 13 1
+t # 225
+v 0 1 # medee
+v 1 1 # nerine
+v 2 0 # aetes
+v 3 0 # jason
+v 4 2 # orphee
+v 5 2 # choeur
+v 6 0 # idamas
+v 7 1 # venus
+v 8 0 # pollux
+e 0 1 1
+e 0 2 2
+e 0 3 3
+e 0 4 1
+e 0 5 2
+e 0 6 1
+e 2 3 2
+e 2 4 1
+e 2 5 2
+e 3 4 1
+e 3 5 2
+e 3 6 1
+e 3 7 1
+e 5 8 1
+e 5 6 1
+e 5 7 1
+e 6 8 1
+t # 226
+v 0 0 # mylford
+v 1 0 # belton
+v 2 1 # betti
+v 3 0 # mowbrai
+v 4 2 # le-notaire
+v 5 0 # john
+e 0 1 2
+e 0 2 2
+e 1 3 2
+e 1 2 2
+e 1 4 1
+e 2 3 2
+e 2 5 1
+e 2 4 1
+e 3 5 1
+e 3 4 1
+t # 227
+v 0 0 # osman
+v 1 1 # roxelane
+v 2 0 # soliman
+v 3 2 # le-prince
+v 4 0 # zeangir
+v 5 1 # azemire
+v 6 0 # achmet
+v 7 1 # felime
+v 8 0 # ali
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 1 4 2
+e 1 2 2
+e 1 3 2
+e 2 4 2
+e 2 3 2
+e 2 8 1
+e 3 4 3
+e 3 5 2
+e 3 6 2
+e 4 5 2
+e 4 6 1
+e 5 7 1
+e 5 6 1
+t # 228
+v 0 0 # bertrand
+v 1 1 # lucinde
+v 2 1 # perrette
+v 3 2 # thibaud
+v 4 0 # josselin
+v 5 0 # anselme
+v 6 0 # lelie
+v 7 2 # tobie
+v 8 2 # griffon
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 3
+e 0 5 2
+e 0 6 2
+e 0 7 1
+e 1 2 3
+e 1 3 2
+e 1 4 2
+e 1 6 2
+e 1 8 1
+e 1 7 2
+e 1 5 2
+e 2 3 2
+e 2 6 2
+e 2 4 3
+e 2 8 1
+e 2 7 2
+e 2 5 2
+e 3 4 2
+e 3 5 2
+e 3 8 1
+e 3 7 2
+e 3 6 1
+e 4 5 3
+e 4 6 2
+e 4 8 1
+e 4 7 2
+e 5 6 2
+e 5 8 1
+e 5 7 2
+e 6 7 1
+e 7 8 1
+t # 229
+v 0 0 # lignon
+v 1 0 # jourdain
+v 2 1 # charlotte
+v 3 0 # pierrot
+v 4 0 # gusman
+v 5 0 # don-juan
+v 6 0 # le-juge
+v 7 0 # silvestre
+v 8 0 # monsieur-dimanche
+e 0 1 2
+e 0 2 1
+e 1 2 1
+e 2 3 2
+e 2 4 2
+e 2 5 2
+e 2 6 1
+e 3 5 1
+e 3 4 2
+e 4 5 2
+e 4 6 2
+e 4 7 1
+e 4 8 1
+e 5 8 1
+e 6 7 1
+t # 230
+v 0 0 # ulysse
+v 1 0 # arlangin
+v 2 0 # panarete
+v 3 0 # floridan
+v 4 1 # pallas
+v 5 0 # eumee
+v 6 0 # philete
+v 7 1 # penelope
+v 8 0 # telemaque
+v 9 0 # telegon
+v 10 0 # laerte
+v 11 2 # le-messager
+e 0 1 1
+e 0 2 1
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 0 6 1
+e 0 7 1
+e 0 8 2
+e 0 9 1
+e 1 2 1
+e 1 3 1
+e 2 3 1
+e 5 8 1
+e 5 6 2
+e 6 8 1
+e 7 10 1
+e 7 11 1
+e 8 9 2
+t # 231
+v 0 2 # gontran
+v 1 0 # baptiste
+e 0 1 1
+t # 232
+v 0 0 # chapelle
+v 1 2 # un-seigneur
+v 2 1 # ninon
+v 3 2 # tous
+v 4 0 # un-valet
+v 5 0 # corneille
+v 6 0 # la-fontaine
+v 7 0 # boileau
+v 8 0 # racine
+v 9 0 # saint-alban
+v 10 0 # moliere
+v 11 1 # laforet
+v 12 0 # le-prince
+v 13 0 # un-page
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 1
+e 0 5 2
+e 0 6 2
+e 0 7 2
+e 0 8 1
+e 0 9 1
+e 0 10 1
+e 0 11 1
+e 0 12 1
+e 1 2 2
+e 1 3 2
+e 1 4 1
+e 1 13 1
+e 1 9 1
+e 1 10 1
+e 1 12 1
+e 1 5 1
+e 1 11 1
+e 2 3 2
+e 2 4 2
+e 2 9 2
+e 2 11 2
+e 2 10 2
+e 2 5 2
+e 2 6 2
+e 2 7 2
+e 2 8 2
+e 2 12 2
+e 2 13 1
+e 3 4 2
+e 3 12 2
+e 3 11 2
+e 3 5 2
+e 3 8 1
+e 3 13 1
+e 3 9 1
+e 3 10 1
+e 4 12 2
+e 4 11 2
+e 4 5 2
+e 4 8 1
+e 4 13 1
+e 4 9 1
+e 4 10 1
+e 5 9 2
+e 5 11 2
+e 5 10 2
+e 5 6 2
+e 5 7 2
+e 5 8 2
+e 5 12 2
+e 5 13 1
+e 6 9 1
+e 6 11 1
+e 6 10 1
+e 6 7 2
+e 6 8 1
+e 6 12 1
+e 7 9 1
+e 7 11 1
+e 7 10 1
+e 7 8 1
+e 7 12 1
+e 8 11 1
+e 8 12 1
+e 9 11 2
+e 9 10 2
+e 9 12 2
+e 9 13 1
+e 10 11 3
+e 10 12 2
+e 10 13 1
+e 11 12 2
+e 11 13 1
+e 12 13 1
+t # 233
+v 0 2 # l-amiral
+v 1 2 # le-chancelier
+v 2 2 # le-roi-de-navarre
+v 3 2 # la-reine-mere
+v 4 2 # le-roi-de-france
+v 5 2 # le-duc
+v 6 2 # le-cardinal
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 1 2 2
+e 1 6 2
+e 1 4 2
+e 1 3 2
+e 1 5 2
+e 2 4 1
+e 2 3 2
+e 2 5 2
+e 2 6 1
+e 3 4 3
+e 3 6 3
+e 3 5 3
+e 4 6 3
+e 4 5 2
+e 5 6 3
+t # 234
+v 0 0 # marton
+v 1 1 # julie
+v 2 0 # florville
+v 3 0 # valsain
+v 4 0 # gercour
+v 5 0 # sudmer
+v 6 0 # lafleur
+v 7 1 # madame-gercour
+v 8 2 # le-laquais
+e 0 1 2
+e 0 2 2
+e 0 3 3
+e 0 4 3
+e 0 5 3
+e 1 3 2
+e 1 4 1
+e 1 5 1
+e 1 2 1
+e 2 3 3
+e 2 5 2
+e 2 4 2
+e 2 6 1
+e 3 4 3
+e 3 7 2
+e 3 8 1
+e 3 6 2
+e 3 5 2
+e 4 5 2
+e 4 6 1
+e 4 7 2
+e 7 8 1
+t # 235
+v 0 0 # le-marquis
+v 1 0 # le-baron
+v 2 0 # le-chevalier
+v 3 0 # le-portier
+v 4 0 # le-comte
+v 5 2 # le-laquais
+v 6 2 # un-autre-laquais
+v 7 0 # le-baron-de-la-crasse
+v 8 0 # le-marquis-de-mascarille
+v 9 2 # clement
+v 10 2 # la-comtesse
+v 11 2 # le-premier-baron
+v 12 0 # le-moucheur-de-chandelles
+v 13 1 # rosette
+v 14 1 # climene
+v 15 0 # monsieur-de-la-souche
+v 16 2 # l-ouvreur-de-loges
+v 17 0 # tersandre
+v 18 2 # l-homme
+v 19 0 # guillot
+v 20 2 # calotin
+v 21 1 # lisette
+v 22 0 # ragotin
+v 23 1 # beatrix
+v 24 2 # tous-ensemble
+v 25 1 # julie
+v 26 0 # clarimond
+v 27 0 # gorgibus
+v 28 0 # boniface
+v 29 0 # policarpe
+e 0 1 3
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 0 7 2
+e 0 8 2
+e 0 9 1
+e 0 10 1
+e 0 11 1
+e 0 12 1
+e 0 13 1
+e 0 14 1
+e 0 15 1
+e 0 16 1
+e 1 2 2
+e 1 3 2
+e 1 4 2
+e 1 5 1
+e 1 6 1
+e 1 7 2
+e 1 8 2
+e 1 9 1
+e 1 10 1
+e 1 11 1
+e 1 12 1
+e 1 13 1
+e 1 14 1
+e 1 15 1
+e 1 16 1
+e 2 3 2
+e 2 4 2
+e 2 5 1
+e 2 6 1
+e 2 7 2
+e 2 8 2
+e 2 9 1
+e 2 10 1
+e 2 11 1
+e 2 12 1
+e 2 13 1
+e 2 14 1
+e 2 15 1
+e 2 16 1
+e 3 4 1
+e 3 5 1
+e 3 6 1
+e 4 5 1
+e 4 6 1
+e 5 6 1
+e 7 8 2
+e 7 9 1
+e 7 10 1
+e 7 11 1
+e 7 12 1
+e 7 13 1
+e 7 14 1
+e 7 15 1
+e 7 16 1
+e 8 9 1
+e 8 10 1
+e 8 11 1
+e 8 12 1
+e 8 13 1
+e 8 14 1
+e 8 15 1
+e 8 16 1
+e 9 10 1
+e 9 11 1
+e 9 12 1
+e 10 11 1
+e 10 12 1
+e 11 12 1
+e 13 14 3
+e 13 15 1
+e 13 16 1
+e 13 17 2
+e 13 18 1
+e 13 19 2
+e 13 20 1
+e 13 21 2
+e 13 22 2
+e 13 23 2
+e 13 24 1
+e 13 25 1
+e 13 26 1
+e 13 27 1
+e 13 28 1
+e 13 29 1
+e 14 15 1
+e 14 16 1
+e 14 17 2
+e 14 18 1
+e 14 19 3
+e 14 20 1
+e 14 21 2
+e 14 22 2
+e 14 23 2
+e 14 24 1
+e 14 25 1
+e 14 26 1
+e 14 28 2
+e 14 27 2
+e 14 29 1
+e 15 16 1
+e 17 26 1
+e 17 22 2
+e 17 19 2
+e 17 18 1
+e 17 20 1
+e 17 21 2
+e 17 23 2
+e 17 24 1
+e 17 25 1
+e 17 27 1
+e 17 28 1
+e 17 29 1
+e 18 22 1
+e 18 19 1
+e 18 20 1
+e 18 21 1
+e 18 23 1
+e 18 24 1
+e 19 26 1
+e 19 22 2
+e 19 20 1
+e 19 21 2
+e 19 23 2
+e 19 24 1
+e 19 25 1
+e 19 28 2
+e 19 27 2
+e 19 29 1
+e 20 22 1
+e 20 21 1
+e 20 23 1
+e 20 24 1
+e 21 26 1
+e 21 22 2
+e 21 23 2
+e 21 24 1
+e 21 25 1
+e 22 26 3
+e 22 23 2
+e 22 24 1
+e 22 25 2
+e 22 27 2
+e 22 28 1
+e 22 29 2
+e 23 26 1
+e 23 24 1
+e 23 25 1
+e 25 26 2
+e 26 29 1
+e 26 27 1
+e 27 29 2
+e 27 28 2
+e 28 29 1
+t # 236
+v 0 0 # clidamant
+v 1 0 # guillot
+v 2 0 # lucidor
+v 3 0 # ragotin
+v 4 1 # polixene
+v 5 1 # aminte
+v 6 1 # beatrix
+v 7 0 # boniface
+v 8 0 # policarpe
+v 9 1 # lisette
+e 0 1 3
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 2
+e 0 7 1
+e 1 7 2
+e 1 8 2
+e 1 3 3
+e 1 9 1
+e 1 6 2
+e 1 2 1
+e 1 4 2
+e 1 5 1
+e 2 3 2
+e 2 4 1
+e 2 5 1
+e 2 6 1
+e 3 9 1
+e 3 6 1
+e 3 4 2
+e 3 5 2
+e 3 8 2
+e 3 7 2
+e 4 7 2
+e 4 8 2
+e 4 5 2
+e 5 7 2
+e 5 8 2
+e 6 9 1
+e 7 8 3
+t # 237
+v 0 1 # angelique
+v 1 0 # polycarpe
+v 2 0 # guillot
+v 3 2 # la-rocque
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 1 2 2
+e 1 3 1
+e 2 3 2
+t # 238
+v 0 0 # le-chevalier-de-l-industrie
+v 1 0 # le-marquis-de-mache-a-vide
+v 2 2 # le-comte-de-plume-seche
+v 3 0 # le-baron-de-la-triste-figure
+v 4 0 # guillot
+v 5 0 # la-rocque
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 1 2 2
+e 1 3 2
+e 2 3 2
+e 2 4 1
+e 4 5 2
+t # 239
+v 0 0 # guillot
+v 1 0 # fabrice
+v 2 0 # policarpe
+v 3 1 # marotte
+v 4 1 # angelique
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 1
+e 1 2 2
+e 1 4 2
+e 2 4 2
+e 2 3 2
+e 3 4 1
+t # 240
+v 0 0 # leandre
+v 1 1 # beatrix
+v 2 0 # le-docteur
+v 3 0 # ragotin
+v 4 0 # guillot
+v 5 1 # angelique
+v 6 2 # la-topiniere
+v 7 0 # tarasquin
+e 0 1 1
+e 0 2 1
+e 1 3 2
+e 1 4 1
+e 1 5 1
+e 2 4 2
+e 2 3 1
+e 2 5 1
+e 2 6 1
+e 2 7 1
+e 3 4 3
+e 3 5 2
+e 3 6 2
+e 3 7 2
+e 4 5 2
+e 4 6 2
+e 4 7 2
+e 5 6 2
+e 5 7 1
+e 6 7 2
+t # 241
+v 0 1 # lisette
+v 1 1 # lucrece
+v 2 1 # clarice
+v 3 1 # beatrix
+v 4 0 # guillot
+v 5 0 # clidamant
+v 6 0 # clindor
+v 7 2 # le-petit-laquais
+v 8 0 # ragotin
+v 9 2 # l-homme
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 1 2 2
+e 1 3 1
+e 1 6 2
+e 1 7 1
+e 1 4 2
+e 1 5 2
+e 1 8 2
+e 2 3 2
+e 2 5 2
+e 2 4 2
+e 3 5 2
+e 3 4 2
+e 4 8 1
+e 4 6 2
+e 4 5 3
+e 4 9 1
+e 5 8 1
+e 5 6 2
+e 6 8 2
+e 6 7 1
+t # 242
+v 0 1 # cleonte
+v 1 0 # croquet
+v 2 1 # isabelle
+v 3 2 # isidore
+v 4 1 # judith
+v 5 1 # elise
+v 6 0 # clitandre
+v 7 0 # ragotin
+v 8 0 # albert
+v 9 0 # maurice
+v 10 1 # clemence
+v 11 1 # clarice
+v 12 1 # celiane
+e 0 1 3
+e 0 2 2
+e 0 3 3
+e 0 4 1
+e 0 5 2
+e 0 6 1
+e 0 7 2
+e 0 8 2
+e 0 9 1
+e 0 10 1
+e 1 2 2
+e 1 3 3
+e 1 4 1
+e 1 5 2
+e 1 6 1
+e 1 7 2
+e 1 8 2
+e 1 9 1
+e 1 10 1
+e 2 8 1
+e 2 11 1
+e 2 10 2
+e 2 3 2
+e 2 5 1
+e 2 7 1
+e 3 8 2
+e 3 6 1
+e 3 7 1
+e 3 5 3
+e 3 4 2
+e 3 11 1
+e 3 9 2
+e 3 10 1
+e 4 5 2
+e 4 11 1
+e 5 8 2
+e 5 7 1
+e 5 11 1
+e 5 9 1
+e 5 10 1
+e 6 8 2
+e 6 7 3
+e 6 10 1
+e 6 9 2
+e 7 8 2
+e 7 10 2
+e 7 9 2
+e 7 12 1
+e 8 9 3
+e 8 10 1
+e 9 12 1
+t # 243
+v 0 1 # atalante
+v 1 2 # isidore
+v 2 0 # philemon
+v 3 0 # polydas
+v 4 0 # sicandre
+v 5 1 # flaminie
+v 6 0 # tharzinte
+v 7 0 # mainalte
+v 8 0 # calliante
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 0 7 2
+e 1 2 1
+e 2 7 1
+e 3 5 3
+e 3 4 3
+e 3 7 2
+e 3 6 1
+e 4 5 3
+e 4 7 2
+e 4 6 2
+e 5 7 2
+e 5 6 2
+e 6 7 2
+e 6 8 2
+e 7 8 1
+t # 244
+v 0 2 # un-senateur
+v 1 2 # un-autre-senateur
+v 2 0 # sicinie
+v 3 2 # un-second-senateur
+v 4 1 # verginie
+v 5 0 # coriolan
+v 6 0 # aufidie
+v 7 0 # sancine
+v 8 1 # velumnie
+v 9 2 # un-lieutenant
+v 10 2 # un-volque
+v 11 2 # lieutenant-des-volques
+v 12 2 # un-autre-lieutenant
+v 13 0 # un-soldat-des-volques
+v 14 0 # camille
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 1
+e 1 2 2
+e 1 3 1
+e 2 5 1
+e 2 6 1
+e 2 3 1
+e 4 5 2
+e 4 8 2
+e 4 14 2
+e 5 7 2
+e 5 6 2
+e 5 8 2
+e 5 9 1
+e 5 10 1
+e 6 7 2
+e 6 11 1
+e 6 12 1
+e 6 13 1
+e 9 10 1
+e 11 12 1
+e 11 13 1
+e 12 13 1
+t # 245
+v 0 0 # tarquin
+v 1 1 # colatin
+v 2 1 # sexte
+v 3 0 # brute
+v 4 1 # maxime
+v 5 0 # lucretie
+v 6 1 # misene
+v 7 1 # lucrece
+v 8 1 # tullie
+v 9 1 # cecilie
+v 10 1 # melixene
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 1
+e 1 2 1
+e 1 6 2
+e 1 3 2
+e 1 5 2
+e 1 7 1
+e 2 4 2
+e 2 8 1
+e 2 7 2
+e 2 3 1
+e 3 4 1
+e 3 7 1
+e 3 5 2
+e 4 8 1
+e 4 7 2
+e 5 7 1
+e 6 7 1
+e 6 9 1
+e 7 9 2
+e 8 10 2
+t # 246
+v 0 0 # terfile
+v 1 0 # philarque
+v 2 0 # atlante
+v 3 1 # philiste
+v 4 1 # aristee
+v 5 1 # eliane
+v 6 1 # pauline
+v 7 2 # oracle
+v 8 0 # alcinon
+v 9 0 # silene
+v 10 1 # olinthe
+e 0 1 3
+e 0 2 3
+e 0 3 2
+e 0 4 1
+e 0 5 2
+e 0 6 1
+e 0 7 1
+e 0 8 1
+e 1 2 3
+e 1 3 3
+e 1 4 2
+e 1 5 3
+e 1 6 2
+e 1 9 1
+e 1 10 2
+e 1 8 2
+e 2 3 3
+e 2 5 3
+e 2 6 2
+e 2 9 1
+e 2 4 2
+e 2 10 2
+e 2 7 1
+e 2 8 2
+e 3 4 2
+e 3 5 2
+e 3 6 1
+e 3 8 2
+e 3 10 1
+e 4 5 2
+e 4 10 1
+e 4 8 1
+e 5 6 2
+e 5 9 1
+e 5 8 2
+e 5 10 1
+e 6 9 1
+e 8 10 1
+t # 247
+v 0 0 # aglante
+v 1 0 # asphalte
+v 2 0 # cleonice
+v 3 0 # arbaze
+v 4 1 # florine
+v 5 1 # orphise
+v 6 0 # janot
+v 7 2 # le-gardeur-des-lions
+v 8 1 # nerice
+v 9 1 # melinde
+v 10 2 # megate
+v 11 2 # philene
+v 12 0 # toinet
+v 13 2 # echo
+v 14 2 # un-des-braves
+e 0 1 2
+e 0 2 3
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 0 7 1
+e 0 8 2
+e 0 9 1
+e 1 5 2
+e 1 9 2
+e 1 10 1
+e 1 11 1
+e 1 4 2
+e 1 3 2
+e 1 8 2
+e 1 2 2
+e 1 12 1
+e 2 5 2
+e 2 9 2
+e 2 4 2
+e 2 6 1
+e 2 7 1
+e 2 8 2
+e 2 3 2
+e 3 5 2
+e 3 9 1
+e 3 4 2
+e 3 14 1
+e 3 8 2
+e 3 12 2
+e 3 6 1
+e 4 5 2
+e 4 9 1
+e 4 8 1
+e 5 10 2
+e 5 11 2
+e 5 9 2
+e 5 8 2
+e 6 8 1
+e 6 7 1
+e 6 12 1
+e 8 9 1
+e 8 12 1
+e 9 10 2
+e 9 11 2
+e 9 13 1
+e 10 11 2
+e 10 13 1
+e 11 13 1
+t # 248
+v 0 1 # la-comtesse
+v 1 0 # valentin
+v 2 0 # le-comte
+v 3 2 # le-comtesse
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 1 2 1
+e 2 3 1
+t # 249
+v 0 0 # arsace
+v 1 0 # narbal
+v 2 1 # leuxis
+v 3 0 # pigmalion
+v 4 0 # zopire
+v 5 0 # bacazar
+v 6 1 # astarbe
+v 7 0 # orcan
+v 8 0 # nador
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 1 6 2
+e 1 3 1
+e 1 5 2
+e 1 2 2
+e 1 4 2
+e 2 6 2
+e 2 5 2
+e 2 4 3
+e 3 6 1
+e 4 6 2
+e 4 8 1
+e 4 5 2
+e 5 6 2
+e 6 7 2
+t # 250
+v 0 2 # la-marquise
+v 1 0 # l-abbe-douxdoux
+v 2 1 # mademoiselle-damour
+v 3 1 # la-comtesse
+v 4 0 # lafleur
+v 5 0 # l-abbe-de-cormoran
+v 6 2 # milord
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 1
+e 1 2 2
+e 1 4 2
+e 1 3 1
+e 1 5 1
+e 2 4 1
+e 2 3 1
+e 3 4 2
+e 3 5 2
+e 3 6 2
+e 4 6 2
+e 4 5 2
+e 5 6 1
+t # 251
+v 0 0 # alcimadure
+v 1 0 # alfonse
+v 2 1 # leonor
+v 3 0 # alvares
+e 0 1 2
+e 0 2 1
+e 0 3 2
+e 1 3 1
+e 2 3 1
+t # 252
+v 0 0 # amatrox
+v 1 0 # vortex
+v 2 0 # colorax
+v 3 1 # cocatrix
+e 0 1 1
+e 0 2 1
+e 0 3 1
+t # 253
+v 0 0 # ophemon
+v 1 1 # rosalie
+v 2 2 # le-vicomte
+v 3 1 # leontine
+v 4 1 # jeannette
+v 5 1 # dorothee
+v 6 0 # picard
+v 7 0 # colin
+v 8 2 # tous
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 2
+e 0 6 1
+e 0 7 1
+e 0 8 1
+e 1 6 2
+e 1 3 3
+e 1 5 3
+e 1 2 2
+e 1 4 2
+e 1 7 2
+e 2 6 1
+e 2 3 3
+e 2 5 2
+e 2 4 1
+e 2 7 1
+e 2 8 1
+e 3 6 2
+e 3 5 3
+e 3 4 2
+e 3 7 2
+e 3 8 1
+e 4 6 1
+e 4 5 2
+e 4 7 2
+e 5 6 2
+e 5 7 2
+e 5 8 1
+e 6 7 1
+t # 254
+v 0 1 # constance
+v 1 1 # silvie
+v 2 2 # le-matelot
+v 3 0 # timante
+v 4 0 # ferdinand
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 1 3 3
+e 1 4 2
+e 1 2 2
+e 2 3 2
+e 3 4 2
+t # 255
+v 0 1 # madame-dorsan
+v 1 1 # lisette
+v 2 0 # derville
+v 3 1 # sophie
+v 4 2 # dorsan
+v 5 2 # le-laquais
+v 6 0 # dubois
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 1
+e 1 6 1
+e 1 2 1
+e 1 3 2
+e 2 3 2
+e 3 4 1
+t # 256
+v 0 0 # buttler
+v 1 2 # tersky
+v 2 0 # illo
+v 3 0 # isolan
+v 4 2 # gallas
+v 5 0 # wallstein
+v 6 0 # geraldin
+v 7 2 # alfred
+v 8 1 # thecla
+v 9 2 # elise
+v 10 2 # l-officier
+v 11 0 # harald
+v 12 2 # un-soldat
+v 13 2 # un-second-soldat
+v 14 2 # un-troisieme-soldat
+e 0 1 1
+e 0 2 2
+e 0 3 3
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 0 7 1
+e 0 8 1
+e 1 2 2
+e 1 3 1
+e 1 4 2
+e 1 5 3
+e 1 8 2
+e 1 7 1
+e 1 6 2
+e 2 3 1
+e 2 4 1
+e 2 5 2
+e 2 6 2
+e 2 7 1
+e 2 8 2
+e 3 4 2
+e 3 6 2
+e 3 5 1
+e 3 8 1
+e 4 6 2
+e 4 7 1
+e 4 8 1
+e 5 6 2
+e 5 8 3
+e 5 7 2
+e 5 11 1
+e 5 12 1
+e 5 13 1
+e 5 14 1
+e 5 10 1
+e 5 9 1
+e 6 7 1
+e 6 8 1
+e 7 8 2
+e 8 9 2
+e 8 10 2
+e 12 13 1
+e 12 14 1
+e 13 14 1
+t # 257
+v 0 1 # aglatide
+v 1 1 # elpinice
+v 2 0 # spitridate
+v 3 0 # lysander
+v 4 1 # mandane
+v 5 0 # agesilas
+v 6 0 # cotys
+v 7 0 # cleon
+v 8 0 # xenocles
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 1
+e 0 5 2
+e 0 6 1
+e 1 2 2
+e 1 3 1
+e 2 6 2
+e 2 4 2
+e 2 3 1
+e 2 5 2
+e 3 6 1
+e 3 4 1
+e 3 7 1
+e 3 5 2
+e 4 6 1
+e 4 7 1
+e 4 5 2
+e 5 6 2
+e 5 8 2
+e 6 7 1
+t # 258
+v 0 0 # attila
+v 1 0 # octar
+v 2 1 # ardaric
+v 3 0 # valamir
+v 4 1 # ildione
+v 5 1 # honorie
+v 6 1 # flavie
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 1 2 1
+e 1 5 2
+e 2 3 3
+e 2 4 2
+e 2 5 2
+e 3 5 2
+e 3 6 1
+e 4 5 2
+e 5 6 2
+t # 259
+v 0 1 # chimene
+v 1 1 # elvire
+v 2 1 # l-infante
+v 3 2 # page
+v 4 0 # don-diegue
+v 5 0 # don-fernand
+v 6 0 # don-sanche
+v 7 0 # don-rodrigue
+v 8 1 # leonor
+v 9 0 # le-comte
+v 10 0 # don-arias
+v 11 0 # don-alonse
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 0 7 2
+e 1 7 2
+e 2 8 2
+e 2 3 2
+e 2 7 1
+e 2 5 1
+e 3 8 1
+e 4 9 1
+e 4 7 2
+e 4 5 2
+e 4 11 1
+e 4 6 2
+e 5 7 2
+e 5 10 1
+e 5 6 2
+e 5 11 2
+e 6 10 1
+e 7 9 1
+e 9 10 1
+t # 260
+v 0 1 # emilie
+v 1 1 # fulvie
+v 2 0 # cinna
+v 3 0 # evandre
+v 4 0 # maxime
+v 5 1 # livie
+v 6 2 # auguste
+v 7 0 # euphorbe
+v 8 0 # polyclete
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 2 3 1
+e 2 6 2
+e 2 4 2
+e 2 5 2
+e 4 6 2
+e 4 7 1
+e 4 5 1
+e 5 6 2
+e 6 7 1
+e 6 8 1
+e 7 8 1
+t # 261
+v 0 1 # emilie
+v 1 1 # fulvie
+v 2 0 # cinna
+v 3 0 # evandre
+v 4 0 # maxime
+v 5 1 # livie
+v 6 2 # auguste
+v 7 0 # euphorbe
+v 8 0 # polyclete
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 2 3 1
+e 2 6 2
+e 2 4 2
+e 2 5 2
+e 4 6 2
+e 4 7 1
+e 4 5 1
+e 5 6 2
+e 6 7 1
+e 6 8 1
+e 7 8 1
+t # 262
+v 0 1 # caliste
+v 1 1 # dorise
+v 2 0 # rosidor
+v 3 0 # alcandre
+v 4 0 # clitandre
+v 5 0 # lysarque
+v 6 0 # cleon
+v 7 0 # pymante
+v 8 0 # premier-archer
+v 9 0 # second-archer
+v 10 0 # floridan
+v 11 0 # premier-veneur
+v 12 0 # second-veneur
+v 13 0 # geronte
+v 14 0 # lycaste
+v 15 0 # le-geolier
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 1 2 2
+e 1 7 3
+e 1 10 2
+e 1 11 1
+e 1 12 1
+e 1 6 1
+e 1 3 2
+e 1 4 2
+e 2 5 1
+e 2 3 2
+e 2 4 1
+e 3 7 1
+e 3 10 1
+e 3 4 2
+e 4 7 1
+e 4 6 2
+e 4 10 2
+e 4 15 2
+e 5 6 1
+e 5 7 1
+e 5 8 1
+e 5 9 1
+e 6 10 2
+e 7 13 1
+e 7 14 1
+e 7 10 2
+e 7 11 1
+e 7 12 1
+e 8 9 1
+e 10 11 1
+e 10 12 1
+e 11 12 1
+t # 263
+v 0 1 # leonor
+v 1 1 # elvire
+v 2 1 # isabelle
+v 3 0 # manrique
+v 4 0 # lope
+v 5 0 # carlos
+v 6 1 # blanche
+v 7 0 # alvar
+v 8 2 # un-garde
+v 9 0 # raymond
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 0 7 1
+e 0 8 1
+e 0 9 1
+e 1 5 2
+e 1 7 2
+e 1 6 1
+e 1 2 2
+e 1 9 1
+e 1 4 1
+e 2 4 2
+e 2 3 2
+e 2 7 2
+e 2 5 2
+e 2 6 2
+e 2 8 1
+e 2 9 1
+e 3 4 3
+e 3 7 2
+e 3 5 2
+e 4 7 2
+e 4 5 2
+e 4 9 1
+e 5 7 1
+e 5 6 1
+e 5 9 1
+e 7 8 1
+t # 264
+v 0 0 # aronte
+v 1 1 # florice
+v 2 1 # celidee
+v 3 0 # lysandre
+v 4 1 # hippolyte
+v 5 0 # dorimant
+v 6 0 # mercier
+v 7 2 # lingere
+v 8 0 # libraire
+v 9 0 # cleante
+v 10 0 # chrysante
+v 11 0 # pleirante
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 1
+e 0 6 1
+e 0 7 1
+e 1 4 3
+e 1 7 2
+e 1 5 2
+e 1 8 2
+e 1 9 2
+e 1 2 2
+e 1 6 2
+e 1 10 1
+e 1 11 1
+e 1 3 1
+e 2 11 2
+e 2 4 3
+e 2 3 3
+e 2 5 3
+e 2 10 1
+e 3 11 2
+e 3 8 1
+e 3 5 3
+e 3 4 3
+e 3 9 1
+e 3 6 1
+e 3 10 1
+e 4 11 2
+e 4 7 1
+e 4 8 1
+e 4 5 3
+e 4 9 1
+e 4 10 2
+e 5 11 2
+e 5 7 1
+e 5 8 2
+e 5 9 2
+e 5 6 1
+e 5 10 1
+e 6 7 2
+e 6 8 2
+e 6 9 1
+e 7 8 2
+e 7 9 2
+e 8 9 2
+e 10 11 2
+t # 265
+v 0 0 # phocas
+v 1 0 # crispe
+v 2 1 # pulcherie
+v 3 0 # heraclius
+v 4 0 # martian
+v 5 0 # exupere
+v 6 1 # eudoxe
+v 7 1 # leontine
+v 8 0 # amyntas
+v 9 0 # page
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 0 7 1
+e 1 3 1
+e 1 7 1
+e 1 5 1
+e 1 2 1
+e 2 3 3
+e 2 4 3
+e 2 8 1
+e 2 7 1
+e 2 5 1
+e 2 6 1
+e 3 4 3
+e 3 7 2
+e 3 6 2
+e 3 5 2
+e 3 8 1
+e 4 5 2
+e 4 7 2
+e 4 8 1
+e 4 6 1
+e 5 7 2
+e 5 6 2
+e 5 8 1
+e 6 7 3
+e 6 9 1
+e 7 9 1
+t # 266
+v 0 1 # sabine
+v 1 1 # julie
+v 2 0 # curiace
+v 3 0 # horace
+v 4 1 # camille
+v 5 2 # le-vieil-horace
+v 6 0 # valere
+v 7 0 # tulle
+v 8 0 # flavian
+v 9 0 # procule
+e 0 1 2
+e 0 2 1
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 0 7 1
+e 1 4 2
+e 1 2 1
+e 1 5 1
+e 2 4 2
+e 2 3 2
+e 2 8 1
+e 2 5 1
+e 3 4 2
+e 3 5 2
+e 3 9 1
+e 3 7 1
+e 3 6 1
+e 4 5 2
+e 4 6 1
+e 5 6 2
+e 5 7 2
+e 6 7 2
+t # 267
+v 0 0 # dorante
+v 1 0 # pridamant
+v 2 0 # alcandre
+v 3 0 # eraste
+v 4 1 # isabelle
+v 5 1 # lyse
+v 6 0 # clindor
+v 7 0 # matamore
+v 8 0 # page
+v 9 0 # adraste
+v 10 0 # geronte
+v 11 0 # le-geolier
+e 0 1 2
+e 0 2 1
+e 1 2 3
+e 1 3 1
+e 1 4 1
+e 1 5 1
+e 3 4 1
+e 3 5 1
+e 4 6 3
+e 4 7 2
+e 4 9 1
+e 4 8 1
+e 4 10 1
+e 4 5 3
+e 4 11 2
+e 5 6 2
+e 5 7 1
+e 5 9 1
+e 5 11 2
+e 6 7 3
+e 6 8 1
+e 6 9 2
+e 6 10 2
+e 6 11 2
+e 7 8 1
+e 7 10 2
+e 7 9 1
+e 9 10 1
+t # 268
+v 0 0 # pollux
+v 1 0 # jason
+v 2 0 # creon
+v 3 1 # cleone
+v 4 1 # creuse
+v 5 1 # nerine
+v 6 1 # medee
+v 7 0 # aegee
+v 8 0 # theudas
+e 0 1 1
+e 0 2 2
+e 0 3 1
+e 1 4 2
+e 1 3 2
+e 1 2 1
+e 1 5 1
+e 1 6 2
+e 2 4 2
+e 2 3 2
+e 2 6 1
+e 3 4 2
+e 4 7 1
+e 5 6 2
+e 6 7 1
+e 6 8 1
+t # 269
+v 0 0 # pollux
+v 1 0 # jason
+v 2 0 # creon
+v 3 1 # cleone
+v 4 1 # creuse
+v 5 1 # nerine
+v 6 1 # medee
+v 7 0 # aegee
+v 8 0 # theudas
+e 0 1 1
+e 0 2 2
+e 0 3 1
+e 1 4 2
+e 1 3 2
+e 1 2 1
+e 1 5 1
+e 1 6 2
+e 2 4 2
+e 2 3 2
+e 2 6 1
+e 3 4 2
+e 4 7 1
+e 5 6 2
+e 6 7 1
+e 6 8 1
+t # 270
+v 0 0 # eraste
+v 1 2 # tirsis
+v 2 1 # melite
+v 3 0 # cliton
+v 4 0 # philandre
+v 5 1 # la-nourrice
+v 6 2 # cloris
+v 7 0 # lisis
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 1 2 2
+e 1 4 2
+e 1 6 2
+e 1 5 1
+e 2 5 2
+e 2 6 2
+e 2 7 1
+e 3 4 1
+e 3 6 1
+e 3 5 2
+e 3 7 1
+e 4 6 2
+e 5 6 2
+e 5 7 1
+e 6 7 2
+t # 271
+v 0 0 # eraste
+v 1 0 # tircis
+v 2 1 # melite
+v 3 0 # cliton
+v 4 0 # philandre
+v 5 1 # la-nourrice
+v 6 2 # nourrice
+v 7 1 # cloris
+v 8 0 # lisis
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 0 7 1
+e 1 2 3
+e 1 4 2
+e 1 7 2
+e 1 5 1
+e 1 6 1
+e 2 5 2
+e 2 7 2
+e 2 8 1
+e 2 6 1
+e 3 4 1
+e 3 7 1
+e 3 6 1
+e 3 5 2
+e 3 8 1
+e 4 7 2
+e 5 7 2
+e 5 6 2
+e 5 8 1
+e 6 7 2
+e 6 8 1
+e 7 8 2
+t # 272
+v 0 0 # ptolemee
+v 1 0 # photin
+v 2 0 # achillas
+v 3 0 # septime
+v 4 1 # cleopatre
+v 5 2 # cesar
+v 6 1 # cornelie
+v 7 1 # charmion
+v 8 0 # achoree
+v 9 0 # antoine
+v 10 0 # philippe
+v 11 2 # philipe
+e 0 1 3
+e 0 2 2
+e 0 3 1
+e 0 4 2
+e 0 5 1
+e 1 2 2
+e 1 3 1
+e 1 4 1
+e 2 3 1
+e 3 5 1
+e 3 6 1
+e 4 7 2
+e 4 8 2
+e 4 5 2
+e 4 6 2
+e 5 8 2
+e 5 9 1
+e 5 6 2
+e 6 8 1
+e 6 10 1
+e 6 11 1
+e 7 8 2
+e 10 11 1
+t # 273
+v 0 1 # laodice
+v 1 0 # nicomede
+v 2 0 # attale
+v 3 0 # prusias
+v 4 0 # flaminius
+v 5 1 # arsinoe
+v 6 0 # araspe
+v 7 1 # cleone
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 1 2 2
+e 1 5 2
+e 1 3 3
+e 1 4 2
+e 1 6 1
+e 2 5 3
+e 2 4 2
+e 2 3 2
+e 2 6 1
+e 3 5 2
+e 3 6 2
+e 3 4 3
+e 4 5 2
+e 4 7 1
+e 4 6 1
+e 5 7 2
+e 5 6 2
+t # 274
+v 0 0 # thesee
+v 1 1 # dirce
+v 2 1 # megare
+v 3 0 # oedipe
+v 4 1 # jocaste
+v 5 0 # phorbas
+v 6 1 # nerine
+v 7 1 # cleante
+v 8 0 # dymas
+v 9 2 # page
+v 10 0 # iphicrate
+e 0 1 3
+e 0 2 1
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 0 7 1
+e 0 8 1
+e 1 2 2
+e 1 3 2
+e 1 6 2
+e 1 4 2
+e 1 7 1
+e 1 8 1
+e 2 6 1
+e 3 7 1
+e 3 4 3
+e 3 8 2
+e 3 5 2
+e 3 9 1
+e 3 10 2
+e 4 8 1
+e 4 5 2
+e 5 10 1
+e 7 8 1
+e 8 9 1
+t # 275
+v 0 0 # albin
+v 1 0 # othon
+v 2 1 # camille
+v 3 0 # vinius
+v 4 1 # plautine
+v 5 0 # galba
+v 6 0 # lacus
+v 7 0 # martian
+v 8 0 # atticus
+v 9 1 # flavie
+v 10 2 # rutile
+v 11 2 # fl6ao
+v 12 1 # albiane
+e 0 1 2
+e 0 2 2
+e 1 3 2
+e 1 4 2
+e 1 5 1
+e 1 2 1
+e 2 3 2
+e 2 4 1
+e 2 7 2
+e 2 6 2
+e 2 12 2
+e 2 5 2
+e 2 10 1
+e 2 8 1
+e 3 4 2
+e 3 5 2
+e 3 6 1
+e 3 7 1
+e 3 8 1
+e 4 9 2
+e 4 7 2
+e 4 6 1
+e 4 5 1
+e 4 10 1
+e 4 8 1
+e 4 11 1
+e 5 7 1
+e 5 6 1
+e 5 10 1
+e 5 8 1
+e 6 7 2
+e 7 8 2
+e 9 11 1
+t # 276
+v 0 1 # rodelinde
+v 1 0 # unulphe
+v 2 2 # edwige
+v 3 0 # grimoald
+v 4 0 # garibalde
+v 5 0 # pertharite
+v 6 2 # soldat
+e 0 1 2
+e 0 2 2
+e 0 3 3
+e 0 4 2
+e 0 5 2
+e 1 3 2
+e 1 4 2
+e 1 5 2
+e 1 2 2
+e 2 3 2
+e 2 4 2
+e 2 5 1
+e 3 4 3
+e 3 5 2
+e 3 6 1
+e 4 5 1
+t # 277
+v 0 0 # nearque
+v 1 0 # polyeucte
+v 2 1 # pauline
+v 3 0 # cleon
+v 4 0 # felix
+v 5 1 # stratonice
+v 6 0 # albin
+v 7 0 # severe
+v 8 0 # fabian
+e 0 1 2
+e 1 2 3
+e 1 3 2
+e 1 4 2
+e 2 5 2
+e 2 4 2
+e 2 6 2
+e 2 7 2
+e 2 3 1
+e 4 6 2
+e 4 7 1
+e 7 8 2
+t # 278
+v 0 1 # laonice
+v 1 0 # timagene
+v 2 1 # rodogune
+v 3 1 # cleopatre
+v 4 0 # antiochus
+v 5 0 # oronte
+v 6 0 # seleucus
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 1 4 2
+e 1 3 1
+e 1 2 1
+e 1 5 1
+e 2 4 2
+e 2 6 1
+e 2 5 2
+e 2 3 2
+e 3 4 2
+e 3 6 2
+e 3 5 2
+e 4 6 2
+e 4 5 2
+t # 279
+v 0 2 # perpenna
+v 1 2 # aufide
+v 2 0 # sertorius
+v 3 1 # viriate
+v 4 1 # aristie
+v 5 0 # pompee
+v 6 1 # thamire
+v 7 0 # arcas
+v 8 0 # celsus
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 1 2 1
+e 1 4 1
+e 2 4 1
+e 2 3 2
+e 2 5 1
+e 2 6 1
+e 3 4 2
+e 3 6 2
+e 3 7 1
+e 3 5 1
+e 4 5 2
+e 4 7 1
+e 4 6 1
+e 5 8 1
+t # 280
+v 0 0 # bocchar
+v 1 1 # sophonisbe
+v 2 1 # herminie
+v 3 1 # eryxe
+v 4 0 # syphax
+v 5 0 # massinisse
+v 6 0 # lepide
+v 7 0 # mezetulle
+v 8 0 # page
+v 9 1 # barcee
+v 10 0 # lelius
+v 11 0 # albin
+e 0 1 1
+e 1 2 2
+e 1 3 2
+e 1 4 2
+e 1 5 2
+e 1 6 1
+e 1 7 2
+e 1 8 1
+e 3 9 1
+e 3 5 2
+e 3 8 1
+e 3 7 1
+e 3 10 2
+e 3 6 1
+e 4 6 2
+e 4 10 1
+e 5 7 2
+e 5 6 1
+e 5 10 2
+e 5 11 1
+e 6 10 1
+e 7 8 1
+e 10 11 1
+t # 281
+v 0 1 # eurydice
+v 1 1 # ormene
+v 2 1 # palmis
+v 3 0 # surena
+v 4 0 # pacorus
+v 5 0 # orode
+v 6 0 # sillace
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 1 2 1
+e 2 4 1
+e 2 5 1
+e 2 3 1
+e 3 4 2
+e 3 5 1
+e 5 6 1
+t # 282
+v 0 0 # placide
+v 1 0 # cleobule
+v 2 1 # marcelle
+v 3 1 # theodore
+v 4 0 # paulin
+v 5 1 # stephanie
+v 6 0 # lycante
+v 7 0 # didyme
+v 8 0 # valens
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 0 7 1
+e 0 8 1
+e 1 3 2
+e 1 2 1
+e 1 4 1
+e 1 6 1
+e 1 7 2
+e 1 8 1
+e 2 5 2
+e 2 8 2
+e 2 3 2
+e 2 4 2
+e 2 7 1
+e 3 5 1
+e 3 8 1
+e 3 4 2
+e 3 7 2
+e 4 8 2
+e 4 7 2
+e 5 6 1
+e 5 8 1
+t # 283
+v 0 0 # oenarus
+v 1 0 # arcas
+v 2 0 # pirithous
+v 3 0 # thesee
+v 4 1 # ariane
+v 5 0 # phedre
+v 6 1 # nerine
+e 0 1 1
+e 0 2 2
+e 0 3 1
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 1 4 1
+e 1 3 1
+e 1 2 1
+e 2 3 2
+e 2 4 3
+e 2 5 2
+e 2 6 1
+e 3 5 2
+e 3 4 2
+e 4 5 2
+e 4 6 3
+t # 284
+v 0 1 # angelique
+v 1 2 # philipin
+v 2 1 # lisette
+v 3 1 # la-tante
+v 4 0 # leandre
+v 5 1 # oronte
+v 6 0 # la-montagne
+v 7 0 # cascaret
+e 0 1 2
+e 0 2 3
+e 0 3 3
+e 0 4 2
+e 0 5 3
+e 0 6 2
+e 1 2 3
+e 1 3 2
+e 1 4 2
+e 1 6 2
+e 1 5 3
+e 1 7 1
+e 2 3 3
+e 2 4 3
+e 2 5 3
+e 2 7 1
+e 2 6 2
+e 3 4 3
+e 3 5 3
+e 3 7 1
+e 3 6 2
+e 4 5 3
+e 4 7 2
+e 4 6 2
+e 5 7 1
+e 5 6 2
+e 6 7 1
+t # 285
+v 0 2 # le-roi
+v 1 0 # araxe
+v 2 1 # philoclee
+v 3 0 # anaxaris
+v 4 0 # philoxene
+v 5 1 # berenice
+v 6 1 # clitie
+v 7 0 # cleophis
+v 8 1 # hesione
+v 9 0 # iphite
+e 0 1 2
+e 0 2 3
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 0 7 1
+e 1 5 2
+e 1 4 2
+e 1 2 2
+e 1 7 1
+e 2 5 2
+e 2 6 1
+e 2 3 3
+e 2 8 2
+e 2 4 2
+e 2 7 1
+e 3 5 2
+e 3 4 2
+e 3 9 2
+e 4 5 2
+e 4 9 1
+e 4 7 1
+e 5 6 2
+e 5 7 1
+t # 286
+v 0 1 # bradamante
+v 1 1 # doralise
+v 2 0 # leon
+v 3 1 # marphise
+v 4 0 # roger
+v 5 1 # ismene
+v 6 0 # timante
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 3
+e 1 4 1
+e 2 4 3
+e 2 3 2
+e 3 5 2
+e 3 6 1
+e 3 4 2
+e 4 6 1
+e 5 6 1
+t # 287
+v 0 0 # sinorix
+v 1 0 # phaedime
+v 2 1 # camma
+v 3 1 # hesione
+v 4 2 # sostrate
+v 5 0 # sosime
+v 6 1 # phenice
+e 0 1 2
+e 0 2 3
+e 0 3 2
+e 0 4 3
+e 0 5 1
+e 1 4 1
+e 1 2 1
+e 2 6 2
+e 2 3 2
+e 2 4 3
+e 2 5 2
+e 3 4 2
+e 3 5 1
+e 4 6 1
+e 4 5 2
+e 5 6 1
+t # 288
+v 0 2 # le-comte
+v 1 0 # salsbury
+v 2 2 # la-duchesse
+v 3 0 # cecile
+v 4 1 # elisabeth
+v 5 0 # crommer
+v 6 0 # tilney
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 0 6 1
+e 1 4 2
+e 1 2 1
+e 2 4 3
+e 2 3 1
+e 2 6 2
+e 3 4 2
+e 4 6 2
+t # 289
+v 0 1 # amestris
+v 1 0 # megabise
+v 2 1 # statira
+v 3 0 # darius
+v 4 0 # ochus
+v 5 0 # bagoas
+v 6 0 # oropaste
+v 7 1 # barsine
+e 0 1 3
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 1 5 2
+e 1 4 2
+e 1 2 2
+e 1 3 2
+e 1 6 2
+e 2 4 2
+e 2 7 2
+e 2 3 2
+e 2 6 1
+e 3 4 2
+e 3 6 1
+e 4 6 2
+t # 290
+v 0 1 # axiane
+v 1 1 # alcine
+v 2 0 # ariarate
+v 3 1 # laodice
+v 4 0 # phradate
+v 5 0 # anaxandre
+v 6 0 # aquilius
+v 7 0 # theodot
+v 8 1 # cleone
+e 0 1 1
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 2 4 2
+e 2 5 2
+e 2 3 2
+e 2 7 1
+e 2 8 1
+e 2 6 2
+e 3 4 2
+e 3 5 2
+e 3 8 2
+e 3 6 2
+e 4 5 1
+e 4 6 1
+e 5 7 1
+e 5 6 1
+t # 291
+v 0 0 # licine
+v 1 0 # maximian
+v 2 0 # maxime
+v 3 1 # constance
+v 4 1 # fauste
+v 5 0 # constantin
+v 6 0 # martian
+v 7 0 # severe
+v 8 1 # flavie
+v 9 1 # lucie
+e 0 1 2
+e 0 2 1
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 1 2 2
+e 1 6 2
+e 1 4 3
+e 1 7 3
+e 1 5 3
+e 1 3 2
+e 2 5 2
+e 3 4 2
+e 3 7 1
+e 3 5 2
+e 3 9 1
+e 4 6 1
+e 4 8 1
+e 4 7 2
+e 4 5 3
+e 5 6 1
+e 5 7 2
+t # 292
+v 0 0 # attale
+v 1 0 # prusias
+v 2 1 # elise
+v 3 0 # annibal
+v 4 0 # flaminius
+v 5 1 # alcine
+v 6 0 # araxe
+v 7 0 # nicomede
+v 8 0 # procule
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 1 6 2
+e 1 7 2
+e 1 2 2
+e 1 3 2
+e 1 4 2
+e 1 5 1
+e 2 6 1
+e 2 7 2
+e 2 5 2
+e 2 3 2
+e 2 4 2
+e 3 6 1
+e 3 7 2
+e 3 5 1
+e 3 4 1
+e 4 5 1
+e 4 8 2
+e 6 7 1
+t # 293
+v 0 1 # briseis
+v 1 0 # pyrrhus
+v 2 1 # polixene
+v 3 0 # achille
+v 4 1 # phenice
+v 5 0 # antilochus
+v 6 0 # alcime
+v 7 1 # ilione
+e 0 1 3
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 1 2 2
+e 1 3 2
+e 1 5 2
+e 2 3 1
+e 2 7 1
+e 3 6 2
+e 4 6 1
+t # 294
+v 0 1 # helvie
+v 1 1 # marcia
+v 2 1 # julie
+v 3 0 # laetus
+v 4 0 # flavian
+v 5 0 # commode
+v 6 0 # electus
+v 7 1 # lucie
+e 0 1 3
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 1 7 2
+e 1 6 3
+e 1 5 2
+e 1 3 2
+e 1 4 1
+e 1 2 1
+e 3 6 2
+e 3 5 2
+e 3 4 1
+e 4 5 2
+e 5 6 1
+e 6 7 1
+t # 295
+v 0 0 # persee
+v 1 0 # didas
+v 2 0 # onomaste
+v 3 1 # erixene
+v 4 0 # philippe
+v 5 0 # demetrius
+v 6 1 # phenice
+v 7 0 # antigonus
+e 0 1 1
+e 0 2 1
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 1 4 2
+e 1 5 2
+e 1 3 1
+e 2 4 2
+e 2 3 1
+e 3 6 3
+e 3 5 2
+e 3 4 3
+e 3 7 1
+e 4 6 2
+e 4 5 2
+e 4 7 2
+t # 296
+v 0 1 # antigone
+v 1 1 # camille
+v 2 0 # pyrrhus
+v 3 0 # androclide
+v 4 0 # neoptolemus
+v 5 0 # gelon
+v 6 1 # deidamie
+v 7 0 # hippias
+v 8 1 # neree
+e 0 1 1
+e 0 2 2
+e 0 3 1
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 0 7 1
+e 1 6 1
+e 1 4 1
+e 2 6 2
+e 2 4 3
+e 2 5 2
+e 2 3 2
+e 2 7 1
+e 3 6 3
+e 3 7 2
+e 3 4 3
+e 3 5 2
+e 4 6 3
+e 4 7 2
+e 4 5 3
+e 5 6 2
+e 5 7 2
+e 6 8 1
+e 6 7 2
+t # 297
+v 0 1 # thermantie
+v 1 1 # eucherius
+v 2 0 # honorius
+v 3 1 # placidie
+v 4 0 # stilicon
+v 5 0 # mutian
+v 6 2 # zenon
+v 7 0 # marcellin
+v 8 1 # lucile
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 2
+e 0 5 1
+e 1 2 3
+e 1 3 2
+e 1 6 1
+e 1 4 2
+e 1 5 1
+e 2 3 2
+e 2 6 1
+e 2 7 2
+e 2 4 3
+e 2 5 2
+e 3 4 3
+e 3 8 2
+e 3 5 1
+e 3 7 2
+e 4 5 2
+e 4 8 1
+e 7 8 1
+t # 298
+v 0 0 # euthar
+v 1 0 # theodat
+v 2 1 # ildegonde
+v 3 1 # amalasonte
+v 4 0 # honoric
+v 5 1 # gepilde
+v 6 0 # ataulphe
+v 7 1 # valmire
+e 0 1 2
+e 0 2 2
+e 1 3 3
+e 1 2 3
+e 1 4 2
+e 2 3 2
+e 2 7 2
+e 2 4 2
+e 3 5 2
+e 3 4 2
+e 3 6 2
+e 5 6 1
+t # 299
+v 0 0 # nicandre
+v 1 0 # arcas
+v 2 2 # cleomene
+v 3 2 # la-reine
+v 4 0 # cresphonte
+v 5 0 # leontidas
+v 6 1 # eriphile
+v 7 1 # doride
+v 8 0 # timocrate
+v 9 0 # trasile
+v 10 2 # trasille
+v 11 1 # cleone
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 1
+e 0 6 2
+e 0 7 2
+e 0 8 2
+e 0 9 1
+e 1 3 2
+e 1 6 2
+e 1 7 1
+e 1 2 1
+e 1 8 1
+e 2 3 2
+e 2 4 1
+e 2 5 1
+e 2 6 2
+e 2 10 1
+e 2 8 1
+e 3 4 1
+e 3 5 1
+e 3 6 2
+e 3 7 1
+e 3 10 1
+e 3 8 2
+e 3 9 1
+e 4 5 1
+e 6 11 3
+e 6 8 2
+e 6 9 1
+e 8 11 1
+e 8 9 1
+t # 300
+v 0 0 # atree
+v 1 2 # eusysthene
+v 2 0 # plisthene
+v 3 0 # alcimedon
+v 4 1 # theodamie
+v 5 0 # thyeste
+v 6 0 # thessandre
+v 7 1 # leonide
+e 0 1 2
+e 0 2 3
+e 0 3 1
+e 0 4 2
+e 0 5 3
+e 2 6 2
+e 2 4 2
+e 2 5 2
+e 4 7 1
+e 4 5 2
+e 5 6 1
+t # 301
+v 0 0 # catilina
+v 1 0 # lentulus
+v 2 0 # probus
+v 3 1 # tullie
+v 4 1 # fulvie
+v 5 0 # ciceron
+v 6 0 # sunnon
+v 7 0 # caton
+v 8 2 # cethegus
+v 9 0 # crassus
+v 10 0 # gontran
+v 11 0 # lucius
+e 0 1 1
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 0 7 1
+e 0 8 2
+e 2 4 1
+e 3 4 1
+e 3 5 1
+e 5 7 2
+e 5 9 1
+e 6 10 1
+e 7 9 1
+e 7 11 1
+t # 302
+v 0 1 # electre
+v 1 0 # arcas
+v 2 0 # itys
+v 3 1 # clytemnestre
+v 4 0 # egisthe
+v 5 2 # tydee
+v 6 0 # oreste
+v 7 0 # palamede
+v 8 1 # iphianasse
+v 9 1 # melite
+v 10 0 # antenor
+e 0 1 1
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 1
+e 0 6 2
+e 0 7 2
+e 0 8 1
+e 1 8 1
+e 2 3 2
+e 2 8 1
+e 3 4 1
+e 3 8 1
+e 3 6 1
+e 4 5 1
+e 5 8 2
+e 5 10 1
+e 5 7 1
+e 5 6 1
+e 6 8 1
+e 6 7 2
+e 8 9 1
+t # 303
+v 0 0 # idomenee
+v 1 0 # sophronyme
+v 2 0 # idamante
+v 3 1 # erixene
+v 4 0 # egesippe
+v 5 0 # polyclete
+v 6 0 # ismene
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 1 4 1
+e 1 2 1
+e 2 3 2
+e 2 5 1
+e 2 6 1
+e 3 6 2
+t # 304
+v 0 0 # glaucias
+v 1 0 # androclide
+v 2 2 # helenus
+v 3 0 # neoptoleme
+v 4 0 # illyrus
+v 5 1 # ericie
+v 6 0 # pyrrhus
+v 7 1 # ismene
+v 8 0 # cyneas
+e 0 1 1
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 1
+e 0 6 1
+e 1 6 1
+e 2 5 2
+e 2 4 2
+e 2 3 1
+e 3 5 2
+e 3 4 1
+e 3 6 2
+e 4 6 1
+e 5 6 1
+e 5 7 1
+e 6 8 1
+t # 305
+v 0 1 # zenobie
+v 1 0 # phenice
+v 2 0 # arsame
+v 3 0 # pharasmane
+v 4 0 # rhadamisthe
+v 5 0 # mitrane
+v 6 0 # hydaspe
+v 7 0 # hieron
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 2 3 2
+e 2 4 2
+e 2 5 2
+e 2 6 1
+e 3 4 2
+e 3 7 1
+e 3 6 2
+e 4 7 2
+t # 306
+v 0 0 # belus
+v 1 0 # madate
+v 2 0 # mermecide
+v 3 1 # semiramis
+v 4 1 # agenor
+v 5 1 # tenesis
+v 6 0 # ninias
+v 7 1 # phenice
+v 8 1 # mirame
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 2 4 2
+e 2 3 1
+e 2 6 1
+e 3 5 2
+e 3 4 2
+e 3 6 2
+e 3 7 2
+e 4 5 2
+e 4 8 2
+e 4 6 1
+e 5 6 1
+t # 307
+v 0 1 # tullie
+v 1 2 # clodomir
+v 2 0 # lepide
+v 3 0 # octave
+v 4 0 # sextus
+v 5 0 # ciceron
+v 6 0 # philippe
+v 7 0 # mecene
+e 0 1 2
+e 0 2 1
+e 0 3 2
+e 0 4 3
+e 0 5 2
+e 0 6 1
+e 1 4 1
+e 2 5 1
+e 3 5 2
+e 3 7 2
+e 3 4 1
+e 4 5 2
+e 4 6 1
+e 5 7 1
+e 5 6 1
+t # 308
+v 0 0 # tysapherne
+v 1 0 # artaban
+v 2 0 # xerces
+v 3 1 # barsine
+v 4 0 # darius
+v 5 0 # artaxerce
+v 6 1 # amestris
+v 7 0 # merodate
+v 8 1 # phenice
+v 9 0 # arsace
+v 10 1 # cleone
+e 0 1 2
+e 0 2 1
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 1 2 1
+e 1 5 2
+e 1 4 2
+e 1 6 1
+e 1 3 1
+e 2 7 1
+e 2 5 1
+e 2 6 2
+e 2 4 2
+e 3 5 1
+e 3 9 1
+e 3 10 1
+e 3 4 2
+e 4 5 3
+e 4 6 3
+e 5 6 2
+e 6 8 1
+t # 309
+v 0 1 # agrippine
+v 1 1 # cornelie
+v 2 0 # sejanus
+v 3 0 # tibere
+v 4 1 # livilla
+v 5 0 # terentius
+v 6 0 # nerva
+e 0 1 2
+e 0 2 3
+e 0 3 2
+e 0 4 1
+e 1 2 1
+e 2 4 2
+e 2 5 2
+e 2 3 2
+e 3 4 2
+e 3 6 2
+e 4 6 1
+t # 310
+v 0 2 # nourrice
+v 1 0 # alvide
+v 2 0 # torrismon
+v 3 0 # gentilhomme
+v 4 0 # conseiller
+v 5 1 # rusille
+v 6 0 # germon
+v 7 1 # rosmonde
+v 8 0 # devin
+v 9 0 # fauston
+v 10 0 # messager
+e 0 1 2
+e 1 2 2
+e 1 3 2
+e 2 4 1
+e 2 3 2
+e 2 5 1
+e 2 6 2
+e 2 7 1
+e 2 8 1
+e 2 9 2
+e 2 10 1
+e 3 6 2
+e 3 5 1
+e 3 7 1
+e 4 6 1
+e 5 7 2
+e 5 6 1
+e 6 7 1
+e 9 10 1
+t # 311
+v 0 0 # cethegus
+v 1 2 # marius
+v 2 1 # arisbe
+v 3 0 # marius-fils
+v 4 0 # caïus-marius
+v 5 0 # hiempsal
+v 6 1 # phenice
+v 7 0 # nerbal
+v 8 0 # numerius
+e 0 1 1
+e 0 2 1
+e 1 2 1
+e 1 3 2
+e 1 4 2
+e 1 5 1
+e 2 6 2
+e 2 3 2
+e 2 5 2
+e 2 4 1
+e 2 7 1
+e 3 4 2
+e 4 8 1
+e 4 5 2
+e 5 7 2
+t # 312
+v 0 2 # luigi
+v 1 1 # thecla
+v 2 0 # marco
+v 3 1 # elci
+v 4 0 # paolo
+v 5 2 # tecla
+e 0 1 3
+e 0 2 3
+e 0 3 2
+e 0 4 3
+e 1 2 2
+e 1 3 2
+e 1 4 3
+e 1 5 1
+e 2 3 2
+e 2 4 3
+e 3 4 3
+e 3 5 1
+e 4 5 1
+t # 313
+v 0 0 # salviati
+v 1 2 # procida
+v 2 2 # salvati
+v 3 0 # loredan
+v 4 2 # amelie
+v 5 2 # montfort
+v 6 0 # philippe-d-aquila
+v 7 2 # oddo
+v 8 1 # elfride
+v 9 2 # gaston
+e 0 1 1
+e 0 2 1
+e 1 2 2
+e 1 3 3
+e 1 4 1
+e 1 5 1
+e 1 6 1
+e 1 7 1
+e 2 3 2
+e 2 6 1
+e 2 7 1
+e 3 4 2
+e 3 5 2
+e 3 6 1
+e 3 7 1
+e 3 8 1
+e 4 5 2
+e 4 8 2
+e 4 9 1
+e 5 9 2
+e 6 7 1
+t # 314
+v 0 0 # eraste
+v 1 0 # soliman
+v 2 1 # herminie
+v 3 1 # perside
+v 4 0 # achmat
+v 5 0 # pirrus
+v 6 0 # haly
+v 7 1 # ormane
+v 8 1 # alcomire
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 1 2 3
+e 1 5 2
+e 1 4 3
+e 1 3 3
+e 1 6 2
+e 1 7 1
+e 2 5 2
+e 2 4 3
+e 2 3 2
+e 2 8 1
+e 2 7 1
+e 3 5 1
+e 3 4 2
+e 3 7 2
+e 3 6 1
+e 4 5 1
+e 4 8 1
+e 4 6 2
+e 5 8 1
+e 5 7 1
+e 5 6 1
+e 6 7 1
+t # 315
+v 0 0 # aquillin
+v 1 0 # diocletian
+v 2 0 # rutile
+v 3 2 # un-garde
+v 4 0 # genest
+v 5 1 # pamphilie
+v 6 0 # aristide
+v 7 1 # luciane
+v 8 0 # anthenor
+e 0 1 3
+e 0 2 2
+e 0 3 1
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 0 7 2
+e 0 8 2
+e 1 2 2
+e 1 3 1
+e 1 4 2
+e 1 5 2
+e 1 6 2
+e 1 8 2
+e 1 7 2
+e 2 3 1
+e 2 4 2
+e 2 5 2
+e 2 6 2
+e 2 8 2
+e 2 7 2
+e 4 8 2
+e 4 6 2
+e 4 7 3
+e 4 5 3
+e 5 8 2
+e 5 6 3
+e 5 7 2
+e 6 8 3
+e 6 7 3
+e 7 8 3
+t # 316
+v 0 1 # semiramis
+v 1 0 # merzabane
+v 2 1 # prazimene
+v 3 0 # ninus
+v 4 0 # oronclide
+v 5 0 # melistrate
+v 6 2 # zenophire
+v 7 0 # cambises
+v 8 0 # palmedon
+e 0 1 3
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 1 2 2
+e 1 3 1
+e 1 6 1
+e 1 4 2
+e 1 7 1
+e 2 8 1
+e 2 5 2
+e 2 4 2
+e 4 8 1
+e 4 6 1
+e 4 7 1
+e 4 5 2
+e 5 8 2
+e 6 7 1
+t # 317
+v 0 1 # eudoxe
+v 1 1 # camile
+v 2 0 # ispar
+v 3 0 # trasimond
+v 4 2 # l-imperatrice
+v 5 0 # genseric
+v 6 1 # sophronie
+v 7 0 # amilcar
+v 8 0 # huneric
+v 9 1 # justine
+v 10 2 # narbal
+e 0 1 1
+e 0 2 1
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 0 7 1
+e 1 4 1
+e 2 5 2
+e 2 8 1
+e 2 6 1
+e 2 9 1
+e 3 10 2
+e 3 6 2
+e 3 5 2
+e 3 8 1
+e 3 4 1
+e 4 6 2
+e 4 5 2
+e 4 8 1
+e 5 6 2
+e 5 9 1
+e 5 8 2
+e 5 7 2
+e 6 9 2
+t # 318
+v 0 1 # mimy
+v 1 0 # marmuse
+v 2 0 # cafar
+v 3 2 # choeur-de-chats
+v 4 1 # grisette
+v 5 0 # l-amour
+e 0 1 2
+e 0 2 1
+e 0 3 2
+e 0 4 1
+e 1 2 1
+e 1 3 2
+e 1 4 1
+e 2 3 1
+e 3 4 1
+e 3 5 1
+t # 319
+v 0 1 # ismene
+v 1 1 # antigone
+v 2 0 # creon
+v 3 0 # hemon
+v 4 2 # un-thebain
+v 5 2 # plusieurs-ensemble
+v 6 0 # tiresias
+v 7 2 # l-officier
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 1
+e 0 6 1
+e 1 3 2
+e 1 2 2
+e 1 4 1
+e 1 5 1
+e 1 6 1
+e 2 3 3
+e 2 4 1
+e 2 5 1
+e 2 7 2
+e 2 6 2
+e 3 4 1
+e 3 5 1
+e 3 6 1
+e 4 5 1
+e 6 7 1
+t # 320
+v 0 1 # marcie
+v 1 1 # barsine
+v 2 0 # manlius
+v 3 0 # priscus
+v 4 0 # regulus
+v 5 0 # licinius
+v 6 0 # attilius
+e 0 1 1
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 2 3 1
+e 2 4 2
+e 2 5 2
+e 2 6 1
+e 3 4 1
+e 4 5 2
+e 4 6 1
+t # 321
+v 0 1 # lydie
+v 1 1 # theoxene
+v 2 1 # dioclee
+v 3 2 # le-roi
+v 4 0 # alcionee
+v 5 0 # alcire
+v 6 0 # achate
+v 7 0 # callisthene
+e 0 1 2
+e 0 2 3
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 1 2 2
+e 2 3 1
+e 3 4 2
+e 3 5 2
+e 3 7 2
+e 4 6 2
+e 4 5 2
+e 4 7 2
+e 5 7 2
+e 6 7 1
+t # 322
+v 0 1 # esther
+v 1 1 # thamar
+v 2 0 # mardochee
+v 3 0 # haman
+v 4 2 # le-roi
+v 5 1 # vasthi
+v 6 0 # zethar
+v 7 0 # thares
+v 8 2 # tharsis
+e 0 1 2
+e 0 2 3
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 1 2 2
+e 2 4 2
+e 2 5 1
+e 2 3 2
+e 2 6 1
+e 3 7 2
+e 3 5 1
+e 3 4 2
+e 3 6 2
+e 3 8 1
+e 4 5 1
+e 4 6 1
+e 5 7 1
+t # 323
+v 0 0 # tarquin
+v 1 0 # collatin
+v 2 0 # brute
+v 3 0 # libane
+v 4 1 # lucrece
+v 5 0 # le-pere
+v 6 1 # livie
+v 7 1 # cornelie
+v 8 0 # procule
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 1 2 2
+e 1 4 2
+e 1 5 2
+e 1 6 1
+e 2 4 2
+e 2 5 2
+e 2 6 1
+e 3 6 2
+e 3 4 1
+e 3 7 1
+e 4 6 2
+e 4 7 2
+e 4 5 1
+e 5 6 1
+e 6 7 2
+e 6 8 1
+e 7 8 1
+t # 324
+v 0 0 # saül
+v 1 1 # michol
+v 2 0 # jonathas
+v 3 0 # abner
+v 4 0 # phalti
+v 5 1 # la-pythonisse
+v 6 2 # l-ombre
+v 7 2 # l-ecuyer
+v 8 0 # achas
+e 0 1 3
+e 0 2 3
+e 0 3 3
+e 0 4 3
+e 0 5 2
+e 0 6 1
+e 0 7 1
+e 1 2 2
+e 1 3 2
+e 1 4 2
+e 2 3 2
+e 2 4 2
+e 2 8 1
+e 2 7 1
+e 3 4 3
+e 3 5 1
+e 3 8 1
+e 4 5 1
+e 4 8 1
+t # 325
+v 0 0 # tarquin
+v 1 0 # porsenne
+v 2 0 # marcile
+v 3 0 # arons
+v 4 0 # licine
+v 5 1 # junie
+v 6 0 # scevole
+v 7 1 # fulvie
+e 0 1 3
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 2
+e 0 6 2
+e 1 3 3
+e 1 4 1
+e 1 5 2
+e 1 2 2
+e 1 6 2
+e 2 3 2
+e 2 5 2
+e 2 6 2
+e 3 4 1
+e 3 5 3
+e 3 6 2
+e 4 5 1
+e 5 7 2
+e 5 6 2
+e 6 7 1
+t # 326
+v 0 0 # hydaspe
+v 1 1 # roxane
+v 2 1 # mandane
+v 3 0 # artabaze
+v 4 0 # themistocle
+v 5 1 # palmis
+v 6 0 # xerces
+v 7 2 # le-roi
+v 8 0 # pharnaspe
+e 0 1 1
+e 1 2 3
+e 1 3 2
+e 1 4 2
+e 1 5 1
+e 2 3 3
+e 2 4 2
+e 2 6 1
+e 2 7 2
+e 2 5 1
+e 3 5 2
+e 3 8 1
+e 3 4 2
+e 3 6 1
+e 3 7 3
+e 4 6 1
+e 4 7 2
+e 4 5 2
+e 5 7 1
+e 6 7 1
+t # 327
+v 0 0 # achitophel
+v 1 0 # absalon
+v 2 0 # david
+v 3 0 # joab
+v 4 0 # zamri
+v 5 2 # cisai
+v 6 1 # thares
+v 7 1 # thamar
+v 8 2 # la-reine
+v 9 2 # l-israelite
+e 0 1 3
+e 0 2 2
+e 0 3 1
+e 0 4 2
+e 0 5 1
+e 1 2 3
+e 1 3 1
+e 1 4 2
+e 1 6 2
+e 1 7 2
+e 1 5 2
+e 2 3 2
+e 2 6 2
+e 2 5 2
+e 2 8 2
+e 2 7 1
+e 3 8 1
+e 3 6 1
+e 3 5 1
+e 5 6 2
+e 5 7 2
+e 5 8 1
+e 6 7 2
+e 6 8 2
+e 6 9 1
+e 7 8 1
+t # 328
+v 0 0 # le-veilleur
+v 1 0 # le-choeur-des-vieillards
+v 2 1 # clytemnestre
+v 3 0 # talthybios
+v 4 1 # cassandre
+v 5 2 # premier-demi-choeur
+v 6 2 # second-demi-choeur
+v 7 0 # egisthe
+v 8 0 # agamemnon
+e 0 1 1
+e 1 2 2
+e 1 3 1
+e 1 4 1
+e 1 5 1
+e 1 6 1
+e 1 7 1
+e 2 3 1
+e 2 8 1
+e 2 5 1
+e 2 6 1
+e 2 7 1
+e 5 8 1
+e 5 6 2
+e 6 8 1
+t # 329
+v 0 2 # apollon
+v 1 0 # oreste
+v 2 1 # le-choeur-des-eumenides
+v 3 1 # athena
+v 4 1 # le-spectre-de-clytemnestre
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 1 2 2
+e 1 3 2
+e 2 4 1
+e 2 3 2
+t # 330
+v 0 0 # oreste
+v 1 1 # electre
+v 2 2 # le-choeur-des-khoephores
+v 3 0 # le-portier
+v 4 0 # clytemnestre
+v 5 0 # pylade
+v 6 2 # gilissa
+v 7 0 # egisthe
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 1 2 2
+e 1 3 1
+e 1 4 1
+e 2 3 1
+e 2 4 1
+e 2 6 1
+e 2 7 1
+e 3 4 2
+e 3 5 1
+e 4 5 1
+t # 331
+v 0 0 # eteocle
+v 1 0 # l-eclaireur
+v 2 1 # le-choeur-des-vierges
+v 3 2 # premier-demi-choeur
+v 4 2 # second-demi-choeur
+v 5 0 # le-messager
+v 6 1 # antigone
+v 7 1 # ismene
+v 8 0 # le-heraut
+e 0 1 2
+e 0 2 2
+e 1 2 2
+e 2 3 2
+e 2 4 2
+e 2 5 1
+e 2 6 2
+e 2 7 1
+e 2 8 1
+e 3 4 2
+e 3 5 1
+e 3 8 1
+e 3 6 1
+e 4 5 1
+e 4 8 1
+e 4 6 1
+e 6 7 1
+e 6 8 1
+t # 332
+v 0 1 # andromaque
+v 1 2 # l-esclave
+v 2 2 # le-choeur
+v 3 1 # hermione
+v 4 0 # menelas
+v 5 0 # molossus
+v 6 0 # pelee
+v 7 1 # la-nourrice
+v 8 0 # oreste
+v 9 0 # le-messager
+v 10 0 # thetis
+e 0 1 1
+e 0 2 2
+e 0 3 1
+e 0 4 2
+e 0 5 1
+e 0 6 2
+e 0 7 1
+e 2 3 2
+e 2 4 2
+e 2 5 1
+e 2 6 2
+e 2 7 2
+e 2 8 1
+e 2 9 1
+e 2 10 1
+e 3 7 1
+e 3 8 1
+e 4 5 1
+e 4 6 1
+e 6 7 1
+e 6 9 1
+e 6 10 1
+t # 333
+v 0 0 # silene
+v 1 2 # le-choeur
+v 2 0 # ulysse
+v 3 2 # polypheme
+v 4 2 # demi-choeur
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 1 2 3
+e 1 3 2
+e 1 4 2
+e 2 3 2
+e 2 4 2
+e 3 4 1
+t # 334
+v 0 2 # le-laboureur
+v 1 1 # electre
+v 2 0 # oreste
+v 3 2 # le-choeur
+v 4 2 # le-vieillard
+v 5 2 # le-messager
+v 6 1 # clytemnestre
+v 7 0 # les-dioscures
+e 0 1 2
+e 0 2 1
+e 0 3 1
+e 1 3 3
+e 1 2 3
+e 1 4 2
+e 1 5 1
+e 1 6 1
+e 1 7 1
+e 2 3 3
+e 2 4 1
+e 2 7 1
+e 3 4 1
+e 3 5 1
+e 3 6 1
+e 3 7 1
+t # 335
+v 0 1 # helene
+v 1 1 # teucer
+v 2 1 # le-choeur
+v 3 0 # menelas
+v 4 2 # le-messager
+v 5 1 # theonoe
+v 6 1 # theoclymene
+v 7 2 # les-dioscures
+v 8 2 # la-vieille-femme
+e 0 1 1
+e 0 2 3
+e 0 3 3
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 2 3 3
+e 2 4 2
+e 2 5 1
+e 2 6 2
+e 2 7 1
+e 3 8 1
+e 3 4 2
+e 3 5 1
+e 3 6 1
+e 4 6 1
+e 6 7 1
+t # 336
+v 0 0 # iolas
+v 1 0 # copree
+v 2 0 # le-choeur
+v 3 0 # demophon
+v 4 0 # macarie
+v 5 2 # le-serviteur
+v 6 0 # alcmene
+v 7 2 # le-messager
+v 8 0 # eurysthee
+e 0 1 2
+e 0 2 3
+e 0 3 2
+e 0 4 1
+e 0 5 2
+e 0 6 1
+e 1 2 2
+e 1 3 1
+e 2 3 2
+e 2 4 1
+e 2 6 2
+e 2 5 2
+e 2 7 2
+e 2 8 1
+e 5 6 2
+e 5 7 1
+e 6 7 2
+e 6 8 1
+e 7 8 1
+t # 337
+v 0 0 # amphitryon
+v 1 1 # megare
+v 2 2 # le-choeur
+v 3 0 # lycus
+v 4 0 # hercule
+v 5 2 # demi-choeur
+v 6 2 # le-messager
+v 7 0 # thesee
+v 8 1 # iris
+v 9 1 # lyssa
+e 0 1 2
+e 0 2 3
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 0 7 1
+e 1 2 2
+e 1 3 1
+e 1 4 1
+e 2 3 2
+e 2 4 2
+e 2 5 1
+e 2 8 1
+e 2 9 1
+e 2 6 1
+e 2 7 1
+e 3 5 1
+e 4 7 1
+e 8 9 1
+t # 338
+v 0 0 # hippolyte
+v 1 2 # les-suivants
+v 2 2 # le-serviteur
+v 3 2 # le-choeur
+v 4 1 # phedre
+v 5 2 # la-nourrice
+v 6 0 # thesee
+v 7 1 # diane
+v 8 2 # le-messager
+v 9 2 # demi-choeur
+e 0 1 1
+e 0 2 1
+e 0 3 2
+e 0 4 1
+e 0 5 1
+e 0 6 2
+e 0 7 1
+e 1 2 1
+e 3 5 2
+e 3 4 2
+e 3 8 2
+e 3 9 1
+e 3 6 2
+e 3 7 1
+e 4 5 2
+e 6 8 1
+e 6 7 1
+e 8 9 1
+t # 339
+v 0 1 # augusta
+v 1 1 # fulvie
+v 2 0 # agathocle
+v 3 0 # domitius
+v 4 0 # maxime
+e 0 1 2
+e 0 2 3
+e 0 3 3
+e 0 4 2
+e 1 4 2
+e 1 2 1
+e 2 3 2
+e 2 4 2
+e 3 4 2
+t # 340
+v 0 0 # philotas
+v 1 0 # sitalce
+v 2 1 # alexandre
+v 3 0 # ephestion
+v 4 1 # ophis
+v 5 1 # sysigambis
+v 6 1 # statira
+v 7 2 # le-soldat
+v 8 2 # le-capitaine
+v 9 0 # nicandre
+v 10 1 # zonime
+v 11 1 # zaminte
+e 0 1 2
+e 0 2 1
+e 0 3 2
+e 0 4 1
+e 0 5 2
+e 0 6 1
+e 0 7 1
+e 1 4 2
+e 1 5 1
+e 1 2 2
+e 2 3 2
+e 2 8 2
+e 2 5 2
+e 2 4 2
+e 2 9 1
+e 3 5 1
+e 3 6 1
+e 3 4 1
+e 4 8 1
+e 4 10 2
+e 4 5 2
+e 4 6 3
+e 4 9 2
+e 5 10 1
+e 5 6 2
+e 5 7 1
+e 5 11 1
+e 6 8 1
+e 6 10 2
+e 6 7 1
+e 6 11 1
+t # 341
+v 0 0 # miltiade
+v 1 0 # themistocle
+v 2 0 # artaban
+v 3 0 # xerxes
+v 4 0 # aristide
+v 5 0 # parmenis
+v 6 1 # roxane
+v 7 0 # hydaspe
+e 0 1 3
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 1 2 2
+e 1 3 3
+e 1 4 2
+e 1 5 1
+e 1 6 1
+e 2 7 2
+e 2 3 2
+e 2 6 2
+e 2 5 2
+e 2 4 2
+e 3 7 1
+e 3 4 2
+e 3 6 2
+e 3 5 1
+e 4 5 2
+t # 342
+v 0 1 # azaneth
+v 1 1 # thermutis
+v 2 0 # joseph
+v 3 0 # thiamis
+v 4 0 # hely
+v 5 0 # simeon
+v 6 0 # ruben
+v 7 0 # juda
+v 8 0 # benjamin
+v 9 2 # officier
+v 10 0 # pharaon
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 1 2 1
+e 2 4 2
+e 2 5 2
+e 2 3 2
+e 2 6 3
+e 2 7 3
+e 2 8 2
+e 2 9 1
+e 2 10 1
+e 3 4 1
+e 3 6 1
+e 3 7 1
+e 5 6 2
+e 5 7 2
+e 5 8 1
+e 6 7 3
+e 6 8 2
+e 6 9 1
+e 7 8 2
+e 7 9 1
+e 8 9 1
+t # 343
+v 0 1 # penelope
+v 1 1 # eurinome
+v 2 1 # ericlee
+v 3 0 # eumee
+v 4 0 # eurimaque
+v 5 2 # antinous
+v 6 0 # telemaque
+v 7 0 # ulysse
+v 8 1 # iphise
+v 9 0 # arcas
+v 10 1 # argine
+e 0 1 2
+e 0 2 3
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 2
+e 0 7 1
+e 0 8 1
+e 1 2 1
+e 2 4 2
+e 2 6 1
+e 3 6 2
+e 3 7 2
+e 4 5 2
+e 4 9 1
+e 4 6 2
+e 5 9 2
+e 5 6 1
+e 6 8 2
+e 6 7 2
+e 8 10 1
+t # 344
+v 0 1 # dianasse
+v 1 2 # argesime
+v 2 1 # phebide
+v 3 0 # acorate
+v 4 1 # zelonide
+v 5 2 # mandricidas
+v 6 2 # phillus
+v 7 0 # lisimacus
+v 8 0 # officier
+v 9 1 # archidamie
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 1 3 1
+e 1 5 1
+e 1 6 1
+e 3 7 2
+e 3 5 2
+e 3 6 1
+e 3 8 1
+e 3 4 2
+e 4 5 2
+e 4 9 2
+e 5 6 1
+e 5 8 1
+t # 345
+v 0 2 # choeur-des-amours
+v 1 1 # diane
+v 2 1 # la-nuit
+v 3 0 # endymion
+v 4 1 # l-aurore
+v 5 0 # apollon
+v 6 2 # premiere-nymphe
+v 7 2 # deuxieme-nymphe
+v 8 2 # troisieme-nymphe
+v 9 2 # quatrieme-nymphe
+v 10 0 # mercure
+v 11 0 # cephale
+v 12 0 # scamandre
+v 13 0 # phocion
+v 14 0 # adraste
+e 0 1 1
+e 0 2 1
+e 1 2 2
+e 1 3 2
+e 1 4 1
+e 1 5 1
+e 1 6 1
+e 1 7 1
+e 1 8 1
+e 1 9 1
+e 1 10 2
+e 1 11 1
+e 2 3 2
+e 2 6 1
+e 2 7 1
+e 2 8 1
+e 2 9 1
+e 2 11 1
+e 3 11 2
+e 3 12 1
+e 3 13 1
+e 3 14 1
+e 3 4 1
+e 3 10 1
+e 3 5 1
+e 5 10 1
+e 6 7 1
+e 6 8 1
+e 6 9 1
+e 7 8 1
+e 7 9 1
+e 8 9 1
+e 11 12 1
+e 11 13 1
+e 11 14 1
+e 12 13 1
+e 12 14 1
+e 13 14 1
+t # 346
+v 0 1 # sosarme
+v 1 2 # orphise
+v 2 1 # ctesiphonte
+v 3 1 # ninus
+v 4 1 # menon
+v 5 1 # semiramis
+v 6 1 # orondate
+v 7 1 # phorbas
+v 8 1 # cambise
+v 9 1 # barsine
+v 10 2 # orante
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 1
+e 1 3 1
+e 1 2 1
+e 1 5 1
+e 2 3 2
+e 2 5 2
+e 2 6 1
+e 2 7 1
+e 3 5 2
+e 3 4 2
+e 3 8 1
+e 3 6 1
+e 3 7 1
+e 4 5 1
+e 5 9 1
+e 5 10 1
+e 5 6 1
+e 5 7 1
+e 6 7 1
+t # 347
+v 0 0 # theodat
+v 1 2 # l-orgue
+v 2 2 # les-clercs
+v 3 0 # martial
+v 4 0 # flavien
+v 5 0 # paulin
+v 6 0 # tiburce
+v 7 0 # valere
+v 8 2 # le-portier
+v 9 0 # maximienne
+e 0 1 1
+e 0 2 1
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 0 6 1
+e 0 7 1
+e 0 8 1
+e 0 9 1
+e 1 2 1
+e 1 3 1
+e 1 4 1
+e 1 5 1
+e 1 6 1
+e 1 7 1
+e 1 8 1
+e 1 9 1
+e 2 3 1
+e 2 4 1
+e 2 5 1
+e 2 6 1
+e 2 7 1
+e 2 8 1
+e 2 9 1
+e 3 4 1
+e 3 5 1
+e 3 6 1
+e 3 7 1
+e 3 8 1
+e 3 9 1
+e 4 5 1
+e 4 6 1
+e 4 7 1
+e 4 8 1
+e 4 9 1
+e 5 6 1
+e 5 7 1
+e 5 8 1
+e 5 9 1
+e 6 7 1
+e 6 8 1
+e 6 9 1
+e 7 8 1
+e 7 9 1
+e 8 9 1
+t # 348
+v 0 1 # alzonde
+v 1 1 # amelie
+v 2 0 # volfax
+v 3 0 # vorcestre
+v 4 2 # edouard
+v 5 1 # eugenie
+v 6 0 # arondel
+v 7 0 # glaston
+v 8 1 # ismene
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 2 4 2
+e 2 5 1
+e 2 3 2
+e 2 6 1
+e 3 4 2
+e 3 5 2
+e 3 6 2
+e 3 7 1
+e 4 5 2
+e 4 7 2
+e 4 6 2
+e 5 8 2
+e 5 6 2
+e 6 7 1
+t # 349
+v 0 0 # cesar
+v 1 0 # marc-antoine
+v 2 1 # calpurnie
+v 3 1 # la-nourrice
+v 4 0 # decime-brute
+v 5 0 # marc-brute
+v 6 0 # cassius
+v 7 2 # le-premier-soldat
+v 8 2 # le-second-soldat
+v 9 2 # le-troisieme-soldat
+v 10 2 # le-quatrieme-soldat
+v 11 0 # le-messager
+e 0 1 1
+e 0 2 1
+e 0 3 1
+e 0 4 1
+e 1 5 1
+e 1 6 1
+e 1 4 1
+e 1 7 1
+e 1 8 1
+e 2 4 1
+e 2 3 2
+e 2 11 1
+e 3 4 1
+e 3 11 1
+e 4 7 1
+e 4 8 1
+e 4 5 2
+e 4 6 2
+e 5 7 1
+e 5 8 1
+e 5 6 2
+e 6 7 1
+e 6 8 1
+e 7 8 2
+e 7 9 2
+e 7 10 2
+e 8 9 2
+e 8 10 2
+e 9 10 2
+t # 350
+v 0 0 # lothaire
+v 1 0 # gontier
+v 2 0 # raimond
+v 3 0 # valrade
+v 4 0 # arsene
+v 5 2 # emirene
+v 6 1 # morange
+e 0 1 2
+e 0 2 3
+e 0 3 3
+e 0 4 2
+e 0 5 2
+e 1 2 1
+e 2 3 2
+e 2 4 2
+e 2 5 2
+e 3 5 3
+e 3 6 2
+e 3 4 2
+e 4 5 3
+t # 351
+v 0 0 # brute
+v 1 2 # premier-chef
+v 2 0 # cassie
+v 3 2 # le-genie
+v 4 1 # porcie
+v 5 2 # second-chef
+v 6 2 # troisieme-chef
+v 7 0 # titine
+v 8 2 # suite
+v 9 2 # un-de-la-suite
+v 10 0 # straton
+v 11 2 # l-un-des-amis
+v 12 2 # l-autre-ami
+v 13 0 # marc-antoine
+v 14 0 # pindare
+v 15 0 # demetrie
+v 16 2 # la-compagne
+v 17 2 # premier-des-amis
+v 18 2 # les-deux-amis
+v 19 2 # un-de-la-suite-d-antoine
+v 20 2 # le-medecin
+v 21 0 # octave
+v 22 2 # antoine
+v 23 2 # le-soldat
+e 0 1 2
+e 0 2 1
+e 0 3 1
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 0 7 2
+e 0 8 1
+e 0 9 1
+e 0 10 2
+e 0 11 1
+e 0 12 1
+e 1 13 1
+e 1 5 2
+e 1 6 2
+e 2 7 2
+e 2 14 2
+e 2 15 2
+e 4 16 2
+e 4 17 1
+e 4 18 1
+e 5 13 1
+e 5 6 2
+e 6 13 1
+e 7 14 1
+e 7 15 1
+e 7 8 1
+e 7 9 1
+e 8 9 1
+e 10 11 1
+e 10 12 1
+e 11 12 1
+e 13 19 1
+e 13 20 1
+e 13 21 1
+e 14 15 2
+e 15 21 1
+e 15 22 1
+e 17 18 1
+e 19 20 1
+e 21 22 2
+e 21 23 2
+e 22 23 2
+t # 352
+v 0 1 # iphigenie
+v 1 1 # ismenie
+v 2 1 # eumene
+v 3 0 # thoas
+v 4 0 # oreste
+v 5 0 # pylade
+v 6 2 # l-esclave
+v 7 0 # arbas
+e 0 1 3
+e 0 2 3
+e 0 3 2
+e 0 4 3
+e 0 5 2
+e 0 6 1
+e 0 7 1
+e 1 2 2
+e 1 6 1
+e 3 7 2
+e 3 4 2
+e 4 5 3
+e 4 7 1
+t # 353
+v 0 0 # meleagre
+v 1 0 # aristandre
+v 2 2 # choeur-de-peuple
+v 3 2 # troupe-de-paysans
+v 4 0 # premier-veneur
+v 5 0 # second-veneur
+v 6 0 # thesee
+v 7 0 # pirithois
+v 8 0 # lyncee
+v 9 2 # plexipe
+v 10 0 # toxee
+v 11 1 # atalante
+v 12 2 # veneur
+v 13 0 # idmon
+v 14 2 # choeur-de-filles
+v 15 0 # messager
+v 16 2 # choeur
+v 17 1 # altee
+v 18 1 # nourrice
+e 0 1 1
+e 0 2 1
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 0 6 2
+e 0 7 2
+e 0 8 2
+e 0 9 2
+e 0 10 2
+e 0 11 2
+e 0 12 1
+e 0 13 1
+e 0 14 1
+e 1 2 1
+e 1 3 1
+e 1 4 1
+e 1 5 1
+e 2 3 1
+e 2 4 1
+e 2 5 1
+e 2 15 1
+e 2 16 1
+e 3 4 1
+e 3 5 1
+e 4 5 1
+e 6 11 1
+e 6 7 2
+e 6 8 2
+e 6 9 2
+e 6 10 2
+e 6 12 1
+e 6 13 1
+e 7 11 1
+e 7 8 2
+e 7 9 2
+e 7 10 2
+e 7 12 1
+e 7 13 1
+e 8 11 1
+e 8 9 2
+e 8 10 2
+e 8 12 1
+e 8 13 1
+e 9 11 2
+e 9 14 2
+e 9 16 1
+e 9 10 2
+e 9 13 1
+e 10 11 2
+e 10 14 2
+e 10 16 1
+e 10 13 1
+e 11 14 2
+e 11 16 2
+e 11 12 1
+e 13 17 1
+e 13 18 1
+e 14 16 2
+e 15 16 1
+e 17 18 2
+t # 354
+v 0 0 # agon
+v 1 0 # sinan
+v 2 1 # fatime
+v 3 0 # abdul
+v 4 0 # hassan
+v 5 0 # saint-martin
+v 6 0 # ibrahim
+v 7 1 # nadine
+v 8 0 # sadi
+v 9 2 # stenvic
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 0 7 1
+e 1 3 2
+e 1 4 1
+e 1 6 1
+e 2 7 2
+e 2 4 2
+e 2 3 1
+e 2 5 2
+e 2 6 2
+e 2 8 1
+e 3 4 1
+e 3 9 1
+e 4 7 1
+e 6 7 1
+t # 355
+v 0 0 # cethegus
+v 1 0 # marius
+v 2 1 # arisbe
+v 3 0 # caius-marius
+v 4 0 # hiempsal
+v 5 1 # phenice
+v 6 0 # nerbal
+v 7 2 # nemurius
+v 8 0 # numerius
+e 0 1 1
+e 0 2 1
+e 1 2 2
+e 1 3 2
+e 1 4 1
+e 2 5 2
+e 2 4 2
+e 2 3 1
+e 2 6 1
+e 3 7 1
+e 3 8 1
+e 3 4 2
+e 4 6 2
+e 7 8 1
+t # 356
+v 0 0 # bajazet
+v 1 0 # soliman
+v 2 1 # aspasie
+v 3 1 # roxelane
+v 4 2 # le-capigi
+v 5 0 # hazan
+v 6 0 # le-mufti
+v 7 0 # acomat
+v 8 0 # un-capigi
+v 9 0 # ibrahim
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 1 4 2
+e 1 5 2
+e 1 3 2
+e 1 6 2
+e 1 7 2
+e 1 2 2
+e 1 8 2
+e 1 9 1
+e 2 5 1
+e 3 6 1
+e 4 5 1
+e 4 7 1
+e 4 9 1
+e 4 8 1
+e 6 7 1
+e 7 9 1
+e 7 8 1
+e 8 9 1
+t # 357
+v 0 1 # cleopatre
+v 1 0 # eras
+v 2 2 # le-choeur
+v 3 0 # charmium
+v 4 2 # choeur-de-femmes-alexandrines
+v 5 2 # octavien
+v 6 0 # seleuque
+v 7 0 # agrippe
+v 8 0 # proculee
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 1
+e 0 6 1
+e 1 2 2
+e 1 3 2
+e 1 4 1
+e 2 3 2
+e 2 4 1
+e 2 5 2
+e 2 7 1
+e 2 8 2
+e 2 6 1
+e 3 4 1
+e 5 7 1
+e 5 8 1
+e 5 6 1
+e 7 8 1
+t # 358
+v 0 0 # achate
+v 1 0 # ascaigne
+v 2 0 # palinure
+v 3 0 # enee
+v 4 2 # le-choeur-des-troyens
+v 5 1 # didon
+v 6 1 # anne
+v 7 2 # le-choeur
+v 8 0 # barce
+e 0 1 1
+e 0 2 1
+e 0 3 2
+e 0 4 1
+e 0 5 1
+e 0 6 1
+e 0 7 1
+e 1 2 1
+e 1 3 1
+e 1 4 1
+e 2 3 1
+e 2 4 1
+e 3 4 1
+e 3 5 2
+e 3 7 2
+e 3 6 2
+e 5 7 2
+e 5 6 2
+e 5 8 2
+e 6 7 2
+e 6 8 1
+e 7 8 2
+t # 359
+v 0 1 # elisabeth
+v 1 0 # le-comte-d-essex
+v 2 1 # alix
+v 3 2 # le-capitaine-des-gardes
+v 4 0 # cecile
+v 5 2 # le-comte-de-salisbury
+v 6 1 # madame-cecile
+v 7 2 # l-huissier
+v 8 0 # le-comte-de-soubtantonne
+v 9 0 # raleig
+v 10 1 # leonore
+v 11 2 # le-capitaine
+v 12 0 # popham
+e 0 1 1
+e 0 2 3
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 0 6 2
+e 0 7 1
+e 0 8 1
+e 0 9 1
+e 0 10 2
+e 1 8 2
+e 1 11 2
+e 1 9 2
+e 1 6 2
+e 1 4 1
+e 1 12 1
+e 2 3 1
+e 2 10 1
+e 2 6 1
+e 4 8 1
+e 4 5 1
+e 4 12 1
+e 4 9 1
+e 4 6 2
+e 8 11 1
+e 8 12 1
+e 8 9 2
+e 9 11 1
+e 9 12 1
+t # 360
+v 0 1 # glaphira
+v 1 0 # alexandre
+v 2 0 # aristobule
+v 3 1 # salome
+v 4 0 # herode
+v 5 1 # rachel
+v 6 0 # melas
+v 7 0 # pherore
+v 8 0 # diophante
+v 9 0 # antipatre
+e 0 1 2
+e 0 2 1
+e 0 3 1
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 1 4 2
+e 1 7 1
+e 1 2 2
+e 1 5 1
+e 1 6 1
+e 1 8 1
+e 2 4 2
+e 2 9 1
+e 2 8 1
+e 3 4 2
+e 3 9 1
+e 4 7 1
+e 4 9 2
+e 4 8 2
+e 4 6 2
+e 4 5 1
+e 5 6 1
+e 6 9 1
+e 6 8 1
+e 8 9 2
+t # 361
+v 0 0 # hermenegilde
+v 1 0 # gontran
+v 2 0 # sigeric
+v 3 1 # indegonde
+v 4 0 # recarede
+v 5 2 # mathilde
+v 6 0 # atalaric
+v 7 0 # godomar
+v 8 0 # levigilde
+v 9 1 # hildegarde
+v 10 1 # goisinte
+v 11 0 # un-huissier
+e 0 1 2
+e 0 2 1
+e 0 3 3
+e 0 4 2
+e 0 5 1
+e 0 6 2
+e 0 7 1
+e 0 8 1
+e 1 2 1
+e 1 3 1
+e 2 3 2
+e 2 9 1
+e 2 7 1
+e 3 4 2
+e 3 8 1
+e 3 5 1
+e 3 7 2
+e 3 6 1
+e 3 9 2
+e 4 8 2
+e 4 10 1
+e 4 5 2
+e 5 8 1
+e 6 8 2
+e 6 10 2
+e 6 7 2
+e 6 11 1
+e 7 8 2
+e 7 10 2
+e 7 11 1
+e 7 9 2
+e 8 10 2
+e 8 11 1
+e 10 11 1
+t # 362
+v 0 2 # le-comte-de-clocestre
+v 1 0 # le-comte-d-arondel
+v 2 0 # un-anglais
+v 3 0 # le-duc-de-northbelant
+v 4 1 # jeanne
+v 5 0 # gilfort
+v 6 1 # marie
+v 7 2 # le-duc-de-nolfoc
+v 8 1 # elisabeth
+v 9 2 # le-chancelier
+v 10 2 # le-marquis-de-vincetre
+v 11 2 # l-huissier-du-cabinet
+v 12 2 # le-soldat
+v 13 0 # le-capitaine-des-gardes
+v 14 1 # eleonor
+v 15 0 # le-comte-d-erby
+e 0 1 1
+e 0 2 1
+e 0 3 2
+e 0 4 1
+e 0 5 2
+e 0 6 2
+e 0 7 2
+e 0 8 2
+e 0 9 1
+e 0 10 1
+e 0 11 1
+e 1 2 1
+e 1 5 1
+e 1 4 1
+e 3 5 3
+e 3 4 2
+e 3 12 1
+e 3 9 1
+e 3 7 1
+e 3 10 1
+e 3 13 1
+e 4 5 3
+e 4 12 1
+e 4 6 1
+e 4 14 2
+e 4 13 2
+e 4 15 1
+e 5 12 1
+e 5 9 1
+e 5 7 1
+e 5 10 1
+e 5 13 2
+e 5 14 1
+e 6 7 2
+e 6 8 2
+e 6 11 1
+e 6 14 1
+e 6 15 1
+e 7 8 2
+e 7 9 1
+e 7 10 1
+e 7 11 1
+e 8 11 1
+e 9 10 1
+e 13 14 2
+e 14 15 1
+t # 363
+v 0 0 # pompee
+v 1 0 # pharnace
+v 2 0 # emile
+v 3 0 # un-soldat
+v 4 1 # berenice
+v 5 0 # mithridate
+v 6 1 # mithridatie
+v 7 1 # nise
+v 8 1 # hypsicratee
+v 9 0 # menandre
+e 0 1 2
+e 1 2 2
+e 1 3 1
+e 1 4 1
+e 1 5 1
+e 1 6 1
+e 1 7 1
+e 1 8 1
+e 1 9 1
+e 2 9 1
+e 4 5 2
+e 4 8 2
+e 4 6 2
+e 4 7 2
+e 5 8 3
+e 5 9 2
+e 5 6 2
+e 5 7 2
+e 6 8 2
+e 6 7 3
+e 7 8 2
+t # 364
+v 0 0 # philoxene
+v 1 1 # helene
+v 2 1 # cleone
+v 3 2 # un-huissier
+v 4 0 # timandre
+v 5 0 # phalante
+v 6 1 # aminte
+v 7 0 # arbante
+v 8 0 # cleomede
+v 9 0 # arate
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 0 7 2
+e 0 8 1
+e 1 2 2
+e 1 3 1
+e 1 5 2
+e 1 6 2
+e 1 8 2
+e 1 9 2
+e 1 4 2
+e 1 7 1
+e 2 3 1
+e 2 5 2
+e 2 8 1
+e 2 7 1
+e 4 5 2
+e 4 8 2
+e 4 9 1
+e 4 7 2
+e 5 7 2
+e 5 8 2
+e 5 6 1
+e 6 7 1
+e 7 8 2
+e 8 9 2
+t # 365
+v 0 2 # zulemar
+v 1 0 # osmar
+v 2 0 # abendax
+v 3 0 # abderamen
+v 4 1 # fatime
+v 5 0 # alamir
+v 6 2 # zindarise
+v 7 0 # gazul
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 1 5 2
+e 1 3 1
+e 3 5 2
+e 3 4 2
+e 4 5 2
+e 4 6 1
+e 5 7 2
+t # 366
+v 0 1 # lydie
+v 1 1 # briseis
+v 2 0 # achille
+v 3 0 # patrocle
+v 4 0 # ulysse
+v 5 0 # ajax
+v 6 0 # phoenix
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 1 2 2
+e 2 3 2
+e 2 4 1
+e 2 5 1
+e 2 6 2
+e 3 6 1
+e 4 5 1
+t # 367
+v 0 0 # manlius
+v 1 0 # albin
+v 2 0 # proculus
+v 3 0 # valerius
+v 4 0 # servilius
+v 5 0 # rutile
+v 6 1 # valerie
+v 7 1 # tullie
+e 0 1 2
+e 0 2 1
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 1 4 2
+e 1 6 1
+e 1 7 1
+e 3 4 2
+e 4 6 2
+e 4 5 2
+e 6 7 2
+t # 368
+v 0 1 # nevil
+v 1 1 # marguerite
+v 2 0 # edouard
+v 3 0 # warwik
+v 4 1 # elisabeth
+v 5 0 # suffolk
+v 6 2 # l-officier
+v 7 0 # summer
+e 0 1 2
+e 1 2 2
+e 1 3 1
+e 1 4 2
+e 2 5 2
+e 2 6 1
+e 2 3 2
+e 2 4 2
+e 3 6 1
+e 3 7 2
+e 3 4 2
+e 4 5 1
+e 4 6 1
+t # 369
+v 0 0 # ulysse
+v 1 0 # pyrrhus
+v 2 0 # philoctete
+v 3 0 # hercule
+e 0 1 2
+e 0 2 2
+e 1 2 2
+e 2 3 1
+t # 370
+v 0 0 # ortalque
+v 1 1 # alinde
+v 2 0 # arcade
+v 3 0 # evandre
+v 4 0 # phocas
+v 5 2 # perside
+v 6 1 # chrysane
+v 7 1 # isaspe
+v 8 1 # iris
+v 9 0 # phenix
+v 10 0 # leontin
+v 11 2 # canope
+e 0 1 2
+e 0 2 2
+e 0 3 3
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 0 7 2
+e 0 8 2
+e 0 9 2
+e 0 10 1
+e 1 2 2
+e 1 11 1
+e 1 7 2
+e 1 10 2
+e 1 9 2
+e 1 6 2
+e 1 3 1
+e 1 8 1
+e 2 5 1
+e 2 11 1
+e 2 8 2
+e 2 3 2
+e 2 9 2
+e 2 7 2
+e 2 10 2
+e 2 6 1
+e 3 4 2
+e 3 8 1
+e 3 9 2
+e 3 10 1
+e 3 7 1
+e 3 6 1
+e 4 5 1
+e 4 6 1
+e 5 11 2
+e 5 8 1
+e 5 7 2
+e 5 6 2
+e 6 8 1
+e 6 7 3
+e 6 9 2
+e 6 10 1
+e 7 11 2
+e 7 8 1
+e 7 10 2
+e 7 9 2
+e 8 11 2
+e 8 9 1
+e 9 10 2
+t # 371
+v 0 1 # zirphee
+v 1 2 # le-choeur
+v 2 0 # zirene
+v 3 2 # amadis
+v 4 1 # niquee
+v 5 2 # un-berger
+v 6 2 # la-bergere
+v 7 1 # melisse
+v 8 2 # choeur-de-magiciens
+v 9 2 # le-conducteur-de-la-fee
+v 10 2 # un-matelot
+v 11 2 # le-prince-de-thrace
+v 12 0 # un-chevalier-enchante
+v 13 2 # choeur
+v 14 2 # la-princesse-enchantee
+e 0 1 1
+e 0 2 1
+e 0 3 1
+e 0 4 1
+e 1 2 1
+e 1 5 1
+e 1 6 1
+e 1 3 2
+e 1 7 1
+e 1 8 1
+e 1 9 1
+e 1 10 1
+e 1 4 1
+e 3 11 2
+e 3 5 1
+e 3 6 1
+e 3 7 2
+e 3 4 2
+e 3 12 1
+e 3 13 1
+e 3 14 1
+e 3 8 1
+e 4 11 1
+e 4 7 2
+e 4 12 1
+e 4 13 1
+e 4 14 1
+e 4 9 1
+e 4 10 1
+e 5 6 1
+e 7 11 1
+e 7 8 1
+e 9 10 1
+e 12 13 1
+e 12 14 1
+e 13 14 1
+t # 372
+v 0 0 # alphonse
+v 1 0 # l-ambassadeur
+v 2 1 # la-reine
+v 3 1 # constance
+v 4 0 # garde
+v 5 0 # don-pedre
+v 6 1 # ines
+v 7 2 # rodrigue
+v 8 2 # henrique
+e 0 1 1
+e 0 2 3
+e 0 3 2
+e 0 4 1
+e 0 5 2
+e 0 6 3
+e 0 7 1
+e 0 8 1
+e 2 6 2
+e 2 5 1
+e 2 3 2
+e 3 6 1
+e 3 5 1
+e 3 4 1
+e 5 6 2
+e 7 8 1
+t # 373
+v 0 0 # antiochus
+v 1 1 # salmonee
+v 2 0 # misael
+v 3 1 # antigone
+v 4 0 # arsace
+v 5 0 # hidaspe
+v 6 0 # thares
+v 7 0 # barses
+v 8 1 # cephise
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 1 6 2
+e 1 2 2
+e 1 7 1
+e 1 3 1
+e 1 4 1
+e 2 3 2
+e 3 7 1
+e 3 8 1
+t # 374
+v 0 2 # la-premiere-grace
+v 1 2 # les-deux-graces
+v 2 2 # le-choeur
+v 3 2 # la-seconde-grace
+v 4 1 # junon
+v 5 0 # l-amour
+v 6 0 # alcide
+v 7 1 # omphale
+v 8 2 # le-grand-pretre
+v 9 2 # les-pretres
+v 10 2 # les-lydiens
+v 11 2 # le-thebain
+v 12 2 # la-thebaine
+v 13 2 # cephise
+v 14 2 # argine
+v 15 2 # choeur-de-magiciens
+v 16 2 # l-ombre
+v 17 0 # iphis
+v 18 2 # doris
+e 0 1 1
+e 0 2 1
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 1 2 1
+e 1 3 1
+e 1 4 1
+e 1 5 1
+e 2 3 1
+e 2 4 1
+e 2 5 1
+e 2 6 2
+e 2 7 2
+e 2 8 1
+e 2 9 1
+e 2 10 1
+e 2 11 1
+e 2 12 1
+e 2 13 1
+e 2 14 2
+e 2 15 1
+e 2 16 1
+e 2 17 2
+e 3 4 1
+e 3 5 1
+e 4 5 1
+e 6 17 2
+e 6 7 2
+e 6 8 1
+e 6 9 1
+e 6 10 1
+e 6 11 1
+e 6 12 1
+e 6 14 2
+e 7 17 2
+e 7 8 1
+e 7 9 1
+e 7 10 1
+e 7 13 2
+e 7 18 1
+e 7 11 1
+e 7 12 1
+e 7 14 2
+e 8 9 1
+e 8 10 1
+e 9 10 1
+e 11 12 1
+e 13 18 1
+e 14 17 2
+e 14 15 1
+e 14 16 1
+e 15 17 1
+e 15 16 1
+e 16 17 1
+t # 375
+v 0 1 # melpomene
+v 1 1 # polimnie
+v 2 1 # la-magie
+v 3 2 # ensemble
+v 4 0 # l-amour
+v 5 2 # le-choeur
+v 6 1 # scanderberg
+v 7 1 # servilie
+v 8 0 # roxane
+v 9 2 # sultanes
+v 10 2 # une-sultane
+v 11 0 # amurat
+v 12 1 # une-grecque
+v 13 2 # choeur-des-grecques
+v 14 2 # la-grecque
+v 15 2 # l-aga-des-janissaires
+v 16 2 # deux-scythes
+v 17 1 # une-asiatique
+v 18 2 # une-italienne
+v 19 2 # une-odalisque
+v 20 0 # le-muphti
+v 21 0 # osman
+v 22 0 # bostangis
+v 23 2 # choeur-des-janissaires
+v 24 0 # le-vizir
+e 0 1 2
+e 0 2 1
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 1 2 1
+e 1 3 1
+e 2 3 1
+e 3 6 2
+e 3 7 1
+e 3 8 1
+e 4 5 1
+e 5 8 1
+e 5 9 1
+e 5 10 1
+e 5 11 2
+e 5 12 1
+e 5 13 1
+e 5 14 1
+e 5 6 2
+e 5 15 1
+e 5 16 1
+e 5 17 1
+e 5 18 1
+e 5 19 1
+e 5 20 1
+e 5 7 1
+e 6 21 2
+e 6 8 2
+e 6 22 1
+e 6 9 1
+e 6 7 3
+e 6 11 2
+e 6 23 1
+e 6 24 1
+e 6 15 1
+e 7 8 2
+e 7 11 2
+e 7 20 1
+e 8 21 1
+e 8 9 2
+e 8 10 1
+e 8 22 1
+e 8 11 1
+e 9 21 1
+e 9 10 1
+e 9 22 1
+e 11 12 1
+e 11 13 1
+e 11 14 1
+e 11 15 1
+e 11 16 1
+e 11 17 1
+e 11 18 1
+e 11 19 1
+e 11 20 1
+e 12 13 1
+e 12 14 1
+e 13 14 1
+e 16 17 1
+e 16 18 1
+e 17 18 1
+e 21 22 1
+e 23 24 1
+t # 376
+v 0 2 # hercule
+v 1 0 # lycas
+v 2 1 # philoctete
+v 3 0 # agis
+v 4 1 # dejanire
+v 5 1 # iole
+v 6 0 # cleon
+v 7 1 # phenice
+v 8 1 # dirce
+e 0 1 2
+e 0 2 3
+e 0 3 1
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 1 4 1
+e 2 3 1
+e 2 6 2
+e 2 5 2
+e 2 4 1
+e 2 7 1
+e 4 5 1
+e 4 7 2
+e 5 8 2
+t # 377
+v 0 1 # roxelane
+v 1 0 # rustan
+v 2 0 # soliman
+v 3 0 # asterie
+v 4 2 # zatime
+v 5 0 # achomat
+v 6 2 # le-capigi
+v 7 1 # celonide
+v 8 0 # ibrahim
+v 9 1 # zaïde
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 1
+e 1 2 2
+e 1 6 1
+e 1 7 1
+e 2 7 2
+e 2 6 1
+e 2 8 2
+e 2 5 2
+e 2 3 2
+e 3 7 2
+e 3 5 2
+e 3 8 2
+e 5 7 2
+e 5 8 1
+e 6 7 1
+e 7 9 1
+e 7 8 2
+t # 378
+v 0 0 # boisrobert
+v 1 0 # l-etoile
+v 2 0 # colletet
+v 3 0 # rotrou
+v 4 2 # tous
+v 5 2 # boisrorert
+v 6 0 # corneille
+v 7 2 # lamperriere
+v 8 2 # l-huissier
+v 9 1 # julie
+v 10 0 # un-laquais
+v 11 0 # un-huissier
+e 0 1 3
+e 0 2 3
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 2
+e 0 7 2
+e 0 8 1
+e 0 9 1
+e 1 2 3
+e 1 3 2
+e 1 4 2
+e 1 5 1
+e 1 6 2
+e 1 7 2
+e 1 8 1
+e 1 9 1
+e 2 3 2
+e 2 4 2
+e 2 5 1
+e 2 6 2
+e 2 7 2
+e 2 8 1
+e 2 9 1
+e 3 4 2
+e 3 5 1
+e 3 6 2
+e 3 10 1
+e 3 7 2
+e 3 9 2
+e 3 11 1
+e 3 8 2
+e 4 5 1
+e 4 6 1
+e 4 7 1
+e 4 8 1
+e 4 9 1
+e 6 10 1
+e 6 9 2
+e 6 7 2
+e 6 11 1
+e 6 8 2
+e 7 9 2
+e 7 11 1
+e 7 8 2
+e 8 9 2
+e 8 11 1
+e 9 11 1
+t # 379
+v 0 0 # phanes
+v 1 0 # sesostris
+v 2 0 # amasis
+v 3 1 # arthenice
+v 4 2 # phares
+v 5 1 # nitocris
+v 6 0 # ammon
+v 7 0 # menes
+v 8 2 # micerine
+v 9 2 # canope
+e 0 1 2
+e 0 2 3
+e 0 3 1
+e 0 4 1
+e 0 5 1
+e 1 2 3
+e 1 3 3
+e 1 5 2
+e 1 6 1
+e 1 7 1
+e 2 3 3
+e 2 5 3
+e 2 4 1
+e 2 7 2
+e 2 6 1
+e 3 8 2
+e 3 5 2
+e 3 7 1
+e 3 6 1
+e 5 9 2
+e 5 6 2
+t # 380
+v 0 1 # dione
+v 1 1 # dejanire
+v 2 1 # althee
+v 3 1 # thelame
+v 4 0 # plexippe
+v 5 1 # athalante
+v 6 0 # meleagre
+v 7 1 # elise
+e 0 1 2
+e 0 2 1
+e 1 3 1
+e 1 2 3
+e 1 4 1
+e 1 5 2
+e 1 6 3
+e 2 4 2
+e 2 6 2
+e 2 5 2
+e 3 6 1
+e 3 5 1
+e 4 5 2
+e 4 6 1
+e 5 7 2
+e 5 6 3
+e 6 7 1
+t # 381
+v 0 0 # hidaspe
+v 1 0 # thoas
+v 2 1 # iphigenie
+v 3 0 # pylade
+v 4 0 # oreste
+v 5 0 # anthenor
+v 6 0 # taxis
+v 7 1 # thomiris
+v 8 1 # cyane
+v 9 1 # erine
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 1
+e 1 5 2
+e 1 2 2
+e 1 6 2
+e 1 7 2
+e 1 3 2
+e 1 4 1
+e 2 8 2
+e 2 3 2
+e 2 4 2
+e 2 7 1
+e 3 4 2
+e 4 7 1
+e 5 7 2
+e 6 7 1
+e 7 9 2
+t # 382
+v 0 1 # agesistrate
+v 1 0 # lysander
+v 2 2 # un-senateur
+v 3 2 # amphares
+v 4 0 # agis
+v 5 0 # leonidas
+v 6 1 # chelonis
+v 7 2 # un-spartiate
+v 8 2 # le-soldat
+v 9 2 # second-ephore
+v 10 2 # troisieme-ephore
+v 11 2 # le-chef
+e 0 1 2
+e 0 2 1
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 2
+e 0 7 1
+e 1 2 1
+e 1 3 2
+e 1 4 2
+e 1 5 2
+e 1 7 1
+e 1 6 2
+e 1 8 1
+e 3 5 2
+e 3 4 2
+e 3 7 1
+e 3 6 1
+e 3 9 1
+e 3 10 1
+e 4 6 3
+e 4 5 3
+e 4 7 1
+e 4 9 1
+e 4 10 1
+e 4 11 1
+e 5 6 2
+e 5 7 1
+e 5 9 1
+e 5 10 1
+e 5 11 1
+e 5 8 1
+e 6 7 1
+e 9 10 1
+t # 383
+v 0 0 # iarbe
+v 1 0 # madherbal
+v 2 1 # didon
+v 3 0 # zama
+v 4 1 # elise
+v 5 0 # achate
+v 6 0 # enee
+v 7 1 # barce
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 1 2 2
+e 1 4 2
+e 1 5 1
+e 1 6 1
+e 1 7 1
+e 2 4 3
+e 2 7 2
+e 2 6 2
+e 4 7 2
+e 5 6 2
+t # 384
+v 0 1 # la-sultane
+v 1 2 # un-esclave
+v 2 0 # l-aga
+v 3 0 # corchut
+v 4 0 # selim
+v 5 0 # achmet
+v 6 0 # haly
+v 7 2 # l-esclave
+v 8 0 # bajazet
+v 9 1 # izaïde
+v 10 2 # herzegoglis
+e 0 1 1
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 1 2 1
+e 2 6 2
+e 2 7 1
+e 2 4 2
+e 2 8 1
+e 2 3 2
+e 2 5 1
+e 3 4 2
+e 3 5 1
+e 3 6 2
+e 4 7 1
+e 4 9 1
+e 4 5 1
+e 4 6 2
+e 6 7 1
+e 6 8 2
+e 6 10 2
+e 8 10 2
+t # 385
+v 0 0 # oronte
+v 1 0 # agamemnon
+v 2 1 # clytemnestre
+v 3 0 # achille
+v 4 0 # menelas
+v 5 1 # iphigenie
+v 6 1 # clytie
+v 7 0 # ulysse
+v 8 1 # phenice
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 1 4 2
+e 1 2 3
+e 1 5 2
+e 1 6 1
+e 1 3 1
+e 1 7 1
+e 2 7 1
+e 2 3 2
+e 2 5 2
+e 2 8 1
+e 3 7 1
+e 3 5 1
+e 4 7 1
+e 5 6 2
+t # 386
+v 0 0 # placide
+v 1 0 # justin
+v 2 0 # adrien
+v 3 0 # maxime
+v 4 1 # attilie
+v 5 0 # albin
+v 6 1 # pauline
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 0 6 1
+e 1 2 2
+e 1 4 2
+e 2 4 3
+e 2 3 2
+e 2 5 2
+e 2 6 1
+e 3 4 2
+e 3 6 1
+e 4 6 2
+e 4 5 1
+t # 387
+v 0 1 # jocaste
+v 1 1 # antigone
+v 2 0 # eteocle
+v 3 0 # polinice
+v 4 0 # hemon
+v 5 0 # oedipe
+v 6 0 # acaste
+e 0 1 3
+e 0 2 3
+e 0 3 2
+e 0 4 2
+e 0 5 2
+e 0 6 1
+e 1 2 2
+e 1 3 2
+e 1 5 2
+e 1 6 1
+e 2 3 2
+e 2 4 1
+e 2 5 2
+e 3 4 2
+e 3 5 2
+e 4 5 1
+e 5 6 1
+t # 388
+v 0 0 # ziani
+v 1 0 # gradonigue
+v 2 0 # orzano
+v 3 0 # quirini
+v 4 1 # laurence
+v 5 0 # montano
+v 6 2 # le-messager
+v 7 2 # l-officier
+v 8 2 # le-commandant
+v 9 1 # lucile
+v 10 2 # le-vieillard
+e 0 1 1
+e 0 2 2
+e 0 3 1
+e 0 4 1
+e 1 5 1
+e 1 4 3
+e 1 6 1
+e 1 2 2
+e 2 4 2
+e 2 3 2
+e 3 5 2
+e 3 4 2
+e 3 8 1
+e 4 5 2
+e 4 6 1
+e 4 9 2
+e 4 10 1
+e 4 8 1
+e 5 7 1
+e 5 8 1
+t # 389
+v 0 0 # pyrrhus
+v 1 0 # phenix
+v 2 0 # ulysse
+v 3 1 # hecube
+v 4 1 # polixene
+v 5 0 # calchas
+v 6 0 # idas
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 2
+e 0 5 1
+e 1 5 1
+e 1 4 2
+e 2 6 1
+e 2 3 2
+e 2 4 1
+e 2 5 1
+e 3 4 3
+e 3 5 1
+e 4 5 2
+t # 390
+v 0 0 # arbace
+v 1 0 # artaban
+v 2 0 # artaxerce
+v 3 1 # emirene
+v 4 0 # megabise
+v 5 1 # elise
+v 6 2 # un-officier
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 1 4 2
+e 1 2 3
+e 1 3 2
+e 2 3 3
+e 3 5 2
+e 3 6 1
+t # 391
+v 0 2 # tell
+v 1 0 # melchtal
+v 2 0 # furst
+v 3 0 # werner
+v 4 2 # cleofe
+v 5 0 # gesler
+v 6 0 # ulric
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 2
+e 0 5 2
+e 1 2 1
+e 1 3 1
+e 1 5 3
+e 1 6 2
+e 1 4 2
+e 2 3 1
+e 2 4 2
+e 4 5 2
+e 5 6 3
+t # 392
+v 0 0 # idamante
+v 1 0 # nausicrate
+v 2 1 # erigone
+v 3 0 # sophronime
+v 4 0 # idomenee
+v 5 0 # le-grand-pretre
+e 0 1 2
+e 0 2 3
+e 0 3 2
+e 0 4 2
+e 1 2 2
+e 1 4 1
+e 2 3 2
+e 2 4 2
+e 3 4 2
+e 4 5 1
+t # 393
+v 0 0 # le-grand-bramine
+v 1 0 # le-jeune-bramine
+v 2 2 # le-bramine
+v 3 2 # l-officier
+v 4 2 # le-general
+v 5 0 # un-bramine
+v 6 2 # la-veuve
+v 7 1 # fatime
+e 0 1 2
+e 0 2 1
+e 0 3 1
+e 0 4 2
+e 0 5 1
+e 0 6 2
+e 1 2 1
+e 1 6 3
+e 1 7 2
+e 1 4 2
+e 3 4 2
+e 4 6 2
+e 4 5 1
+e 6 7 2
+t # 394
+v 0 0 # pheres
+v 1 1 # alzaïde
+v 2 0 # amenophis
+v 3 0 # zaraes
+v 4 1 # ezire
+v 5 0 # nisus
+v 6 0 # menos
+v 7 0 # osiris
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 1 4 2
+e 1 2 3
+e 1 3 2
+e 1 5 1
+e 2 6 1
+e 2 5 2
+e 2 7 1
+e 2 3 2
+e 5 6 1
+t # 395
+v 0 0 # pisistrate
+v 1 0 # ariston
+v 2 2 # policrite
+v 3 0 # solon
+v 4 0 # licurgue
+v 5 1 # celinte
+v 6 1 # cephise
+v 7 0 # cleante
+v 8 0 # arcas
+v 9 0 # artamas
+v 10 1 # clitie
+e 0 1 2
+e 0 2 2
+e 0 3 2
+e 0 4 1
+e 0 5 2
+e 1 2 1
+e 1 3 1
+e 2 5 2
+e 2 6 2
+e 2 4 2
+e 2 3 2
+e 3 4 2
+e 3 5 1
+e 3 7 1
+e 3 8 1
+e 4 5 2
+e 4 9 1
+e 5 10 2
+t # 396
+v 0 0 # jason
+v 1 1 # iphite
+v 2 1 # creuse
+v 3 0 # creon
+v 4 1 # medee
+v 5 0 # cydippe
+v 6 0 # rhodope
+v 7 0 # premier-enfant
+v 8 0 # second-enfant
+e 0 1 2
+e 0 2 2
+e 0 3 1
+e 0 4 2
+e 0 5 1
+e 2 5 1
+e 3 4 1
+e 4 6 2
+e 4 7 1
+e 4 8 1
+e 6 7 1
+e 6 8 1
+e 7 8 1
+t # 397
+v 0 0 # artaxerxe
+v 1 1 # amestris
+v 2 1 # aspasie
+v 3 0 # tiribaze
+v 4 0 # darie
+v 5 0 # ochus
+v 6 0 # tissapherne
+e 0 1 3
+e 0 2 3
+e 0 3 2
+e 0 4 3
+e 0 5 3
+e 0 6 1
+e 1 2 3
+e 1 3 2
+e 1 5 2
+e 1 4 3
+e 1 6 1
+e 2 3 2
+e 2 5 2
+e 2 4 3
+e 2 6 1
+e 3 4 2
+e 3 5 2
+e 4 5 3
+e 4 6 2
+e 5 6 2
+t # 398
+v 0 1 # la-catanoise
+v 1 2 # le-senechal
+v 2 2 # la-reine
+v 3 2 # le-comte
+v 4 0 # le-roi
+v 5 0 # le-roi-d-hongrie
+v 6 2 # le-roi-de-naples
+v 7 2 # le-capitaine-des-gardes
+v 8 2 # un-garde
+e 0 1 2
+e 0 2 3
+e 0 3 2
+e 0 4 2
+e 1 2 3
+e 1 3 3
+e 1 4 2
+e 1 5 3
+e 1 6 2
+e 1 7 2
+e 2 3 3
+e 2 4 3
+e 2 5 2
+e 2 6 2
+e 3 4 2
+e 3 8 1
+e 3 5 3
+e 3 6 2
+e 3 7 2
+e 4 8 1
+e 5 6 2
+e 5 7 2
+e 6 7 2
+t # 399
+v 0 1 # fulvie
+v 1 1 # livie
+v 2 0 # druze
+v 3 2 # sejan
+v 4 1 # apicata
+v 5 0 # tibere
+v 6 1 # voluzie
+v 7 0 # macron
+v 8 0 # terence
+v 9 2 # apitaca
+v 10 0 # regulus
+e 0 1 2
+e 0 2 1
+e 1 3 2
+e 1 2 2
+e 1 4 1
+e 1 5 2
+e 2 3 1
+e 2 5 2
+e 2 7 1
+e 2 10 1
+e 3 4 2
+e 3 6 2
+e 3 5 2
+e 3 7 1
+e 3 8 1
+e 4 6 3
+e 4 8 2
+e 4 9 1
+e 4 7 1
+e 4 10 1
+e 4 5 1
+e 5 6 1
+e 5 8 2
+e 5 7 2
+e 5 10 2
+e 6 8 2
+e 6 9 1
+e 6 7 1
+e 7 8 2
+e 7 10 1
+e 8 9 1
+e 8 10 1
