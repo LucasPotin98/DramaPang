@@ -2,6 +2,7 @@ import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
+from app.visualization import plot_pattern
 
 from pang.pang import (
     pang_load_and_represent,
@@ -52,21 +53,31 @@ elif measure == "WRAcc":
     st.markdown("Elle pondère le pouvoir discriminant du motif par sa fréquence dans l’ensemble.")
 
 
-
-
-
 # === Calcul des scores ===
 st.markdown(f"Calcul des scores des motifs avec la mesure `{measure}`...")
 scores = compute_scores(X_full, labels, measure)
-print(scores)
-# === Affichage des scores ===
-st.subheader("📊 Distribution des scores")
-fig, ax = plt.subplots()
-ax.plot(np.sort(scores)[::-1])
-ax.set_title("Scores décroissants des motifs")
-ax.set_xlabel("Motifs (triés)")
-ax.set_ylabel("Score")
-st.pyplot(fig)
+
+st.subheader("📊 Distribution et top motifs")
+
+col1, col2 = st.columns([1.5, 1])  # Légèrement plus large pour les motifs
+
+with col1:
+    st.markdown("**Histogramme des scores**")
+    fig, ax = plt.subplots()
+    ax.hist(scores, bins=20, edgecolor="black", color="lightgray")
+    ax.set_xlabel("Score")
+    ax.set_ylabel("Nombre de motifs")
+    st.pyplot(fig)
+
+with col2:
+    st.markdown(f"**🎯 Motif le plus discriminant selon `{measure}`**")
+    top_idx = int(np.argmax(scores))  # index du motif au score max
+
+    st.markdown(f"**Motif #{top_idx}**")
+    G = Patterns[top_idx]
+    fig = plot_pattern(G)
+    st.pyplot(fig)
+
 
 mode = st.selectbox("Sélection des motifs", ["Top-k motifs", "Tous les motifs"])
 
