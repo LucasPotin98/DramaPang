@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+irene,Undirected,zoe,8
+irene,Undirected,memnon,1
+irene,Undirected,alexis,6
+irene,Undirected,leonce,4
+zoe,Undirected,alexis,3
+memnon,Undirected,alexis,4
+alexis,Undirected,garde,1
+alexis,Undirected,nicephore,1
+alexis,Undirected,leonce,2

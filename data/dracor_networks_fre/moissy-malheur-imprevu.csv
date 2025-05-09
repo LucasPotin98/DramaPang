@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+monsieur-brisson,Undirected,monsieur-villiers,4
+monsieur-brisson,Undirected,le-portier,1
+monsieur-brisson,Undirected,monsieur-deslandes,1
+monsieur-villiers,Undirected,le-portier,1
+monsieur-villiers,Undirected,monsieur-deslandes,1

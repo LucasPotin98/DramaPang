@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+rosette,Undirected,rose,1
+rosette,Undirected,madame-de-lancy,1
+rose,Undirected,madame-de-lancy,1

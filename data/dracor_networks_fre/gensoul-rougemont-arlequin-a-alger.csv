@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+astouf,Undirected,arlequin,7
+astouf,Undirected,colombine,5
+astouf,Undirected,tous,1
+arlequin,Undirected,colombine,7
+arlequin,Undirected,tous-deux,1
+arlequin,Undirected,ensemble,2
+arlequin,Undirected,tous,1
+colombine,Undirected,tous-deux,1
+colombine,Undirected,ensemble,2
+colombine,Undirected,tous,1

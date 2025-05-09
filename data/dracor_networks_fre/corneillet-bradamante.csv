@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+bradamante,Undirected,doralise,3
+bradamante,Undirected,leon,2
+bradamante,Undirected,marphise,3
+bradamante,Undirected,roger,6
+doralise,Undirected,roger,1
+leon,Undirected,roger,6
+leon,Undirected,marphise,2
+marphise,Undirected,ismene,3
+marphise,Undirected,timante,1
+marphise,Undirected,roger,5
+ismene,Undirected,timante,1
+timante,Undirected,roger,1

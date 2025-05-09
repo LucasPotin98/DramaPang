@@ -1,0 +1,5 @@
+Source,Type,Target,Weight
+ulysse,Undirected,pyrrhus,4
+ulysse,Undirected,philoctete,2
+pyrrhus,Undirected,philoctete,5
+philoctete,Undirected,hercule,1

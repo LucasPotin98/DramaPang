@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+pontanus,Undirected,rondon,1
+pontanus,Undirected,la-tranchee,2
+pontanus,Undirected,madame-printemps,2
+pontanus,Undirected,le-bourguemestre,1
+rondon,Undirected,la-tranchee,1
+rondon,Undirected,madame-printemps,1
+la-tranchee,Undirected,madame-printemps,2
+la-tranchee,Undirected,le-bourguemestre,1
+madame-printemps,Undirected,le-bourguemestre,1

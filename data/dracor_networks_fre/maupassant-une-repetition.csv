@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+monsieur-destournelles,Undirected,madame-destournelles,2
+monsieur-destournelles,Undirected,un-domestique,1
+monsieur-destournelles,Undirected,rene,1
+madame-destournelles,Undirected,rene,1
+un-domestique,Undirected,rene,1

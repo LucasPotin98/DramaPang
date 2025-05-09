@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+mademoiselle-laure,Undirected,nelly,10
+mademoiselle-laure,Undirected,les-jeunes-chinoises,1
+mademoiselle-laure,Undirected,mu-si-ka-li,1
+mademoiselle-laure,Undirected,ka-out-tchou,4
+mademoiselle-laure,Undirected,les-deux-chinoises,1
+mademoiselle-laure,Undirected,pat-tchou-li,3
+mademoiselle-laure,Undirected,une-chinoise,1
+mademoiselle-laure,Undirected,les-jeunes-filles,2
+nelly,Undirected,ka-out-tchou,3
+nelly,Undirected,les-deux-chinoises,1
+nelly,Undirected,pat-tchou-li,3
+nelly,Undirected,une-chinoise,1
+nelly,Undirected,les-jeunes-filles,2
+les-jeunes-chinoises,Undirected,mu-si-ka-li,1
+ka-out-tchou,Undirected,les-deux-chinoises,1
+ka-out-tchou,Undirected,pat-tchou-li,2

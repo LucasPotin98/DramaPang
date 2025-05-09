@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+monsieur-gripigni,Undirected,madame-amboisel,4
+monsieur-gripigni,Undirected,manon,2
+monsieur-gripigni,Undirected,monsieur-coquinon,1
+madame-amboisel,Undirected,manon,3
+madame-amboisel,Undirected,madame-merlet,1
+madame-amboisel,Undirected,marianne,1
+madame-amboisel,Undirected,goton,1
+madame-amboisel,Undirected,monsieur-friponneau,2
+madame-amboisel,Undirected,la-jeunesse,1
+madame-amboisel,Undirected,monsieur-coquinon,2
+madame-merlet,Undirected,marianne,1
+monsieur-friponneau,Undirected,la-jeunesse,1

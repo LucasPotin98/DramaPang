@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+laforest,Undirected,moliere,4
+laforest,Undirected,marotte,2
+laforest,Undirected,armand,2
+laforest,Undirected,chapelle,2
+moliere,Undirected,marotte,2
+moliere,Undirected,armand,4
+moliere,Undirected,chapelle,4
+marotte,Undirected,armand,2
+marotte,Undirected,chapelle,1
+armand,Undirected,chapelle,3

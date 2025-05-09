@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+piegele,Undirected,le-monsieur,1
+piegele,Undirected,le-voisin,1
+le-monsieur,Undirected,le-voisin,1

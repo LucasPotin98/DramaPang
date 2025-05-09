@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+veronique,Undirected,madame-hubert,2
+veronique,Undirected,madeleine,3
+veronique,Undirected,jacques,1
+veronique,Undirected,francis,1
+madame-hubert,Undirected,madeleine,4
+madame-hubert,Undirected,francis,2
+madeleine,Undirected,francis,9
+madeleine,Undirected,joseph,2
+madeleine,Undirected,jacques,2
+madeleine,Undirected,laurence,3
+francis,Undirected,jacques,2
+francis,Undirected,joseph,1
+francis,Undirected,laurence,1
+jacques,Undirected,joseph,1
+joseph,Undirected,laurence,1

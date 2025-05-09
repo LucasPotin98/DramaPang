@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+almanzaïde,Undirected,zelmis,4
+almanzaïde,Undirected,mirville,2
+zelmis,Undirected,mirville,3

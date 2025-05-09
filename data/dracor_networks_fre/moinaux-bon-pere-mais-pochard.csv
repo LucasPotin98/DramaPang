@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+le-narrateur,Undirected,boitier,1
+le-narrateur,Undirected,monsieur-le-president,1
+le-narrateur,Undirected,la-femme-boitier,1
+boitier,Undirected,monsieur-le-president,1
+boitier,Undirected,la-femme-boitier,1
+monsieur-le-president,Undirected,la-femme-boitier,1

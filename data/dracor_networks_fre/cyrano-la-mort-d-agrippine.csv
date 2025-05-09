@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+agrippine,Undirected,cornelie,4
+agrippine,Undirected,sejanus,7
+agrippine,Undirected,tibere,5
+agrippine,Undirected,livilla,1
+cornelie,Undirected,sejanus,1
+sejanus,Undirected,livilla,4
+sejanus,Undirected,terentius,2
+sejanus,Undirected,tibere,3
+livilla,Undirected,tibere,3
+livilla,Undirected,nerva,1
+tibere,Undirected,nerva,3

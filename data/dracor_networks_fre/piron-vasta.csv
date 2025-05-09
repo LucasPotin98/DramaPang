@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+vasta,Undirected,vit-molet,1
+vasta,Undirected,conille,2
+vasta,Undirected,un-soldat,1
+vasta,Undirected,fout-six-coups,2
+vasta,Undirected,le-grand-pretre,1
+vasta,Undirected,tetasse,1
+vit-molet,Undirected,conille,1
+vit-molet,Undirected,tetasse,1
+vit-molet,Undirected,vit-en-l-air,1
+conille,Undirected,couille-au-cul,1
+vit-en-l-air,Undirected,tetasse,1
+raucourt,Undirected,lekain,1

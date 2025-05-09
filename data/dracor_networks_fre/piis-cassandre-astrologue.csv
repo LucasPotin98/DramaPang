@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+pierrot,Undirected,colombine,6
+pierrot,Undirected,leandre,7
+pierrot,Undirected,isabelle,6
+pierrot,Undirected,cassandre,7
+pierrot,Undirected,ensemble,1
+colombine,Undirected,leandre,5
+colombine,Undirected,isabelle,5
+colombine,Undirected,cassandre,5
+colombine,Undirected,ensemble,1
+leandre,Undirected,isabelle,6
+leandre,Undirected,cassandre,7
+leandre,Undirected,ensemble,1
+isabelle,Undirected,cassandre,8
+isabelle,Undirected,ensemble,1
+cassandre,Undirected,ensemble,1

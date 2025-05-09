@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+madame-de-molanges,Undirected,fontevrault,1
+madame-de-molanges,Undirected,madame-de-molange,1
+fontevrault,Undirected,madame-de-molange,2
+fontevrault,Undirected,un-domestique,1
+madame-de-molange,Undirected,un-domestique,1

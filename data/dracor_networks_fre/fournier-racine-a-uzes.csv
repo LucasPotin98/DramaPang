@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+racine,Undirected,georges,3
+racine,Undirected,jeanne,2
+racine,Undirected,clorinde,1
+racine,Undirected,monsingre,1
+racine,Undirected,courtes,1
+courtes,Undirected,georges,3
+courtes,Undirected,monsingre,3
+courtes,Undirected,jeanne,3
+georges,Undirected,monsingre,2
+georges,Undirected,jeanne,2
+monsingre,Undirected,jeanne,1
+monsingre,Undirected,clorinde,1
+jeanne,Undirected,clorinde,2

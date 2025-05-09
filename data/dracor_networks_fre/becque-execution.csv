@@ -1,0 +1,5 @@
+Source,Type,Target,Weight
+l-employe,Undirected,le-maire,2
+le-maire,Undirected,tabouret,1
+le-maire,Undirected,robineau,1
+le-maire,Undirected,gros-jean,1

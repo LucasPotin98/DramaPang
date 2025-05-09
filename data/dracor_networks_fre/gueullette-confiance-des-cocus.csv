@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+gilles,Undirected,isabelle,1
+gilles,Undirected,cassandre,1
+picotin,Undirected,cassecroute,2
+picotin,Undirected,pictoin,1
+picotin,Undirected,cassandre,1
+cassecroute,Undirected,pictoin,1
+cassecroute,Undirected,cassandre,1
+isabelle,Undirected,cassandre,2
+cassandre,Undirected,pictoin,1

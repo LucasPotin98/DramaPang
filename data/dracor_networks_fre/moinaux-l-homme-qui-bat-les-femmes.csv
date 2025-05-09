@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+le-narrateur,Undirected,monsieur-ribois,1
+le-narrateur,Undirected,monsieur-le-president,1
+le-narrateur,Undirected,mademoiselle-jambin,1
+monsieur-ribois,Undirected,monsieur-le-president,1
+monsieur-ribois,Undirected,mademoiselle-jambin,1
+monsieur-le-president,Undirected,mademoiselle-jambin,1

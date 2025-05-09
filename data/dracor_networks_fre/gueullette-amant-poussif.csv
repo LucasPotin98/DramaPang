@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+cassandre,Undirected,gilles,8
+cassandre,Undirected,isabelle,7
+cassandre,Undirected,leandre,3
+cassandre,Undirected,le-notaire,1
+gilles,Undirected,isabelle,6
+gilles,Undirected,leandre,4
+gilles,Undirected,le-notaire,1
+isabelle,Undirected,leandre,6
+isabelle,Undirected,le-notaire,1
+leandre,Undirected,le-notaire,1

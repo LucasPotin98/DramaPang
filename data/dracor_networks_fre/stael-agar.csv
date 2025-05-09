@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+agar,Undirected,ismaël,1
+agar,Undirected,ismael,1
+agar,Undirected,l-ange,1
+ismaël,Undirected,ismael,1
+ismaël,Undirected,l-ange,1
+ismael,Undirected,l-ange,1

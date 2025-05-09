@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+le-bailly,Undirected,la-baillive,5
+le-bailly,Undirected,crouton,1
+le-bailly,Undirected,pierrot,4
+le-bailly,Undirected,agnes,5
+le-bailly,Undirected,arlequin,2
+le-bailly,Undirected,le-magister,1
+le-bailly,Undirected,le-paysan,1
+le-bailly,Undirected,les-enfants,1
+la-baillive,Undirected,crouton,1
+la-baillive,Undirected,agnes,3
+la-baillive,Undirected,pierrot,1
+agnes,Undirected,pierrot,4
+agnes,Undirected,les-enfants,1
+agnes,Undirected,arlequin,1
+pierrot,Undirected,arlequin,1
+arlequin,Undirected,le-magister,1

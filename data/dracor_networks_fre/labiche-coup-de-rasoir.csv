@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+antenor,Undirected,gavot,7
+antenor,Undirected,une-voix,1
+gavot,Undirected,une-voix,1

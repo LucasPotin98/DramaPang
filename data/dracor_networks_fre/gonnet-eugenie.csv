@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+eugenie,Undirected,anna,4
+eugenie,Undirected,louise,2
+eugenie,Undirected,choriste,2
+eugenie,Undirected,toutes,3
+eugenie,Undirected,l-ange,1
+anna,Undirected,louise,2
+anna,Undirected,choriste,2
+anna,Undirected,toutes,3
+anna,Undirected,l-ange,1
+louise,Undirected,choriste,1
+louise,Undirected,toutes,2
+choriste,Undirected,toutes,2
+choriste,Undirected,l-ange,1
+toutes,Undirected,l-ange,1

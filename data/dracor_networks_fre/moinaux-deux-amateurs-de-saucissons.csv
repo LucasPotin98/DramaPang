@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+le-narrateur,Undirected,le-marchand,1
+le-narrateur,Undirected,monsieur-le-president,1
+le-narrateur,Undirected,chapal,1
+le-narrateur,Undirected,lorin,1
+le-marchand,Undirected,monsieur-le-president,1
+le-marchand,Undirected,chapal,1
+le-marchand,Undirected,lorin,1
+monsieur-le-president,Undirected,chapal,1
+monsieur-le-president,Undirected,lorin,1
+chapal,Undirected,lorin,1

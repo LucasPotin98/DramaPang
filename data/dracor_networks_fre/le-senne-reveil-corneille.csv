@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+la-muse-des-gloires,Undirected,la-muse-des-deuils,1
+la-muse-des-gloires,Undirected,corneille,1
+la-muse-des-deuils,Undirected,corneille,1

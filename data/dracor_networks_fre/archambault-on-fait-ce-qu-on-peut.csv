@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+franville,Undirected,le-soufleur,1
+franville,Undirected,le-valet,1
+franville,Undirected,leandre,2
+franville,Undirected,pointu,2
+franville,Undirected,en-dedans,1
+franville,Undirected,madame-pointu,2
+franville,Undirected,l-abbe,1
+franville,Undirected,le-fiacre,1
+franville,Undirected,le-commissaire,1
+franville,Undirected,le-jeune-homme,1
+leandre,Undirected,madame-pointu,1
+leandre,Undirected,pointu,1
+pointu,Undirected,madame-pointu,1
+le-commissaire,Undirected,le-jeune-homme,1

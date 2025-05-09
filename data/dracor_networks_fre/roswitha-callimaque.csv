@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+callimaque,Undirected,les-amis,2
+callimaque,Undirected,un-ami,1
+callimaque,Undirected,drusiana,2
+callimaque,Undirected,fortunatus,3
+callimaque,Undirected,jean,1
+callimaque,Undirected,andronique,1
+les-amis,Undirected,un-ami,1
+drusiana,Undirected,jean,1
+drusiana,Undirected,andronique,1
+drusiana,Undirected,fortunatus,1
+andronique,Undirected,jean,3
+andronique,Undirected,dieu,1
+andronique,Undirected,fortunatus,1
+jean,Undirected,dieu,1
+jean,Undirected,fortunatus,1

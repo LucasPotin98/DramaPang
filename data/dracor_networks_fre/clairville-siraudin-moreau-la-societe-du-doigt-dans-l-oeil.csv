@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+louise,Undirected,alfred,6
+louise,Undirected,corniquet,11
+louise,Undirected,duverdier,6
+louise,Undirected,louise-,1
+alfred,Undirected,corniquet,8
+alfred,Undirected,duverdier,4
+corniquet,Undirected,duverdier,7
+duverdier,Undirected,louise-,1

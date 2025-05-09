@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+catilina,Undirected,lentulus,1
+catilina,Undirected,probus,3
+catilina,Undirected,tullie,5
+catilina,Undirected,fulvie,3
+catilina,Undirected,ciceron,2
+catilina,Undirected,sunnon,1
+catilina,Undirected,caton,1
+catilina,Undirected,cethegus,2
+probus,Undirected,fulvie,1
+tullie,Undirected,fulvie,1
+tullie,Undirected,ciceron,1
+ciceron,Undirected,caton,3
+ciceron,Undirected,crassus,1
+sunnon,Undirected,gontran,1
+caton,Undirected,crassus,1
+caton,Undirected,lucius,1

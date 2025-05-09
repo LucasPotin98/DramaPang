@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+theodore,Undirected,dubois,8
+theodore,Undirected,vincent,5
+theodore,Undirected,rosette,4
+theodore,Undirected,l-actrice,1
+theodore,Undirected,ensemble,1
+theodore,Undirected,le-gascon,1
+dubois,Undirected,vincent,4
+dubois,Undirected,rosette,3
+dubois,Undirected,sonore,1
+dubois,Undirected,le-gascon,1
+vincent,Undirected,rosette,4
+vincent,Undirected,le-gascon,1
+rosette,Undirected,le-gascon,1
+l-actrice,Undirected,ensemble,1

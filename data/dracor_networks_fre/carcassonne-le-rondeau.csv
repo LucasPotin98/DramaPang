@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+berthe,Undirected,blanche,3
+berthe,Undirected,jeanne,2
+berthe,Undirected,amelie,2
+berthe,Undirected,antoinette,1
+berthe,Undirected,les-jeunes-filles,1
+blanche,Undirected,jeanne,2
+blanche,Undirected,amelie,2
+blanche,Undirected,antoinette,1
+blanche,Undirected,les-jeunes-filles,1
+antoinette,Undirected,amelie,1
+antoinette,Undirected,jeanne,1
+antoinette,Undirected,les-jeunes-filles,1
+jeanne,Undirected,amelie,2
+jeanne,Undirected,les-jeunes-filles,1
+amelie,Undirected,les-jeunes-filles,1

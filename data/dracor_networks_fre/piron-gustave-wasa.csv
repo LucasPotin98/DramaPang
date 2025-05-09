@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+christierne,Undirected,rodolphe,5
+christierne,Undirected,frederic,2
+christierne,Undirected,gustave,5
+christierne,Undirected,leonor,2
+christierne,Undirected,adelaide,3
+rodolphe,Undirected,adelaide,3
+rodolphe,Undirected,leonor,2
+frederic,Undirected,casimir,2
+frederic,Undirected,adelaide,2
+frederic,Undirected,leonor,1
+casimir,Undirected,gustave,3
+casimir,Undirected,adelaide,3
+adelaide,Undirected,leonor,6
+adelaide,Undirected,sophie,2
+adelaide,Undirected,gustave,6
+leonor,Undirected,gustave,2

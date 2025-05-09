@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+xiphares,Undirected,arbate,1
+xiphares,Undirected,monime,6
+xiphares,Undirected,pharnace,4
+xiphares,Undirected,phoedime,1
+xiphares,Undirected,mithridate,3
+arbate,Undirected,mithridate,2
+arbate,Undirected,arcas,1
+arbate,Undirected,monime,2
+monime,Undirected,pharnace,2
+monime,Undirected,phoedime,6
+monime,Undirected,mithridate,4
+monime,Undirected,arcas,2
+pharnace,Undirected,phoedime,1
+pharnace,Undirected,mithridate,2
+phoedime,Undirected,arcas,1
+mithridate,Undirected,arcas,1

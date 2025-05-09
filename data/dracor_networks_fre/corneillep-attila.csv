@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+attila,Undirected,octar,2
+attila,Undirected,ardaric,3
+attila,Undirected,valamir,2
+attila,Undirected,ildione,3
+attila,Undirected,honorie,4
+octar,Undirected,ardaric,1
+octar,Undirected,honorie,2
+ardaric,Undirected,valamir,6
+ardaric,Undirected,ildione,2
+ardaric,Undirected,honorie,2
+valamir,Undirected,honorie,5
+valamir,Undirected,flavie,1
+flavie,Undirected,honorie,2
+honorie,Undirected,ildione,2

@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+madame-de-la-bruyere,Undirected,monsieur-de-la-bruyere,7
+madame-de-la-bruyere,Undirected,le-grand,1
+madame-de-la-bruyere,Undirected,la-comtesse,2
+madame-de-la-bruyere,Undirected,monsieur-dumont,3
+monsieur-de-la-bruyere,Undirected,le-grand,2
+monsieur-de-la-bruyere,Undirected,la-comtesse,2
+monsieur-de-la-bruyere,Undirected,monsieur-dumont,3
+le-grand,Undirected,la-comtesse,1
+la-comtesse,Undirected,monsieur-dumont,1

@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+neadarne,Undirected,moustache,6
+neadarne,Undirected,tanzaï,2
+neadarne,Undirected,jonquille,2
+neadarne,Undirected,saugrenutio,1
+moustache,Undirected,tanzaï,3
+moustache,Undirected,jonquille,2
+moustache,Undirected,saugrenutio,4
+moustache,Undirected,azort,1
+tanzaï,Undirected,jonquille,1
+tanzaï,Undirected,saugrenutio,1
+saugrenutio,Undirected,azort,1

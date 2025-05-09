@@ -1,0 +1,8 @@
+Source,Type,Target,Weight
+guignol,Undirected,le-diable,3
+guignol,Undirected,l-apothicaire,1
+guignol,Undirected,une-voix,1
+guignol,Undirected,maitre-ferulard,1
+guignol,Undirected,la-voix,1
+l-apothicaire,Undirected,une-voix,1
+maitre-ferulard,Undirected,la-voix,1

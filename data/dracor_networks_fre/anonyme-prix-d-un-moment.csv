@@ -1,0 +1,8 @@
+Source,Type,Target,Weight
+louis,Undirected,le-vieillard,1
+louis,Undirected,va-le-galop,2
+louis,Undirected,serre-fort,2
+louis,Undirected,dumont,1
+va-le-galop,Undirected,serre-fort,2
+va-le-galop,Undirected,dumont,1
+serre-fort,Undirected,dumont,1

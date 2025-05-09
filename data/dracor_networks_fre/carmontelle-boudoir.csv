@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+monsieur-de-bourval,Undirected,monsieur-d-orsant,2
+monsieur-de-bourval,Undirected,sophie,2
+monsieur-de-bourval,Undirected,mademoiselle-de-saint-edme,1
+monsieur-de-bourval,Undirected,le-chevalier,1
+monsieur-d-orsant,Undirected,mademoiselle-de-saint-edme,1
+monsieur-d-orsant,Undirected,sophie,1
+monsieur-d-orsant,Undirected,le-chevalier,1
+sophie,Undirected,le-chevalier,3
+sophie,Undirected,mademoiselle-de-saint-edme,2
+le-chevalier,Undirected,mademoiselle-de-saint-edme,2

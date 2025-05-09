@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+laurens,Undirected,tartuffe,2
+laurens,Undirected,lise,2
+tartuffe,Undirected,lise,4
+tartuffe,Undirected,cleon,3
+tartuffe,Undirected,lisandre,1
+tartuffe,Undirected,lidiane,1
+cleon,Undirected,lise,4
+cleon,Undirected,lidiane,2
+cleon,Undirected,lisandre,1
+lise,Undirected,lidiane,4
+lise,Undirected,lisandre,2
+lidiane,Undirected,lisandre,2

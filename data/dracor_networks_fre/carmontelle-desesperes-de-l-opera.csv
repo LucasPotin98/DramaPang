@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+monsieur-pillier,Undirected,le-garçon,1
+monsieur-pillier,Undirected,monsieur-sanglier,5
+monsieur-pillier,Undirected,monsieur-qu-importe,1
+monsieur-pillier,Undirected,monsieur-pointdutout,1
+monsieur-sanglier,Undirected,monsieur-qu-importe,1
+monsieur-sanglier,Undirected,monsieur-pointdutout,1

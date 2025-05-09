@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+le-chevalier-de-l-industrie,Undirected,le-marquis-de-mache-a-vide,2
+le-chevalier-de-l-industrie,Undirected,le-comte-de-plume-seche,3
+le-chevalier-de-l-industrie,Undirected,le-baron-de-la-triste-figure,2
+le-chevalier-de-l-industrie,Undirected,guillot,2
+le-chevalier-de-l-industrie,Undirected,la-rocque,1
+le-marquis-de-mache-a-vide,Undirected,le-comte-de-plume-seche,2
+le-marquis-de-mache-a-vide,Undirected,le-baron-de-la-triste-figure,2
+le-comte-de-plume-seche,Undirected,le-baron-de-la-triste-figure,2
+le-comte-de-plume-seche,Undirected,guillot,1
+la-rocque,Undirected,guillot,3

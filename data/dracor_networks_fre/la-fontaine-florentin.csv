@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+marinette,Undirected,timante,3
+marinette,Undirected,harpageme,5
+marinette,Undirected,agathe,2
+marinette,Undirected,hortense,3
+timante,Undirected,harpageme,2
+timante,Undirected,hortense,1
+harpageme,Undirected,agathe,3
+harpageme,Undirected,hortense,3
+harpageme,Undirected,le-serrurier,1
+harpageme,Undirected,l-exempt,1
+agathe,Undirected,l-exempt,1

@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+l-actrice,Undirected,momus,1
+momus,Undirected,philinte,1
+momus,Undirected,l-indifferent,1
+momus,Undirected,le-genie,1
+momus,Undirected,terpsicore,1

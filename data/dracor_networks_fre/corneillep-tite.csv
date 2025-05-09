@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+domitie,Undirected,plautine,2
+domitie,Undirected,domitian,4
+domitie,Undirected,tite,3
+domitie,Undirected,berenice,2
+domitian,Undirected,albin,2
+domitian,Undirected,tite,4
+domitian,Undirected,berenice,4
+tite,Undirected,flavian,4
+tite,Undirected,berenice,4
+berenice,Undirected,philon,2

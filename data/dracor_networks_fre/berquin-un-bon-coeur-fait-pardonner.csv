@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+monsieur-de-valcourt,Undirected,dorothee,4
+monsieur-de-valcourt,Undirected,le-domestique,1
+monsieur-de-valcourt,Undirected,marianne,5
+monsieur-de-valcourt,Undirected,petrel,2
+monsieur-de-valcourt,Undirected,frederic,1
+dorothee,Undirected,le-domestique,1
+dorothee,Undirected,marianne,6
+dorothee,Undirected,frederic,2
+dorothee,Undirected,petrel,2
+marianne,Undirected,frederic,2
+marianne,Undirected,petrel,2
+frederic,Undirected,petrel,1

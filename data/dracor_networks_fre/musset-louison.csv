@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+lisette,Undirected,le-duc,4
+lisette,Undirected,berthaud,5
+lisette,Undirected,bert2haud,1
+lisette,Undirected,la-marechale,4
+lisette,Undirected,la-duchesse,4
+le-duc,Undirected,la-duchesse,3
+le-duc,Undirected,la-marechale,3
+le-duc,Undirected,berthaud,2
+berthaud,Undirected,bert2haud,1
+berthaud,Undirected,la-marechale,2
+berthaud,Undirected,la-duchesse,1
+la-duchesse,Undirected,la-marechale,7

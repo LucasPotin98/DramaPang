@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+momus,Undirected,venus,3
+momus,Undirected,le-voluptueux,1
+momus,Undirected,le-dramaturge,1
+momus,Undirected,arlequin,1
+momus,Undirected,l-amour,1
+venus,Undirected,le-calender,2
+venus,Undirected,la-jeune-fille,1
+venus,Undirected,l-officier,1
+venus,Undirected,l-amour,1
+le-dramaturge,Undirected,arlequin,1
+arlequin,Undirected,le-sauvage,1

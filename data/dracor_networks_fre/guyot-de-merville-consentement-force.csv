@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+lisimon,Undirected,cleante,2
+lisimon,Undirected,clarice,4
+lisimon,Undirected,orgon,7
+lisimon,Undirected,toinette,4
+cleante,Undirected,clarice,3
+cleante,Undirected,toinette,2
+cleante,Undirected,orgon,1
+clarice,Undirected,toinette,6
+clarice,Undirected,orgon,6
+toinette,Undirected,orgon,7

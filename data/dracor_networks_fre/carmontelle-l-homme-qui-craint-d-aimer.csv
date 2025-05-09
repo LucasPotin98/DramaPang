@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+champagne,Undirected,le-chevalier,1
+champagne,Undirected,le-comte,1
+le-chevalier,Undirected,le-comte,3
+le-chevalier,Undirected,la-marquise,2
+le-comte,Undirected,la-marquise,2

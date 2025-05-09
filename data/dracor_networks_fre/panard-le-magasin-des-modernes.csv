@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+mercure,Undirected,apollon,1
+mercure,Undirected,la-nouveaute,1
+mercure,Undirected,le-poete,2
+mercure,Undirected,merveilleux,3
+mercure,Undirected,la-rime,2
+mercure,Undirected,le-compositeur,1
+mercure,Undirected,le-choeur,1
+merveilleux,Undirected,la-rime,2
+merveilleux,Undirected,le-choeur,1

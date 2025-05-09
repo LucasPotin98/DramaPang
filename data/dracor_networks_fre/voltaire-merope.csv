@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+ismenie,Undirected,merope,10
+ismenie,Undirected,eurycles,5
+ismenie,Undirected,egisthe,4
+ismenie,Undirected,narbas,4
+ismenie,Undirected,polyphonte,2
+merope,Undirected,eurycles,8
+merope,Undirected,polyphonte,3
+merope,Undirected,egisthe,6
+merope,Undirected,erox,1
+merope,Undirected,narbas,5
+eurycles,Undirected,egisthe,6
+eurycles,Undirected,narbas,5
+polyphonte,Undirected,erox,2
+polyphonte,Undirected,egisthe,2
+egisthe,Undirected,narbas,4

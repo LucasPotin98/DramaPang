@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+lucile,Undirected,mascarat,4
+lucile,Undirected,ragueneau,5
+lucile,Undirected,poquelin,2
+mascarat,Undirected,ragueneau,3
+mascarat,Undirected,poquelin,1
+ragueneau,Undirected,poquelin,3

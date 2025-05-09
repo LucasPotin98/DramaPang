@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+monsieur-du-hable,Undirected,madame-rougeau,3
+monsieur-du-hable,Undirected,l-abbe,3
+monsieur-du-hable,Undirected,madame-de-sousay,3
+monsieur-du-hable,Undirected,madame-de-mortilliere,3
+monsieur-du-hable,Undirected,monsieur-pinçon,1
+madame-rougeau,Undirected,andre,1
+madame-rougeau,Undirected,l-abbe,5
+madame-rougeau,Undirected,madame-de-mortilliere,3
+madame-rougeau,Undirected,madame-de-sousay,3
+madame-rougeau,Undirected,monsieur-pinçon,1
+l-abbe,Undirected,madame-de-mortilliere,5
+l-abbe,Undirected,madame-de-sousay,5
+l-abbe,Undirected,monsieur-pinçon,1
+madame-de-mortilliere,Undirected,madame-de-sousay,5
+madame-de-mortilliere,Undirected,monsieur-pinçon,1
+madame-de-sousay,Undirected,monsieur-pinçon,1

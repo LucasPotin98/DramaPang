@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+le-bon-genie,Undirected,geneve,2
+d-attignac-l-aine,Undirected,d-attignac-le-cadet,2
+d-attignac-l-aine,Undirected,d-albigny,2
+d-attignac-l-aine,Undirected,le-pere-alexandre,1
+d-attignac-l-aine,Undirected,d-andelot,1
+d-attignac-le-cadet,Undirected,d-albigny,1
+d-attignac-le-cadet,Undirected,le-pere-alexandre,1
+d-attignac-le-cadet,Undirected,d-andelot,1
+d-albigny,Undirected,le-pere-alexandre,3
+d-albigny,Undirected,d-andelot,2
+le-pere-alexandre,Undirected,d-andelot,2

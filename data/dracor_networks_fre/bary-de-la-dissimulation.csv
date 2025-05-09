@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+belise,Undirected,terovane,1
+belise,Undirected,arimene,1
+terovane,Undirected,arimene,1

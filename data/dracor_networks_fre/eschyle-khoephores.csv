@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+oreste,Undirected,electre,3
+oreste,Undirected,le-choeur-des-khoephores,4
+oreste,Undirected,le-portier,2
+oreste,Undirected,clytemnestre,2
+oreste,Undirected,pylade,1
+le-choeur-des-khoephores,Undirected,electre,4
+le-choeur-des-khoephores,Undirected,le-portier,1
+le-choeur-des-khoephores,Undirected,clytemnestre,1
+le-choeur-des-khoephores,Undirected,gilissa,1
+le-choeur-des-khoephores,Undirected,egisthe,1
+electre,Undirected,le-portier,1
+electre,Undirected,clytemnestre,1
+le-portier,Undirected,clytemnestre,2
+le-portier,Undirected,pylade,1
+clytemnestre,Undirected,pylade,1

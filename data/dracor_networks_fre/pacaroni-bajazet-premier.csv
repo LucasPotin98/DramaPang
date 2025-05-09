@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+odmar,Undirected,bajazet,1
+odmar,Undirected,tamerlan,5
+bajazet,Undirected,tamerlan,4
+bajazet,Undirected,asterie,6
+bajazet,Undirected,andronic,2
+tamerlan,Undirected,asterie,4
+tamerlan,Undirected,andronic,1
+asterie,Undirected,zaïde,4
+asterie,Undirected,andronic,2
+andronic,Undirected,arcas,2

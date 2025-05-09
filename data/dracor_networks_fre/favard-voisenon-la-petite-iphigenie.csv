@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+iphigenie,Undirected,ismenie,8
+iphigenie,Undirected,eumene,5
+iphigenie,Undirected,thoas,4
+iphigenie,Undirected,pilade,6
+iphigenie,Undirected,oreste,5
+iphigenie,Undirected,l-esclave,1
+iphigenie,Undirected,ensemble,1
+ismenie,Undirected,eumene,5
+ismenie,Undirected,pilade,1
+ismenie,Undirected,l-esclave,1
+eumene,Undirected,l-esclave,1
+thoas,Undirected,oreste,2
+thoas,Undirected,arbas,1
+thoas,Undirected,pilade,1
+oreste,Undirected,pilade,5
+oreste,Undirected,ensemble,1

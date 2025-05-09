@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+calabre,Undirected,le-notaire,5
+calabre,Undirected,le-domestique,3
+calabre,Undirected,steinberg,7
+calabre,Undirected,bettine,7
+calabre,Undirected,le-marquis,2
+le-notaire,Undirected,le-domestique,1
+le-notaire,Undirected,steinberg,1
+le-notaire,Undirected,bettine,2
+le-notaire,Undirected,le-marquis,1
+le-domestique,Undirected,steinberg,1
+le-domestique,Undirected,bettine,1
+steinberg,Undirected,bettine,4
+steinberg,Undirected,ensemble,1
+bettine,Undirected,le-marquis,4
+bettine,Undirected,ensemble,1

@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+le-narrateur,Undirected,monsieur-le-president,1
+le-narrateur,Undirected,garancier,1
+le-narrateur,Undirected,le-temoin,1
+le-narrateur,Undirected,fondant,1
+monsieur-le-president,Undirected,garancier,1
+monsieur-le-president,Undirected,le-temoin,1
+monsieur-le-president,Undirected,fondant,1
+garancier,Undirected,le-temoin,1
+garancier,Undirected,fondant,1
+le-temoin,Undirected,fondant,1

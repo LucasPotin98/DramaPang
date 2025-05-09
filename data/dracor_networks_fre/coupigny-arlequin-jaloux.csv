@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+arlequin,Undirected,colombine,4
+arlequin,Undirected,scapin,5
+arlequin,Undirected,dumont,5
+colombine,Undirected,scapin,4
+colombine,Undirected,dumont,4
+scapin,Undirected,dumont,2

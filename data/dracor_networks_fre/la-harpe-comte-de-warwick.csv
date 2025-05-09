@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+nevil,Undirected,marguerite,2
+marguerite,Undirected,edouard,2
+marguerite,Undirected,warwik,1
+marguerite,Undirected,elisabeth,2
+edouard,Undirected,suffolk,2
+edouard,Undirected,l-officier,1
+edouard,Undirected,warwik,4
+edouard,Undirected,elisabeth,4
+suffolk,Undirected,elisabeth,1
+l-officier,Undirected,elisabeth,1
+l-officier,Undirected,warwik,1
+warwik,Undirected,summer,4
+warwik,Undirected,elisabeth,5

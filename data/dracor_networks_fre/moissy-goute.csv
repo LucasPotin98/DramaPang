@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+monsieur-blandineau,Undirected,madame-blandineau,3
+monsieur-blandineau,Undirected,jannot,2
+monsieur-blandineau,Undirected,le-petit-blandineau,1
+monsieur-blandineau,Undirected,la-petite-blandineau,1
+madame-blandineau,Undirected,jannot,2
+madame-blandineau,Undirected,le-petit-blandineau,1
+madame-blandineau,Undirected,la-petite-blandineau,1
+madame-beandineau,Undirected,le-petit-blandineau,1
+le-petit-blandineau,Undirected,jannot,2
+le-petit-blandineau,Undirected,la-petite-blandineau,2
+jannot,Undirected,la-petite-blandineau,2

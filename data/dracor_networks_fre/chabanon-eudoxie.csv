@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+elise,Undirected,eudoxie,6
+eudoxie,Undirected,arbate,1
+eudoxie,Undirected,aspar,4
+eudoxie,Undirected,maxime,8
+eudoxie,Undirected,flavus,1
+eudoxie,Undirected,gontharis,3
+eudoxie,Undirected,leonce,4
+aspar,Undirected,maxime,3
+aspar,Undirected,leonce,1
+maxime,Undirected,flavus,1
+adonal,Undirected,gontharis,1
+gontharis,Undirected,leonce,1

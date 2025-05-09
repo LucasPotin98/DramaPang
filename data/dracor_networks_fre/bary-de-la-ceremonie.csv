@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+le-capitaine,Undirected,le-docteur,1
+le-capitaine,Undirected,le-financier,1
+le-capitaine,Undirected,l-avocat,1
+le-docteur,Undirected,le-financier,1
+le-docteur,Undirected,l-avocat,1
+le-financier,Undirected,l-avocat,1

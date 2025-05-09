@@ -1,0 +1,5 @@
+Source,Type,Target,Weight
+le-docteur,Undirected,guignol,2
+guignol,Undirected,la-dame,1
+guignol,Undirected,le-vieux-monsieur,1
+guignol,Undirected,l-apothicaire,1

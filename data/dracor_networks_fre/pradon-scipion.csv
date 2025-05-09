@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+lepide,Undirected,aurilcar,1
+lepide,Undirected,scipion,3
+lepide,Undirected,erixene,1
+aurilcar,Undirected,erixene,1
+aurilcar,Undirected,scipion,1
+erixene,Undirected,barce,1
+erixene,Undirected,isperie,1
+erixene,Undirected,scipion,1
+scipion,Undirected,isperie,5
+scipion,Undirected,annibal,2
+scipion,Undirected,sextus,1
+scipion,Undirected,lucejus,1
+isperie,Undirected,ermilie,3
+isperie,Undirected,lucejus,3
+isperie,Undirected,annibal,1
+isperie,Undirected,sextus,1

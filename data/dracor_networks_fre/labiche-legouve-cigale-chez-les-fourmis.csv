@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+madame-chameroy,Undirected,chameroy,8
+madame-chameroy,Undirected,henriette,8
+madame-chameroy,Undirected,le-domestique,3
+madame-chameroy,Undirected,paul,7
+madame-chameroy,Undirected,les-chameroy,1
+chameroy,Undirected,henriette,7
+chameroy,Undirected,le-domestique,3
+chameroy,Undirected,paul,5
+chameroy,Undirected,les-chameroy,1
+henriette,Undirected,le-domestique,4
+henriette,Undirected,paul,6
+henriette,Undirected,les-chameroy,1
+le-domestique,Undirected,paul,2
+paul,Undirected,les-chameroy,1

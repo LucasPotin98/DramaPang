@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+merlin,Undirected,gresinde,3
+merlin,Undirected,zoroastre,5
+gresinde,Undirected,zoroastre,1

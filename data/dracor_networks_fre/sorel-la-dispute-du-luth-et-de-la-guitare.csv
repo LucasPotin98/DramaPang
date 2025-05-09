@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+le-luth,Undirected,la-guitare,1
+le-luth,Undirected,le-musicien,1
+la-guitare,Undirected,le-musicien,1

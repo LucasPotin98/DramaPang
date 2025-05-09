@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+pollux,Undirected,jason,1
+pollux,Undirected,creon,2
+pollux,Undirected,cleone,1
+jason,Undirected,creuse,4
+jason,Undirected,cleone,2
+jason,Undirected,creon,1
+jason,Undirected,nerine,1
+jason,Undirected,medee,2
+creuse,Undirected,cleone,3
+creuse,Undirected,creon,2
+creuse,Undirected,aegee,1
+cleone,Undirected,creon,2
+medee,Undirected,nerine,4
+medee,Undirected,creon,1
+medee,Undirected,aegee,1
+medee,Undirected,theudas,1

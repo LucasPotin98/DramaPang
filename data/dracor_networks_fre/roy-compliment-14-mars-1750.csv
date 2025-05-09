@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+monsieur-soly,Undirected,mademoiselle-astraudy,2
+monsieur-soly,Undirected,arlequin,1
+monsieur-soly,Undirected,mademoisellle-astraudy,1
+mademoiselle-astraudy,Undirected,arlequin,1
+mademoiselle-astraudy,Undirected,mademoisellle-astraudy,1
+arlequin,Undirected,mademoisellle-astraudy,1

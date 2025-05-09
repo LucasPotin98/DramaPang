@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+placide,Undirected,justin,5
+placide,Undirected,adrien,5
+placide,Undirected,maxime,3
+placide,Undirected,attilie,2
+placide,Undirected,albin,1
+placide,Undirected,pauline,1
+justin,Undirected,adrien,3
+justin,Undirected,attilie,2
+adrien,Undirected,attilie,6
+adrien,Undirected,maxime,3
+adrien,Undirected,albin,4
+adrien,Undirected,pauline,1
+maxime,Undirected,attilie,2
+maxime,Undirected,pauline,1
+attilie,Undirected,pauline,5
+attilie,Undirected,albin,1

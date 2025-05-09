@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+dorante,Undirected,lisette,7
+dorante,Undirected,angelique,8
+dorante,Undirected,lubin,7
+dorante,Undirected,ergaste,2
+dorante,Undirected,madame-argante,3
+lisette,Undirected,angelique,9
+lisette,Undirected,lubin,5
+lisette,Undirected,ergaste,1
+lisette,Undirected,madame-argante,2
+angelique,Undirected,madame-argante,7
+angelique,Undirected,lubin,10
+angelique,Undirected,ergaste,2
+lubin,Undirected,madame-argante,7
+lubin,Undirected,ergaste,2
+madame-argante,Undirected,ergaste,1

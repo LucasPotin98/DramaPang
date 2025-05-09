@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+l-epine,Undirected,roussel,1
+l-epine,Undirected,le-vicomte,1
+roussel,Undirected,le-baron,1
+roussel,Undirected,le-marquis,1
+roussel,Undirected,le-chevalier,1
+le-baron,Undirected,le-marquis,2
+le-baron,Undirected,le-vicomte,3
+le-baron,Undirected,le-chevalier,3
+le-marquis,Undirected,dorival,1
+le-marquis,Undirected,le-vicomte,1
+le-marquis,Undirected,le-chevalier,1
+le-chevalier,Undirected,le-vicomte,3

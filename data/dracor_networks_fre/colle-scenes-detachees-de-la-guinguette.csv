@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+le-perruquier,Undirected,l-abbe,1
+le-perruquier,Undirected,tonton,2
+le-perruquier,Undirected,τοντον,1
+le-perruquier,Undirected,le-soldat,1
+l-abbe,Undirected,tonton,1
+l-abbe,Undirected,τοντον,1
+tonton,Undirected,τοντον,1
+tonton,Undirected,le-soldat,1

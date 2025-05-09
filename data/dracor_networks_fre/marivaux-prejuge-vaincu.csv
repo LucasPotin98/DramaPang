@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+lepine,Undirected,lisette,7
+lepine,Undirected,dorante,3
+lepine,Undirected,angelique,2
+lepine,Undirected,le-marquis,1
+lisette,Undirected,dorante,3
+lisette,Undirected,angelique,4
+lisette,Undirected,le-marquis,2
+dorante,Undirected,angelique,4
+dorante,Undirected,le-marquis,4
+angelique,Undirected,le-marquis,3

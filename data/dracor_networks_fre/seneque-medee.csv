@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+medee,Undirected,le-nourrice,3
+medee,Undirected,creon,1
+medee,Undirected,jason,2
+medee,Undirected,l-envoye,1
+medee,Undirected,le-choeur,1
+le-choeur,Undirected,l-envoye,1
+le-choeur,Undirected,le-nourrice,1
+le-choeur,Undirected,jason,1
+le-nourrice,Undirected,l-envoye,1
+le-nourrice,Undirected,jason,1
+jason,Undirected,l-envoye,1

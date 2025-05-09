@@ -1,0 +1,5 @@
+Source,Type,Target,Weight
+madame-catau,Undirected,orgon,3
+madame-catau,Undirected,hortense,2
+madame-catau,Undirected,monsieur-de-la-roupilliere,1
+orgon,Undirected,hortense,2

@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+dianasse,Undirected,argesime,2
+dianasse,Undirected,phebide,3
+dianasse,Undirected,acorate,3
+dianasse,Undirected,zelonide,2
+argesime,Undirected,acorate,1
+argesime,Undirected,mandricidas,1
+argesime,Undirected,phillus,1
+acorate,Undirected,lisimacus,2
+acorate,Undirected,mandricidas,5
+acorate,Undirected,phillus,1
+acorate,Undirected,officier,1
+acorate,Undirected,zelonide,4
+mandricidas,Undirected,phillus,1
+mandricidas,Undirected,officier,1
+mandricidas,Undirected,zelonide,2
+zelonide,Undirected,archidamie,4

@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+la-crainte,Undirected,la-parade,2
+la-crainte,Undirected,leandre,1
+la-crainte,Undirected,l-esperance,1
+la-parade,Undirected,leandre,5
+la-parade,Undirected,l-esperance,4
+la-parade,Undirected,le-dieu-de-la-gaiete,2
+leandre,Undirected,l-esperance,4
+leandre,Undirected,le-dieu-de-la-gaiete,2
+l-esperance,Undirected,le-dieu-de-la-gaiete,2

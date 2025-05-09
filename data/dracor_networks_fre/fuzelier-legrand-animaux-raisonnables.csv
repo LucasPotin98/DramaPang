@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+ulysse,Undirected,circe,1
+ulysse,Undirected,le-loup,1
+ulysse,Undirected,le-cochon,1
+ulysse,Undirected,la-poule,1
+ulysse,Undirected,le-taureau,1
+ulysse,Undirected,la-linotte,1
+ulysse,Undirected,le-dauphin,1
+ulysse,Undirected,arlequin,2
+le-dauphin,Undirected,arlequin,1
+arlequin,Undirected,un-musicien,1
+arlequin,Undirected,le-choeur,1
+arlequin,Undirected,une-danseuse,1
+un-musicien,Undirected,le-choeur,1
+un-musicien,Undirected,une-danseuse,1
+le-choeur,Undirected,une-danseuse,1

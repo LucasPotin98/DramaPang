@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+laonice,Undirected,timagene,2
+laonice,Undirected,rodogune,2
+laonice,Undirected,cleopatre,3
+timagene,Undirected,antiochus,2
+timagene,Undirected,cleopatre,1
+timagene,Undirected,rodogune,1
+timagene,Undirected,oronte,1
+antiochus,Undirected,seleucus,5
+antiochus,Undirected,cleopatre,4
+antiochus,Undirected,rodogune,4
+antiochus,Undirected,oronte,2
+seleucus,Undirected,cleopatre,2
+seleucus,Undirected,rodogune,1
+rodogune,Undirected,oronte,3
+rodogune,Undirected,cleopatre,2
+cleopatre,Undirected,oronte,2

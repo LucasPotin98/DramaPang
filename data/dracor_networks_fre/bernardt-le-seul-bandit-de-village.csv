@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+arsene,Undirected,la-bonne,2
+arsene,Undirected,la-baronne,3
+arsene,Undirected,le-baron,1
+arsene,Undirected,le-commissaire,1
+la-bonne,Undirected,la-baronne,1
+la-baronne,Undirected,le-gentleman-farmer,1
+la-baronne,Undirected,le-baron,1
+la-baronne,Undirected,le-commissaire,1
+le-baron,Undirected,le-commissaire,1

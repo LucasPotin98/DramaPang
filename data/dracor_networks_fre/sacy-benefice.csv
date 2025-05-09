@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+le-page,Undirected,l-abbe-courant,2
+le-page,Undirected,le-duc,1
+l-abbe-courant,Undirected,l-abbe-de-malencontre,3
+l-abbe-courant,Undirected,le-duc,1
+l-abbe-courant,Undirected,tous-deux-ensemble,1
+le-duc,Undirected,l-abbe-de-malencontre,1
+le-duc,Undirected,tous-deux-ensemble,1
+l-abbe-de-malencontre,Undirected,tous-deux-ensemble,1

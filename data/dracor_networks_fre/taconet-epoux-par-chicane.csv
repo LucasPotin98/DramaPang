@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+michau,Undirected,antoinette,8
+michau,Undirected,furibon,4
+michau,Undirected,thibaut,4
+michau,Undirected,patau,3
+michau,Undirected,furet,1
+antoinette,Undirected,furibon,6
+antoinette,Undirected,françoise,2
+antoinette,Undirected,patau,2
+antoinette,Undirected,thibaut,2
+antoinette,Undirected,furet,1
+furibon,Undirected,patau,3
+furibon,Undirected,françoise,1
+furibon,Undirected,thibaut,1
+furibon,Undirected,furet,1
+patau,Undirected,thibaut,1

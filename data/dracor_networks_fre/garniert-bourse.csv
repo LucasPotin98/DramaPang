@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+le-gouverneur,Undirected,le-petit-marquis,4
+le-gouverneur,Undirected,le-marquis,2
+le-gouverneur,Undirected,rustaut,1
+le-gouverneur,Undirected,jeannot,1
+le-petit-marquis,Undirected,jeannot,2
+le-petit-marquis,Undirected,le-marquis,2
+le-petit-marquis,Undirected,rustaut,1
+jeannot,Undirected,le-marquis,1
+jeannot,Undirected,rustaut,1
+le-marquis,Undirected,rustaut,1
+le-marquis,Undirected,monsieur-le-gouverneur,1

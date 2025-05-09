@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+berger,Undirected,choeur,1
+choeur,Undirected,hylas,1
+hylas,Undirected,sylvie,3
+hylas,Undirected,lysis,2
+hylas,Undirected,timarette,2
+sylvie,Undirected,lysis,2
+sylvie,Undirected,le-choeur,1
+sylvie,Undirected,timarette,4
+lysis,Undirected,timarette,1
+le-choeur,Undirected,timarette,1

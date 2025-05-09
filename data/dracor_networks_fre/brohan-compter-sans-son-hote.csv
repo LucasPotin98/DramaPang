@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+la-duchesse,Undirected,le-marquis,4
+la-duchesse,Undirected,lucy,2
+le-marquis,Undirected,lucy,3

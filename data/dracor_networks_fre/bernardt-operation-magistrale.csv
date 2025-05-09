@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+julien,Undirected,le-maitre-d-hotel,1
+julien,Undirected,clara,1
+julien,Undirected,nelly,1
+julien,Undirected,doduvert,1
+julien,Undirected,dorel,1
+le-maitre-d-hotel,Undirected,clara,1
+le-maitre-d-hotel,Undirected,nelly,1
+le-maitre-d-hotel,Undirected,doduvert,1
+le-maitre-d-hotel,Undirected,dorel,1
+clara,Undirected,nelly,1
+clara,Undirected,doduvert,1
+clara,Undirected,dorel,1
+nelly,Undirected,doduvert,1
+nelly,Undirected,dorel,1
+doduvert,Undirected,dorel,1

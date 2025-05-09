@@ -1,0 +1,8 @@
+Source,Type,Target,Weight
+la-branche,Undirected,damon-fils,1
+damon-fils,Undirected,damon-pere,3
+damon-fils,Undirected,lucile,2
+damon-fils,Undirected,oronte,1
+damon-pere,Undirected,oronte,2
+damon-pere,Undirected,lucile,2
+oronte,Undirected,lucile,1

@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+hemon,Undirected,antigone,3
+hemon,Undirected,creon,1
+hemon,Undirected,ensemble,1
+antigone,Undirected,creon,1
+antigone,Undirected,ensemble,1
+creon,Undirected,ensemble,1

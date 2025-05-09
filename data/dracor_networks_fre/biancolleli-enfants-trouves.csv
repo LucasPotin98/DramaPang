@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+fatime,Undirected,temire,2
+fatime,Undirected,diaphane,1
+fatime,Undirected,jasmin,1
+temire,Undirected,diaphane,7
+temire,Undirected,jasmin,3
+temire,Undirected,carabin,5
+temire,Undirected,alcidor,1
+diaphane,Undirected,jasmin,7
+diaphane,Undirected,carabin,2
+diaphane,Undirected,matador,1
+jasmin,Undirected,matador,1
+jasmin,Undirected,carabin,1
+carabin,Undirected,alcidor,1

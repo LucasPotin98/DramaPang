@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+le-monsieur,Undirected,la-dame,1
+le-monsieur,Undirected,tous,1
+la-dame,Undirected,tous,1

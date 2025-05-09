@@ -1,0 +1,5 @@
+Source,Type,Target,Weight
+monsieur-des-vertus,Undirected,jacques,1
+monsieur-des-vertus,Undirected,le-petit-des-vertus,4
+monsieur-des-vertus,Undirected,jacquot,2
+le-petit-des-vertus,Undirected,jacquot,2

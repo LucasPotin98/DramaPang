@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+monsieur-rozelly,Undirected,monsieur-dorval,3
+monsieur-rozelly,Undirected,le-petit-dorval,1
+monsieur-rozelly,Undirected,le-petit-rozelly,3
+monsieur-dorval,Undirected,le-petit-dorval,2
+monsieur-dorval,Undirected,le-petit-rozelly,2
+le-petit-dorval,Undirected,le-petit-rozelly,1

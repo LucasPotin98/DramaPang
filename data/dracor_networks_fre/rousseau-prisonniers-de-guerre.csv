@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+jacquard,Undirected,dorante,2
+jacquard,Undirected,sophie,1
+dorante,Undirected,macker,4
+dorante,Undirected,goternitz,5
+dorante,Undirected,sophie,6
+dorante,Undirected,frederich,2
+macker,Undirected,goternitz,5
+macker,Undirected,sophie,3
+macker,Undirected,frederich,1
+goternitz,Undirected,sophie,4
+goternitz,Undirected,frederich,2
+sophie,Undirected,frederich,2

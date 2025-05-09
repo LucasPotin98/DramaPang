@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+crispin,Undirected,timante,5
+crispin,Undirected,perrette,4
+crispin,Undirected,babet,1
+crispin,Undirected,jaquemin,2
+crispin,Undirected,nicodeme,1
+crispin,Undirected,pirante,1
+timante,Undirected,perrette,5
+timante,Undirected,babet,2
+timante,Undirected,jaquemin,2
+perrette,Undirected,babet,1
+perrette,Undirected,jaquemin,6
+perrette,Undirected,nicodeme,3
+perrette,Undirected,pirante,3
+jaquemin,Undirected,pirante,3
+jaquemin,Undirected,nicodeme,2
+pirante,Undirected,nicodeme,3

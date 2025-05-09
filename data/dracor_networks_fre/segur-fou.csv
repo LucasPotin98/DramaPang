@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+dumont,Undirected,lisette,3
+dumont,Undirected,la-comtesse,4
+dumont,Undirected,mondor,1
+dumont,Undirected,dorval,4
+dumont,Undirected,le-medecin,2
+lisette,Undirected,la-comtesse,1
+la-comtesse,Undirected,mondor,5
+la-comtesse,Undirected,le-medecin,4
+la-comtesse,Undirected,dorval,2
+mondor,Undirected,le-medecin,2
+le-medecin,Undirected,dorval,2

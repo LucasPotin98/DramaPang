@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+zulime,Undirected,mohadir,3
+zulime,Undirected,atide,10
+zulime,Undirected,ramire,6
+zulime,Undirected,idamore,3
+zulime,Undirected,benassar,3
+zulime,Undirected,serame,4
+mohadir,Undirected,atide,1
+mohadir,Undirected,benassar,2
+atide,Undirected,ramire,9
+atide,Undirected,idamore,3
+atide,Undirected,serame,1
+atide,Undirected,benassar,1
+ramire,Undirected,idamore,4
+ramire,Undirected,benassar,2

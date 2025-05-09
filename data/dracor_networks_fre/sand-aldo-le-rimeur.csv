@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+aldo,Undirected,tickle,2
+aldo,Undirected,meg,1
+aldo,Undirected,jane,1
+aldo,Undirected,la-reine,2
+aldo,Undirected,acroceronius,1
+tickle,Undirected,jane,1
+tickle,Undirected,la-reine,3
+jane,Undirected,la-reine,1

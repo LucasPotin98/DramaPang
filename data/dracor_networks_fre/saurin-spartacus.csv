@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+noricus,Undirected,sunnon,3
+noricus,Undirected,spartacus,4
+noricus,Undirected,le-tribun,1
+sunnon,Undirected,spartacus,1
+spartacus,Undirected,albin,5
+spartacus,Undirected,le-tribun,1
+spartacus,Undirected,emilie,6
+spartacus,Undirected,messala,1
+spartacus,Undirected,crassus,3
+albin,Undirected,emilie,2
+sabine,Undirected,emilie,1
+emilie,Undirected,crassus,3
+emilie,Undirected,messala,1
+messala,Undirected,crassus,1

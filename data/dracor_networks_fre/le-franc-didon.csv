@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+iarbe,Undirected,madherbal,2
+iarbe,Undirected,didon,2
+iarbe,Undirected,zama,1
+madherbal,Undirected,didon,4
+madherbal,Undirected,elise,3
+madherbal,Undirected,achate,1
+madherbal,Undirected,enee,1
+madherbal,Undirected,barce,1
+didon,Undirected,elise,6
+didon,Undirected,barce,4
+didon,Undirected,enee,4
+elise,Undirected,barce,2
+enee,Undirected,achate,3

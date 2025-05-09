@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+de-villiers,Undirected,leandre,1
+de-villiers,Undirected,beau-chateau,2
+leandre,Undirected,beau-chateau,1
+leandre,Undirected,la-marquise,1
+leandre,Undirected,le-marquis,1
+le-marquis,Undirected,cascaret,1
+le-marquis,Undirected,alis,2
+le-marquis,Undirected,la-marquise,2
+le-marquis,Undirected,alcidon,2
+le-marquis,Undirected,cleante,1
+cascaret,Undirected,alis,1
+alis,Undirected,la-marquise,1
+alis,Undirected,alcidon,1
+la-marquise,Undirected,alcidon,1
+alcidon,Undirected,cleante,1

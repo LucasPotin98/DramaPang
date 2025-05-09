@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+mademoiselle-d-alrane,Undirected,catos,2
+mademoiselle-d-alrane,Undirected,colas,1
+catos,Undirected,colas,1

@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+la-marquise,Undirected,le-comte,3
+la-marquise,Undirected,emilie,1
+la-marquise,Undirected,le-chevalier,1
+le-comte,Undirected,emilie,3
+le-comte,Undirected,le-chevalier,3
+emilie,Undirected,le-chevalier,2

@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+cleopatre,Undirected,charmion,2
+cleopatre,Undirected,antoine,7
+charmion,Undirected,antoine,1

@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+l-etudiant,Undirected,la-grisette,1
+l-etudiant,Undirected,la-voix-de-monsieur-prudhomme,1
+la-grisette,Undirected,la-voix-de-monsieur-prudhomme,1

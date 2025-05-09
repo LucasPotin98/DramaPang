@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+lydie,Undirected,briseis,2
+lydie,Undirected,achille,2
+lydie,Undirected,patrocle,1
+briseis,Undirected,achille,2
+achille,Undirected,patrocle,3
+achille,Undirected,ulysse,1
+achille,Undirected,ajax,1
+achille,Undirected,phoenix,2
+patrocle,Undirected,phoenix,1
+ulysse,Undirected,ajax,1

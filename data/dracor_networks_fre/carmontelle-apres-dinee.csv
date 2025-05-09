@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+madame-de-vernant,Undirected,rosalie,1
+madame-de-vernant,Undirected,monsieur-de-vernant,2
+madame-de-vernant,Undirected,le-laquais,3
+madame-de-vernant,Undirected,l-abbe,3
+madame-de-vernant,Undirected,le-chevalier,3
+monsieur-de-vernant,Undirected,le-laquais,1
+monsieur-de-vernant,Undirected,l-abbe,1
+le-laquais,Undirected,l-abbe,2
+le-laquais,Undirected,le-chevalier,2
+l-abbe,Undirected,le-chevalier,1

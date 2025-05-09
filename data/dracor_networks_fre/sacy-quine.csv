@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+mignonnet,Undirected,colette,1
+mignonnet,Undirected,mignonet,3
+mignonnet,Undirected,madame-jourdain,2
+colette,Undirected,mignonet,3
+colette,Undirected,madame-jourdain,2
+mignonet,Undirected,madame-jourdain,6

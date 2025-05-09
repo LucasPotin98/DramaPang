@@ -1,0 +1,8 @@
+Source,Type,Target,Weight
+belval,Undirected,la-fleur,5
+belval,Undirected,verville,1
+belval,Undirected,sophie,5
+belval,Undirected,le-comte,2
+la-fleur,Undirected,sophie,2
+la-fleur,Undirected,le-comte,1
+sophie,Undirected,le-comte,1

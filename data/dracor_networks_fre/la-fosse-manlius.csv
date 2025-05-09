@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+manlius,Undirected,albin,3
+manlius,Undirected,proculus,1
+manlius,Undirected,valerius,2
+manlius,Undirected,servilius,5
+manlius,Undirected,rutile,3
+albin,Undirected,servilius,2
+albin,Undirected,valerie,1
+albin,Undirected,tullie,1
+valerius,Undirected,servilius,3
+servilius,Undirected,valerie,5
+servilius,Undirected,rutile,3
+valerie,Undirected,tullie,3

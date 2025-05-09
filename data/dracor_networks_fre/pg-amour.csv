@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+dorine,Undirected,celimene,3
+dorine,Undirected,pasquin,3
+dorine,Undirected,le-chevalier,1
+dorine,Undirected,dorante,1
+celimene,Undirected,dorante,3
+celimene,Undirected,le-chevalier,3
+celimene,Undirected,pasquin,1
+pasquin,Undirected,dorante,3
+pasquin,Undirected,le-chevalier,2
+dorante,Undirected,le-chevalier,4

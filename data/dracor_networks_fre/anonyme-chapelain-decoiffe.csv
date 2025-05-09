@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+la-serre,Undirected,chapelain,1
+la-serre,Undirected,cassaigne,1
+chapelain,Undirected,cassaigne,1

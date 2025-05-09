@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+cecile,Undirected,dorsay,4
+cecile,Undirected,monsieur-durivage,6
+dorsay,Undirected,monsieur-durivage,3

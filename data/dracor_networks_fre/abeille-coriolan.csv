@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+coriolan,Undirected,albin,6
+coriolan,Undirected,aufide,3
+coriolan,Undirected,virgile,4
+coriolan,Undirected,camille,3
+albin,Undirected,virgile,3
+albin,Undirected,camille,1
+albin,Undirected,sabine,1
+aufide,Undirected,camille,1
+aufide,Undirected,virgile,1
+virgile,Undirected,camille,2
+virgile,Undirected,sabine,3
+sabine,Undirected,camille,3

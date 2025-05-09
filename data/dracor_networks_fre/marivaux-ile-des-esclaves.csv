@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+iphicrate,Undirected,arlequin,6
+iphicrate,Undirected,trivelin,2
+iphicrate,Undirected,cleanthis,3
+iphicrate,Undirected,euphrosine,1
+arlequin,Undirected,trivelin,3
+arlequin,Undirected,cleanthis,4
+arlequin,Undirected,euphrosine,2
+trivelin,Undirected,cleanthis,3
+trivelin,Undirected,euphrosine,2
+cleanthis,Undirected,euphrosine,3

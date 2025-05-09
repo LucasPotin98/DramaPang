@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+la-mariee,Undirected,mercure,1
+mercure,Undirected,la-suissesse,1
+mercure,Undirected,le-nain,1
+mercure,Undirected,l-homme-de-bonne-chere,1
+mercure,Undirected,le-gascon,1
+mercure,Undirected,la-thorilliere,2
+mercure,Undirected,poisson,2
+la-suissesse,Undirected,le-nain,1
+la-thorilliere,Undirected,poisson,2
+vulcain,Undirected,venus,1
+vulcain,Undirected,mars,1

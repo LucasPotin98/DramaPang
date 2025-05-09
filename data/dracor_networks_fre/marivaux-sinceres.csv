@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+lisette,Undirected,frontin,5
+lisette,Undirected,ergaste,4
+lisette,Undirected,araminte,2
+lisette,Undirected,dorante,3
+lisette,Undirected,marquise,4
+frontin,Undirected,ergaste,4
+frontin,Undirected,marquise,2
+frontin,Undirected,araminte,2
+frontin,Undirected,dorante,3
+ergaste,Undirected,araminte,5
+ergaste,Undirected,marquise,7
+ergaste,Undirected,dorante,3
+araminte,Undirected,dorante,4
+araminte,Undirected,marquise,2
+marquise,Undirected,dorante,4

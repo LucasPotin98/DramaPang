@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+frontin,Undirected,finette,7
+frontin,Undirected,julie,4
+frontin,Undirected,dolsey,5
+frontin,Undirected,jourdain,2
+finette,Undirected,julie,4
+finette,Undirected,dolsey,4
+finette,Undirected,jourdain,3
+julie,Undirected,dolsey,6
+julie,Undirected,jourdain,3
+dolsey,Undirected,jourdain,5

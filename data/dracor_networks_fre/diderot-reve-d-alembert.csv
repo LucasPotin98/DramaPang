@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+bordeu,Undirected,mademoiselle-de-l-espinasse,1
+bordeu,Undirected,le-domestique,1
+bordeu,Undirected,d-alembert,1
+mademoiselle-de-l-espinasse,Undirected,le-domestique,1
+mademoiselle-de-l-espinasse,Undirected,d-alembert,1
+le-domestique,Undirected,d-alembert,1

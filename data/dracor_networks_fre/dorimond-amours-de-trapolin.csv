@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+ignorance,Undirected,trapolin,3
+ignorance,Undirected,philosophie,2
+ignorance,Undirected,poesie,2
+ignorance,Undirected,le-docteur,1
+ignorance,Undirected,galanterie,1
+trapolin,Undirected,le-docteur,4
+trapolin,Undirected,poesie,4
+trapolin,Undirected,philosophie,4
+trapolin,Undirected,galanterie,2
+le-docteur,Undirected,poesie,2
+le-docteur,Undirected,philosophie,2
+le-docteur,Undirected,galanterie,1
+poesie,Undirected,philosophie,4
+poesie,Undirected,galanterie,2
+philosophie,Undirected,galanterie,2

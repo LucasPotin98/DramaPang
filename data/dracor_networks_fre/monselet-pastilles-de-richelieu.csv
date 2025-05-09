@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+le-duc-de-richelieu,Undirected,arsene-houssaye,1
+le-duc-de-richelieu,Undirected,le-souffleur,1
+arsene-houssaye,Undirected,le-souffleur,1

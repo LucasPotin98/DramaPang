@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+le-duc,Undirected,chompre,3
+le-duc,Undirected,la-marquise,1
+le-duc,Undirected,lebel,1
+le-duc,Undirected,la-marechale,1
+le-duc,Undirected,henriette,1
+le-duc,Undirected,le-roi,1
+lebel,Undirected,le-roi,1
+la-marechale,Undirected,henriette,1

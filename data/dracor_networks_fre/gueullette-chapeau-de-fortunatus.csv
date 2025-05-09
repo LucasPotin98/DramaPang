@@ -1,0 +1,5 @@
+Source,Type,Target,Weight
+le-maitre,Undirected,gilles,2
+gilles,Undirected,divertissant,1
+gilles,Undirected,sans-quartier,1
+divertissant,Undirected,sans-quartier,2

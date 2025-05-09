@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+leandre,Undirected,isabelle,4
+leandre,Undirected,laure,3
+leandre,Undirected,alonce,3
+isabelle,Undirected,laure,3
+isabelle,Undirected,alonce,2
+laure,Undirected,alonce,2

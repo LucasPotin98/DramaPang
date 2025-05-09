@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+griffon,Undirected,jourdain,2
+griffon,Undirected,l-abbe,1
+jourdain,Undirected,hortensius,3
+jourdain,Undirected,l-abbe,3
+jourdain,Undirected,blazonnet,1
+jourdain,Undirected,goule,1
+jourdain,Undirected,coule,1
+hortensius,Undirected,blazonnet,1
+hortensius,Undirected,l-abbe,2
+hortensius,Undirected,goule,1
+hortensius,Undirected,coule,1
+l-abbe,Undirected,blazonnet,1
+l-abbe,Undirected,goule,1
+l-abbe,Undirected,coule,1
+goule,Undirected,coule,1

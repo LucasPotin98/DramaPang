@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+liou-li,Undirected,kou-mia,6
+liou-li,Undirected,peki,4
+kou-mia,Undirected,peki,4

@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+leandre,Undirected,hero,3
+leandre,Undirected,choeur-de-divinites-de-la-mer,1
+leandre,Undirected,neptune,1
+leandre,Undirected,ensemble,1
+hero,Undirected,choeur-de-pretresses-de-venus,1
+hero,Undirected,le-choeur,1
+hero,Undirected,choeur-de-divinites-de-la-mer,1
+hero,Undirected,neptune,1
+hero,Undirected,ensemble,1
+choeur-de-matelots,Undirected,choeur-d-habitants,1
+neptune,Undirected,choeur-de-divinites-de-la-mer,1
+neptune,Undirected,ensemble,1
+choeur-de-divinites-de-la-mer,Undirected,ensemble,1

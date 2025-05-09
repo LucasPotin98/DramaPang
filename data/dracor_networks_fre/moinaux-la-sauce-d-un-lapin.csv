@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+le-narrateur,Undirected,monsieur-le-president,1
+le-narrateur,Undirected,madame-boutonnier,1
+le-narrateur,Undirected,le-prevenu,1
+monsieur-le-president,Undirected,madame-boutonnier,1
+monsieur-le-president,Undirected,le-prevenu,1
+madame-boutonnier,Undirected,le-prevenu,1

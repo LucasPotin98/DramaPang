@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+manette,Undirected,therese,6
+manette,Undirected,emilie,1
+manette,Undirected,madame-villedieu,2
+manette,Undirected,monsieur-darneuil,2
+therese,Undirected,emilie,1
+therese,Undirected,madame-villedieu,2
+therese,Undirected,monsieur-darneuil,2
+madame-villedieu,Undirected,monsieur-darneuil,1

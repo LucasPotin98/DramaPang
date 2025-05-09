@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+le-narrateur,Undirected,monsieur-le-president,1
+le-narrateur,Undirected,madame-groisil,1
+le-narrateur,Undirected,madame-binoche,1
+monsieur-le-president,Undirected,madame-groisil,1
+monsieur-le-president,Undirected,madame-binoche,1
+madame-groisil,Undirected,madame-binoche,1

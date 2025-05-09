@@ -1,0 +1,8 @@
+Source,Type,Target,Weight
+lepine,Undirected,crepon,2
+crepon,Undirected,janrad,3
+crepon,Undirected,lulli,3
+crepon,Undirected,le-duc,1
+janrad,Undirected,lulli,2
+janrad,Undirected,le-duc,1
+lulli,Undirected,le-duc,1

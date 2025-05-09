@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+emile,Undirected,adrien,1
+emile,Undirected,le-complice,1
+emile,Undirected,le-chef,1
+adrien,Undirected,le-complice,1
+adrien,Undirected,le-chef,1
+le-complice,Undirected,le-chef,1

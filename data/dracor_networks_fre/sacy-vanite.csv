@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+monsieur-rondeau,Undirected,monsieur-triollet,3
+monsieur-rondeau,Undirected,monsieur-ballot,3
+monsieur-rondeau,Undirected,martin,1
+monsieur-triollet,Undirected,monsieur-ballot,3
+monsieur-ballot,Undirected,martin,1

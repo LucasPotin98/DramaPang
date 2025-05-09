@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+rosine,Undirected,amelie,4
+rosine,Undirected,colin,1
+rosine,Undirected,zelis,2
+amelie,Undirected,colin,2
+amelie,Undirected,zelis,4
+colin,Undirected,zelis,1

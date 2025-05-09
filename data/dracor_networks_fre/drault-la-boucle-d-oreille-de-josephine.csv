@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+musardier,Undirected,tamponnard,1
+musardier,Undirected,flanchin,1
+musardier,Undirected,monsieur-mouquin,1
+tamponnard,Undirected,flanchin,2
+tamponnard,Undirected,monsieur-mouquin,1
+tamponnard,Undirected,polyte,1
+tamponnard,Undirected,rouflaquet,1
+flanchin,Undirected,monsieur-mouquin,1
+flanchin,Undirected,polyte,1
+flanchin,Undirected,rouflaquet,1
+polyte,Undirected,rouflaquet,1

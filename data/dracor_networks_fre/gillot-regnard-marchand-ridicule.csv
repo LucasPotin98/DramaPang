@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+janbroche,Undirected,le-compere,2
+janbroche,Undirected,pierrot,2
+janbroche,Undirected,mademoiselle-janbroche,1
+janbroche,Undirected,polichinelle,1
+le-compere,Undirected,monsieur-le-marquis,1
+le-compere,Undirected,polichinelle,2
+le-compere,Undirected,mademoiselle-janbroche,1
+mademoiselle-janbroche,Undirected,polichinelle,1
+monsieur-le-marquis,Undirected,polichinelle,2

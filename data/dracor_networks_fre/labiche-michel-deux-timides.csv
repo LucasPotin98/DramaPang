@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+annette,Undirected,cecile,7
+annette,Undirected,thibaudier,7
+annette,Undirected,garadoux,3
+annette,Undirected,fremissin,1
+cecile,Undirected,thibaudier,9
+cecile,Undirected,garadoux,4
+cecile,Undirected,fremissin,6
+thibaudier,Undirected,garadoux,5
+thibaudier,Undirected,fremissin,7
+garadoux,Undirected,fremissin,1

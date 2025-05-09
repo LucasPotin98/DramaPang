@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+alphonse,Undirected,monsieur-de-courcelles,9
+alphonse,Undirected,eugenie,11
+alphonse,Undirected,germain,3
+alphonse,Undirected,tous-trois,1
+alphonse,Undirected,ensemble,1
+monsieur-de-courcelles,Undirected,eugenie,6
+monsieur-de-courcelles,Undirected,germain,2
+monsieur-de-courcelles,Undirected,tous-trois,1
+monsieur-de-courcelles,Undirected,ensemble,1
+eugenie,Undirected,germain,4
+eugenie,Undirected,tous-trois,1
+eugenie,Undirected,ensemble,1
+germain,Undirected,tous-trois,1
+germain,Undirected,ensemble,1
+tous-trois,Undirected,ensemble,1

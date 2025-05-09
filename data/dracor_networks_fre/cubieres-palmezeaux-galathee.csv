@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+galathee,Undirected,pigmalion,4
+galathee,Undirected,parmenon,2
+pigmalion,Undirected,parmenon,2

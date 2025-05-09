@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+madame-de-clervaut,Undirected,le-chevalier,3
+madame-de-clervaut,Undirected,monsieur-de-clervaut,3
+le-chevalier,Undirected,monsieur-de-clervaut,2
+monsieur-de-saint-val,Undirected,monsieur-de-clervaut,4
+monsieur-de-saint-val,Undirected,madame-d-orville,1
+monsieur-de-clervaut,Undirected,madame-d-orville,2

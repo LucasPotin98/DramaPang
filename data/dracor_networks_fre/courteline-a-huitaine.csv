@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+l-avocat,Undirected,le-juge,1
+l-avocat,Undirected,le-president,1
+l-avocat,Undirected,le-prevenu,1
+l-avocat,Undirected,le-substitut,1
+le-juge,Undirected,le-president,1
+le-juge,Undirected,le-prevenu,1
+le-juge,Undirected,le-substitut,1
+le-president,Undirected,le-prevenu,1
+le-president,Undirected,le-substitut,1
+le-prevenu,Undirected,le-substitut,1

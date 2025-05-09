@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+julie,Undirected,octavie,2
+octavie,Undirected,antoine,3
+octavie,Undirected,cesar,2
+octavie,Undirected,porcie,1
+antoine,Undirected,cesar,4
+antoine,Undirected,porcie,1
+antoine,Undirected,brutus,3
+cesar,Undirected,albin,3
+cesar,Undirected,brutus,5
+cesar,Undirected,porcie,1
+cesar,Undirected,oracle,1
+albin,Undirected,oracle,1
+brutus,Undirected,flavien,5
+brutus,Undirected,porcie,3
+porcie,Undirected,pauline,3

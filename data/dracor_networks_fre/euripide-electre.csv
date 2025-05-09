@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+le-laboureur,Undirected,electre,2
+le-laboureur,Undirected,oreste,1
+le-laboureur,Undirected,le-choeur,1
+electre,Undirected,le-choeur,9
+electre,Undirected,oreste,6
+electre,Undirected,le-vieillard,2
+electre,Undirected,le-messager,1
+electre,Undirected,clytemnestre,1
+electre,Undirected,les-dioscures,1
+oreste,Undirected,le-choeur,6
+oreste,Undirected,le-vieillard,1
+oreste,Undirected,les-dioscures,1
+le-choeur,Undirected,le-vieillard,1
+le-choeur,Undirected,le-messager,1
+le-choeur,Undirected,clytemnestre,1
+le-choeur,Undirected,les-dioscures,1

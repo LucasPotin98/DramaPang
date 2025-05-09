@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+euthar,Undirected,theodat,4
+euthar,Undirected,ildegonde,2
+theodat,Undirected,amalasonte,8
+theodat,Undirected,ildegonde,8
+theodat,Undirected,honoric,2
+amalasonte,Undirected,gepilde,5
+amalasonte,Undirected,honoric,4
+amalasonte,Undirected,ildegonde,4
+amalasonte,Undirected,ataulphe,2
+gepilde,Undirected,ataulphe,1
+valmire,Undirected,ildegonde,3
+ildegonde,Undirected,honoric,2

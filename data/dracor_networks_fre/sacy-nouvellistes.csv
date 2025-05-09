@@ -1,0 +1,8 @@
+Source,Type,Target,Weight
+perrin,Undirected,monsieur-bassinet,4
+perrin,Undirected,colin,2
+perrin,Undirected,jeannette,1
+monsieur-bassinet,Undirected,colin,4
+monsieur-bassinet,Undirected,jeannette,4
+monsieur-bassinet,Undirected,monsieur-coton,1
+colin,Undirected,jeannette,3

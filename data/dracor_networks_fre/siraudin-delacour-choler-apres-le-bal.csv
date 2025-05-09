@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+henriette,Undirected,caudebec,3
+henriette,Undirected,la-voix,1
+caudebec,Undirected,la-voix,2

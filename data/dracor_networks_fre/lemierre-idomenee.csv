@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+idamante,Undirected,nausicrate,5
+idamante,Undirected,erigone,6
+idamante,Undirected,sophronime,3
+idamante,Undirected,idomenee,4
+nausicrate,Undirected,erigone,2
+nausicrate,Undirected,idomenee,1
+erigone,Undirected,sophronime,4
+erigone,Undirected,idomenee,4
+sophronime,Undirected,idomenee,4
+idomenee,Undirected,le-grand-pretre,1

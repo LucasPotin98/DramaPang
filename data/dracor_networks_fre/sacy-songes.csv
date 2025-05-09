@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+le-capitaine,Undirected,l-aumonier,1
+le-capitaine,Undirected,le-laboureur,1
+le-capitaine,Undirected,le-vivandier,1
+l-aumonier,Undirected,le-laboureur,1
+l-aumonier,Undirected,le-vivandier,1
+le-laboureur,Undirected,le-vivandier,1

@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+nanon,Undirected,alice,4
+nanon,Undirected,claire,4
+nanon,Undirected,madame-bernier,4
+alice,Undirected,claire,4
+alice,Undirected,madame-bernier,4
+claire,Undirected,madame-bernier,5

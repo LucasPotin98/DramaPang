@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+dalbans,Undirected,julie,4
+dalbans,Undirected,moliere,3
+dalbans,Undirected,le-messager,1
+julie,Undirected,moliere,3
+julie,Undirected,le-messager,1
+moliere,Undirected,le-messager,1

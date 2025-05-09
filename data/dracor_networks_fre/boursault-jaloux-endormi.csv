@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+spadarille,Undirected,olimpie,5
+spadarille,Undirected,cleandre,7
+spadarille,Undirected,cascaret,3
+spadarille,Undirected,alcidor,6
+olimpie,Undirected,cleandre,3
+olimpie,Undirected,cascaret,2
+olimpie,Undirected,alcidor,3
+cleandre,Undirected,cascaret,4
+cleandre,Undirected,alcidor,5
+cascaret,Undirected,alcidor,2

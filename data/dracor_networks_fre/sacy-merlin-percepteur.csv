@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+lisette,Undirected,merlin,2
+lisette,Undirected,le-baron,2
+merlin,Undirected,le-baron,3
+merlin,Undirected,le-chevalier,2
+le-baron,Undirected,le-chevalier,1

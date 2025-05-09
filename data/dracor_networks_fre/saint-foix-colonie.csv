@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+l-auteur,Undirected,la-cabale,1
+le-gouverneur,Undirected,rustaut,3
+le-gouverneur,Undirected,crispin,2
+le-gouverneur,Undirected,valere,1
+le-gouverneur,Undirected,frontin,2
+le-gouverneur,Undirected,henriette,1
+rustaut,Undirected,crispin,5
+rustaut,Undirected,valere,1
+rustaut,Undirected,frontin,4
+rustaut,Undirected,henriette,1
+valere,Undirected,frontin,5
+valere,Undirected,crispin,4
+valere,Undirected,henriette,3
+frontin,Undirected,henriette,2
+frontin,Undirected,crispin,6
+crispin,Undirected,henriette,2

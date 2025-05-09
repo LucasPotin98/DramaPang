@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+risette,Undirected,evelina,5
+risette,Undirected,antonin,4
+risette,Undirected,le-portier,1
+evelina,Undirected,antonin,7
+evelina,Undirected,le-portier,1
+antonin,Undirected,le-portier,1

@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+alain,Undirected,francine,15
+alain,Undirected,la-bonne,5
+alain,Undirected,ronchaud,2
+alain,Undirected,madame-caviar,1
+alain,Undirected,la-baronne,2
+alain,Undirected,omer,1
+alain,Undirected,la-veuve-caviar,1
+francine,Undirected,la-bonne,4
+francine,Undirected,la-baronne,2
+francine,Undirected,omer,1
+francine,Undirected,la-veuve-caviar,1

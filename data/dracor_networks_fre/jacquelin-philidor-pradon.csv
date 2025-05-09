@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+dutremblet,Undirected,angeline,7
+dutremblet,Undirected,pradon,5
+dutremblet,Undirected,chapelain,4
+dutremblet,Undirected,tous,1
+dutremblet,Undirected,valcour,1
+angeline,Undirected,valcour,3
+angeline,Undirected,pradon,4
+angeline,Undirected,chapelain,3
+angeline,Undirected,tous,1
+pradon,Undirected,chapelain,3
+pradon,Undirected,tous,1
+pradon,Undirected,valcour,2
+chapelain,Undirected,valcour,2
+chapelain,Undirected,tous,1

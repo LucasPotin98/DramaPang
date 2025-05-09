@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+luigi,Undirected,thecla,10
+luigi,Undirected,marco,6
+luigi,Undirected,elci,4
+luigi,Undirected,paolo,9
+thecla,Undirected,marco,5
+thecla,Undirected,elci,5
+thecla,Undirected,paolo,7
+thecla,Undirected,tecla,1
+marco,Undirected,elci,5
+marco,Undirected,paolo,7
+elci,Undirected,paolo,6
+elci,Undirected,tecla,1
+paolo,Undirected,tecla,1

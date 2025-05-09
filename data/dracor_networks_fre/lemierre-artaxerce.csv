@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+arbace,Undirected,artaban,5
+arbace,Undirected,artaxerce,3
+arbace,Undirected,emirene,2
+artaban,Undirected,megabise,4
+artaban,Undirected,artaxerce,11
+artaban,Undirected,emirene,4
+artaxerce,Undirected,emirene,6
+emirene,Undirected,elise,3
+emirene,Undirected,un-officier,1

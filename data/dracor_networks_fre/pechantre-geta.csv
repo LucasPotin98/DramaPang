@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+albin,Undirected,antonin,3
+albin,Undirected,justine,1
+albin,Undirected,geta,1
+albin,Undirected,julie,1
+antonin,Undirected,julie,4
+antonin,Undirected,geta,3
+antonin,Undirected,justine,5
+julie,Undirected,geta,6
+julie,Undirected,justine,2
+geta,Undirected,justine,4
+geta,Undirected,arcas,3
+justine,Undirected,pauline,3
+justine,Undirected,emilie,1
+justine,Undirected,arcas,1

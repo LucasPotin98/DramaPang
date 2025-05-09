@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+l-abbe,Undirected,le-petit-minot,2
+l-abbe,Undirected,madame-minot,1
+le-petit-minot,Undirected,madame-minot,3
+le-petit-minot,Undirected,le-philosophe,1
+madame-minot,Undirected,le-philosophe,2

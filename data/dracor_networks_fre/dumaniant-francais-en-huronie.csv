@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+frontin,Undirected,valcour,3
+frontin,Undirected,la-fleur,3
+frontin,Undirected,dorval,2
+frontin,Undirected,zamire,4
+frontin,Undirected,le-sauvage,1
+valcour,Undirected,la-fleur,1
+valcour,Undirected,dorval,2
+valcour,Undirected,zamire,2
+la-fleur,Undirected,dorval,1
+la-fleur,Undirected,zamire,1
+dorval,Undirected,zamire,1
+zamire,Undirected,le-sauvage,2

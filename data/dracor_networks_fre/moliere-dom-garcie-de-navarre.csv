@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+dona-elvire,Undirected,elise,6
+dona-elvire,Undirected,don-alvar,3
+dona-elvire,Undirected,don-garcie,8
+dona-elvire,Undirected,don-sylve,4
+dona-elvire,Undirected,dona-ignes,5
+elise,Undirected,don-alvar,2
+elise,Undirected,don-lope,1
+elise,Undirected,don-garcie,4
+elise,Undirected,pedre,1
+elise,Undirected,dona-ignes,1
+don-alvar,Undirected,don-garcie,2
+don-alvar,Undirected,dona-ignes,1
+don-garcie,Undirected,don-lope,1
+don-garcie,Undirected,don-sylve,3
+don-garcie,Undirected,dona-ignes,2
+don-sylve,Undirected,dona-ignes,2

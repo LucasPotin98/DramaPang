@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+angelique,Undirected,philis,3
+angelique,Undirected,polymas,1
+angelique,Undirected,alidor,5
+angelique,Undirected,doraste,2
+angelique,Undirected,cleandre,1
+philis,Undirected,doraste,5
+philis,Undirected,lysis,3
+philis,Undirected,cleandre,7
+philis,Undirected,alidor,2
+philis,Undirected,lycante,1
+doraste,Undirected,cleandre,3
+doraste,Undirected,lycante,2
+doraste,Undirected,alidor,1
+cleandre,Undirected,alidor,5
+cleandre,Undirected,lysis,1

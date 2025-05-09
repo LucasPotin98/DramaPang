@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+dumont,Undirected,lise,4
+dumont,Undirected,madame-dorval,6
+dumont,Undirected,dorval,3
+dumont,Undirected,frontin,2
+dumont,Undirected,marton,2
+lise,Undirected,marton,4
+lise,Undirected,madame-dorval,3
+lise,Undirected,dorval,5
+lise,Undirected,frontin,1
+marton,Undirected,frontin,3
+marton,Undirected,madame-dorval,2
+marton,Undirected,dorval,2
+frontin,Undirected,madame-dorval,3
+frontin,Undirected,dorval,1
+madame-dorval,Undirected,dorval,3

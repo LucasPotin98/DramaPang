@@ -1,0 +1,10 @@
+Source,Type,Target,Weight
+guignol,Undirected,le-concierge,1
+guignol,Undirected,maitre-furet,1
+guignol,Undirected,le-proprietaire,3
+guignol,Undirected,le-gendarme,2
+guignol,Undirected,le-commissaire,1
+le-concierge,Undirected,maitre-furet,1
+le-proprietaire,Undirected,le-gendarme,2
+le-proprietaire,Undirected,le-commissaire,1
+le-gendarme,Undirected,le-commissaire,2

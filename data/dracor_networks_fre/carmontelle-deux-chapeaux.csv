@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+madame-de-brecourt,Undirected,victoire,2
+madame-de-brecourt,Undirected,monsieur-de-brecourt,3
+madame-de-brecourt,Undirected,le-marquis,2

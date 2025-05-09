@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+madeleine-bejart,Undirected,lagrange,1
+madeleine-bejart,Undirected,mademoiselle-brecour,1
+madeleine-bejart,Undirected,le-marquis,1
+lagrange,Undirected,mademoiselle-brecour,3
+lagrange,Undirected,lesbin,1
+lagrange,Undirected,pirlon,1
+lagrange,Undirected,moliere,2
+lagrange,Undirected,monsieur-de-saint-firmin,1
+mademoiselle-brecour,Undirected,lesbin,1
+mademoiselle-brecour,Undirected,moliere,1
+mademoiselle-brecour,Undirected,monsieur-de-saint-firmin,1
+lesbin,Undirected,pirlon,1
+lesbin,Undirected,moliere,3
+moliere,Undirected,monsieur-de-saint-firmin,2
+moliere,Undirected,le-marquis,1

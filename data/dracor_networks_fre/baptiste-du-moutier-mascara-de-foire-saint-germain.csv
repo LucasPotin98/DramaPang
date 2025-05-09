@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+un-badaud,Undirected,une-nourrice,1
+un-badaud,Undirected,une-servante,1
+une-nourrice,Undirected,une-servante,1

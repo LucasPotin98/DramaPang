@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+adelaïde,Undirected,vermouth,4
+adelaïde,Undirected,voix-d-une-marchande-de-plaisirs,1
+vermouth,Undirected,voix-d-une-marchande-de-plaisirs,1

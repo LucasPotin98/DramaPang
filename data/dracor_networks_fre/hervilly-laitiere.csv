@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+georges,Undirected,maurice,4
+georges,Undirected,sidonie,4
+maurice,Undirected,sidonie,4

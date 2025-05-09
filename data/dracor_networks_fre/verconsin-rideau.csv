@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+madame-d-arbois,Undirected,la-voix,1
+madame-d-arbois,Undirected,voix-de-femme,1
+la-voix,Undirected,voix-de-femme,1

@@ -1,0 +1,11 @@
+Source,Type,Target,Weight
+rodomont,Undirected,coulisse,5
+rodomont,Undirected,thomas,7
+rodomont,Undirected,julie,6
+rodomont,Undirected,la-rancune,3
+coulisse,Undirected,thomas,5
+coulisse,Undirected,julie,2
+coulisse,Undirected,la-rancune,1
+thomas,Undirected,julie,3
+thomas,Undirected,la-rancune,1
+julie,Undirected,la-rancune,4

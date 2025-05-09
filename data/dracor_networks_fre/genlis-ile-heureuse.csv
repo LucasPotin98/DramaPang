@@ -1,0 +1,13 @@
+Source,Type,Target,Weight
+zulmee,Undirected,rosalide,3
+zulmee,Undirected,lumineuse,3
+zulmee,Undirected,bienfaisante,2
+zulmee,Undirected,clarinde,1
+zulmee,Undirected,foule,1
+rosalide,Undirected,lumineuse,5
+rosalide,Undirected,bienfaisante,3
+rosalide,Undirected,clarinde,5
+rosalide,Undirected,foule,1
+lumineuse,Undirected,bienfaisante,8
+lumineuse,Undirected,clarinde,3
+bienfaisante,Undirected,clarinde,3

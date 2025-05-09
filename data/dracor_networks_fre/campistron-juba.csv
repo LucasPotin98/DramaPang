@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+theocle,Undirected,narbal,2
+theocle,Undirected,barce,2
+narbal,Undirected,juba,4
+narbal,Undirected,barce,3
+barce,Undirected,merope,6
+barce,Undirected,juba,7
+barce,Undirected,petreius,2
+merope,Undirected,juba,1
+juba,Undirected,petreius,4
+juba,Undirected,oppius,1
+petreius,Undirected,oppius,1

@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+lucie,Undirected,nelton,3
+lucie,Undirected,la-marquise,3
+lucie,Undirected,le-marquis,1
+lucie,Undirected,le-comte,1
+nelton,Undirected,le-comte,3
+le-comte,Undirected,la-marquise,2
+le-comte,Undirected,leonore,3
+le-comte,Undirected,le-marquis,2
+la-marquise,Undirected,leonore,3
+la-marquise,Undirected,le-marquis,3
+le-marquis,Undirected,leonore,6

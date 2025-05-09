@@ -1,0 +1,9 @@
+Source,Type,Target,Weight
+mathilde,Undirected,le-domestique,1
+mathilde,Undirected,chavigny,3
+mathilde,Undirected,un-domestique,1
+mathilde,Undirected,madame-de-lery,2
+le-domestique,Undirected,madame-de-lery,1
+le-domestique,Undirected,chavigny,1
+chavigny,Undirected,un-domestique,1
+chavigny,Undirected,madame-de-lery,2

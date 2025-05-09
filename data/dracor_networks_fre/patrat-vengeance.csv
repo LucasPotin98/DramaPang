@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+lisbeth,Undirected,fridric,5
+lisbeth,Undirected,mirval,4
+lisbeth,Undirected,madame-wanderk,2
+lisbeth,Undirected,adelaïde,1
+lisbeth,Undirected,le-notaire,1
+fridric,Undirected,mirval,4
+fridric,Undirected,madame-wanderk,2
+fridric,Undirected,adelaïde,2
+fridric,Undirected,le-notaire,1
+mirval,Undirected,madame-wanderk,4
+mirval,Undirected,adelaïde,6
+mirval,Undirected,le-notaire,1
+madame-wanderk,Undirected,adelaïde,4
+madame-wanderk,Undirected,le-notaire,1
+adelaïde,Undirected,le-notaire,1

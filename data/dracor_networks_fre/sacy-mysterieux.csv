@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+nerine,Undirected,dumont,2
+nerine,Undirected,angelique,4
+nerine,Undirected,lisimon,3
+nerine,Undirected,le-comte,1
+nerine,Undirected,philinte,4
+dumont,Undirected,angelique,1
+dumont,Undirected,philinte,1
+angelique,Undirected,lisimon,1
+angelique,Undirected,philinte,5
+lisimon,Undirected,le-comte,1
+lisimon,Undirected,philinte,2

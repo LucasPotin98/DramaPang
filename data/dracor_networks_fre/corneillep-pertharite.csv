@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+rodelinde,Undirected,unulphe,4
+rodelinde,Undirected,edwige,4
+rodelinde,Undirected,grimoald,7
+rodelinde,Undirected,garibalde,3
+rodelinde,Undirected,pertharite,5
+unulphe,Undirected,grimoald,4
+unulphe,Undirected,garibalde,2
+unulphe,Undirected,pertharite,2
+unulphe,Undirected,edwige,2
+edwige,Undirected,grimoald,5
+edwige,Undirected,garibalde,2
+edwige,Undirected,pertharite,1
+grimoald,Undirected,garibalde,8
+grimoald,Undirected,pertharite,4
+grimoald,Undirected,soldat,1
+garibalde,Undirected,pertharite,1

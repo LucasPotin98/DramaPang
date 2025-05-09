@@ -1,0 +1,6 @@
+Source,Type,Target,Weight
+ulysse,Undirected,circe,2
+ulysse,Undirected,le-docteur,1
+ulysse,Undirected,philipin,1
+ulysse,Undirected,cephise,1
+ulysse,Undirected,dipus,1

@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+angelique,Undirected,polycarpe,3
+angelique,Undirected,guillot,4
+angelique,Undirected,la-rocque,1
+polycarpe,Undirected,guillot,2
+polycarpe,Undirected,la-rocque,1
+guillot,Undirected,la-rocque,3

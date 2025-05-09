@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+almanzor,Undirected,fatme,2
+almanzor,Undirected,arlequin,9
+almanzor,Undirected,le-barbier,4
+almanzor,Undirected,ambletuse,2
+almanzor,Undirected,le-cadi,2
+almanzor,Undirected,zulime,1
+fatme,Undirected,arlequin,1
+arlequin,Undirected,le-barbier,6
+arlequin,Undirected,le-cadi,3
+arlequin,Undirected,ambletuse,2
+arlequin,Undirected,zulime,1
+le-barbier,Undirected,ambletuse,3
+le-barbier,Undirected,le-cadi,3
+le-barbier,Undirected,zulime,1
+ambletuse,Undirected,le-cadi,2
+le-cadi,Undirected,zulime,1

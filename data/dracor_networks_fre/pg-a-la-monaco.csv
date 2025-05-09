@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+valere,Undirected,le-chevalier,4
+valere,Undirected,argentine,2
+valere,Undirected,polichinelle,2
+le-chevalier,Undirected,polichinelle,5
+le-chevalier,Undirected,argentine,4
+polichinelle,Undirected,argentine,4

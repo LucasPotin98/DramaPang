@@ -1,0 +1,5 @@
+Source,Type,Target,Weight
+le-chevalier,Undirected,le-marquis,3
+le-chevalier,Undirected,dupre,1
+le-chevalier,Undirected,la-comtesse,1
+le-marquis,Undirected,dupre,1

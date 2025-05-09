@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+lafleur,Undirected,damon,9
+lafleur,Undirected,julie,4
+lafleur,Undirected,borchamp,1
+lafleur,Undirected,le-notaire,1
+lafleur,Undirected,dorlis,1
+damon,Undirected,julie,7
+damon,Undirected,borchamp,3
+damon,Undirected,flamand,2
+damon,Undirected,le-notaire,3
+damon,Undirected,dorlis,2
+julie,Undirected,borchamp,5
+julie,Undirected,dorlis,1
+julie,Undirected,le-notaire,1
+borchamp,Undirected,le-notaire,1
+flamand,Undirected,dorlis,1

@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+le-president,Undirected,petin,1
+le-president,Undirected,l-avocat-de-bougnasse,1
+le-president,Undirected,maitre-legaffeur,1
+petin,Undirected,l-avocat-de-bougnasse,1
+petin,Undirected,maitre-legaffeur,1
+l-avocat-de-bougnasse,Undirected,maitre-legaffeur,1

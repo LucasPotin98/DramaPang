@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+palmerin,Undirected,le-troupeau,1
+palmerin,Undirected,la-deesse,1
+palmerin,Undirected,choeur-d-aqullons,1
+palmerin,Undirected,choeur-de-salamandres,1
+palmerin,Undirected,le-pasteur,1
+palmerin,Undirected,le-pasteur-furieux,1
+choeur-d-aqullons,Undirected,choeur-de-salamandres,1
+choeur-d-aqullons,Undirected,le-pasteur,1
+choeur-d-aqullons,Undirected,le-pasteur-furieux,1
+choeur-de-salamandres,Undirected,le-pasteur,1
+choeur-de-salamandres,Undirected,le-pasteur-furieux,1
+le-pasteur,Undirected,le-pasteur-furieux,1
+le-choeur,Undirected,le-temps,1
+le-choeur,Undirected,venus,1
+le-temps,Undirected,venus,1

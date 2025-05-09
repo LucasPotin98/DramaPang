@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+negare,Undirected,phenice,1
+negare,Undirected,tachmas,1
+negare,Undirected,soliman,1
+tachmas,Undirected,lycan,1
+lycan,Undirected,soliman,1
+soliman,Undirected,ismaël,1

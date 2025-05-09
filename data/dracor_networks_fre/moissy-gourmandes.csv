@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+caroline,Undirected,josephine,7
+caroline,Undirected,le-petit-dulac,2
+caroline,Undirected,dulac,4
+caroline,Undirected,monsieur-dulac,3
+caroline,Undirected,fanchette,4
+josephine,Undirected,le-petit-dulac,2
+josephine,Undirected,dulac,4
+josephine,Undirected,monsieur-dulac,3
+josephine,Undirected,fanchette,4
+le-petit-dulac,Undirected,dulac,2
+le-petit-dulac,Undirected,monsieur-dulac,2
+le-petit-dulac,Undirected,fanchette,1
+dulac,Undirected,monsieur-dulac,3
+dulac,Undirected,fanchette,3
+monsieur-dulac,Undirected,fanchette,2

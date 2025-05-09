@@ -1,0 +1,17 @@
+Source,Type,Target,Weight
+florimant,Undirected,pamphile,6
+florimant,Undirected,philidor,3
+florimant,Undirected,celiane,5
+florimant,Undirected,nise,4
+florimant,Undirected,julie,3
+pamphile,Undirected,nise,5
+pamphile,Undirected,philidor,2
+pamphile,Undirected,celiane,2
+pamphile,Undirected,julie,1
+nise,Undirected,julie,4
+nise,Undirected,celiane,4
+nise,Undirected,philidor,2
+philidor,Undirected,celiane,4
+philidor,Undirected,julie,3
+celiane,Undirected,la-nourrice,1
+celiane,Undirected,julie,5

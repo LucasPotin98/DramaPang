@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+diane,Undirected,une-voix,1
+diane,Undirected,gaston,3
+une-voix,Undirected,gaston,1

@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+le-capitaine,Undirected,irma,1
+le-capitaine,Undirected,lemorandel,1
+le-capitaine,Undirected,l-homme,1
+irma,Undirected,lemorandel,1
+irma,Undirected,l-homme,1
+lemorandel,Undirected,l-homme,1

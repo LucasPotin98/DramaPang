@@ -1,0 +1,12 @@
+Source,Type,Target,Weight
+la-comtesse,Undirected,florestine,2
+la-comtesse,Undirected,benoit,2
+la-comtesse,Undirected,le-grand-bibi,1
+florestine,Undirected,benoit,3
+florestine,Undirected,une-voix,1
+florestine,Undirected,le-grand-bibi,3
+florestine,Undirected,le-comte,1
+benoit,Undirected,le-grand-bibi,2
+benoit,Undirected,le-comte,1
+une-voix,Undirected,le-grand-bibi,1
+le-grand-bibi,Undirected,le-comte,1

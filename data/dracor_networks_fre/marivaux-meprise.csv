@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+frontin,Undirected,ergaste,10
+frontin,Undirected,lisette,5
+frontin,Undirected,clarice,3
+frontin,Undirected,arlequin,4
+frontin,Undirected,hortense,2
+ergaste,Undirected,hortense,3
+ergaste,Undirected,clarice,3
+ergaste,Undirected,lisette,4
+ergaste,Undirected,arlequin,3
+lisette,Undirected,clarice,5
+lisette,Undirected,hortense,1
+lisette,Undirected,arlequin,1
+hortense,Undirected,arlequin,2
+hortense,Undirected,clarice,2
+arlequin,Undirected,clarice,1

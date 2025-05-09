@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+jupiter,Undirected,la-tragedie,1
+jupiter,Undirected,la-comedie,1
+la-tragedie,Undirected,la-comedie,1

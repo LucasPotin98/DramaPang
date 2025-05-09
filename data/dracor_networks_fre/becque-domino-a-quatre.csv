@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+savary,Undirected,albanes,2
+savary,Undirected,brocheton,1
+savary,Undirected,blanchard,2
+savary,Undirected,le-garçon,1
+albanes,Undirected,brocheton,1
+albanes,Undirected,blanchard,3
+albanes,Undirected,le-garçon,2
+brocheton,Undirected,blanchard,1
+brocheton,Undirected,le-garçon,1
+blanchard,Undirected,le-garçon,2
+blanchard,Undirected,un-passant,1
+blanchard,Undirected,le-passant,1
+un-passant,Undirected,le-passant,1

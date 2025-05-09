@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+le-maitre,Undirected,gilles,7
+le-maitre,Undirected,isabelle,4
+le-maitre,Undirected,leandre,1
+gilles,Undirected,isabelle,4
+gilles,Undirected,leandre,3
+isabelle,Undirected,leandre,3

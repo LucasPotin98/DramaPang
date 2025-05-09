@@ -1,0 +1,4 @@
+Source,Type,Target,Weight
+mendose,Undirected,berone,1
+mendose,Undirected,hermine,1
+berone,Undirected,hermine,1

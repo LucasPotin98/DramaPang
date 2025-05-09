@@ -1,0 +1,16 @@
+Source,Type,Target,Weight
+therese,Undirected,coeur-d-amour,4
+therese,Undirected,claude-bagnolet,2
+therese,Undirected,monsieur-thomas,4
+therese,Undirected,pierre-bagnolet,1
+therese,Undirected,madame-thomas,3
+coeur-d-amour,Undirected,claude-bagnolet,3
+coeur-d-amour,Undirected,monsieur-thomas,3
+coeur-d-amour,Undirected,madame-thomas,1
+coeur-d-amour,Undirected,pierre-bagnolet,1
+claude-bagnolet,Undirected,monsieur-thomas,3
+claude-bagnolet,Undirected,madame-thomas,1
+claude-bagnolet,Undirected,pierre-bagnolet,1
+monsieur-thomas,Undirected,madame-thomas,5
+monsieur-thomas,Undirected,pierre-bagnolet,3
+madame-thomas,Undirected,pierre-bagnolet,1

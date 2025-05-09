@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+le-garçon,Undirected,le-pauvre-bougre,6
+le-garçon,Undirected,le-bon-genie,2
+le-garçon,Undirected,tous,1
+le-pauvre-bougre,Undirected,le-bon-genie,2
+le-pauvre-bougre,Undirected,tous,1
+le-bon-genie,Undirected,tous,1

@@ -1,0 +1,7 @@
+Source,Type,Target,Weight
+federic,Undirected,pasquin,4
+federic,Undirected,axiane,3
+federic,Undirected,lisette,3
+pasquin,Undirected,lisette,3
+pasquin,Undirected,axiane,1
+axiane,Undirected,lisette,3

@@ -1,0 +1,14 @@
+Source,Type,Target,Weight
+ransomet,Undirected,hughes,4
+ransomet,Undirected,hugues,1
+ransomet,Undirected,antonine,5
+ransomet,Undirected,drake,2
+ransomet,Undirected,davis,2
+hughes,Undirected,hugues,2
+hughes,Undirected,julienne,1
+hughes,Undirected,drake,1
+hughes,Undirected,antonine,1
+hugues,Undirected,julienne,1
+julienne,Undirected,antonine,1
+antonine,Undirected,drake,1
+antonine,Undirected,davis,1
