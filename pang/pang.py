@@ -31,12 +31,12 @@ def pang_load_and_represent(FILEGRAPHS, FILESUBGRAPHS, FILELABEL):
     TAILLEPATTERN=read_Sizegraph(FILESUBGRAPHS)
 
     Graphes,xx,noms= load_graphs(FILEGRAPHS,TAILLEGRAPHE)
-    xx,id_graphs,xx = load_graphs(FILESUBGRAPHS,TAILLEPATTERN)
+    Patterns,id_graphs,xx = load_graphs(FILESUBGRAPHS,TAILLEPATTERN)
     labels = readLabels(FILELABEL)
     
 
     X = ComputeRepresentationComplete(id_graphs, labels)
-    return X, Graphes, labels, noms
+    return X, Graphes, Patterns, labels, noms
 
 def load_titles(FILETITLES):
     with open(FILETITLES, 'r', encoding='utf-8') as f:

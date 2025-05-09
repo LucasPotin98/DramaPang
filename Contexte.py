@@ -10,10 +10,10 @@ if "dracor_data" not in st.session_state:
     FILE_LABELS = "data/graphs/dracor_labels.txt"
     FILE_TITLES = "data/graphs/dracor_titles.txt"
     FILE_MODEL = "models/pang_model.pkl"
-    X_full, Graphes, labels, noms = pang_load_and_represent(FILE_GRAPHS, FILE_PATTERNS, FILE_LABELS)
+    X_full, Graphes, Patterns, labels, noms = pang_load_and_represent(FILE_GRAPHS, FILE_PATTERNS, FILE_LABELS)
     titles = load_titles(FILE_TITLES)
     model = load_model(FILE_MODEL)
-    st.session_state.dracor_data = (X_full, Graphes, labels, titles, noms, model)
+    st.session_state.dracor_data = (X_full, Graphes, Patterns, labels, titles, noms, model)
 
 st.title("🎭 DramaPang")
 st.markdown("""

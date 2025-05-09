@@ -1,6 +1,6 @@
 import plotly.graph_objects as go
 import networkx as nx
-from sklearn.tree import plot_tree
+from sklearn.tree import plot_tree, _tree
 import matplotlib.pyplot as plt
 import numpy as np
 import re
@@ -109,10 +109,55 @@ def plot_character_graph(G, title=None, node_names=None):
     return fig
 
 
+def plot_pattern(G, node_names=None, figsize=(3, 3)):
+    """
+    Affiche un motif sous forme de graphe sans légende ni labels de nœuds.
+
+    Args:
+        G (nx.Graph): le graphe du motif
+        node_names (list, optional): (ignoré ici)
+        figsize (tuple): taille de la figure
+    """
+    pos = nx.spring_layout(G, seed=42)
+    node_colors = []
+
+    for _, data in G.nodes(data=True):
+        color = data.get("color", 2)
+        if color == 0:
+            node_colors.append("skyblue")
+        elif color == 1:
+            node_colors.append("lightpink")
+        else:
+            node_colors.append("lightgray")
+
+    edge_colors = []
+    for _, _, data in G.edges(data=True):
+        w = data.get("color", 1)
+        if w == 1:
+            edge_colors.append("gray")
+        elif w == 2:
+            edge_colors.append("black")
+        else:
+            edge_colors.append("red")
+
+    fig, ax = plt.subplots(figsize=figsize)
+    nx.draw_networkx(
+        G,
+        pos,
+        node_color=node_colors,
+        edge_color=edge_colors,
+        with_labels=False,
+        node_size=600,
+        ax=ax
+    )
+    ax.axis("off")
+    return fig
+
 
 def plot_decision_tree_highlighted(model, X_instance, feature_names=None, class_names=None, max_depth=4):
     """
     Affiche l'arbre de décision avec les nœuds du chemin de décision surlignés en rouge.
+    Retourne également les indices des motifs utilisés dans ce chemin.
 
     Args:
         model: un modèle sklearn DecisionTreeClassifier déjà entraîné
@@ -120,9 +165,26 @@ def plot_decision_tree_highlighted(model, X_instance, feature_names=None, class_
         feature_names: liste des noms des features (motifs)
         class_names: liste des classes (["Tragédie", "Comédie"])
         max_depth: profondeur maximale d'affichage
+
+    Returns:
+        fig: objet matplotlib
+        decision_path: liste de tuples (index motif, 0 ou 1)
     """
+    tree = model.tree_
+    feature = tree.feature
+    threshold = tree.threshold
+
     # Étape 1 : récupération du chemin
-    path_nodes = model.decision_path(X_instance.reshape(1, -1)).indices
+    node_indicator = model.decision_path(X_instance.reshape(1, -1))
+    path_nodes = node_indicator.indices
+
+    # === Chemin logique : récupérer les motifs réellement utilisés ===
+    decision_path = []
+    for node_id in path_nodes:
+        if feature[node_id] != _tree.TREE_UNDEFINED:
+            feat_idx = feature[node_id]
+            val = int(X_instance[feat_idx] > threshold[node_id])
+            decision_path.append((feat_idx, val))
 
     # Étape 2 : affichage de l'arbre avec les IDs de nœud visibles
     fig, ax = plt.subplots(figsize=(18, 6))
@@ -136,13 +198,13 @@ def plot_decision_tree_highlighted(model, X_instance, feature_names=None, class_
         impurity=False,
         fontsize=10,
         ax=ax,
-        node_ids=True  # nécessaire pour récupérer l'id du noeud
+        node_ids=True
     )
 
     # Étape 3 : surlignage des nœuds du chemin
     for text in ax.texts:
         s = text.get_text()
-        match = re.search(r'#(\d+)', s)  # récupère le numéro du noeud
+        match = re.search(r'#(\d+)', s)
         if match:
             node_id = int(match.group(1))
             if node_id in path_nodes:
@@ -151,4 +213,4 @@ def plot_decision_tree_highlighted(model, X_instance, feature_names=None, class_
                     bbox.set_edgecolor("red")
                     bbox.set_linewidth(3)
 
-    return fig
+    return fig, decision_path
