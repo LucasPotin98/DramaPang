@@ -47,7 +47,6 @@ st.pyplot(fig_tree)
 
 # === 5. Interprétation des motifs
 st.markdown("### 💡 Sous-graphes discriminants")
-print(patternsSelected)
 
 if patternsSelected:
     n = len(patternsSelected)

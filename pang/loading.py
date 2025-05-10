@@ -41,7 +41,6 @@ def load_graphs(fileName,TAILLE):
     numero=0
     file = open(fileName, "r")
     for line in file:
-        print(line)
         a = line
         b = a.split(" ")
         if b[0]=="t":
@@ -129,17 +128,3 @@ def readLabels(fileLabel):
         numero=numero+1
     return labels
 
-
-def load_model(model_path):
-    """
-    Charge un modèle sérialisé depuis un fichier pickle.
-
-    Args:
-        model_path (str): Chemin vers le fichier .pkl contenant le modèle.
-
-    Returns:
-        sklearn.base.BaseEstimator: Modèle entraîné chargé.
-    """
-    with open(model_path, "rb") as f:
-        model = pickle.load(f)
-    return model
