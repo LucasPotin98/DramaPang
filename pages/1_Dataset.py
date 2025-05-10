@@ -7,6 +7,7 @@ from app.visualization import plot_character_graph
 st.header("Dataset : pièces et graphes")
 
 # === Chargement des données ===
+
 X_full, Graphes, Patterns, labels, titles, noms, model = st.session_state.dracor_data
 
 # === Statistiques globales ===
