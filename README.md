@@ -21,7 +21,7 @@
 
 Voici l’architecture globale du projet, résumée en une image :
 
-![DramaPang Pipeline](SchemaDramaPang.png)
+![DramaPang Pipeline](Schema_DramaPang.png)
 
 ### 1. Construction des graphes
 
