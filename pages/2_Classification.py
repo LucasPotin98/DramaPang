@@ -20,10 +20,7 @@ FILE_LABELS = "data/graphs/dracor_labels.txt"
 st.header("🤖 Classification des pièces")
 
 # === Chargement des données ===
-if "dracor_data" not in st.session_state:
-    X_full, Graphes, Patterns, labels, titles, noms, model = load_dracor_data()
-else:
-    X_full, Graphes, Patterns, labels, titles, noms, model = st.session_state.dracor_data
+X_full, Graphes, Patterns, labels, titles, noms, model = load_dracor_data()
 
 # === Choix de la mesure ===
 measure = st.selectbox(
