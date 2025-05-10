@@ -17,9 +17,11 @@
 
 ---
 
-## Pipeline général
+##  Schéma du pipeline
 
-Voici les grandes étapes du processus, du traitement des données à la prédiction du genre :
+Voici l’architecture globale du projet, résumée en une image :
+
+![DramaPang Pipeline](SchemaDramaPang.png)
 
 ### 1. Construction des graphes
 
