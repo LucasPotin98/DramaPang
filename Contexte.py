@@ -1,19 +1,9 @@
 import streamlit as st
 from pang.pang import pang_load_and_represent, load_titles, load_model
-
+from app.loading import load_dracor_data
 st.set_page_config(page_title="DramaPang", layout="wide")
 
-# === Chargement silencieux des données (une seule fois) ===
-if "dracor_data" not in st.session_state:
-    FILE_GRAPHS = "data/graphs/dracor_graphs.txt"
-    FILE_PATTERNS = "data/graphs/dracor_patterns.txt"
-    FILE_LABELS = "data/graphs/dracor_labels.txt"
-    FILE_TITLES = "data/graphs/dracor_titles.txt"
-    FILE_MODEL = "models/pang_model.pkl"
-    X_full, Graphes, Patterns, labels, noms = pang_load_and_represent(FILE_GRAPHS, FILE_PATTERNS, FILE_LABELS)
-    titles = load_titles(FILE_TITLES)
-    model = load_model(FILE_MODEL)
-    st.session_state.dracor_data = (X_full, Graphes, Patterns, labels, titles, noms, model)
+X_full, Graphes, Patterns, labels, titles, noms, model = load_dracor_data()
 
 st.title("🎭 DramaPang")
 st.markdown("""

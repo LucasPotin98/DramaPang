@@ -1,9 +1,12 @@
 import streamlit as st
 import matplotlib.pyplot as plt
 from app.visualization import plot_character_graph, plot_decision_tree_highlighted, plot_pattern
-
+from app.loading import load_dracor_data
 # === Chargement des données ===
-X_full, Graphes, Patterns, labels, titles, noms, model = st.session_state.dracor_data
+if "dracor_data" not in st.session_state:
+    X_full, Graphes, Patterns, labels, titles, noms, model = load_dracor_data()
+else:
+    X_full, Graphes, Patterns, labels, titles, noms, model = st.session_state.dracor_data
 
 # === CHOIX DU GRAPHE ===
 st.markdown("### 🎭 Sélection de la pièce")

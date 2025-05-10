@@ -5,7 +5,7 @@ from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 from app.visualization import plot_pattern
 from sklearn.metrics import classification_report, confusion_matrix, ConfusionMatrixDisplay
 import pandas as pd
-
+from app.loading import load_dracor_data
 from pang.pang import (
     pang_load_and_represent,
     compute_scores,
@@ -19,8 +19,11 @@ FILE_LABELS = "data/graphs/dracor_labels.txt"
 
 st.header("🤖 Classification des pièces")
 
-# === Chargement et représentation ===
-X_full, Graphes, Patterns, labels, titles, noms, model = st.session_state.dracor_data
+# === Chargement des données ===
+if "dracor_data" not in st.session_state:
+    X_full, Graphes, Patterns, labels, titles, noms, model = load_dracor_data()
+else:
+    X_full, Graphes, Patterns, labels, titles, noms, model = st.session_state.dracor_data
 
 # === Choix de la mesure ===
 measure = st.selectbox(
