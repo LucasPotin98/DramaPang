@@ -37,7 +37,7 @@ Voici l’architecture globale du projet, résumée en une image :
 - Scorage selon une mesure sélectionnée :
   - `Sup` : support
   - `AbsSupDif` : différence absolue de support
-  - `WRAcc` : précision relative pondérée
+  - `WRAcc` : weighted relative accuracy
 
 ### 3. Sélection des motifs discriminants
 
