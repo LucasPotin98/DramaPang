@@ -3,7 +3,11 @@ from pang.pang import pang_load_and_represent, load_titles, load_model
 from app.loading import load_dracor_data
 st.set_page_config(page_title="DramaPang", layout="wide")
 
-X_full, Graphes, Patterns, labels, titles, noms, model = load_dracor_data()
+# === Chargement des données ===
+if "dracor_data" not in st.session_state:
+    X_full, Graphes, Patterns, labels, titles, noms, model = load_dracor_data()
+else:
+    X_full, Graphes, Patterns, labels, titles, noms, model = st.session_state.dracor_data
 
 st.title("🎭 DramaPang")
 st.markdown("""
