@@ -86,9 +86,7 @@ Voici l’architecture globale du projet, résumée en une image :
 
 ## À propos du projet
 
-Ce projet a été conçu dans le cadre de ma thèse sur la **détection de motifs discriminants dans les graphes de marchés publics**. Ici, les techniques développées sont réutilisées dans un contexte culturel (théâtre) à des fins pédagogiques et exploratoires.
-
-Le cœur du pipeline repose sur le framework **PANG (Pattern-based Anomaly detection in Graphs)**, développé pour des cas d’usage réels, et adapté ici à un jeu de données open source.
+Le cœur du pipeline repose sur le framework **PANG (Pattern-based Anomaly detection in Graphs)**, développé pour des cas d’usage réels lors de ma thèse, et adapté ici à un jeu de données open source.
 
 Framework PANG : [github.com/CompNet/PANG](https://github.com/CompNet/PANG)  
 
