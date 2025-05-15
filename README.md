@@ -6,14 +6,20 @@
 
 ## Essayez l’application
 
-🟢 Application déployée ici :  
+Application déployée ici :  
 👉 **[DramaPang sur Streamlit →](https://dramapang.streamlit.app/)**  
 
 ---
 
 ## Objectif du projet
 
-**DramaPang** est un outil interactif pour explorer des graphes de personnages extraits de pièces de théâtre françaises (corpus DraCor), et les **classifier automatiquement** en comédies ou tragédies.  Le cœur du projet repose sur un pipeline basé **sur les motifs discriminants de graphe**. 
+**DramaPang** est un outil interactif pour explorer des graphes de personnages extraits de pièces de théâtre françaises (corpus DraCor), et les **classifier automatiquement** en comédies ou tragédies.  
+Le projet s’appuie sur un pipeline complet, de la construction des graphes à la classification automatique, pour :
+
+- Représenter chaque pièce de théâtre comme un **graphe de personnages**
+- Extraire des **motifs structurants et discriminants**
+- **Prédire le genre** de la pièce (Comédie / Tragédie)
+- Offrir une **visualisation interprétable** des motifs clés
 
 ---
 
@@ -45,35 +51,43 @@ Voici l’architecture globale du projet, résumée en une image :
 - Sélection des motifs les plus représentatifs
 - Affichage interactif des **top motifs**
 
-### 4. Classification et interprétation
-
+### 4. Classification
 - Modèle : **Arbre de décision**
-- Prédiction du genre (`Comédie` ou `Tragédie`)
-- Visualisation de :
-  - l’arbre de décision
-  - le chemin parcouru par l’exemple courant
-  - les **4 motifs clés** qui ont conduit à la décision
+- Prédiction du genre (`Comédie` / `Tragédie`)
+
+### 5. Interprétation
+- Visualisation :
+  - de l’arbre de décision
+  - du chemin parcouru
+  - des **motifs clés** ayant influencé la prédiction
 
 ---
 
 ## Données
 
-- **400 pièces** issues de DraCor : 200 comédies, 200 tragédies  
+- **400 pièces** issues du corpus DraCor :  
+  - 200 comédies  
+  - 200 tragédies  
 - Chaque pièce est représentée comme un **graphe connexe**
+- Données accessibles via [l’API DraCor](https://dracor.org/doc/api)
 
-### Structure des graphes
+---
 
-- **Nœuds** : personnages
-  - Label lié au `genre` :
-    - `MALE` → représenté en bleu
-    - `FEMALE` → représenté en rose
-    - `UNKNOWN` → représenté en gris
+### Exemple de graphe : *Médée* (Corneille)
 
-- **Arêtes** : co-présence de deux personnages dans un ou plusieurs actes
-  - Pondération discrétisée en trois niveaux :
-    - 1 seule co-présence → représentée en **gris**
-    - 2 à 5 co-présences → représentée en **noir**
-    - plus de 5 co-présences → représentée en **rouge**
+![Exemple de graphe](medee.png)  
+*Graphe des personnages de la tragédie **Médée**, extrait du corpus DraCor.*
+
+- **Nœuds** :
+  - `MALE` → bleu (Jason, Créon, etc.)
+  - `FEMALE` → rose (Médée, Créuse, etc.)
+  - `UNKNOWN` → gris (genre non précisé)
+
+- **Arêtes** :  
+  Chaque lien représente une **co-présence entre deux personnages** dans un ou plusieurs actes :
+  - 1 seule co-présence → **gris**
+  - 2 à 5 co-présences → **noir**
+  - plus de 5 co-présences → **rouge**
 
 ---
 
@@ -81,12 +95,13 @@ Voici l’architecture globale du projet, résumée en une image :
 
 - Python : `pandas`, `networkx`, `scikit-learn`, `matplotlib`, `plotly`
 - Application : `Streamlit`
+- CI/CD : `GitHub Action`
 
 ---
 
 ## À propos du projet
 
-Le cœur du pipeline repose sur le framework **PANG (Pattern-based Anomaly detection in Graphs)**, développé pour des cas d’usage réels lors de ma thèse, et adapté ici à un jeu de données open source.
+Le projet repose sur le framework **PANG (Pattern-based Anomaly detection in Graphs)**, développé pour des cas d’usage réels lors de ma thèse, et adapté ici à un jeu de données open source.
 
 Framework PANG : [github.com/CompNet/PANG](https://github.com/CompNet/PANG)  
 
