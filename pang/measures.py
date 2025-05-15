@@ -1,5 +1,6 @@
 import numpy as np
 
+
 # === Support (fréquence brute du motif dans la classe cible) ===
 def sup(p, y):
     """
@@ -14,16 +15,18 @@ def sup(p, y):
     else:
         return np.mean(subset)
 
+
 # === Différence absolue de supports entre les deux classes ===
 def absSupDiff(p, y):
     """
     |Support classe 1 - Support classe 0|
     """
     y = np.array(y)
-    sup1 = np.sum(p[y == 1])/len(y)
-    sup0 = np.sum(p[y == 0])/len(y)
+    sup1 = np.sum(p[y == 1]) / len(y)
+    sup0 = np.sum(p[y == 0]) / len(y)
 
     return abs(sup1 - sup0)
+
 
 # === WRAcc : Weighted Relative Accuracy ===
 def wracc(p, y):
@@ -31,7 +34,6 @@ def wracc(p, y):
     WRAcc(p) = freq(p) * (P(c=1 | p) - P(c=1))
     """
     y = np.array(y)
-    N = len(p)
     freq_p = np.mean(p)
     if freq_p == 0:
         return 0.0
@@ -54,4 +56,6 @@ def get_measure_function(name):
     elif name == "wracc":
         return wracc
     else:
-        raise ValueError(f"Mesure {name} non disponible publiquement. Choisir parmi : Sup, AbsSupDif, WRAcc")
+        raise ValueError(
+            f"Mesure {name} non disponible publiquement. Choisir parmi : Sup, AbsSupDif, WRAcc"
+        )

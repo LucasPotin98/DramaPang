@@ -4,7 +4,7 @@ import sys
 import os
 
 # Ajoute la racine du projet au PYTHONPATH
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 from pang.pang import pang_load_and_represent
 
@@ -21,7 +21,7 @@ X_full, _, labels, _ = pang_load_and_represent(FILE_GRAPHS, FILE_PATTERNS, FILE_
 model = DecisionTreeClassifier(
     max_leaf_nodes=5,  # → max 4 splits = 4 motifs testés
     class_weight="balanced",
-    random_state=42
+    random_state=42,
 )
 
 model.fit(X_full, labels)

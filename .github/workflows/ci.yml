@@ -1,0 +1,28 @@
+name: CI for DramaPANG
+
+on: [push, pull_request]
+
+jobs:
+  lint-and-sanity:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Black, Ruff and requirements
+        run: |
+          pip install black==23.11.0 ruff
+          pip install -r requirements.txt
+
+      - name: Lint with Ruff
+        run: ruff check .
+
+      - name: Check formatting with Black
+        run: black --check .
+

@@ -1,6 +1,4 @@
 import streamlit as st
-import pandas as pd
-import networkx as nx
 import matplotlib.pyplot as plt
 from app.visualization import plot_character_graph
 from app.loading import load_dracor_data
@@ -13,16 +11,18 @@ X_full, Graphes, Patterns, labels, titles, noms, model = load_dracor_data()
 # === Statistiques globales ===
 st.subheader("Statistiques générales")
 n_graphs = len(Graphes)
-n_comedies = sum(1 for l in labels if l == 1)
-n_tragedies = sum(1 for l in labels if l == 0)
+n_comedies = sum(1 for label in labels if label == 1)
+n_tragedies = sum(1 for label in labels if label == 0)
 n_motifs = X_full.shape[1]
 
-st.markdown(f"""
+st.markdown(
+    f"""
 - **Nombre total de pièces** : {n_graphs}
 - **Comédies** : {n_comedies}  
 - **Tragédies** : {n_tragedies}  
 - **Nombre de motifs extraits** : {n_motifs}
-""")
+"""
+)
 
 # === Colonnes pour histogrammes ===
 col1, col2 = st.columns(2)
@@ -38,7 +38,9 @@ with col1:
 
 with col2:
     st.markdown("**Connectivité (degré moyen)**")
-    avg_degrees = [sum(dict(G.degree()).values()) / G.number_of_nodes() for G in Graphes]
+    avg_degrees = [
+        sum(dict(G.degree()).values()) / G.number_of_nodes() for G in Graphes
+    ]
     fig2, ax2 = plt.subplots()
     ax2.hist(avg_degrees, bins=20, color="skyblue", edgecolor="black")
     ax2.set_xlabel("Degré moyen")

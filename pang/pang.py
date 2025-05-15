@@ -4,6 +4,7 @@ from pang.measures import get_measure_function
 from pang.classify import evaluate_classifier
 import pickle
 
+
 def pang_load_and_represent(FILEGRAPHS, FILESUBGRAPHS, FILELABEL):
     """
     Charge les graphes, les motifs et les labels, puis construit la représentation binaire complète.
@@ -27,22 +28,21 @@ def pang_load_and_represent(FILEGRAPHS, FILESUBGRAPHS, FILELABEL):
         Labels binaires des graphes
     """
 
-    TAILLEGRAPHE=read_Sizegraph(FILEGRAPHS)
-    TAILLEPATTERN=read_Sizegraph(FILESUBGRAPHS)
+    TAILLEGRAPHE = read_Sizegraph(FILEGRAPHS)
+    TAILLEPATTERN = read_Sizegraph(FILESUBGRAPHS)
 
-    Graphes,xx,noms= load_graphs(FILEGRAPHS,TAILLEGRAPHE)
-    Patterns,id_graphs,xx = load_graphs(FILESUBGRAPHS,TAILLEPATTERN)
+    Graphes, xx, noms = load_graphs(FILEGRAPHS, TAILLEGRAPHE)
+    Patterns, id_graphs, xx = load_graphs(FILESUBGRAPHS, TAILLEPATTERN)
     labels = readLabels(FILELABEL)
-    
 
     X = ComputeRepresentationComplete(id_graphs, labels)
     return X, Graphes, Patterns, labels, noms
 
+
 def load_titles(FILETITLES):
-    with open(FILETITLES, 'r', encoding='utf-8') as f:
+    with open(FILETITLES, "r", encoding="utf-8") as f:
         titles = f.readlines()
     return titles
-
 
 
 def load_model(model_path):
@@ -58,6 +58,7 @@ def load_model(model_path):
     with open(model_path, "rb") as f:
         model = pickle.load(f)
     return model
+
 
 def compute_scores(X, labels, measure="AbsSupDif"):
     """
@@ -107,5 +108,5 @@ def pang_classify_with_selection(X_full, labels, scores, top_k=100, cv=5):
         Indices des motifs sélectionnés
     """
     X_k, selected_indices = select_top_k_columns(X_full, scores, top_k)
-    mean_f1, _ , df_preds = evaluate_classifier(X_k, labels, cv=cv)
+    mean_f1, _, df_preds = evaluate_classifier(X_k, labels, cv=cv)
     return mean_f1, selected_indices, df_preds

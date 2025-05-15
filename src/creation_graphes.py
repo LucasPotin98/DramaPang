@@ -10,6 +10,7 @@ GSPAN_FILE = "../data/graphs/dracor_graphs.txt"
 LABEL_FILE = "../data/graphs/dracor_labels.txt"
 TITLE_FILE = "../data/graphs/dracor_titles.txt"
 
+
 def discretize_weight(w):
     if w == 1:
         return 1
@@ -17,6 +18,7 @@ def discretize_weight(w):
         return 2
     else:
         return 3
+
 
 def graph_to_gspan(G: nx.Graph, graph_id: int) -> str:
     node_ids = {node: i for i, node in enumerate(G.nodes())}
@@ -42,6 +44,7 @@ def graph_to_gspan(G: nx.Graph, graph_id: int) -> str:
 
     return "\n".join(lines)
 
+
 metadata_df = pd.read_csv(METADATA_FILE).set_index("name")
 
 gspan_lines = []
@@ -58,8 +61,13 @@ for file in sorted(os.listdir(NETWORK_DIR)):
     play_id = file.replace(".csv", "")
     try:
         df_net = pd.read_csv(os.path.join(NETWORK_DIR, file))
-        df_net.rename(columns={"Source": "source", "Target": "target", "Weight": "weight"}, inplace=True)
-        G = nx.from_pandas_edgelist(df_net, source="source", target="target", edge_attr="weight")
+        df_net.rename(
+            columns={"Source": "source", "Target": "target", "Weight": "weight"},
+            inplace=True,
+        )
+        G = nx.from_pandas_edgelist(
+            df_net, source="source", target="target", edge_attr="weight"
+        )
 
         if not nx.is_connected(G):
             continue
@@ -87,7 +95,9 @@ for file in sorted(os.listdir(NETWORK_DIR)):
 
         gspan_lines.append(graph_to_gspan(G, len(gspan_lines)))
         label_lines.append(str(label))
-        title_lines.append(metadata_df.loc[play_id]["title"])  # ou play_id si tu préfères
+        title_lines.append(
+            metadata_df.loc[play_id]["title"]
+        )  # ou play_id si tu préfères
         counts[label] += 1
 
     except Exception as e:

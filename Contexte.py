@@ -1,13 +1,14 @@
 import streamlit as st
-from pang.pang import pang_load_and_represent, load_titles, load_model
 from app.loading import load_dracor_data
+
 st.set_page_config(page_title="DramaPang", layout="wide")
 
 # === Chargement des données ===
 X_full, Graphes, Patterns, labels, titles, noms, model = load_dracor_data()
 
 st.title("🎭 DramaPang")
-st.markdown("""
+st.markdown(
+    """
 Bienvenue sur **DramaPang**, une application interactive pour explorer les réseaux de personnages dans les pièces de théâtre françaises, et les classifier en **comédies** ou **tragédies**.
 
 ---
@@ -57,4 +58,5 @@ Utilisez les pages sur la gauche pour :
 - Mon site web : [lucaspotin98.github.io](https://lucaspotin98.github.io/)
 
 ---
-""")
+"""
+)

@@ -4,6 +4,7 @@ from sklearn.model_selection import StratifiedKFold
 from sklearn.metrics import f1_score
 import pandas as pd
 
+
 def evaluate_classifier(X, y, cv=5, random_state=42, return_predictions=True):
     """
     Évalue un classifieur SVM linéaire via validation croisée.
@@ -42,11 +43,7 @@ def evaluate_classifier(X, y, cv=5, random_state=42, return_predictions=True):
         f1_scores.append(score)
         if return_predictions:
             for yt, yp in zip(y_test, y_pred):
-                all_preds.append({
-                    "fold": i + 1,
-                    "y_true": yt,
-                    "y_pred": yp
-                })
+                all_preds.append({"fold": i + 1, "y_true": yt, "y_pred": yp})
 
     if return_predictions:
         df_preds = pd.DataFrame(all_preds)

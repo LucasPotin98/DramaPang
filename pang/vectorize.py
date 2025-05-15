@@ -1,5 +1,6 @@
 import numpy as np
 
+
 def ComputeRepresentationComplete(id_graphs, labels):
     """
     Construit la matrice binaire complète (présence des motifs dans chaque graphe).
@@ -32,6 +33,7 @@ def ComputeRepresentationComplete(id_graphs, labels):
 
     return rep_binary
 
+
 def partialRepresentation(X, patterns):
     """
     Extrait une sous-matrice avec uniquement les motifs sélectionnés.
@@ -48,9 +50,6 @@ def partialRepresentation(X, patterns):
     """
     return X[:, np.array(patterns)]
 
-
-
-import numpy as np
 
 def select_top_k_columns(X, scores, k):
     """

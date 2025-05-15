@@ -1,7 +1,11 @@
 import streamlit as st
-import matplotlib.pyplot as plt
-from app.visualization import plot_character_graph, plot_decision_tree_highlighted, plot_pattern
+from app.visualization import (
+    plot_character_graph,
+    plot_decision_tree_highlighted,
+    plot_pattern,
+)
 from app.loading import load_dracor_data
+
 # === Chargement des données ===
 X_full, Graphes, Patterns, labels, titles, noms, model = load_dracor_data()
 
@@ -28,20 +32,20 @@ st.markdown(
         <p style='font-size: 1.5rem; font-weight: bold;'>🎭 {prediction_text}</p>
     </div>
     """,
-    unsafe_allow_html=True
+    unsafe_allow_html=True,
 )
-
 
 
 # === Affichage de l'arbre de décision ===
 st.markdown("### 🌳 Arbre de décision utilisé")
 # Récupération des noms de motifs utilisés (indices des features actives dans le modèle)
-feature_indices = model.feature_names_in_ if hasattr(model, "feature_names_in_") else [f"Motif {i}" for i in range(X_full.shape[1])]
+feature_indices = (
+    model.feature_names_in_
+    if hasattr(model, "feature_names_in_")
+    else [f"Motif {i}" for i in range(X_full.shape[1])]
+)
 fig_tree, patternsSelected = plot_decision_tree_highlighted(
-    model,
-    representation,
-    feature_names=feature_indices,
-    max_depth=4
+    model, representation, feature_names=feature_indices, max_depth=4
 )
 st.pyplot(fig_tree)
 
@@ -60,7 +64,9 @@ if patternsSelected:
             fig = plot_pattern(G)  # version compacte
             st.pyplot(fig)
             presence = "Motif Présent" if value == 1 else "Motif Absent"
-            st.markdown(f"<div style='text-align: center;'>{presence}</div>", unsafe_allow_html=True)
+            st.markdown(
+                f"<div style='text-align: center;'>{presence}</div>",
+                unsafe_allow_html=True,
+            )
 else:
     st.warning("Aucun motif discriminant trouvé.")
-

@@ -2,19 +2,18 @@ import plotly.graph_objects as go
 import networkx as nx
 from sklearn.tree import plot_tree, _tree
 import matplotlib.pyplot as plt
-import numpy as np
 import re
+
 
 def plot_character_graph(G, title=None, node_names=None):
     pos = nx.spring_layout(G, seed=42)
 
     # === 1. Traces pour les arêtes, par type de poids ===
     edge_traces = {
-    "Faible interaction (1 fois)": {"x": [], "y": [], "color": "gray"},
-    "Interaction modérée (2 à 5 fois)": {"x": [], "y": [], "color": "black"},
-    "Forte interaction (> 5 fois)": {"x": [], "y": [], "color": "red"},
-}
-
+        "Faible interaction (1 fois)": {"x": [], "y": [], "color": "gray"},
+        "Interaction modérée (2 à 5 fois)": {"x": [], "y": [], "color": "black"},
+        "Forte interaction (> 5 fois)": {"x": [], "y": [], "color": "red"},
+    }
 
     for u, v, data in G.edges(data=True):
         x0, y0 = pos[u]
@@ -59,29 +58,33 @@ def plot_character_graph(G, title=None, node_names=None):
 
     # Arêtes
     for label, data in edge_traces.items():
-        fig.add_trace(go.Scatter(
-            x=data["x"], y=data["y"],
-            mode="lines",
-            line=dict(color=data["color"], width=2),
-            hoverinfo="none",
-            name=label
-        ))
+        fig.add_trace(
+            go.Scatter(
+                x=data["x"],
+                y=data["y"],
+                mode="lines",
+                line=dict(color=data["color"], width=2),
+                hoverinfo="none",
+                name=label,
+            )
+        )
 
     # Nœuds
     for genre, data in node_traces.items():
-        fig.add_trace(go.Scatter(
-            x=data["x"], y=data["y"],
-            mode="markers+text",
-            text=data["text"],
-            textposition="top center",
-            marker=dict(
-                color=data["color"],
-                size=22,
-                line=dict(width=1.5, color="black")
-            ),
-            hoverinfo="text",
-            name=genre
-        ))
+        fig.add_trace(
+            go.Scatter(
+                x=data["x"],
+                y=data["y"],
+                mode="markers+text",
+                text=data["text"],
+                textposition="top center",
+                marker=dict(
+                    color=data["color"], size=22, line=dict(width=1.5, color="black")
+                ),
+                hoverinfo="text",
+                name=genre,
+            )
+        )
 
     # === 4. Layout ===
     fig.update_layout(
@@ -92,18 +95,18 @@ def plot_character_graph(G, title=None, node_names=None):
         legend=dict(
             x=1.05,
             y=1,
-            bgcolor='white',
-            bordercolor='black',
+            bgcolor="white",
+            bordercolor="black",
             borderwidth=1,
             font=dict(size=16, color="black"),
             traceorder="normal",
             itemclick=False,
-            itemdoubleclick=False
+            itemdoubleclick=False,
         ),
         margin=dict(l=20, r=200, t=60, b=20),
         xaxis=dict(showgrid=False, zeroline=False, showticklabels=False),
         yaxis=dict(showgrid=False, zeroline=False, showticklabels=False),
-        showlegend=True
+        showlegend=True,
     )
 
     return fig
@@ -148,13 +151,15 @@ def plot_pattern(G, node_names=None, figsize=(3, 3)):
         edge_color=edge_colors,
         with_labels=False,
         node_size=600,
-        ax=ax
+        ax=ax,
     )
     ax.axis("off")
     return fig
 
 
-def plot_decision_tree_highlighted(model, X_instance, feature_names=None, class_names=None, max_depth=4):
+def plot_decision_tree_highlighted(
+    model, X_instance, feature_names=None, class_names=None, max_depth=4
+):
     """
     Affiche l'arbre de décision avec les nœuds du chemin de décision surlignés en rouge.
     Retourne également les indices des motifs utilisés dans ce chemin.
@@ -198,13 +203,13 @@ def plot_decision_tree_highlighted(model, X_instance, feature_names=None, class_
         impurity=False,
         fontsize=10,
         ax=ax,
-        node_ids=True
+        node_ids=True,
     )
 
     # Étape 3 : surlignage des nœuds du chemin
     for text in ax.texts:
         s = text.get_text()
-        match = re.search(r'#(\d+)', s)
+        match = re.search(r"#(\d+)", s)
         if match:
             node_id = int(match.group(1))
             if node_id in path_nodes:
